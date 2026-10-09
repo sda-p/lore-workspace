@@ -1,0 +1,68 @@
+{
+  "source_id": "src-41de776754e0",
+  "snapshot_sha256": "4a0d55b1b4e149dbd5e652405aa830c07aacc4e5fd71f870b360a43f993c6adf",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-41de776754e0-c01",
+      "assertion": "Athena says Federation jurisdictions rise through density levels, whose members’ perceptions and ethical frameworks differ; higher-level beings view Earth as a self-contained experience entered at one’s own risk.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her description."
+    },
+    {
+      "id": "src-41de776754e0-c02",
+      "assertion": "Athena says higher beings regard Earth suffering as brief learning and claim detailed guidance over Earth events to preserve the bounded experience.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "According to Athena."
+    },
+    {
+      "id": "src-41de776754e0-c03",
+      "assertion": "Athena says humans are a Lyrian-derived biological suit shared by multiple species; the Federation considers humanity already interstellar and would not permit human-style expansion beyond Earth.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "human-biosuit-model",
+      "topics": [
+        "human-biosuit-model",
+        "galactic-federation",
+        "lyrian-cellular-body"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other claims about ethical justification and Federation limits on warfare omitted"
+  ]
+}

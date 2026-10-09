@@ -118,9 +118,40 @@ Source: [SOBRE EL FUTURO Y LOS REPTILES PASANDO POR HUMANOS -Yazhi Swaruu](https
 
 Related topics: [Reptilians](reptilians.md).
 
+### src-d1946d4d6179-c01
+
+Anéeka describes Hashmallim and Shinonim as Taygetan special forces; she says Shinonim also serve as royal guards for Alenym.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Hashmallim - Unidades Especiales Militares de Taygeta (Pléyades) - Arcángeles en Acción](https://swaruu.org/transcripts/hashmallim-unidades-especiales-militares-de-taygeta-pleyades-arcangeles-en-accion) (2024-04-14; es); passages p0004, p0013. [Structured record](../../records/src-d1946d4d6179.json).
+
+Related topics: [Astral military units](astral-military-units.md).
+
+### src-d1946d4d6179-c02
+
+Anéeka says “archangel” is a military rank based on skill, and Dhor Káal’el says Hashmallim are elite Taygetan forces holding that rank.
+
+Attributed to **Anéeka and Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Hashmallim - Unidades Especiales Militares de Taygeta (Pléyades) - Arcángeles en Acción](https://swaruu.org/transcripts/hashmallim-unidades-especiales-militares-de-taygeta-pleyades-arcangeles-en-accion) (2024-04-14; es); passages p0011, p0019. [Structured record](../../records/src-d1946d4d6179.json).
+
+Related topics: [Astral military units](astral-military-units.md).
+
+### src-f8e3580ba35e-c02
+
+Mari says the fighter’s ejection pod was found empty about a mile away, leaving two pilots missing; Centauri requested help, and Queen Alenym sent Hashmallim special forces to search. She marks the suggestion that the pilots entered the desert as speculation.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias espaciales 19. 10 de abril de 2024. Eclipse, Naves, Caballeros Negros](https://swaruu.org/transcripts/noticias-espaciales-19-10-de-abril-de-2024-eclipse-naves-caballeros-negros) (2024-04-12; es); passages p0017, p0018. [Structured record](../../records/src-f8e3580ba35e.json).
+
+Related topics: [Centaurians](centaurians.md), [Centauri L-class fighters](centauri-l-class-fighters.md).
+
 ## Claims filed under other topics
 
 - [src-85324cf8988c-c01](galactic-federation.md#src-85324cf8988c-c01) — Galactic Federation
+- [src-d1946d4d6179-c03](mind-generated-force-fields.md#src-d1946d4d6179-c03) — Mind-generated force fields
 
 ## Review flags
 

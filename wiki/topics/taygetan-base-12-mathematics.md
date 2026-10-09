@@ -37,6 +37,7 @@ Related topics: [Gravity harmonics](gravity-harmonics.md).
 ## Claims filed under other topics
 
 - [src-88e6a66d5551-c02](crystal-core-zero-point-reactors.md#src-88e6a66d5551-c02) — Crystal-core zero-point reactors
+- [src-424eb87288db-c02](frequency-map-navigation.md#src-424eb87288db-c02) — Frequency-map navigation
 
 ## Review flags
 

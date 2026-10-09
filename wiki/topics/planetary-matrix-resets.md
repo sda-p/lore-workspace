@@ -68,13 +68,28 @@ Source: [Entrevista a un Urmah. Arishah el Tigre. Parte 1](https://swaruu.org/tr
 
 Related topics: [Alfrateans](alfrateans.md), [Galactic Federation](galactic-federation.md).
 
+### src-c51952aaa5b9-c01
+
+Mari says each inhabited planet’s magnetosphere maintains its inhabitants’ collective Matrix and dominant perceptual frequency.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cómo Funcionan las Densidades Existenciales en el Espacio Profundo](https://swaruu.org/transcripts/como-funcionan-las-densidades-existenciales-en-el-espacio-profundo) (2023-11-15; es); passages p0010, p0016, p0017. [Structured record](../../records/src-c51952aaa5b9.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-075f03199db3-c02](galactic-federation.md#src-075f03199db3-c02) — Galactic Federation
 - [src-5c2b002327be-c04](earth-cabal.md#src-5c2b002327be-c04) — Earth Cabal and power structures
+- [src-0163d8ab9901-c02](consciousness-metaphysics.md#src-0163d8ab9901-c02) — Consciousness and metaphysics
+- [src-6b8c0befd4ce-c03](prime-directive.md#src-6b8c0befd4ce-c03) — Prime Directive
 
 ## Review flags
 
+- Claims about a Taygetean social-media project are attributed to Yazhi and not independently established.
+- Claims about consciousness, planetary matrices, and manifestation are attributed to Mari and not independently established.
+- Claims about enlightenment, Earth’s Matrix, and Buddha are attributed to Yazhi and not independently established.
 - matrix-reset-and-density-doctrine-attributed
 - perspective-dependent-Federation-governance
 - planetary-reset-cycle-attributed

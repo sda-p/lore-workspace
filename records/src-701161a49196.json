@@ -1,0 +1,46 @@
+{
+  "source_id": "src-701161a49196",
+  "snapshot_sha256": "d0372221129050f57d172cbec3ad505c064ff173f8cf59a7212834cc73644680",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-701161a49196-c01",
+      "assertion": "Mari says Taygetans have followed vegan diets for generations and developed enzymes that help them digest plant foods.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0034"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as a species-specific adaptation."
+    },
+    {
+      "id": "src-701161a49196-c02",
+      "assertion": "Mari says the Urmah grow meat tissue in food laboratories and also sometimes hunt traditionally.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says their cultured tissue has never been part of an animal."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source contains contested medical and dietary claims; these are not extracted as health advice"
+  ],
+  "coverage_gaps": [
+    "source’s claims about human dietary needs and Taygetan health",
+    "ethical rationale for different diets"
+  ]
+}

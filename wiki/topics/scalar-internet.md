@@ -57,6 +57,7 @@ Source: [Desconexion de Redes Sociales - Solo texto](https://swaruu.org/transcri
 ## Claims filed under other topics
 
 - [src-9c3e0642a4e2-c03](earth-cabal.md#src-9c3e0642a4e2-c03) — Earth Cabal and power structures
+- [src-087e0abdd6c2-c01](earth-cabal.md#src-087e0abdd6c2-c01) — Earth Cabal and power structures
 
 ## Review flags
 

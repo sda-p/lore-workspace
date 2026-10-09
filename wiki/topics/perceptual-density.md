@@ -896,6 +896,94 @@ Source: [Las Pléyades NO son demasiado "jóvenes" para tener vida - Contacto Ex
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-9ba9fd3c5196-c01
+
+Athena says ascension is an individual process, not travel to a distinct 4D place or a universal transition wave.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Transición en 4D? Breve Charla Casual con Athena Swaruu](https://swaruu.org/transcripts/transicion-en-4d-breve-charla-casual-con-athena-swaruu) (2023-12-25; es); passages p0003, p0006, p0007. [Structured record](../../records/src-9ba9fd3c5196.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9ba9fd3c5196-c02
+
+Athena says collective human frequency cannot be measured precisely and is becoming polarized, with high and low regions. She says the result depends on which people are measured.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Transición en 4D? Breve Charla Casual con Athena Swaruu](https://swaruu.org/transcripts/transicion-en-4d-breve-charla-casual-con-athena-swaruu) (2023-12-25; es); passages p0012, p0016, p0018. [Structured record](../../records/src-9ba9fd3c5196.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-c51952aaa5b9-c02
+
+She says deep space lacks planetary collective modulation, blending physical and astral realms into one chaotic, unmodulated existential range.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cómo Funcionan las Densidades Existenciales en el Espacio Profundo](https://swaruu.org/transcripts/como-funcionan-las-densidades-existenciales-en-el-espacio-profundo) (2023-11-15; es); passages p0018, p0026, p0027. [Structured record](../../records/src-c51952aaa5b9.json).
+
+Related topics: [Astral Travel](astral-travel.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2a68d29853b0-c03
+
+Yazhi says high vibration alone cannot prevent harm in physical life; awareness and practical protection still matter.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Alta Frecuencia y Malos Eventos - Athena y Yazhi Swaruu](https://swaruu.org/transcripts/alta-frecuencia-y-malos-eventos-athena-y-yazhi-swaruu) (2024-06-07; es); passages p0028, p0029, p0034, p0042, p0045. [Structured record](../../records/src-2a68d29853b0.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-76114790928e-c01
+
+Mari says dimensions and densities reflect individual or shared perception, consciousness, and agreements rather than objective external realms.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Extraterrestre o Interdimensional](https://swaruu.org/transcripts/extraterrestre-o-interdimensional) (2024-10-18; es); passages p0010, p0011, p0012, p0013. [Structured record](../../records/src-76114790928e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-54bbabbb37ca-c01
+
+Athena Swaruu says individual consciousness and perception determine the reality or frequency range a person experiences. She describes this as her group’s perspective.
+
+Attributed to **Athena Swaruu**; reported; extraction confidence: high.
+
+Source: [Athena Swaruu – Charla Espiritual con Dale y Rich \| Astral, Elementales, y 3D vs 5D (PARTE 1)](https://swaruu.org/transcripts/athena-swaruu-charla-espiritual-con-dale-y-rich-astral-elementales-y-3d-vs-5d-parte-1) (2025-08-23; es); passages p0032, p0034. [Structured record](../../records/src-54bbabbb37ca.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-309667cbe10f-c01
+
+Yazhi says she can alter her density to avoid disturbance and describes this as a personal “stealth mode.” She says her five-day meditation was not intentional time travel.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sophia (Yazhi) Swaruu - Primeros Años de Yazhi en Toleka (PARTE 2)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-primeros-anos-de-yazhi-en-toleka-parte-2) (2024-09-01; es); passages p0031, p0035, p0051, p0053. [Structured record](../../records/src-309667cbe10f.json).
+
+### src-af6d9052a9bc-c02
+
+Mari says existential realms arise from shared perception and similar ideas; higher-vibration beings can perceive lower realms, while lower beings cannot perceive higher ones.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Reinos Superiores y la Federación Galáctica](https://swaruu.org/transcripts/reinos-superiores-y-la-federacion-galactica) (2024-08-30; es); passages p0012, p0013, p0014. [Structured record](../../records/src-af6d9052a9bc.json).
+
+Related topics: [Galactic consciousness](galactic-consciousness.md).
+
+### src-bf20b9538884-c01
+
+Mari argues that dimensions, timelines, densities, and realms are mind-made categories reflecting each observer’s consciousness, not universal divisions of reality. Her philosophical view.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Unidad - No hay Reinos Existenciales, No hay Líneas de Tiempo, No hay Densidades, Ni Dimensiones](https://swaruu.org/transcripts/unidad-no-hay-reinos-existenciales-no-hay-lineas-de-tiempo-no-hay-densidades-ni-dimensiones) (2024-10-29; es); passages p0003, p0004, p0013, p0015. [Structured record](../../records/src-bf20b9538884.json).
+
+Related topics: [Galactic consciousness](galactic-consciousness.md).
+
 ## Claims filed under other topics
 
 - [src-bd13d89221e8-c04](consciousness-metaphysics.md#src-bd13d89221e8-c04) — Consciousness and metaphysics
@@ -1030,26 +1118,64 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-eeb5d9cc4e85-c03](consciousness-metaphysics.md#src-eeb5d9cc4e85-c03) — Consciousness and metaphysics
 - [src-d3b2c7f37ed1-c02](consciousness-metaphysics.md#src-d3b2c7f37ed1-c02) — Consciousness and metaphysics
 - [src-066afd308a37-c01](original-matrix.md#src-066afd308a37-c01) — Original Matrix
+- [src-85ac7d1ce798-c04](consciousness-metaphysics.md#src-85ac7d1ce798-c04) — Consciousness and metaphysics
+- [src-183528b60334-c02](consciousness-metaphysics.md#src-183528b60334-c02) — Consciousness and metaphysics
+- [src-063e423c3c3e-c01](consciousness-metaphysics.md#src-063e423c3c3e-c01) — Consciousness and metaphysics
+- [src-a0e7e195133c-c03](postmortem-realities.md#src-a0e7e195133c-c03) — Postmortem realities
+- [src-53b7b9229509-c02](tiamat.md#src-53b7b9229509-c02) — Tiamat
+- [src-75b74d0d8734-c01](solar-portal-transit.md#src-75b74d0d8734-c01) — Solar portal transit
+- [src-1e3db31a154c-c01](individual-ascension.md#src-1e3db31a154c-c01) — Individual ascension
+- [src-1e3db31a154c-c02](consciousness-metaphysics.md#src-1e3db31a154c-c02) — Consciousness and metaphysics
+- [src-e65d20a8cc55-c03](artificial-portals.md#src-e65d20a8cc55-c03) — Artificial portals
+- [src-c51952aaa5b9-c03](consciousness-metaphysics.md#src-c51952aaa5b9-c03) — Consciousness and metaphysics
+- [src-c51952aaa5b9-c04](consciousness-metaphysics.md#src-c51952aaa5b9-c04) — Consciousness and metaphysics
+- [src-4dbc0136de84-c05](timeline-branching.md#src-4dbc0136de84-c05) — Timeline branching
+- [src-76114790928e-c02](alien-species.md#src-76114790928e-c02) — Alien species and distinctions
+- [src-76114790928e-c03](supraluminal-hyperdrive.md#src-76114790928e-c03) — Supraluminal frequency hyperdrive
+- [src-76114790928e-c04](alien-species.md#src-76114790928e-c04) — Alien species and distinctions
+- [src-aa6b810026d1-c01](dimensional-mirroring.md#src-aa6b810026d1-c01) — Dimensional mirroring
+- [src-ce9740898436-c03](postmortem-realities.md#src-ce9740898436-c03) — Postmortem realities
+- [src-54bbabbb37ca-c02](consciousness-metaphysics.md#src-54bbabbb37ca-c02) — Consciousness and metaphysics
+- [src-54bbabbb37ca-c03](astral-entities.md#src-54bbabbb37ca-c03) — Astral entities
+- [src-f6679288cfba-c01](consciousness-metaphysics.md#src-f6679288cfba-c01) — Consciousness and metaphysics
+- [src-309667cbe10f-c02](ley-line-energy-nodes.md#src-309667cbe10f-c02) — Ley-line energy nodes
+- [src-8736a59bfcab-c03](consciousness-metaphysics.md#src-8736a59bfcab-c03) — Consciousness and metaphysics
+- [src-bf20b9538884-c03](urmah.md#src-bf20b9538884-c03) — Urmah
+- [src-41de776754e0-c01](galactic-federation.md#src-41de776754e0-c01) — Galactic Federation
+- [src-41de776754e0-c02](galactic-federation.md#src-41de776754e0-c02) — Galactic Federation
+- [src-7751a4d57af2-c02](galactic-federation.md#src-7751a4d57af2-c02) — Galactic Federation
+- [src-a3c767e81bd3-c01](consciousness-metaphysics.md#src-a3c767e81bd3-c01) — Consciousness and metaphysics
 
 ## Review flags
 
 - 2018 Yeti-release account conflicts with Anéeka’s later 2019 murder/no-ship account.
 - Abilities, body control, and density model are Yazhi’s self-reports
+- Afterlife and religious claims are attributed to Mari.
 - Chromosome and DNA claims are attributed to Anéeka and Yazhi.
+- Claims about consciousness, planetary matrices, and manifestation are attributed to Mari and not independently established.
+- Claims about consciousness-based mirrors and quantum computers are attributed to Yazhi.
+- Claims about density, ascension, and collective frequency are attributed to Athena.
 - Claims about elementals and gravity sensing are attributed to Athena.
+- Claims about particle accelerators as portals and entities crossing from the lower astral are attributed to Mari and not independently substantiated.
 - Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
 - Contains speaker claims about illness causation and cancer; preserve attribution.
+- Cosmological and consciousness claims are attributed to Mari.
 - Different-models-of-time-and-density-are-explicitly-contrasted
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
+- Metaphysical assertions are attributed to Mari Swaruu.
 - One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
 - Reptilian identity claim is an allegation by the speaker.
 - The article connects metaphysical claims to quantum mechanics without establishing a scientific basis.
+- The crew's initial descriptions of anomalies and Yazhi's own tractor-beam explanation are distinct attributions.
 - The earlier speakers describe Pleiadian life as 5D and hidden from 3D perception; Yazhi's 2023 section says densities are only perceptions, presenting a chronological conceptual revision or tension.
+- The interview presents metaphysical and paranormal claims without independent verification.
 - The source also makes an unsupported cancer and dissociative-identity claim in p0052; it is omitted from the lore claims.
 - The source frames adversity through speculative metaphysical ideas; the author explicitly cautions that events need not have one definite purpose.
 - The source gives a metaphysical account of consciousness and spiritual development, retained as speaker attribution.
+- The source presents unsupported claims about manifestation and subconscious causation; these are recorded as an attributed model.
+- The transcript discusses metaphysical explanations and illustrative invasion anecdotes; preserve attribution and avoid presenting them as established facts.
 - These are Mari’s metaphysical positions, not externally verified cosmology
 - Yazhi frames these cosmological claims as perspective-dependent, not imposed absolute facts
 - Yazhi presents several perspective-dependent formulations of identity and integration

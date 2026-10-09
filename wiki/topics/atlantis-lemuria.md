@@ -496,6 +496,96 @@ Source: [REVELACIONES DE UNA MUJER EXTRATERRESTRE DE TAYGETA - Aneeka de Temmer]
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-81bb400febf3-c01
+
+Yazhi claims Atlantean pyramids functioned as energy reactors and portals, with some using mercury to channel electrical differences. The transcript presents this as Taygetan-provided information, not established archaeology.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Misterios de las Civilizaciones Antiguas - Consciencia y Orígenes Cósmicos P4](https://swaruu.org/transcripts/misterios-de-las-civilizaciones-antiguas-consciencia-y-origenes-cosmicos-p4) (2025-05-04; es); passages p0004, p0005, p0007, p0008. [Structured record](../../records/src-81bb400febf3.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-81bb400febf3-c02
+
+Yazhi says Reptilian controllers used captivity, education, and belief systems to alter Lyrian minds and create the modern human lineage. This is an unverified mythic-history account.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Misterios de las Civilizaciones Antiguas - Consciencia y Orígenes Cósmicos P4](https://swaruu.org/transcripts/misterios-de-las-civilizaciones-antiguas-consciencia-y-origenes-cosmicos-p4) (2025-05-04; es); passages p0027, p0028, p0030, p0031, p0032, p0033, p0035. [Structured record](../../records/src-81bb400febf3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d14132fc678e-c02
+
+Mari says at least six planetary resets erased advanced civilizations, after which surviving histories were reframed through imposed cosmologies. She attributes this claim to her data and describes the documents as control narratives.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [La Gran Humanidad Interestelar, Primera Parte](https://swaruu.org/transcripts/la-gran-humanidad-interestelar-primera-parte) (2024-06-09; es); passages p0019, p0020, p0023. [Structured record](../../records/src-d14132fc678e.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-79e2266995cb-c02
+
+Athena says the familiar Egyptian civilization inherited earlier structures and disputes the conventional accounts of pharaohs and mass slavery. This is an alternative-history claim, not established archaeology.
+
+Attributed to **Athena Swaruu**; reported; extraction confidence: high.
+
+Source: [Antiguo Egipto (4) - Antiguo Egipto No Es lo que te Cuentan (Athena Swaruu)](https://swaruu.org/transcripts/antiguo-egipto-4-antiguo-egipto-no-es-lo-que-te-cuentan-athena-swaruu) (2025-03-03; es); passages p0004, p0033, p0035, p0037. [Structured record](../../records/src-79e2266995cb.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-4d57ad423d19-c01
+
+Yazhi says Lemurian Evas helped liberate Adamic people held in Atlantean facilities in Turkey, prompting flight and conflict. She frames this as an alternative account of the Eden story.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [LA PRIMERA BATALLA ANTIGUA - LAS GUERRAS DE ORIÓN](https://swaruu.org/transcripts/la-primera-batalla-antigua-las-guerras-de-orion) (2025-06-01; es); passages p0004, p0008, p0012, p0013. [Structured record](../../records/src-4d57ad423d19.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md).
+
+### src-e07ab2a092b3-c01
+
+Anéeka says an abandoned, damaged Lemurian-era ship remains in high Earth orbit after returning from space. She says the craft is over 12,000 years old and was placed in a safer orbit.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Nave Antigua Lemuriana Abandonada - Aneeka de Temmer](https://swaruu.org/transcripts/nave-antigua-lemuriana-abandonada-aneeka-de-temmer) (2024-06-25; es); passages p0003, p0004, p0005, p0006. [Structured record](../../records/src-e07ab2a092b3.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-a431c798e8b4-c01
+
+Yazhi says an Egyptian Atlantean faction built the Sphinx over 12,000 years ago, before Giza’s pyramids, as a power symbol linked to Nile agriculture.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Misterios de las Civilizaciones Antiguas - Conciencia y Orígenes Cósmicos P4b](https://swaruu.org/transcripts/misterios-de-las-civilizaciones-antiguas-conciencia-y-origenes-cosmicos-p4b) (2025-05-12; es); passages p0003. [Structured record](../../records/src-a431c798e8b4.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md), [Great Pyramid of Giza](great-pyramid-of-giza.md).
+
+### src-a431c798e8b4-c02
+
+Yazhi interprets Adam and Eve as races: Adamic humans enslaved by Reptiles, and earlier Evas identified with Lemuria. Taygetan star-sisters shared knowledge that helped them resist control.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Misterios de las Civilizaciones Antiguas - Conciencia y Orígenes Cósmicos P4b](https://swaruu.org/transcripts/misterios-de-las-civilizaciones-antiguas-conciencia-y-origenes-cosmicos-p4b) (2025-05-12; es); passages p0010, p0011, p0012, p0013. [Structured record](../../records/src-a431c798e8b4.json).
+
+Related topics: [Reptilian invaders](reptilian-invaders.md), [Taygetans](taygetans.md).
+
+### src-988926b6011b-c02
+
+The account describes Atlantis as a planet-wide multiracial civilization and Lemuria as a Lyrian resistance civilization centered on Mu in Oceana.
+
+Attributed to **Taygetean account, relayed by Robert**; reported; extraction confidence: high.
+
+Source: [Misterios de Orion: La Tierra Antigua - Parte 3](https://swaruu.org/transcripts/misterios-de-orion-la-tierra-antigua-parte-3) (2025-04-27; es); passages p0025, p0026, p0028, p0029, p0039, p0040. [Structured record](../../records/src-988926b6011b.json).
+
+Related topics: [Lyrians](lyrians.md).
+
 ## Claims filed under other topics
 
 - [src-4edf6c848c69-c03](tiamat.md#src-4edf6c848c69-c03) — Tiamat
@@ -527,6 +617,16 @@ Related topics: [Taygetans](taygetans.md).
 - [src-690730c29818-c01](energy-generation.md#src-690730c29818-c01) — Energy generation technology
 - [src-46f3bf392b0e-c03](usungal.md#src-46f3bf392b0e-c03) — Usungal
 - [src-2708f7850928-c02](tiamat.md#src-2708f7850928-c02) — Tiamat
+- [src-1fea626a42d3-c04](natural-portals.md#src-1fea626a42d3-c04) — Natural and artificial portals
+- [src-6cdd5b495d4b-c01](tiamat.md#src-6cdd5b495d4b-c01) — Tiamat
+- [src-79e2266995cb-c01](galactic-federation.md#src-79e2266995cb-c01) — Galactic Federation
+- [src-4d57ad423d19-c02](tiamat.md#src-4d57ad423d19-c02) — Tiamat
+- [src-339d9a027f08-c01](galactic-federation.md#src-339d9a027f08-c01) — Galactic Federation
+- [src-376885ee0493-c01](galactic-federation.md#src-376885ee0493-c01) — Galactic Federation
+- [src-376885ee0493-c02](starship-systems.md#src-376885ee0493-c02) — Starship systems
+- [src-a431c798e8b4-c03](eden-escape.md#src-a431c798e8b4-c03) — Eden Escape
+- [src-087e0abdd6c2-c03](nazca-spaceport.md#src-087e0abdd6c2-c03) — Nazca spaceport
+- [src-599770c5705f-c01](pyramid-network.md#src-599770c5705f-c01) — Pyramid energy and portal network
 
 ## Review flags
 
@@ -538,6 +638,15 @@ Related topics: [Taygetans](taygetans.md).
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Statements about ancient warfare, archaeology, and electoral representation are attributed to Anéeka.
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
+- The discussion contains unverified claims about ancient Egypt, underground bases, and pyramid technology.
+- The interview offers an unverified account of an ancient spacecraft and possible extraterrestrial life.
+- The source advances unverified alternative-history claims about Giza and ancient Egypt.
+- The source advances unverified alternative-history claims about planetary history and human origins.
+- The source advances unverified claims about ancient civilizations, extraterrestrials, and human origins.
+- The source makes an unverified claim about an ancient extraterrestrial base beneath Abu Simbel.
+- The source presents unverified alternative-history claims about ancient civilizations and warfare.
+- The speaker explicitly says she has no proof and frames her claims as a perspective, not established history.
+- The transcript gives several speculative ancient-history identifications; preserve speaker-specific attribution and uncertainty.
 - alternate-history\_claims\_attributed
 - ancient-history-reinterpretation
 - ancient-texts-as-racial-symbolism-attributed

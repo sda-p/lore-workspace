@@ -112,6 +112,7 @@ Related topics: [Black holes](black-holes.md).
 - [src-78a2f4005f35-c01](black-holes.md#src-78a2f4005f35-c01) — Black holes
 - [src-1422880235ff-c01](terrestrial-science.md#src-1422880235ff-c01) — Terrestrial science
 - [src-8253dcdfe3e7-c03](solar-consciousness.md#src-8253dcdfe3e7-c03) — Solar consciousness
+- [src-75b74d0d8734-c01](solar-portal-transit.md#src-75b74d0d8734-c01) — Solar portal transit
 
 ## Review flags
 

@@ -1,0 +1,67 @@
+{
+  "source_id": "src-5a1acd491e56",
+  "snapshot_sha256": "da7c91ff05b481f6502426de32595285f2490216c8b8b5a7525ea31a3ae22694",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5a1acd491e56-c01",
+      "assertion": "Mari says wet medical pods use high-energy holography and stem-cell fluid to repair tissue, restore bodies, and regrow limbs; they also serve cosmetic enhancement.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "medical-pods",
+      "topics": [
+        "medical-pods",
+        "taygetan-medicine"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "According to Mari."
+    },
+    {
+      "id": "src-5a1acd491e56-c02",
+      "assertion": "Mari describes Hyades as a 310-meter Taygetan light destroyer with four plasma-turbine engines, automation, self-repairing alloys, and holographic AI, but limited crew leisure space.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a1acd491e56-c03",
+      "assertion": "Mari says Hyades joined Toleka and Águila Vigilante in low Earth orbit as an escort, following an attack on Queen Alenym and Taygetan military escalation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Alenym succession, crew rotations, and welcome-event details omitted"
+  ]
+}

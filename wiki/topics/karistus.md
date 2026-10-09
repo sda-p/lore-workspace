@@ -146,6 +146,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [
 - [src-c190fb308eb0-c02](galactic-federation.md#src-c190fb308eb0-c02) — Galactic Federation
 - [src-f94fd5d77808-c03](jupiter.md#src-f94fd5d77808-c03) — Jupiter
 - [src-e9adfed45e60-c01](alien-species.md#src-e9adfed45e60-c01) — Alien species and distinctions
+- [src-b76386ff7cd8-c03](galactic-federation.md#src-b76386ff7cd8-c03) — Galactic Federation
 
 ## Review flags
 

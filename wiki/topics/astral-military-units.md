@@ -78,6 +78,36 @@ Source: [CONTACTO EXTRATERRESTRE - LA TIERRA PLANA AGENDA DE DESINFORMACIÓN - Y
 
 Related topics: [Immersion pods](immersion-pods.md).
 
+### src-77c972071063-c02
+
+Yazhi describes organized astral factions competing for control of the physical world and human creative attention, with fear and suffering among the resources they exploit. She says the conflict has multiple layers and she does not know the full astral picture.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Mundo Astral - Soldados y Guerras en el Astral - Banca Astral, Animales y mas](https://swaruu.org/transcripts/mundo-astral-soldados-y-guerras-en-el-astral-banca-astral-animales-y-mas) (2023-09-29; es); passages p0089, p0090, p0091, p0093, p0095, p0096, p0132, p0133, p0135. [Structured record](../../records/src-77c972071063.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
+### src-afdc7253ce04-c04
+
+Mari says some starseeds share knowledge, help others, or enter astral realms to confront harmful entities.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Los Guerreros Astrales, Parte 2, Episodio 4](https://swaruu.org/transcripts/los-guerreros-astrales-parte-2-episodio-4) (2024-10-11; es); passages p0021, p0022, p0023. [Structured record](../../records/src-afdc7253ce04.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-437b17835fc7-c02
+
+Mari describes supply runs as military missions by Hashmallim and Shinonim, using fighter craft, concealed equipment, human vehicles, and night landings.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Misión Taygeteana de Suministros a la Tierra](https://swaruu.org/transcripts/mision-taygeteana-de-suministros-a-la-tierra) (2024-05-31; es); passages p0011, p0012, p0017, p0020, p0022, p0024. [Structured record](../../records/src-437b17835fc7.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-de7987eb8690-c02](taygetans.md#src-de7987eb8690-c02) — Taygetans
@@ -85,12 +115,17 @@ Related topics: [Immersion pods](immersion-pods.md).
 - [src-33c7243bf8a8-c04](galactic-federation.md#src-33c7243bf8a8-c04) — Galactic Federation
 - [src-c95dc974c9ea-c01](starseeds.md#src-c95dc974c9ea-c01) — Starseeds
 - [src-e0d85326bb47-c02](prime-directive.md#src-e0d85326bb47-c02) — Prime Directive
+- [src-d1946d4d6179-c01](hashmallim.md#src-d1946d4d6179-c01) — Hashmallim
+- [src-d1946d4d6179-c02](hashmallim.md#src-d1946d4d6179-c02) — Hashmallim
+- [src-e1ec78bd0f7c-c03](taygetans.md#src-e1ec78bd0f7c-c03) — Taygetans
 
 ## Review flags
 
+- Claims about astral entities, telepathy, and manifestation are attributed to Mari.
 - astral-warfare-claims-unverified
 - black-knight-loss-details-provisional
 - eclipse-portal-claims-unverified
 - federation-role-variation
 - field-procedure-account-attributed-to-mari
 - intra-source-policy-tension
+- source presents unverifiable astral warfare and human-exploitation claims; preserve explicit attribution

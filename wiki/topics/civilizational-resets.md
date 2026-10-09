@@ -86,10 +86,43 @@ Source: [Entrevista a un Urmah. Arishah el Tigre. Parte 2](https://swaruu.org/tr
 
 Related topics: [Alfrata (Phaeton)](alfrata.md), [Galactic Federation](galactic-federation.md).
 
+### src-46bf88241861-c02
+
+Mari argues that history depends on memory and records, which controllers can manipulate; in her model, time jumps cannot revisit an identical past moment.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Por qué no existe la Historia Real y un poco sobre lo que Sabemos](https://swaruu.org/transcripts/por-que-no-existe-la-historia-real-y-un-poco-sobre-lo-que-sabemos) (2024-02-23; es); passages p0011, p0012, p0013, p0016, p0017. [Structured record](../../records/src-46bf88241861.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-e637f0a885a8-c01
+
+Mari says limited memory, including of past lives, makes populations easier to steer toward new social narratives. She links this to Earth's veil of forgetting.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Reseteos Sociales Suaves y cómo se realizan con Control Mental, profundizan en los detalles](https://swaruu.org/transcripts/reseteos-sociales-suaves-y-como-se-realizan-con-control-mental-profundizan-en-los-detalles) (2024-01-21; es); passages p0004, p0005, p0006, p0007, p0008. [Structured record](../../records/src-e637f0a885a8.json).
+
+Related topics: [Memory Veil](memory-veil.md).
+
+### src-e637f0a885a8-c02
+
+Mari defines a soft reset as gradual manipulation of perception and values across generations, unlike a hard reset caused by catastrophe. She says soft resets take one or two generations.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Reseteos Sociales Suaves y cómo se realizan con Control Mental, profundizan en los detalles](https://swaruu.org/transcripts/reseteos-sociales-suaves-y-como-se-realizan-con-control-mental-profundizan-en-los-detalles) (2024-01-21; es); passages p0010, p0012, p0013. [Structured record](../../records/src-e637f0a885a8.json).
+
+Related topics: [Engineered social unrest](engineered-social-unrest.md).
+
 ## Claims filed under other topics
 
 - [src-52d2d3f49000-c02](tartaria.md#src-52d2d3f49000-c02) — Tartaria
 - [src-d9bbb3c4038b-c02](tartaria.md#src-d9bbb3c4038b-c02) — Tartaria
+- [src-46bf88241861-c03](tartaria.md#src-46bf88241861-c03) — Tartaria
+- [src-cd32d005f67d-c01](secret-society-hierarchy.md#src-cd32d005f67d-c01) — Secret-society hierarchy
+- [src-e637f0a885a8-c03](galactic-federation.md#src-e637f0a885a8-c03) — Galactic Federation
 
 ## Review flags
 

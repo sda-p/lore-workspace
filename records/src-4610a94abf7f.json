@@ -1,0 +1,36 @@
+{
+  "source_id": "src-4610a94abf7f",
+  "snapshot_sha256": "c4ffbdba290c6fbec488975954b1c6b53e2d5ae9b3706600da2b5afc3f318de7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4610a94abf7f-c01",
+      "assertion": "Anéeka describes the ship's gravity as an electromagnetic-flow emulation generated at high frequency, rather than centrifugal force, and says it is set to 0.8g.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0068", "p0071"],
+      "primary_topic": "starship-systems",
+      "topics": ["starship-systems"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is her account of the ship's system, not independently verified physics."
+    },
+    {
+      "id": "src-4610a94abf7f-c02",
+      "assertion": "Anéeka describes a ship-wide AI terminal network and maglev transport tubes with inertia cancellation, carrying crew between areas nearly two kilometers apart in seconds; she calls the vessel a small city.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0088", "p0090", "p0092"],
+      "primary_topic": "starship-systems",
+      "topics": ["starship-systems"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "These are claims about the fictionalized/claimed Toleka vessel."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source presents unverified extraterrestrial spacecraft technology claims."
+  ],
+  "coverage_gaps": [
+    "Other passages describe shipboard timekeeping, shift routines, climate control, and emotional effects of deep-space isolation."
+  ]
+}

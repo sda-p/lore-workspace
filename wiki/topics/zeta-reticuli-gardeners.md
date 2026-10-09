@@ -124,6 +124,36 @@ Source: [Alienígenas Grises. Parte 1, Jardineros pequeños y los Maitré](https
 
 Related topics: [Planetary DNA Arks](planetary-dna-arks.md), [Alien abduction practices](alien-abduction-practices.md).
 
+### src-e2c0340ba4de-c03
+
+Swaruu (9) says Zeta Gardeners monitor starseeds with telemetry and can read aura frequencies without implants. In response to a questioner’s reported abduction.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra y Aneeka de Temmer - Una Mezcla de Preguntas y Respuestas](https://swaruu.org/transcripts/swaruu-de-erra-y-aneeka-de-temmer-una-mezcla-de-preguntas-y-respuestas) (2023-12-04; es); passages p0023, p0025, p0026, p0027, p0029. [Structured record](../../records/src-e2c0340ba4de.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-a08a91afe77a-c02
+
+Mari says Zeta Gardeners guard planetary biology and conduct medical abductions; similar greys may be cultureless biological drones. She calls Zetas relatively harmless but disrespectful.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales, 25 Abril de 2024, Kassia, Etorthans, Grises, Toleka, Asterope, mi YouTube](https://swaruu.org/transcripts/noticias-espaciales-25-abril-de-2024-kassia-etorthans-grises-toleka-asterope-mi-youtube) (2024-04-26; es); passages p0007, p0008. [Structured record](../../records/src-a08a91afe77a.json).
+
+Related topics: [Synthetic Intelligence](synthetic-intelligence.md).
+
+### src-88e9e60e1494-c03
+
+The Federation says Etorthans found Orion Greys posing as Zetas in an abduction operation targeting youths; Mari suspects the announcement was publicity to gain support.
+
+Attributed to **Mari Swaruu, relaying Federation report and her assessment**; reported; extraction confidence: high.
+
+Source: [Actualización de la Federación Galáctica. 17 de Enero de 2024](https://swaruu.org/transcripts/actualizacion-de-la-federacion-galactica-17-de-enero-de-2024) (2024-01-19; es); passages p0021, p0022. [Structured record](../../records/src-88e9e60e1494.json).
+
+Related topics: [Orion Grays](orion-grays.md).
+
 ## Claims filed under other topics
 
 - [src-03651da1738e-c02](orion-grays.md#src-03651da1738e-c02) — Orion Grays
@@ -132,6 +162,7 @@ Related topics: [Planetary DNA Arks](planetary-dna-arks.md), [Alien abduction pr
 - [src-3902c9520a94-c03](alien-abduction-practices.md#src-3902c9520a94-c03) — Alien abduction practices
 - [src-3902c9520a94-c04](alien-abduction-practices.md#src-3902c9520a94-c04) — Alien abduction practices
 - [src-a69d54a0580b-c01](alien-species.md#src-a69d54a0580b-c01) — Alien species and distinctions
+- [src-fbcfb08500c9-c01](orion-grays.md#src-fbcfb08500c9-c01) — Orion Grays
 
 ## Review flags
 

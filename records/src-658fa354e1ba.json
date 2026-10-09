@@ -1,0 +1,25 @@
+{
+  "source_id": "src-658fa354e1ba",
+  "snapshot_sha256": "4aa18c27f692c9523939f32096fee27e8eec1f72103a15ecbce37116a4663416",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-658fa354e1ba-c01",
+      "assertion": "Yazhi says collective human fear and suffering create and sustain negative tulpa-egregore entities, which she portrays as feeding on that attention and causing further harm; she says refusing fear and obedience weakens them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0016", "p0019", "p0021", "p0022", "p0025", "p0028"],
+      "primary_topic": "tulpas",
+      "topics": ["tulpas", "consciousness-metaphysics", "astral-entities"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is her metaphysical explanation of human suffering and control."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source makes unverified metaphysical claims and includes harmful conspiratorial assertions about real people and institutions."
+  ],
+  "coverage_gaps": [
+    "The source also discusses positive egregores and additional claims about humanlike entities and collective consciousness."
+  ]
+}

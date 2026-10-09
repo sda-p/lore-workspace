@@ -104,6 +104,26 @@ Source: [NAVES EXTRATERRESTRES MOTORES DE PLASMA-JET -CANCELADORES DE GRABEDAD A
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-9b6c9c7ff268-c01
+
+Anéeka says motor-generated electromagnetic holograms guide programmed nanodust into a ship hull.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 7 - Naves Estelares Taygeteanas (Pléyades) - Materiales y Construcción](https://swaruu.org/transcripts/vida-interestelar-7-naves-estelares-taygeteanas-pleyades-materiales-y-construccion) (2024-11-13; es); passages p0004, p0006, p0007. [Structured record](../../records/src-9b6c9c7ff268.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-9b6c9c7ff268-c02
+
+Anéeka says polymorphic metal self-heals, avoids fatigue, and returns to its programmed shape.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 7 - Naves Estelares Taygeteanas (Pléyades) - Materiales y Construcción](https://swaruu.org/transcripts/vida-interestelar-7-naves-estelares-taygeteanas-pleyades-materiales-y-construccion) (2024-11-13; es); passages p0008, p0011, p0045, p0054. [Structured record](../../records/src-9b6c9c7ff268.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-d7432fcef312-c02](black-goo.md#src-d7432fcef312-c02) — Black goo
@@ -118,6 +138,8 @@ Related topics: [Starship systems](starship-systems.md).
 - [src-8ed812c6e261-c05](vaccine-inoculation-claims.md#src-8ed812c6e261-c05) — Inoculation and genetic alteration claims
 - [src-ca31fe5ca6c3-c04](galactic-federation.md#src-ca31fe5ca6c3-c04) — Galactic Federation
 - [src-b6f425d6f3ea-c04](toleka-class.md#src-b6f425d6f3ea-c04) — Toleka-class starships
+- [src-9b6c9c7ff268-c05](starship-systems.md#src-9b6c9c7ff268-c05) — Starship systems
+- [src-9b6c9c7ff268-c06](starship-systems.md#src-9b6c9c7ff268-c06) — Starship systems
 
 ## Review flags
 

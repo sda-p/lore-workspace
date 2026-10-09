@@ -1,0 +1,71 @@
+{
+  "source_id": "src-9ce83f769cba",
+  "snapshot_sha256": "d6d2865cc94af25366101e212dc3b925fb32522fce7614ad22fa730c7608c24f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9ce83f769cba-c01",
+      "assertion": "Arishah describes forshagh as a violent Urmah sport: typically 12 players race from numbered goals to seize a 60-kilogram artificial prey and carry or drag it into their own goal.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "forshagh",
+      "topics": [
+        "forshagh",
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9ce83f769cba-c02",
+      "assertion": "Forshagh bars claws, teeth, head strikes, and mixed-sex or mixed-subspecies matches; players wear padded protective gear.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "forshagh",
+      "topics": [
+        "forshagh",
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9ce83f769cba-c03",
+      "assertion": "Arishah says forshagh relieves Urmah stress and anger; team variants use hidden artificial prey, teamwork, feints, and strategic retrieval.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0018",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "forshagh",
+      "topics": [
+        "forshagh",
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Details about Urmah sports are attributed to Arishah and not independently established."
+  ],
+  "coverage_gaps": [
+    "the professional tournament format and frequent injuries",
+    "informal and reverse variants"
+  ]
+}

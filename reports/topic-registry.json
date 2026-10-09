@@ -2703,5 +2703,11 @@
     "aliases": [
       "replicated food"
     ]
+  },
+  {
+    "id": "etheric-gravity-model",
+    "name": "Etheric gravity model",
+    "kind": "cosmology",
+    "aliases": []
   }
 ]

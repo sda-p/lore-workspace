@@ -1,0 +1,36 @@
+{
+  "source_id": "src-4d57ad423d19",
+  "snapshot_sha256": "7c814de599c57a5139126297e18fd55e7c92d8ad268d6abce8beb472422918eb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4d57ad423d19-c01",
+      "assertion": "Yazhi says Lemurian Evas helped liberate Adamic people held in Atlantean facilities in Turkey, prompting flight and conflict.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0004", "p0008", "p0012", "p0013"],
+      "primary_topic": "atlantis-lemuria",
+      "topics": ["atlantis-lemuria", "lyran-expansion"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She frames this as an alternative account of the Eden story."
+    },
+    {
+      "id": "src-4d57ad423d19-c02",
+      "assertion": "Yazhi says the ensuing Lemuria-Atlantis conflict involved spacefaring allies and nuclear warfare, culminating in Tiamat’s destruction.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0005", "p0020", "p0021", "p0025", "p0027"],
+      "primary_topic": "tiamat",
+      "topics": ["tiamat", "atlantis-lemuria", "orion-wars"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The transcript presents this as Taygetan history, without independent evidence."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source presents unverified alternative-history claims about ancient civilizations and warfare."
+  ],
+  "coverage_gaps": [
+    "Other passages discuss Neanderthals, alleged radiological evidence, and the participants in the conflict."
+  ]
+}

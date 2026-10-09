@@ -124,6 +124,16 @@ Source: [Quién es Sophi (Sophia Swaruu)](https://swaruu.org/transcripts/quien-e
 
 Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-89492330f9ab-c03
+
+Gosia says Yazhi arrived at Toleka from another timeline in early 2020, aged about seven or eight. She says Yazhi carried earlier Swaruus’ memories but remained distinct.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Divulgacion Extraterrestre Taygeteana (Swaruu) - Nuestro Contacto - Camino Hasta Ahora](https://swaruu.org/transcripts/divulgacion-extraterrestre-taygeteana-swaruu-nuestro-contacto-camino-hasta-ahora) (2024-02-04; es); passages p0055, p0056, p0060, p0061, p0062. [Structured record](../../records/src-89492330f9ab.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
 ## Claims filed under other topics
 
 - [src-c3f4e5261a9c-c03](consciousness-metaphysics.md#src-c3f4e5261a9c-c03) — Consciousness and metaphysics

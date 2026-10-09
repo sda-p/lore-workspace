@@ -52,6 +52,9 @@ Related topics: [Deep underground military bases](deep-underground-military-base
 - [src-df0b18054ec1-c01](stellar-navigation.md#src-df0b18054ec1-c01) — Stellar navigation
 - [src-940f9935241e-c01](tiamat.md#src-940f9935241e-c01) — Tiamat
 - [src-f3083d830387-c01](intra-terrestrial-agartha.md#src-f3083d830387-c01) — Agartha resistance network
+- [src-a431c798e8b4-c02](atlantis-lemuria.md#src-a431c798e8b4-c02) — Atlantis and Lemuria
+- [src-54a6b17189d3-c01](orion-wars.md#src-54a6b17189d3-c01) — Orion Wars
+- [src-b76386ff7cd8-c04](reptilians.md#src-b76386ff7cd8-c04) — Reptilians
 
 ## Review flags
 

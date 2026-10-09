@@ -426,6 +426,36 @@ Source: [Apegos e Infestaciones, Parte 4, Bajo Astral, Ideas y Programación](ht
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-183528b60334-c03
+
+Mari claims psychedelic exposure can open lower-astral access, where entities exploit fear; she recommends meditation or natural astral travel instead. These are her metaphysical claims and advice.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [No tomen psicodélicos](https://swaruu.org/transcripts/no-tomen-psicodelicos) (2023-10-16; es); passages p0031, p0032, p0033, p0039, p0045, p0048. [Structured record](../../records/src-183528b60334.json).
+
+Related topics: [Astral Travel](astral-travel.md).
+
+### src-d49c526b01a4-c02
+
+Mari claims alcohol makes users more compatible with lower-astral entities that can parasitize or possess them; stronger psychotropics may intensify this. This is her spiritual interpretation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Deja de beber alcohol](https://swaruu.org/transcripts/deja-de-beber-alcohol) (2023-10-12; es); passages p0024, p0025, p0026, p0027. [Structured record](../../records/src-d49c526b01a4.json).
+
+Related topics: [Interdimensional parasites](interdimensional-parasites.md).
+
+### src-a133017c5c8d-c02
+
+Mari says lower-astral entities can use empty human bodies as temporary portals, while other entities may possess living people.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Películas y Entidades Oscuras. El Contenido que ves define tu Mundo](https://swaruu.org/transcripts/peliculas-y-entidades-oscuras-el-contenido-que-ves-define-tu-mundo) (2024-03-05; es); passages p0011, p0012, p0013. [Structured record](../../records/src-a133017c5c8d.json).
+
+Related topics: [Matrix-generated persons](matrix-generated-persons.md).
+
 ## Claims filed under other topics
 
 - [src-bc84d0e92778-c03](consciousness-metaphysics.md#src-bc84d0e92778-c03) — Consciousness and metaphysics
@@ -466,9 +496,14 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-066afd308a37-c03](egregors.md#src-066afd308a37-c03) — Egregors
 - [src-4bf388da9fd3-c03](egregors.md#src-4bf388da9fd3-c03) — Egregors
 - [src-c770aad74bc9-c02](ritual-symbolism-in-media.md#src-c770aad74bc9-c02) — Ritual symbolism in toys and media
+- [src-d49c526b01a4-c03](earth-cabal.md#src-d49c526b01a4-c03) — Earth Cabal and power structures
+- [src-e65d20a8cc55-c04](artificial-portals.md#src-e65d20a8cc55-c04) — Artificial portals
+- [src-ce9740898436-c01](astral-entities.md#src-ce9740898436-c01) — Astral entities
 
 ## Review flags
 
+- Afterlife and religious claims are attributed to Mari.
+- Claims about particle accelerators as portals and entities crossing from the lower astral are attributed to Mari and not independently substantiated.
 - Claims describe Mari’s spiritual model of the Federation and reincarnation
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack

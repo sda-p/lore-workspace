@@ -1,0 +1,36 @@
+{
+  "source_id": "src-e07ab2a092b3",
+  "snapshot_sha256": "1b924b13d71e40d3003d5ab1d2100b94d323eb5f2e69687eb7c48b55e2587ce5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e07ab2a092b3-c01",
+      "assertion": "Anéeka says an abandoned, damaged Lemurian-era ship remains in high Earth orbit after returning from space.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0003", "p0004", "p0005", "p0006"],
+      "primary_topic": "atlantis-lemuria",
+      "topics": ["atlantis-lemuria", "starship-systems"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the craft is over 12,000 years old and was placed in a safer orbit."
+    },
+    {
+      "id": "src-e07ab2a092b3-c02",
+      "assertion": "Anéeka says investigating the ship is considered dangerous because accessways are damaged and an unknown organism may remain inside.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0007", "p0019", "p0020", "p0021"],
+      "primary_topic": "starship-systems",
+      "topics": ["starship-systems", "astral-entities"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The possible organism is speculative; she also cites debris and darkness."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The interview offers an unverified account of an ancient spacecraft and possible extraterrestrial life."
+  ],
+  "coverage_gaps": [
+    "The discussion also covers orbital mechanics and the craft’s unknown origin and crew."
+  ]
+}

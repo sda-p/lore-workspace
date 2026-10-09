@@ -92,6 +92,7 @@ Related topics: [Terrestrial science](terrestrial-science.md).
 
 - [src-0c295f560205-c03](electromagnetic-mind-influence.md#src-0c295f560205-c03) — Electromagnetic influence on perception
 - [src-742d06b0c285-c04](terrestrial-science.md#src-742d06b0c285-c04) — Terrestrial science
+- [src-3593b46bea4f-c02](neural-frequency-genetic-engineering.md#src-3593b46bea4f-c02) — Neural frequency and genetic engineering
 
 ## Review flags
 

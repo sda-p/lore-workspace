@@ -1,0 +1,70 @@
+{
+  "source_id": "src-a431c798e8b4",
+  "snapshot_sha256": "50af6d77e32896bb52368fd00e0ec7cbe597a3b0fcea073e8edf209e360eb3bd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a431c798e8b4-c01",
+      "assertion": "Yazhi says an Egyptian Atlantean faction built the Sphinx over 12,000 years ago, before Giza’s pyramids, as a power symbol linked to Nile agriculture.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "ancient-egypt",
+        "great-pyramid-of-giza"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a431c798e8b4-c02",
+      "assertion": "Yazhi interprets Adam and Eve as races: Adamic humans enslaved by Reptiles, and earlier Evas identified with Lemuria. Taygetan star-sisters shared knowledge that helped them resist control.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "reptilian-invaders",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a431c798e8b4-c03",
+      "assertion": "Yazhi describes Eden as an Atlantean human experiment in underground cities, around 15,000–12,500 years ago; she attributes ventilation to advanced construction and pressure-driven airflow.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "eden-escape",
+      "topics": [
+        "eden-escape",
+        "atlantis-lemuria",
+        "sphinx-underground-bases"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Dates are approximate."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Sphinx symbolism and pair traditions; other religious and biological interpretations; further Eden allegory details."
+  ]
+}

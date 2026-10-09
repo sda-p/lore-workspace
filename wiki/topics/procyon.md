@@ -48,6 +48,26 @@ Source: [Ecosistemas en Taygeta \*\*SIN VIDEO\*\*](https://swaruu.org/transcript
 
 Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
 
+### src-9a0544accb20-c01
+
+Mari says a nighttime attack on Taygetan settlers on Procyon killed 45; three survived, and the disaster is taught as a colonization warning. She blames poor biological study and a fragile camp.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [El Terrible final de los primeros pobladores del planeta Proción](https://swaruu.org/transcripts/el-terrible-final-de-los-primeros-pobladores-del-planeta-procion) (2023-10-04; es); passages p0034, p0035, p0042. [Structured record](../../records/src-9a0544accb20.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-9a0544accb20-c02
+
+Mari identifies the attackers as Gunabul, reptilian apex predators that hunt at night and remain a threat in restricted areas. She speculates that Reptilians introduced them.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [El Terrible final de los primeros pobladores del planeta Proción](https://swaruu.org/transcripts/el-terrible-final-de-los-primeros-pobladores-del-planeta-procion) (2023-10-04; es); passages p0036, p0039. [Structured record](../../records/src-9a0544accb20.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
 ## Claims filed under other topics
 
 - [src-0e992795e982-c02](taygetans.md#src-0e992795e982-c02) — Taygetans

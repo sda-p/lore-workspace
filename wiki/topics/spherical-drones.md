@@ -114,10 +114,14 @@ Related topics: [Black Raven UAV](black-raven-uav.md).
 - [src-802b0f3f9360-c04](immersion-pods.md#src-802b0f3f9360-c04) — Immersion pods
 - [src-03ea45d7d724-c01](total-immersion-simulations.md#src-03ea45d7d724-c01) — Total-immersion simulations
 - [src-9d897870bbf8-c02](natural-portals.md#src-9d897870bbf8-c02) — Natural and artificial portals
+- [src-459adec9f429-c04](nonhuman-surveillance-drones.md#src-459adec9f429-c04) — Nonhuman surveillance drones
+- [src-61c94d4f2880-c02](remote-presence-technology.md#src-61c94d4f2880-c02) — Remote-presence technology
 
 ## Review flags
 
 - Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights
+- Claims about astral surveillance, starseed identification, and hidden population-control agendas are attributed to Mari.
+- Technical descriptions and faster-than-light mechanism are attributed to the speakers.
 - paranormal-portal-claims
 - paranormal-technology-and-cosmology-claims
 - second-contact-stoppage-attributed-to-yazhi

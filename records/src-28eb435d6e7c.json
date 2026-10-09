@@ -1,0 +1,66 @@
+{
+  "source_id": "src-28eb435d6e7c",
+  "snapshot_sha256": "a7561dcd041c2a138e1db92dc66f97539bd25ffed560f8fb9ab4084fa204fa1d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-28eb435d6e7c-c01",
+      "assertion": "Mari reports crew infections she links to Earth-borne spores and influenza, saying Taygetans lack antibodies and struggle to treat these illnesses.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0011",
+        "p0015"
+      ],
+      "primary_topic": "taygetan-medicine",
+      "topics": [
+        "taygetan-medicine",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "According to Mari."
+    },
+    {
+      "id": "src-28eb435d6e7c-c02",
+      "assertion": "Mari interprets successive illnesses affecting her and crew as a coordinated ritual or spiritual attack against their group.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her interpretation."
+    },
+    {
+      "id": "src-28eb435d6e7c-c03",
+      "assertion": "Mari holds the Galactic Federation responsible for future attacks on her crew and says she would seek Urmah help to investigate.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her accusation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Individual crew symptoms and channel support details omitted"
+  ]
+}

@@ -164,6 +164,36 @@ Source: [LA NASA - MISIONES ARTEMISA - ES INVIABLE QUE EL HOMBRE LLEGUE A LA LUN
 
 Related topics: [SETI surveillance operation](seti-surveillance.md).
 
+### src-459adec9f429-c02
+
+Mari claims companies and governments track people through phones, cameras, and connected cars. She says collected data guides population regulation.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [En realidad, Nunca Estás Solo, Parte 3, Vigilancia Tecnológica](https://swaruu.org/transcripts/en-realidad-nunca-estas-solo-parte-3-vigilancia-tecnologica) (2023-12-27; es); passages p0007, p0008, p0013, p0014. [Structured record](../../records/src-459adec9f429.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-459adec9f429-c03
+
+Mari says star-faring groups use drones to monitor and protect starseeds under Federation limits. Drones should remain undetected and provide only deniable aid.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [En realidad, Nunca Estás Solo, Parte 3, Vigilancia Tecnológica](https://swaruu.org/transcripts/en-realidad-nunca-estas-solo-parte-3-vigilancia-tecnologica) (2023-12-27; es); passages p0024, p0025, p0026, p0028, p0030, p0032. [Structured record](../../records/src-459adec9f429.json).
+
+Related topics: [Prime Directive](prime-directive.md), [Starseeds](starseeds.md).
+
+### src-459adec9f429-c04
+
+Mari describes visible drones as roughly 110-centimeter spheres whose electromagnetic systems heat surrounding air. Their concealment is imperfect.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [En realidad, Nunca Estás Solo, Parte 3, Vigilancia Tecnológica](https://swaruu.org/transcripts/en-realidad-nunca-estas-solo-parte-3-vigilancia-tecnologica) (2023-12-27; es); passages p0028, p0033, p0035. [Structured record](../../records/src-459adec9f429.json).
+
+Related topics: [Spherical drones](spherical-drones.md).
+
 ## Claims filed under other topics
 
 - [src-270ba8d9da62-c03](frequency-map-navigation.md#src-270ba8d9da62-c03) — Frequency-map navigation
@@ -172,13 +202,17 @@ Related topics: [SETI surveillance operation](seti-surveillance.md).
 - [src-598faa62de95-c02](galactic-federation.md#src-598faa62de95-c02) — Galactic Federation
 - [src-026b0b5b32ce-c01](viera.md#src-026b0b5b32ce-c01) — Viera
 - [src-cd9a5a1222db-c01](false-alien-invasion.md#src-cd9a5a1222db-c01) — False alien invasion scenarios
+- [src-44116d038dec-c01](taygetan-cic.md#src-44116d038dec-c01) — Taygetan CIC
+- [src-94a76cc92296-c03](urmah.md#src-94a76cc92296-c03) — Urmah
 
 ## Review flags
 
 - 5g-covid-causality-distinction
 - Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights
 - Claims about alien craft, agencies, and political agendas are attributed speculation.
+- Claims about astral surveillance, starseed identification, and hidden population-control agendas are attributed to Mari.
 - Claims about hidden Federation coordination and space programs are attributed to Anéeka and are not independently evidenced in the transcript.
+- Historical and spiritual claims are attributed to interviewee Arishah, not presenter Mari.
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
 - claims-attributed-to-source-narrators
 - conspiracy\_claims

@@ -28,6 +28,20 @@ Source: [ARQUEOLOGÍA LAS PIRÁMIDES DE LA TIERRA Y EL MERCURIO -Yazhi Swaruu](h
 
 Related topics: [Gravity harmonics](gravity-harmonics.md).
 
+### src-b0e222a75427-c01
+
+Yazhi describes Toleka engines with nested counter-rotating turbines containing pressurized mercury-based superconducting fluid that forms plasma; damage can cause explosions. She says pressure is computer-controlled.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Antigravedad, Mercurio Enriquecido, y mas - Tecnología Extraterrestre - Yazhi Swaruu](https://swaruu.org/transcripts/antigravedad-mercurio-enriquecido-y-mas-tecnologia-extraterrestre-yazhi-swaruu) (2023-11-14; es); passages p0027, p0030, p0032, p0034, p0035. [Structured record](../../records/src-b0e222a75427.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+## Claims filed under other topics
+
+- [src-b0e222a75427-c02](crystal-core-zero-point-reactors.md#src-b0e222a75427-c02) — Crystal-core zero-point reactors
+
 ## Review flags
 
 - fictional-ancient-energy-and-propulsion-claims

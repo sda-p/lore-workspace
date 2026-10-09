@@ -222,6 +222,16 @@ Source: [Movimientos OVNI y la CIA - Infiltración - Athena y Yazhi Swaruu - Inf
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-658fa354e1ba-c01
+
+Yazhi says collective human fear and suffering create and sustain negative tulpa-egregore entities, which she portrays as feeding on that attention and causing further harm; she says refusing fear and obedience weakens them. This is her metaphysical explanation of human suffering and control.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [GUERRA ASTRAL ESTAN AQUI - YAZHI SWARUU](https://swaruu.org/transcripts/guerra-astral-estan-aqui-yazhi-swaruu) (2024-09-22; es); passages p0016, p0019, p0021, p0022, p0025, p0028. [Structured record](../../records/src-658fa354e1ba.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Astral entities](astral-entities.md).
+
 ## Claims filed under other topics
 
 - [src-78a2f4005f35-c05](original-matrix.md#src-78a2f4005f35-c05) — Original Matrix
@@ -234,11 +244,18 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-8636b4bb3446-c04](earth-cabal.md#src-8636b4bb3446-c04) — Earth Cabal and power structures
 - [src-98f45fed7656-c04](earth-cabal.md#src-98f45fed7656-c04) — Earth Cabal and power structures
 - [src-4bf388da9fd3-c03](egregors.md#src-4bf388da9fd3-c03) — Egregors
+- [src-bf51bc11a750-c01](vampires.md#src-bf51bc11a750-c01) — Vampires
+- [src-bbcda30708c9-c02](galactic-federation.md#src-bbcda30708c9-c02) — Galactic Federation
+- [src-f0177a1a5739-c01](dimensional-mirroring.md#src-f0177a1a5739-c01) — Dimensional mirroring
 
 ## Review flags
 
 - CIA-control-allegation-omitted
 - Source also contains unextracted real-world political and health claims.
+- Supernatural claims are attributed to the speakers and are not independently substantiated.
+- The Federation's stated rationale is relayed by Mari from Gori'el's account of the conference; it is not endorsed as fact.
+- The source makes unverified metaphysical claims and includes harmful conspiratorial assertions about real people and institutions.
+- The speakers discuss an unverified paranormal phenomenon and explicitly offer multiple possible explanations.
 - archon-scope-is-broad
 - conspiracy-allegations
 - conspiracy-claims

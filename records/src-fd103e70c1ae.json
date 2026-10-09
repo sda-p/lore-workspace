@@ -1,0 +1,25 @@
+{
+  "source_id": "src-fd103e70c1ae",
+  "snapshot_sha256": "77e5ab372d7eeee07bc8cc13085f8703168bb04a75e125571216bdf2812e8ab8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fd103e70c1ae-c01",
+      "assertion": "Mari Swa recounts that a four-person Taygetan Hashmallim team went to Earth for food and banking; when UFO watchers occupied the planned extraction site, they diverted to a secondary site where a camouflaged support ship picked them up.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0008", "p0020", "p0023", "p0024", "p0025", "p0029", "p0030"],
+      "primary_topic": "taygetans",
+      "topics": ["taygetans", "combat-doctrine", "starship-systems"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as a 2024 anecdote; the team also reported an unexplained scream at the fallback site."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source is a first-person anecdote framed as entertainment and includes an unexplained paranormal report."
+  ],
+  "coverage_gaps": [
+    "The story also describes the team's banking interaction, supply dependencies, and concerns about observers, police, and criminals near the extraction area."
+  ]
+}

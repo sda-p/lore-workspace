@@ -1,0 +1,69 @@
+{
+  "source_id": "src-88b1b2aa8184",
+  "snapshot_sha256": "c523b89b61cd9a15730ce25978a4fa2a31ffc27b434f6fdbdbc5e2e2d33cb065",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-88b1b2aa8184-c01",
+      "assertion": "Mari says Urmah are large, semi-bipedal felines; their high council includes smaller advanced feline species they protect.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88b1b2aa8184-c02",
+      "assertion": "Mari links Urmah cultural traits to Egyptian cat deities and claims Urmah influenced predynastic Egypt and the Giza area.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0019",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "giza-labyrinth"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She attributes the historical account to Taygetean and Federation records."
+    },
+    {
+      "id": "src-88b1b2aa8184-c03",
+      "assertion": "Mari says humans are a prolific Lyrian species found across many planets; she considers proposed Earth genetic manipulation uncertain and mind control sufficient.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "lyrians",
+      "topics": [
+        "lyrians",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are Mari’s claims about human origins and genetics."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about Urmah, ancient Egypt, extraterrestrial influence, and human origins are attributed to Mari and are unverified."
+  ],
+  "coverage_gaps": [
+    "her claims about Cabal and Federation efforts to minimize Urmah visibility",
+    "animal symbolism in Egyptian iconography"
+  ]
+}

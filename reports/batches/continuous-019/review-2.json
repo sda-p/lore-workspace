@@ -1,0 +1,428 @@
+{
+  "batch_id": "continuous-019",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-c87798fe694b",
+    "src-ae18b4263cf9",
+    "src-6b844dadcd54",
+    "src-b1f904754f52",
+    "src-e919f649c5d3",
+    "src-df8e53d808b9",
+    "src-89492330f9ab",
+    "src-e4d9d208cc31",
+    "src-85ac7d1ce798",
+    "src-5d854683ebbf",
+    "src-fa37b3758308",
+    "src-936377231cd6",
+    "src-183528b60334",
+    "src-cdaa5ca8bec6",
+    "src-33be47476bf1",
+    "src-f9552f88d23a",
+    "src-e5883b5b7a35",
+    "src-4d7d91264321",
+    "src-07e941b6d7c6",
+    "src-a89e2fb9fdce",
+    "src-d49c526b01a4",
+    "src-848c84c2deeb",
+    "src-e637f0a885a8",
+    "src-4974a0149f11",
+    "src-6b645b07c265",
+    "src-881f2f6deaf1",
+    "src-e2c0340ba4de",
+    "src-b0e222a75427",
+    "src-f8e3580ba35e",
+    "src-9a0544accb20",
+    "src-063e423c3c3e",
+    "src-a84a779862a2",
+    "src-a133017c5c8d",
+    "src-109ef357b57f",
+    "src-a0e7e195133c",
+    "src-46bf88241861",
+    "src-72bb3badacf6",
+    "src-53b7b9229509",
+    "src-34c344a6ae16",
+    "src-d81d9e71f2ef",
+    "src-d77843ceb7e2",
+    "src-d7d4a197e542",
+    "src-d0e9644dbc32",
+    "src-75b74d0d8734",
+    "src-0b7d915d4224",
+    "src-1a585b8926d1",
+    "src-7979e44104d7",
+    "src-2827f10aa2f1",
+    "src-d1f6d4a06f3a",
+    "src-ec5ca3fe11f7",
+    "src-f15dd35a07c7",
+    "src-a7f0d8917568",
+    "src-ef40f0e82ee3",
+    "src-44116d038dec",
+    "src-68ffd0475952",
+    "src-26ffc134d92e",
+    "src-cd32d005f67d",
+    "src-0ae97daa9913",
+    "src-bba74bf888bc",
+    "src-dd10c9648702",
+    "src-03a767caa709",
+    "src-104ec28109ef",
+    "src-88e9e60e1494",
+    "src-c3be419397ba",
+    "src-b4a8487b5217",
+    "src-0ff7154b791e",
+    "src-ff513d5eed98",
+    "src-fcecbbc01e3e",
+    "src-08d63a920baf",
+    "src-79611c401c60",
+    "src-4343942e522e",
+    "src-087c933f7059",
+    "src-b77f8213e67a",
+    "src-3536182c3fc0",
+    "src-eee7cda4be63",
+    "src-eb08c7b1f2c6",
+    "src-3c6d31174c4d",
+    "src-03f55453575e",
+    "src-d653d4ec53df",
+    "src-c5264b384243"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-ae18b4263cf9",
+      "claim_id": "src-ae18b4263cf9-c01",
+      "problem": "The qualifier that six Taygetan ships took part was unsupported by cited evidence.",
+      "action": "Added p0020 listing the six ships to the mission evidence.",
+      "paragraph_ids": [
+        "p0004",
+        "p0008",
+        "p0010",
+        "p0012",
+        "p0014",
+        "p0020"
+      ]
+    },
+    {
+      "source_id": "src-ae18b4263cf9",
+      "claim_id": "src-ae18b4263cf9-c02",
+      "problem": "The assertion included improved maneuvering but did not cite the comparative passage; it also summarized variant updates without the evidence for that advantage.",
+      "action": "Added p0070, which describes Block 3 balance and maneuverability, alongside the interchangeable parts and rear-sensor passages.",
+      "paragraph_ids": [
+        "p0067",
+        "p0070",
+        "p0071",
+        "p0076",
+        "p0077"
+      ]
+    },
+    {
+      "source_id": "src-ae18b4263cf9",
+      "claim_id": "src-ae18b4263cf9-c04",
+      "problem": "The record stopped at Yazhi’s uncertain plan and omitted the same source’s 2024 update that Suzy was gone.",
+      "action": "Reframed the claim to preserve the earlier uncertainty while including the 2024 status update.",
+      "paragraph_ids": [
+        "p0103",
+        "p0105",
+        "p0127",
+        "p0129",
+        "p0134",
+        "p0135"
+      ]
+    },
+    {
+      "source_id": "src-6b844dadcd54",
+      "claim_id": "src-6b844dadcd54-c03",
+      "problem": "The claim summarized extreme oppression driving the Cabal system to collapse, but its citations included a general animal-predator example and omitted the passages explaining the human oppression scenario and conclusion.",
+      "action": "Cited the passages on extreme slavery agendas, human collapse, and why the Cabal cannot succeed beyond a limit.",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ]
+    },
+    {
+      "source_id": "src-89492330f9ab",
+      "claim_id": "src-89492330f9ab-c02",
+      "problem": "The source did not substantiate the claim that publication used intermediaries to reach millions of starseeds; it describes the decision to share and the channels where conversations were published.",
+      "action": "Removed unsupported reach/intermediary framing and cited the decision and publication passages.",
+      "paragraph_ids": [
+        "p0022",
+        "p0024"
+      ]
+    },
+    {
+      "source_id": "src-5d854683ebbf",
+      "claim_id": "src-5d854683ebbf-c01",
+      "problem": "The cited paragraphs did not include the explanation of resource limits, vulnerable settlements, or ships vulnerable while moving outside hyperspace.",
+      "action": "Added the specific supporting p0022–p0024 evidence.",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024"
+      ]
+    },
+    {
+      "source_id": "src-5d854683ebbf",
+      "claim_id": "src-5d854683ebbf-c02",
+      "problem": "Citations omitted the explicit alleged use of pirates and source attribution for the claim.",
+      "action": "Added passages on coercion, pirate factions, and Taygetan/Urmah information.",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0030",
+        "p0031",
+        "p0033"
+      ]
+    },
+    {
+      "source_id": "src-5d854683ebbf",
+      "claim_id": "src-5d854683ebbf-c03",
+      "problem": "Citations did not identify each of the three sabotage events.",
+      "action": "Added the two incident-detail paragraphs and the Federation response paragraph.",
+      "paragraph_ids": [
+        "p0036",
+        "p0040",
+        "p0041",
+        "p0042",
+        "p0043"
+      ]
+    },
+    {
+      "source_id": "src-936377231cd6",
+      "claim_id": "src-936377231cd6-c03",
+      "problem": "Citation p0023 established psychic abilities but did not support the no-biological-shapeshifting, perception distortion, device, or genetic-frequency claims.",
+      "action": "Replaced it with paragraphs stating no physical shapeshifting, induced perception, synthetic telepathy devices, and genetic-frequency compatibility.",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0029",
+        "p0030"
+      ]
+    },
+    {
+      "source_id": "src-c87798fe694b",
+      "claim_id": "src-c87798fe694b-c02",
+      "problem": "The released marker hash was 95c99be8af47c1c4932bb41ca883728227ddb25055eadb38f992b3ccbcf37805 but the record had been overwritten; the current draft also weakened the source’s conjunctive membership conditions to “or.”",
+      "action": "Re-reviewed the current draft against the full snapshot, recorded the overwrite event, and restored “awareness of, plus contact with” the source’s conjunctive rule.",
+      "paragraph_ids": [
+        "p0070",
+        "p0071"
+      ]
+    },
+    {
+      "source_id": "src-33be47476bf1",
+      "claim_id": "src-33be47476bf1-c01",
+      "problem": "This assigned record was edited after release; its marker hash a42d441e296900d03d30a0a235728bc56a98e45a09aea22fb1929582ac2fa7a2 differs from the current record.",
+      "action": "Independently re-reviewed the current draft and the post-release citation additions against the full source; p0017/p0019/p0021 directly support attention-based selection and identity.",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0021"
+      ]
+    },
+    {
+      "source_id": "src-e5883b5b7a35",
+      "claim_id": "src-e5883b5b7a35-c03",
+      "problem": "The claim’s qualifier recommending self-analysis and emotional control was not covered by p0037–p0040.",
+      "action": "Added the passages where Athena advises self-analysis and responsibility/control of emotions.",
+      "paragraph_ids": [
+        "p0053",
+        "p0054"
+      ]
+    },
+    {
+      "source_id": "src-07e941b6d7c6",
+      "claim_id": "src-07e941b6d7c6-c03",
+      "problem": "The claim qualifier describing an experimental media role under the First Directive was not supported by p0024–p0025 alone.",
+      "action": "Added the paragraphs on social-media plans, experimental status, and First Directive requirements.",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028"
+      ]
+    },
+    {
+      "source_id": "src-a89e2fb9fdce",
+      "claim_id": "src-a89e2fb9fdce-c02",
+      "problem": "The qualifier that suffering itself is not required was not cited.",
+      "action": "Added p0033, where Mari explicitly distinguishes common suffering-triggered leaps from the claim that suffering is necessary.",
+      "paragraph_ids": [
+        "p0033"
+      ]
+    },
+    {
+      "source_id": "src-a89e2fb9fdce",
+      "claim_id": "src-a89e2fb9fdce-c03",
+      "problem": "The claim about balancing self-care with helping others and limiting who receives help was not adequately cited by p0028/p0032.",
+      "action": "Added p0030, which directly states the balance, priority of needs, and limits on helping.",
+      "paragraph_ids": [
+        "p0030",
+        "p0032"
+      ]
+    },
+    {
+      "source_id": "src-e637f0a885a8",
+      "claim_id": "src-e637f0a885a8-c03",
+      "problem": "The 150-year estimate and controllers’ off-planet status were absent from the cited evidence.",
+      "action": "Added p0028, which directly supports both qualifiers.",
+      "paragraph_ids": [
+        "p0028"
+      ]
+    },
+    {
+      "source_id": "src-6b645b07c265",
+      "claim_id": "src-6b645b07c265-c02",
+      "problem": "The qualifier about roughly 3,000 applicants placed on a waitlist was not cited.",
+      "action": "Added the paragraph reporting 3,000 unqualified applicants and a long waiting list.",
+      "paragraph_ids": [
+        "p0012"
+      ]
+    },
+    {
+      "source_id": "src-881f2f6deaf1",
+      "claim_id": "src-881f2f6deaf1-c02",
+      "problem": "The qualifier that the Taygetan population is concentrated on Temmer was not supported by cited paragraphs.",
+      "action": "Added p0022, which says most of the population lives on Temmer, particularly Toleka and its port.",
+      "paragraph_ids": [
+        "p0022"
+      ]
+    },
+    {
+      "source_id": "src-9a0544accb20",
+      "claim_id": "src-9a0544accb20-c01",
+      "problem": "The qualifier blaming inadequate biological study and the fragile camp was not supported by p0034 and p0042 alone.",
+      "action": "Added p0035, which identifies these factors in Mari’s account.",
+      "paragraph_ids": [
+        "p0035"
+      ]
+    },
+    {
+      "source_id": "src-a84a779862a2",
+      "claim_id": "src-a84a779862a2-c01",
+      "problem": "The “connected, nested beings/aspects” point and qualifier about conscious wishes carrying less weight were only partly supported by the cited paragraphs.",
+      "action": "Added p0005 for aspects/direct manifestation and p0042–p0043 for conscious wishes receiving less weight in the higher-self perspective.",
+      "paragraph_ids": [
+        "p0005",
+        "p0042",
+        "p0043"
+      ]
+    },
+    {
+      "source_id": "src-72bb3badacf6",
+      "claim_id": "src-72bb3badacf6-c03",
+      "problem": "The c03 references included p0016, which describes the missing facial parts but not the later qualified conclusion, and omitted the explicit limited-data caveat and updated probable-murder assessment.",
+      "action": "Removed p0016 and cited the limited-data setup, later probable human-attack assessment, plant accident, and closing qualification.",
+      "paragraph_ids": [
+        "p0009",
+        "p0013",
+        "p0018",
+        "p0021",
+        "p0025",
+        "p0027",
+        "p0028"
+      ]
+    },
+    {
+      "source_id": "src-2827f10aa2f1",
+      "claim_id": "src-2827f10aa2f1-c03",
+      "problem": "The claim that technical knowledge may help future specialists develop technology for broad benefit was only indirectly supported by its cited paragraphs.",
+      "action": "Added p0020–p0022, which explicitly discuss future specialists applying technical knowledge for the community.",
+      "paragraph_ids": [
+        "p0018",
+        "p0023",
+        "p0024",
+        "p0020",
+        "p0021",
+        "p0022"
+      ]
+    },
+    {
+      "source_id": "src-26ffc134d92e",
+      "claim_id": "src-26ffc134d92e-c01",
+      "problem": "The fear/survival mechanism in c01 lacked the direct citation that news negativity triggers survival responses.",
+      "action": "Added p0017, which directly explains that media content focuses attention on bad events and triggers survival responses.",
+      "paragraph_ids": [
+        "p0014",
+        "p0020",
+        "p0021",
+        "p0017"
+      ]
+    },
+    {
+      "source_id": "src-dd10c9648702",
+      "claim_id": "src-dd10c9648702-c01",
+      "problem": "The source does not say the Urmah explicitly reject the cosmic-cat caricature; it explains the concept originated as a joke and describes ancestral feline guides, not necessarily a deity.",
+      "action": "Reframed c01 to reflect the stated guide practice and its distinction from a deity while retaining the all-things-conscious cosmology.",
+      "paragraph_ids": [
+        "p0005",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0026"
+      ]
+    },
+    {
+      "source_id": "src-03a767caa709",
+      "claim_id": "src-03a767caa709-c02",
+      "problem": "The claim questioned whether the treaty was genuine peace, while citations only showed it may be a takeover strategy; the announced claim of peace and concerns about members were not directly cited.",
+      "action": "Added p0018, which reports the claimed durable peace and questions Orion Council members’ trustworthiness.",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0020"
+      ]
+    },
+    {
+      "source_id": "src-c3be419397ba",
+      "claim_id": "src-c3be419397ba-c01",
+      "problem": "The qualifier about public collapse rumors being fear messaging lacked direct support, and the claim omitted the cited explanation of that narrative.",
+      "action": "Added p0011–p0012 and p0026–p0027 for the fear-messaging characterization.",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0015",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0026",
+        "p0027"
+      ]
+    },
+    {
+      "source_id": "src-0ff7154b791e",
+      "claim_id": "src-0ff7154b791e-c01",
+      "problem": "The qualifier contrasting earlier claims of a large female majority was unsupported by c01 citations.",
+      "action": "Added p0003, which describes those earlier claims.",
+      "paragraph_ids": [
+        "p0003",
+        "p0017",
+        "p0026"
+      ]
+    },
+    {
+      "source_id": "src-03f55453575e",
+      "claim_id": "src-03f55453575e-c01",
+      "problem": "The qualifier about possible sources and lack of identification of a specific language was not cited.",
+      "action": "Added p0009 for possible source memories/channeling and p0016 for the absence of a recognized language.",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0009",
+        "p0016"
+      ]
+    },
+    {
+      "source_id": "src-c5264b384243",
+      "claim_id": "src-c5264b384243-c02",
+      "problem": "The claim said CAPs gather information, but its citations covered their mission/limits/deterrence without the direct account of information gathered and transmitted to CIC.",
+      "action": "Added p0024, which details radio sources and information relay to the CIC.",
+      "paragraph_ids": [
+        "p0028",
+        "p0024",
+        "p0030",
+        "p0032",
+        "p0034"
+      ]
+    }
+  ],
+  "unresolved": []
+}

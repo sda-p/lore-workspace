@@ -188,16 +188,49 @@ Source: [LA DESINTEGRACIÓN DE LA MATRIX EL DESPERTAR DE LA MATRIX](https://swar
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-9d22c8ed0ce3-c02
+
+Mari says Taygetan speech combines words and telepathy, preventing word-for-word human translation. She paraphrased the newcomers.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales: 4 Nuevas Personas Llegando a la Nave. Primera parte](https://swaruu.org/transcripts/noticias-espaciales-4-nuevas-personas-llegando-a-la-nave-primera-parte) (2023-11-07; es); passages p0017, p0018, p0019, p0020. [Structured record](../../records/src-9d22c8ed0ce3.json).
+
+Related topics: [Telepathic channeling](telepathic-channeling.md).
+
+### src-94a76cc92296-c01
+
+Arishah says Sumerian cuneiform adapted Urmah writing, whose symbols were made by pressing claws into clay.
+
+Attributed to **Arishah**; asserted; extraction confidence: high.
+
+Source: [Arishah, el Tigre Urmah, entrevista 23 de febrero de 2024](https://swaruu.org/transcripts/arishah-el-tigre-urmah-entrevista-23-de-febrero-de-2024) (2024-02-25; es); passages p0012, p0013, p0014. [Structured record](../../records/src-94a76cc92296.json).
+
+Related topics: [Urmah](urmah.md).
+
+### src-f929113f2b30-c05
+
+Mari says telepathy is fast but imperfect, and messages can be distorted or falsified.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [El Vertido de Basura que salió Terriblemente Mal](https://swaruu.org/transcripts/el-vertido-de-basura-que-salio-terriblemente-mal) (2024-09-27; es); passages p0026, p0027, p0028. [Structured record](../../records/src-f929113f2b30.json).
+
 ## Claims filed under other topics
 
 - [src-5e6c8ea2cb2c-c03](urmah.md#src-5e6c8ea2cb2c-c03) — Urmah
 - [src-8a20bf02262a-c02](hashmallim.md#src-8a20bf02262a-c02) — Hashmallim
 - [src-3f83b10b1792-c02](consciousness-metaphysics.md#src-3f83b10b1792-c02) — Consciousness and metaphysics
+- [src-a0e7e195133c-c01](taygetans.md#src-a0e7e195133c-c01) — Taygetans
+- [src-03f55453575e-c01](telepathic-channeling.md#src-03f55453575e-c01) — Telepathic channeling
 
 ## Review flags
 
 - Alpha Draco and linguistic-history claims are attributed to Yazhi and are not independently verified.
 - Antarctica and Cabal allegations are attributed to Dhor Káal’él and are not independently evidenced in the transcript.
+- Historical and spiritual claims are attributed to interviewee Arishah, not presenter Mari.
+- The Federation audit is a past forecast reported in a November 2023 transcript.
+- The disposal account and technical rules are Mari's narrated account; preserve this attribution.
 - historical-claims-unverified
 - language-claims-unverified
 - medical-claims-unverified

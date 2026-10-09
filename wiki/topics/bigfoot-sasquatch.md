@@ -44,6 +44,16 @@ Source: [BigFoot/Sasquatch - Daniel James´ Real Encounters - Dyatlov Pass Incid
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-72bb3badacf6-c01
+
+Swaruu (9) describes Yeti and Bigfoot as the same semi-subterranean, telepathic creature, usually 3–4 meters tall.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Pie Grande/Sasquatch - El Incidente del Paso Dyatlov - Swaruu de Erra y Aneeka de Temmer](https://swaruu.org/transcripts/pie-grande-sasquatch-el-incidente-del-paso-dyatlov-swaruu-de-erra-y-aneeka-de-temmer) (2023-11-01; es); passages p0004, p0007. [Structured record](../../records/src-72bb3badacf6.json).
+
+Related topics: [Sasquatch](sasquatch.md).
+
 ## Claims filed under other topics
 
 - [src-0a2dec346e2d-c03](perceptual-density.md#src-0a2dec346e2d-c03) — Perceptual density
@@ -52,3 +62,4 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 ## Review flags
 
 - 2018 Yeti-release account conflicts with Anéeka’s later 2019 murder/no-ship account.
+- The source contains contradictory explanations of the Dyatlov deaths: Swaruu (9) alleges a Yeti released by Reptilians (p0008), while Anéeka later favors a human tribal attack (p0013,p0021).

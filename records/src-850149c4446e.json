@@ -1,0 +1,34 @@
+{
+  "source_id": "src-850149c4446e",
+  "snapshot_sha256": "2a27b5933f3abbd9db16e0477068468aa83ec0325c06e8a69af9973b32cddb90",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-850149c4446e-c01",
+      "assertion": "Mari Swa recounts that, as a child on Earth, she and her mother feared agents after persistent knocking; her mother used a disguised communicator to summon a hidden Suzy-class ship, but a young couple was only returning keys.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0015",
+        "p0021",
+        "p0022",
+        "p0028"
+      ],
+      "primary_topic": "suzy-class-starships",
+      "topics": [
+        "suzy-class-starships",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says she was about six or seven; the ship's estimated arrival time was 15 minutes."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "This is a first-person anecdote presented as entertainment; the apparent threat resolves as a false alarm."
+  ],
+  "coverage_gaps": [
+    "The introduction also describes step-down visitors and their alleged need for solitude while blending into human society."
+  ]
+}

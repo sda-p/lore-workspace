@@ -1,0 +1,74 @@
+{
+  "source_id": "src-71eee4d5cfe1",
+  "snapshot_sha256": "7f4b5530d2835e0c041942f4ce7796b2761f10224079d02ccf01b7a8b018a59b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-71eee4d5cfe1-c01",
+      "assertion": "Gosia presents consciousness as generating material reality, including bodies, and describes each conscious person as a fragment of Source sharing its creative attributes.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "galactic-consciousness",
+      "topics": [
+        "galactic-consciousness"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-71eee4d5cfe1-c02",
+      "assertion": "Gosia says sustained attention and imagination align people with desired situations, shaping personal and collective reality; practical action also matters.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0031",
+        "p0033",
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "galactic-consciousness",
+      "topics": [
+        "galactic-consciousness"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-71eee4d5cfe1-c03",
+      "assertion": "Gosia describes interstellar drives as changing a ship and crew’s frequency inside a toroidal bubble tuned to a destination, causing manifestation there rather than physical travel.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0056",
+        "p0057",
+        "p0058",
+        "p0059",
+        "p0063",
+        "p0064"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "frequency-map-navigation",
+        "galactic-consciousness"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other details about the ether, collective control, and practical manifestation exercises omitted"
+  ]
+}

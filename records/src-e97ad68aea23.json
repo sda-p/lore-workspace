@@ -3,13 +3,102 @@
   "snapshot_sha256": "cab685241f6731419e4039a9f42829feb6a811ccbc535ca88c60b12444c61dc1",
   "language": "es",
   "claims": [
-    {"id":"src-e97ad68aea23-c01","assertion":"Mari says Urmah purring produced a calming vibration and emotional release.","speaker":"Mari Swa (narrator)","paragraph_ids":["p0006","p0007"],"primary_topic":"urmah","topics":["urmah","astral-travel"],"modality":"reported","confidence":"high","qualifiers":""},
-    {"id":"src-e97ad68aea23-c02","assertion":"Mari describes an astral encounter with a blue, flame-maned lion that communicated telepathically.","speaker":"Mari Swa (narrator)","paragraph_ids":["p0008","p0012","p0014","p0017"],"primary_topic":"astral-entities","topics":["astral-entities","urmah"],"modality":"reported","confidence":"high","qualifiers":""},
-    {"id":"src-e97ad68aea23-c03","assertion":"The lion called Mari an Urmah soul and family, predicting her return after her mission.","speaker":"Blue lion entity, as reported by Mari","paragraph_ids":["p0017","p0018"],"primary_topic":"urmah","topics":["urmah","reincarnation-cycles"],"modality":"reported","confidence":"high","qualifiers":"Mari remained unsure who or what the lion was."},
-    {"id":"src-e97ad68aea23-c04","assertion":"The lion attributed Mari's grief and illness to other timelines and urged her not to carry others' burdens.","speaker":"Blue lion entity, as reported by Mari","paragraph_ids":["p0018","p0019","p0020"],"primary_topic":"timeline-branching","topics":["timeline-branching","astral-entities"],"modality":"reported","confidence":"high","qualifiers":""},
-    {"id":"src-e97ad68aea23-c05","assertion":"Mari reports type 1 diabetes treated in a dry med pod; she suspects other issues may have astral causes.","speaker":"Mari Swa (narrator)","paragraph_ids":["p0003","p0004"],"primary_topic":"taygetan-medicine","topics":["taygetan-medicine","astral-entities"],"modality":"speculative","confidence":"high","qualifiers":""}
+    {
+      "id": "src-e97ad68aea23-c01",
+      "assertion": "Mari says Urmah purring produced a calming vibration and emotional release.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "astral-travel"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e97ad68aea23-c02",
+      "assertion": "Mari describes an astral encounter with a blue, flame-maned lion that communicated telepathically.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0008",
+        "p0012",
+        "p0014",
+        "p0017"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e97ad68aea23-c03",
+      "assertion": "The lion called Mari an Urmah soul and family, predicting her return after her mission.",
+      "speaker": "Blue lion entity, as reported by Mari",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "reincarnation-cycles"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Mari remained unsure who or what the lion was."
+    },
+    {
+      "id": "src-e97ad68aea23-c04",
+      "assertion": "The lion attributed Mari's grief and illness to other timelines and urged her not to carry others' burdens.",
+      "speaker": "Blue lion entity, as reported by Mari",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "astral-entities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e97ad68aea23-c05",
+      "assertion": "Mari reports type 1 diabetes treated in a dry med pod; she suspects other issues may have astral causes.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "taygetan-medicine",
+      "topics": [
+        "taygetan-medicine",
+        "astral-entities"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
   ],
   "proposed_topics": [],
-  "review_flags": ["Mari describes this as a personal experience and remains uncertain about the entity's identity; the lion's messages are reported speech."],
-  "coverage_gaps": ["the vision's white/black environment and return to the medical bay", "the lion's reassurance about Mari's lifespan and queenship"]
+  "review_flags": [
+    "Mari describes this as a personal experience and remains uncertain about the entity's identity; the lion's messages are reported speech."
+  ],
+  "coverage_gaps": [
+    "the vision's white/black environment and return to the medical bay",
+    "the lion's reassurance about Mari's lifespan and queenship"
+  ]
 }

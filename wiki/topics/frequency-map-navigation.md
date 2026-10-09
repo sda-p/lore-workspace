@@ -586,6 +586,86 @@ Source: [Tiempo, Líneas temporales, Naves estelares y tu Mente](https://swaruu.
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-b1f904754f52-c02
+
+Athena says navigation sensors map changing gravitational frequencies in real time; gravity maps also guide temporal jumps, whose accuracy depends on map precision. Without a map, a calculated past may not be the intended one.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Gravedad - Preguntas - Conocimiento Extraterrestre - Yazhi y Athena Swaruu](https://swaruu.org/transcripts/gravedad-preguntas-conocimiento-extraterrestre-yazhi-y-athena-swaruu) (2024-03-27; es); passages p0044, p0046, p0048. [Structured record](../../records/src-b1f904754f52.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-cf077618db34-c01
+
+Mari says time travel complicates historical study because destinations may fall on alternate timelines; navigation uses mass and vibrational-frequency maps rather than dates. She says travelers may not know their location or the local calendar.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Más sobre el Falso Pasado, cómo se Estudia y los Viajes en el Tiempo](https://swaruu.org/transcripts/mas-sobre-el-falso-pasado-como-se-estudia-y-los-viajes-en-el-tiempo) (2024-01-28; es); passages p0020, p0022, p0023, p0024. [Structured record](../../records/src-cf077618db34.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-6b93fc9acdf1-c02
+
+Mari says ships jump by matching their vibration frequency to the destination. Their maps encode mass, energy, frequency, and gravity.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Sobre Platillos Voladores](https://swaruu.org/transcripts/sobre-platillos-voladores) (2024-03-29; es); passages p0014. [Structured record](../../records/src-6b93fc9acdf1.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-1a585b8926d1-c01
+
+Mari describes starship time travel as changing the vessel’s gravity-mass-energy pattern to match a destination; she equates this with becoming vibrationally compatible with that place and time. She interprets ship technology as an imitation of consciousness.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [No necesitas una nave espacial](https://swaruu.org/transcripts/no-necesitas-una-nave-espacial) (2024-02-11; es); passages p0013, p0014, p0015, p0016, p0017. [Structured record](../../records/src-1a585b8926d1.json).
+
+Related topics: [Starship systems](starship-systems.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-e50e737a17f6-c01
+
+Mari says starship navigation uses gravity-mass-energy maps rather than calendar dates to identify destinations in space-time.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Principios básicos para el auténtico Viaje en el Tiempo, Naves Espaciales, Tercera Parte](https://swaruu.org/transcripts/principios-basicos-para-el-autentico-viaje-en-el-tiempo-naves-espaciales-tercera-parte) (2024-02-09; es); passages p0013, p0014, p0015, p0018. [Structured record](../../records/src-e50e737a17f6.json).
+
+Related topics: [Ship internal time](ship-internal-time.md).
+
+### src-87c7b2fdd725-c02
+
+Gosia says Taygetan time travel uses frequency maps rather than movement through external time or calendar dates. She frames travel as reaching recorded frequency points while carrying one's own subjective sequence.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Tiempo es Lineal? Mis Contemplaciones Personales y Conclusiones (Gosia)](https://swaruu.org/transcripts/tiempo-es-lineal-mis-contemplaciones-personales-y-conclusiones-gosia) (2024-12-31; es); passages p0015, p0016, p0017, p0018. [Structured record](../../records/src-87c7b2fdd725.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-424eb87288db-c01
+
+Anéeka describes ship coordinates as combined spatial and temporal frequency values. Complex timeline jumps can make recorded return coordinates unreliable. Basic navigation can record and revisit coordinates.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 11: Naves que se Pierden en las Líneas Temporales - Realidad Numérica](https://swaruu.org/transcripts/vida-interestelar-11-naves-que-se-pierden-en-las-lineas-temporales-realidad-numerica) (2025-08-14; es); passages p0004, p0005, p0007, p0008, p0012, p0013. [Structured record](../../records/src-424eb87288db.json).
+
+Related topics: [Timeline branching](timeline-branching.md), [Stellar navigation](stellar-navigation.md).
+
+### src-424eb87288db-c02
+
+Athena says date-based time travel requires a known frequency-map value, but historical dates do not match calculated frequencies, even in base 10. She prefers base 12.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 11: Naves que se Pierden en las Líneas Temporales - Realidad Numérica](https://swaruu.org/transcripts/vida-interestelar-11-naves-que-se-pierden-en-las-lineas-temporales-realidad-numerica) (2025-08-14; es); passages p0017, p0018, p0019. [Structured record](../../records/src-424eb87288db.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md), [Taygetan Base-12 Mathematics](taygetan-base-12-mathematics.md).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c01](stellar-navigation.md#src-426ea469937a-c01) — Stellar navigation
@@ -622,6 +702,13 @@ Related topics: [Starship systems](starship-systems.md).
 - [src-877d9746441a-c04](stellar-navigation.md#src-877d9746441a-c04) — Stellar navigation
 - [src-86a4669c182d-c03](timeline-branching.md#src-86a4669c182d-c03) — Timeline branching
 - [src-a58e748ec5c5-c01](consciousness-metaphysics.md#src-a58e748ec5c5-c01) — Consciousness and metaphysics
+- [src-706e33985c24-c03](ship-internal-time.md#src-706e33985c24-c03) — Ship internal time
+- [src-48d158152f65-c01](consciousness-metaphysics.md#src-48d158152f65-c01) — Consciousness and metaphysics
+- [src-1a585b8926d1-c02](timeline-branching.md#src-1a585b8926d1-c02) — Timeline branching
+- [src-013f3b7ef0b7-c02](starship-systems.md#src-013f3b7ef0b7-c02) — Starship systems
+- [src-424eb87288db-c03](timeline-branching.md#src-424eb87288db-c03) — Timeline branching
+- [src-2f61745f8036-c01](disc-shaped-shuttles.md#src-2f61745f8036-c01) — Disc-shaped shuttle craft
+- [src-71eee4d5cfe1-c03](starship-systems.md#src-71eee4d5cfe1-c03) — Starship systems
 
 ## Review flags
 
@@ -634,6 +721,7 @@ Related topics: [Starship systems](starship-systems.md).
 - One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
 - Pluto-Shiva-identification-attributed-to-Federation-records
 - Tartaria chronology and destruction are presented as disputed source claims
+- Time-navigation and physics claims are attributed to Mari.
 - ancient-symbol-interpretations-attributed
 - author-personal-philosophical-analysis
 - conspiracy\_claims

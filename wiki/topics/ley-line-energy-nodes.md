@@ -28,6 +28,24 @@ Source: [Problemas de las Semillas Estelares, Parte 3, Lugares / Entidades Astra
 
 Related topics: [Natural and artificial portals](natural-portals.md), [Astral entities](astral-entities.md).
 
+### src-88b24c836599-c03
+
+Yazhi calls a Polynesian island a ley-line node where thoughts spread planet-wide.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Sophia (Yazhi) Swaruu - Nuevas Conversaciones (PARTE 3)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-nuevas-conversaciones-parte-3) (2024-09-10; es); passages p0072, p0078. [Structured record](../../records/src-88b24c836599.json).
+
+### src-309667cbe10f-c02
+
+Dhor Káal’el says Yazhi uses Maria Island as a conduit to raise Earth’s frequency through a ley-line network linking Giza and other pyramids.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Sophia (Yazhi) Swaruu - Primeros Años de Yazhi en Toleka (PARTE 2)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-primeros-anos-de-yazhi-en-toleka-parte-2) (2024-09-01; es); passages p0058, p0059, p0060. [Structured record](../../records/src-309667cbe10f.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
 ## Claims filed under other topics
 
 - [src-1b58a21e9def-c03](atlantean-zero-point-pyramids.md#src-1b58a21e9def-c03) — Atlantean zero-point pyramids

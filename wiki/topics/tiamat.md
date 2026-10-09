@@ -430,6 +430,52 @@ Source: [REVELACIONES DE UNA MUJER EXTRATERRESTRE DE TAYGETA - Aneeka de Temmer]
 
 Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
 
+### src-53b7b9229509-c02
+
+Ari claims Earth was fifth density before the Tiamat wars; the Federation trapped surviving enemies there, creating a low-frequency realm that feeds lower-astral entities. The account is attributed to the Urmah.
+
+Attributed to **Ari (Arishah), Urmah communications officer**; reported; extraction confidence: high.
+
+Source: [Entrevista con el Tigre Urmah, Arishah, Parte 3](https://swaruu.org/transcripts/entrevista-con-el-tigre-urmah-arishah-parte-3) (2023-12-03; es); passages p0030, p0031, p0032. [Structured record](../../records/src-53b7b9229509.json).
+
+Related topics: [Perceptual density](perceptual-density.md), [Interdimensional parasites](interdimensional-parasites.md).
+
+### src-87c6a18876e9-c02
+
+Federation accounts she cites say factional war destroyed Tiamat 12,500 years ago, sending its water toward Earth.
+
+Attributed to **Mari Swa (narrator, citing Federation account)**; reported; extraction confidence: high.
+
+Source: [¿El último Diluvio Global ocurrió hace menos de 200 años?](https://swaruu.org/transcripts/el-ultimo-diluvio-global-ocurrio-hace-menos-de-200-anos) (2024-11-01; es); passages p0013, p0014. [Structured record](../../records/src-87c6a18876e9.json).
+
+### src-87c6a18876e9-c04
+
+She suggests asteroid-belt ice is Tiamat water and may have caused repeated global floods.
+
+Attributed to **Mari Swa (narrator)**; speculative; extraction confidence: high.
+
+Source: [¿El último Diluvio Global ocurrió hace menos de 200 años?](https://swaruu.org/transcripts/el-ultimo-diluvio-global-ocurrio-hace-menos-de-200-anos) (2024-11-01; es); passages p0027, p0028, p0029, p0030. [Structured record](../../records/src-87c6a18876e9.json).
+
+### src-6cdd5b495d4b-c01
+
+Yazhi says the Solar System once had 13 life-bearing planets, including Tiamat, whose remains became the asteroid belt. The interviewer says the chronology is approximate; this account is unverified.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Misterios de Orión Planetas y vida cósmica - Parte 2](https://swaruu.org/transcripts/misterios-de-orion-planetas-y-vida-cosmica-parte-2) (2025-04-22; es); passages p0004, p0005, p0006, p0003. [Structured record](../../records/src-6cdd5b495d4b.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
+
+### src-4d57ad423d19-c02
+
+Yazhi says the ensuing Lemuria-Atlantis conflict involved spacefaring allies and nuclear warfare, culminating in Tiamat’s destruction. The transcript presents this as Taygetan history, without independent evidence.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [LA PRIMERA BATALLA ANTIGUA - LAS GUERRAS DE ORIÓN](https://swaruu.org/transcripts/la-primera-batalla-antigua-las-guerras-de-orion) (2025-06-01; es); passages p0005, p0020, p0021, p0025, p0027. [Structured record](../../records/src-4d57ad423d19.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md), [Orion Wars](orion-wars.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c02](black-goo.md#src-d47faace954b-c02) — Black goo
@@ -462,6 +508,7 @@ Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
 - [src-2c81dcc2e671-c01](moon-biosphere-ship.md#src-2c81dcc2e671-c01) — The Moon as a biosphere ship
 - [src-c5820758bc75-c01](moon-biosphere-ship.md#src-c5820758bc75-c01) — The Moon as a biosphere ship
 - [src-742d06b0c285-c03](galactic-federation.md#src-742d06b0c285-c03) — Galactic Federation
+- [src-1fea626a42d3-c02](ancient-egypt.md#src-1fea626a42d3-c02) — Ancient Egypt
 
 ## Review flags
 
@@ -477,6 +524,10 @@ Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
 - Statements about ancient warfare, archaeology, and electoral representation are attributed to Anéeka.
 - Swaruu X explicitly rejects the interpretation that the Moon was placed primarily to imprison regressive races.
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
+- The narrator explicitly calls her historical-reset theory speculative and says she has no proof; preserve this qualification.
+- The source advances unverified alternative-history claims about planetary history and human origins.
+- The source presents unverified alternative-history claims about ancient civilizations and warfare.
+- The transcript gives several speculative ancient-history identifications; preserve speaker-specific attribution and uncertainty.
 - Transcript combines several speakers and dates; claims preserve speaker attribution
 - Yazhi distinguishes her portal-technology claim, which does not require alignment, from alignment used in rituals.
 - alternative-cosmology-and-chronology-claims

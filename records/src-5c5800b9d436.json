@@ -1,0 +1,50 @@
+{
+  "source_id": "src-5c5800b9d436",
+  "snapshot_sha256": "018e84125bb5fdda6cdc10f8923ceedb5f7c44c9b166e60a94a65af00291f6d4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5c5800b9d436-c01",
+      "assertion": "Athena says Alcyone chose Alenym as the Pleiades’ legal representative; only Toleka is officially present from M45, while other Pleiadian ships visit unofficially to monitor starseeds.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "They generally do not intervene directly."
+    },
+    {
+      "id": "src-5c5800b9d436-c02",
+      "assertion": "Athena says Taygetans and Urmah usually do not revisit past-life friends after reincarnating; some prefer to start over, though cases vary and lives may not be linear.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0067",
+        "p0071",
+        "p0073",
+        "p0075"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "taygetans",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She personally knows of one such visit."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source is a multi-topic interview and presents unverifiable political and reincarnation claims."
+  ],
+  "coverage_gaps": [
+    "Other segments discuss reptilian consciousness, planetary frequency effects, Tiamat's water, and Taygetan photos and instruments."
+  ]
+}

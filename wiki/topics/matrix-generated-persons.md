@@ -76,12 +76,33 @@ Source: [Gente No Real volviéndose todo Reales - Es cierto ese rumor? Yazhi Swa
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-f5e242746230-c01
+
+Yazhi says inserting a 5D person into Earth’s 3D Matrix causes its collective beliefs to generate a compatible personal history; the reverse insertion needs no new history because 5D includes 3D. She describes this as a consequence of differing levels of awareness.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Espejos Dimensionales 2 - Generando Historiales Personales - Yazhi Swaruu](https://swaruu.org/transcripts/espejos-dimensionales-2-generando-historiales-personales-yazhi-swaruu) (2024-05-06; es); passages p0005, p0006, p0007, p0008. [Structured record](../../records/src-f5e242746230.json).
+
+Related topics: [Collective timeline influence](collective-timeline-influence.md).
+
+### src-f5e242746230-c02
+
+Yazhi says sustained attention can cause the Matrix to generate records supporting an inserted person, while genuine consciousness cannot be manipulated this way. She distinguishes generated paperwork and NPCs from real consciousness.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Espejos Dimensionales 2 - Generando Historiales Personales - Yazhi Swaruu](https://swaruu.org/transcripts/espejos-dimensionales-2-generando-historiales-personales-yazhi-swaruu) (2024-05-06; es); passages p0012, p0014, p0017, p0018, p0020, p0022, p0026. [Structured record](../../records/src-f5e242746230.json).
+
+Related topics: [Original Matrix](original-matrix.md).
+
 ## Claims filed under other topics
 
 - [src-71526671dc28-c03](walk-in-phenomenon.md#src-71526671dc28-c03) — Walk-in phenomenon
 - [src-80367dc03fbe-c04](moon-matrix.md#src-80367dc03fbe-c04) — Moon and terrestrial Matrix
 - [src-a4e3084ce97a-c04](moon-matrix.md#src-a4e3084ce97a-c04) — Moon and terrestrial Matrix
 - [src-a554af026ae2-c01](egregors.md#src-a554af026ae2-c01) — Egregors
+- [src-a133017c5c8d-c02](archons-and-demons.md#src-a133017c5c8d-c02) — Archons and demons
 
 ## Review flags
 
@@ -91,6 +112,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - matrix-scope-differing-views
 - metaphysical-entity-origin-claims
 - metaphysical-personhood-claim
+- source presents unverifiable claims about fabricated histories, insertions, and Matrix-generated records
 - status-unverifiable
 - translated-originally-Spanish
 - treat-all-persons-equally

@@ -40,13 +40,27 @@ Attributed to **Swaruu (9)**; asserted; extraction confidence: medium.
 
 Source: [CONTACTO Y CONTACTADOS EXTRATERRESTRES - NO EXISTE NIBIRU - Swaruu de Erra](https://swaruu.org/transcripts/contacto-y-contactados-extraterrestres-no-existe-nibiru-swaruu-de-erra) (2022-07-25; es); passages p0031, p0032. [Structured record](../../records/src-9a37f5242cc3.json).
 
+### src-0430f50a8534-c02
+
+Swaruu de Erra says some early spacefaring civilizations hollow metallic asteroids and install engines and a cockpit, using the asteroid as a low-cost, impact-resistant, camouflaged craft. This general claim is not presented as identifying 3I/ATLAS.
+
+Attributed to **Swaruu de Erra, quoted by Mari Swa**; reported; extraction confidence: high.
+
+Source: [3I/Atlas - el Nuevo Cometa Interestelar Descubierto por la NASA — ¿Natural o Artificial?](https://swaruu.org/transcripts/3i-atlas-el-nuevo-cometa-interestelar-descubierto-por-la-nasa-natural-o-artificial) (2025-10-12; es); passages p0022. [Structured record](../../records/src-0430f50a8534.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-9b0e688f41d9-c04](astrotheology.md#src-9b0e688f41d9-c04) — Astrotheology
+- [src-aa6b810026d1-c04](dimensional-mirroring.md#src-aa6b810026d1-c04) — Dimensional mirroring
+- [src-65adcbdf271b-c04](moon-matrix.md#src-65adcbdf271b-c04) — Moon and terrestrial Matrix
 
 ## Review flags
 
+- Claims about consciousness-based mirrors and quantum computers are attributed to Yazhi.
 - Meteor-intervention and Earth-consciousness claims are source-attributed.
 - Pluto-Shiva-identification-attributed-to-Federation-records
+- The source explicitly says the speakers cannot determine the object's nature and includes speculation about staged alien scenarios.
 - contested-claims
 - historical-claim

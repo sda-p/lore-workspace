@@ -406,6 +406,16 @@ Attributed to **Yazhi**; speculative; extraction confidence: high.
 
 Source: [LA TIERRA NO ES PROPICIA PARA TENER SATÉLITES NATURALES - Yazhi Swaruu](https://swaruu.org/transcripts/la-tierra-no-es-propicia-para-tener-satelites-naturales-yazhi-swaruu) (2023-03-03; es); passages p0015, p0017. [Structured record](../../records/src-5a2bf7cc12f6.json).
 
+### src-f800679ac838-c01
+
+Mari says religions were shaped to control populations, although she believes they incorporate some older knowledge and events.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Las Religiones y las Entidades del Bajo Astral y porqué funcionan en contra de algunas de ellas](https://swaruu.org/transcripts/las-religiones-y-las-entidades-del-bajo-astral-y-porque-funcionan-en-contra-de-algunas-de-ellas) (2023-11-01; es); passages p0003, p0006, p0008. [Structured record](../../records/src-f800679ac838.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-8889af167782-c03](natural-portals.md#src-8889af167782-c03) — Natural and artificial portals
@@ -429,10 +439,14 @@ Source: [LA TIERRA NO ES PROPICIA PARA TENER SATÉLITES NATURALES - Yazhi Swaruu
 - [src-6fff99fdbd26-c03](great-pyramid-of-giza.md#src-6fff99fdbd26-c03) — Great Pyramid of Giza
 - [src-9c3e0642a4e2-c01](ritual-symbolism-in-media.md#src-9c3e0642a4e2-c01) — Ritual symbolism in toys and media
 - [src-88d2f8fd434d-c04](pluto.md#src-88d2f8fd434d-c04) — Pluto
+- [src-f800679ac838-c03](astral-entities.md#src-f800679ac838-c03) — Astral entities
+- [src-087c933f7059-c02](natural-portals.md#src-087c933f7059-c02) — Natural and artificial portals
 
 ## Review flags
 
+- Claims about portals and mass-energy frequencies are attributed to Mari and not independently established.
 - Contains unsupported claims about Pluto bases, Federation classifications, motives, and Shiva’s identity; attribute to Swaruu (9).
+- Metaphysical claims about religion and entities are attributed to Mari Swaruu.
 - No English translation counterpart identified; this source contains sweeping counter-historical claims, preserved here only as Swaruu’s attributed lore.
 - Pluto-Shiva-identification-attributed-to-Federation-records
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared

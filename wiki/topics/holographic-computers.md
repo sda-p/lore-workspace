@@ -504,6 +504,88 @@ Source: [TECNOLOGÍA DE CUARZO EN LAS NAVES EXTRATERRESTRES – Sophia Swaruu - 
 
 Related topics: [Frequency-holding sample containers](frequency-holding-containers.md).
 
+### src-a08a91afe77a-c03
+
+Taygetan quantum computers cannot connect to human digital systems or internet; Mari says biological crew make decisions and interact online. She describes Taygetan AI as cooperative.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales, 25 Abril de 2024, Kassia, Etorthans, Grises, Toleka, Asterope, mi YouTube](https://swaruu.org/transcripts/noticias-espaciales-25-abril-de-2024-kassia-etorthans-grises-toleka-asterope-mi-youtube) (2024-04-26; es); passages p0011, p0012, p0013, p0014. [Structured record](../../records/src-a08a91afe77a.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-fdd736de175d-c01
+
+Mari says remote-presence computers synchronize data to simulate being in a distant place without physically traveling.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [Mi Viaje Encubierta a Témmer, Taygeta](https://swaruu.org/transcripts/mi-viaje-encubierta-a-temmer-taygeta) (2024-10-25; es); passages p0003, p0008. [Structured record](../../records/src-fdd736de175d.json).
+
+### src-fdd736de175d-c03
+
+Residents used special glasses to identify that Mari was present remotely rather than physically in the city.
+
+Attributed to **Mari Swa (narrator)**; reported; extraction confidence: high.
+
+Source: [Mi Viaje Encubierta a Témmer, Taygeta](https://swaruu.org/transcripts/mi-viaje-encubierta-a-temmer-taygeta) (2024-10-25; es); passages p0027, p0028. [Structured record](../../records/src-fdd736de175d.json).
+
+### src-aa6b810026d1-c03
+
+Yazhi says holographic quantum computers match question-frequencies to answers in the ether, beyond time. She describes them as sentient and incompatible with human internet.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Espejos Dimensionales 4 - Pregunta del Publico - Yazhi Swaruu](https://swaruu.org/transcripts/espejos-dimensionales-4-pregunta-del-publico-yazhi-swaruu) (2024-05-21; es); passages p0033, p0037, p0038, p0040, p0042. [Structured record](../../records/src-aa6b810026d1.json).
+
+Related topics: [Ether field](ether-field.md), [Muonic galactic AI network](muonic-galactic-ai-network.md).
+
+### src-beb2c96534c2-c01
+
+Mari Swaruu describes Taygetan quantum holographic computers as non-digital systems whose cores use millions of nanoparticle accelerators; their holograms can be tactile and provide sensory stimulation. She says she uses these systems daily but frames the video as entertainment.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Tecnología Informática Holográfica Cuántica de Taygeta](https://swaruu.org/transcripts/tecnologia-informatica-holografica-cuantica-de-taygeta) (2024-06-16; es); passages p0006, p0007, p0008. [Structured record](../../records/src-beb2c96534c2.json).
+
+### src-6661d9036d1b-c01
+
+Mari describes total-immersion communication as highly realistic virtual reality used for remote presence, shared entertainment, training, and education, controlled through thought-computer, verbal, and tactile interfaces. She says it can closely resemble reality.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Tecnología de Comunicación de Inmersión Total, Primera Parte, Aplicaciones](https://swaruu.org/transcripts/tecnologia-de-comunicacion-de-inmersion-total-primera-parte-aplicaciones) (2024-06-18; es); passages p0005, p0007, p0008, p0010, p0013, p0014. [Structured record](../../records/src-6661d9036d1b.json).
+
+### src-6661d9036d1b-c02
+
+Mari says the system supports virtual design and testing of ships, materials, and industrial products, with virtual models guiding production of physical objects.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Tecnología de Comunicación de Inmersión Total, Primera Parte, Aplicaciones](https://swaruu.org/transcripts/tecnologia-de-comunicacion-de-inmersion-total-primera-parte-aplicaciones) (2024-06-18; es); passages p0016, p0017, p0018, p0019, p0021. [Structured record](../../records/src-6661d9036d1b.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-6661d9036d1b-c03
+
+Mari says Taygeta limits computer use to protect human creativity and craft, and warns immersive virtual lives can displace real life through overuse.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Tecnología de Comunicación de Inmersión Total, Primera Parte, Aplicaciones](https://swaruu.org/transcripts/tecnologia-de-comunicacion-de-inmersion-total-primera-parte-aplicaciones) (2024-06-18; es); passages p0026, p0027, p0028, p0030, p0032. [Structured record](../../records/src-6661d9036d1b.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-6132d2375df6-c01
+
+Swaruu (9) says a ship’s holographic computer reads its owner’s thoughts and executes commands; crew disagreement can halt it. Household devices access it through the ship computer.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 13 (Parte 2) – Mas Preguntas Relacionadas con Naves Espaciales](https://swaruu.org/transcripts/vida-interestelar-13-parte-2-mas-preguntas-relacionadas-con-naves-espaciales) (2026-06-07; es); passages p0002, p0004, p0008, p0014, p0037. [Structured record](../../records/src-6132d2375df6.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-f22366424c26-c01](moon-matrix.md#src-f22366424c26-c01) — Moon and terrestrial Matrix
@@ -553,14 +635,26 @@ Related topics: [Frequency-holding sample containers](frequency-holding-containe
 - [src-906e32a9d0d6-c05](moon-biosphere-ship.md#src-906e32a9d0d6-c05) — The Moon as a biosphere ship
 - [src-be4d6a42f7c2-c02](terrestrial-science.md#src-be4d6a42f7c2-c02) — Terrestrial science
 - [src-2c81dcc2e671-c02](moon-matrix.md#src-2c81dcc2e671-c02) — Moon and terrestrial Matrix
+- [src-2dfb4d0b258e-c03](consciousness-metaphysics.md#src-2dfb4d0b258e-c03) — Consciousness and metaphysics
+- [src-8bff2031cfbf-c04](prime-directive.md#src-8bff2031cfbf-c04) — Prime Directive
+- [src-8afe7430b1fb-c04](suzy-class-starships.md#src-8afe7430b1fb-c04) — Suzy-class starships
+- [src-beb2c96534c2-c02](starship-systems.md#src-beb2c96534c2-c02) — Starship systems
+- [src-818ff317b4f9-c01](total-immersion-simulations.md#src-818ff317b4f9-c01) — Total-immersion simulations
+- [src-5a1acd491e56-c02](starship-systems.md#src-5a1acd491e56-c02) — Starship systems
 
 ## Review flags
 
 - AI-sentience-claims
 - Alenym-retirement-not-decided
+- Claims about consciousness-based mirrors and quantum computers are attributed to Yazhi.
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
 - Core technology described as extraterrestrial; source offers no engineering measurements.
 - EMP-intervention-field-unknown
+- Metaphysical and physical models are attributed to Yazhi.
+- The source begins by framing its claims as entertainment and describes unverified extraterrestrial computing technology.
+- The source describes unverified technology and is explicitly framed as entertainment.
+- The source makes extraordinary claims about sentient spacecraft and temporal travel; all are recorded as attributed lore.
+- The transcript contains extensive allegations about Cinna and DUFES; preserve attribution and do not treat accusations as established facts.
 - Transcript combines several speakers and dates; claims preserve speaker attribution
 - ai-clone-claims-attributed
 - attributed-lore-claims

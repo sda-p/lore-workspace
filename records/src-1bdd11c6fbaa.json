@@ -1,0 +1,40 @@
+{
+  "source_id": "src-1bdd11c6fbaa",
+  "snapshot_sha256": "5dcaf20277fdc1649870a4d753ea0b02e40d6a0174d8d4ed435078cbfc06c31f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1bdd11c6fbaa-c01",
+      "assertion": "Mari’s spiritual model portrays lower-astral entities as exploiting empathic “starseeds” through manipulative people, whom she describes as narcissistic or organic portals.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0021",
+        "p0023",
+        "p0028",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "starseeds"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She particularly characterizes narcissistic mothers this way, while acknowledging loving mothers and variation among families."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source makes unsupported paranormal and mental-health generalizations, especially about narcissism and mothers; the extraction attributes these claims and avoids presenting them as clinical facts."
+  ],
+  "coverage_gaps": [
+    "the source’s broader claims about astral entities lowering starseeds’ vibration",
+    "the source’s advice about setting boundaries and self-care"
+  ]
+}

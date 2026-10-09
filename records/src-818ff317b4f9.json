@@ -1,0 +1,57 @@
+{
+  "source_id": "src-818ff317b4f9",
+  "snapshot_sha256": "6180e63cda925cb922f5898f72777cc5987adc004119f76fa43d7d102f6d1352",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-818ff317b4f9-c01",
+      "assertion": "Mari Swaruu describes an immersion system where a distant spherical drone maps an area's energy and frequency data, transmits it by muons, and a quantum computer creates a tactile, multisensory field around the user.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0019",
+        "p0020",
+        "p0025",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "holographic-computers",
+        "muonic-gravitational-communications"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She frames it as daily-use technology and entertainment."
+    },
+    {
+      "id": "src-818ff317b4f9-c02",
+      "assertion": "Mari Swaruu says users remain physically in place while experiencing simulated movement; ship or building installations can operate without a drone, which she says is needed in unequipped locations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0028"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says it is common in Taygeta."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source describes unverified technology and is explicitly framed as entertainment."
+  ],
+  "coverage_gaps": [
+    "The video also describes avatar projection at a remote site, medical immersion pods, and mental-health uses for separated crews."
+  ]
+}

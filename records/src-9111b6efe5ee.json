@@ -1,0 +1,90 @@
+{
+  "source_id": "src-9111b6efe5ee",
+  "snapshot_sha256": "385330cfbf0cfc5a49c5cabe999e13328fceb2c6fde5468ae1e55fb76ccb8dca",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9111b6efe5ee-c01",
+      "assertion": "Mari says criminal dissidents may flee holistic societies in starships and establish settlements that raid nearby worlds and vessels.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9111b6efe5ee-c02",
+      "assertion": "Mari describes high-temperature tunnelers that melt rock for subterranean bases and can hollow asteroids into concealed ships.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "deep-underground-military-bases"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9111b6efe5ee-c03",
+      "assertion": "Mari argues morality depends on individual actions and interests, not species; any lineage can include good or harmful people.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "reptilians",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9111b6efe5ee-c04",
+      "assertion": "Mari says emerging civilizations may join the Federation for protection from pirates, who are rare in heavily patrolled Earth orbit.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "her account of personal perception, dimensionality, and pirate raids on preindustrial worlds"
+  ]
+}

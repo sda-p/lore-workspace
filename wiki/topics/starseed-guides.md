@@ -92,6 +92,16 @@ Source: [El Inconsciente Colectivo](https://swaruu.org/transcripts/el-inconscien
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-30dde9581dd8-c01
+
+Mari says spirit guides, sometimes a person's higher self, help preserve a preselected life plan with some possible variations. She says guides communicate telepathically and may act through other people.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Nunca estás realmente solo, Parte 2](https://swaruu.org/transcripts/nunca-estas-realmente-solo-parte-2) (2023-12-25; es); passages p0006, p0007, p0009, p0010, p0016. [Structured record](../../records/src-30dde9581dd8.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
 ## Claims filed under other topics
 
 - [src-5e8b4d828ea6-c03](taygetans.md#src-5e8b4d828ea6-c03) — Taygetans
@@ -101,6 +111,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
 ## Review flags
 
+- Claims about spirit guides, telepathy, and hostile astral entities are attributed to Mari.
 - Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
 - The author explicitly invited readers to treat the content as fiction or entertainment.
 - account attributes extraterrestrial intervention programs and starseed mechanisms to Yazhi; claims are unverified

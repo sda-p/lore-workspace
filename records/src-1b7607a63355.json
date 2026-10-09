@@ -1,0 +1,41 @@
+{
+  "source_id": "src-1b7607a63355",
+  "snapshot_sha256": "b82ced54db0beed7de5afd95ef76f21a07466c2d8a3114cba42b166b49671dbd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1b7607a63355-c01",
+      "assertion": "Mari’s speculative gravity model treats gravity as a flow of consciousness through the ether; she says concentrated flows form mass and make primordial physical objects spherical.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "etheric-gravity-model",
+      "topics": [
+        "etheric-gravity-model"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She contrasts this with the conventional account that mass generates gravity."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "etheric-gravity-model",
+      "name": "Etheric gravity model",
+      "kind": "cosmology",
+      "aliases": []
+    }
+  ],
+  "review_flags": [
+    "source includes unsupported conspiracy claims about science, history, and Earth-shape narratives; excluded from this extraction"
+  ],
+  "coverage_gaps": [
+    "the author’s flat-Earth disinformation claims",
+    "conventional spherical-Earth evidence discussed in the video"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "source_id": "src-44dc8e3179b9",
+  "snapshot_sha256": "212327cd0d88c0c4178e0b08dca8fc8bcc056b6e45c55cfb9c92cfa9059d2478",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-44dc8e3179b9-c01",
+      "assertion": "Mari says Galactic Federation funds for the Taygeteans stopped after Alenym’s advisers rejected new demands requiring her personal exposure at Viera.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans",
+        "viera"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-44dc8e3179b9-c02",
+      "assertion": "Mari says her Taygetean CIC team helps translate, edit, produce, and publish her videos, while she handles English audio and channel management.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-44dc8e3179b9-c03",
+      "assertion": "The Taygetean CIC says Alenym considers Mari her successor; Mari has begun intensive study and added responsibility for the crew’s needs.",
+      "speaker": "Taygetean CIC",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The team’s message links channel support to crew supplies and safety."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about Federation funding and Mari’s succession are attributed to Mari or the Taygetean CIC."
+  ],
+  "coverage_gaps": [
+    "the claim that voice filtering is imposed under the First Directive",
+    "the channel’s audience and the CIC appreciation message"
+  ]
+}

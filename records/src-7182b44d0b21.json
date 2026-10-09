@@ -1,0 +1,62 @@
+{
+  "source_id": "src-7182b44d0b21",
+  "snapshot_sha256": "c08867b3468161f8250e954994a4e1f70f0536ba5a7f255a0e8b4fc0866ab3a3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7182b44d0b21-c01",
+      "assertion": "Athena says Yazhi attributed her catatonia and the external chaos to psychic attack, blaming lowered astral defenses.",
+      "speaker": "Swaruu X (Athena), reporting Yazhi",
+      "paragraph_ids": [
+        "p0051"
+      ],
+      "primary_topic": "astral-travel",
+      "topics": [
+        "astral-travel",
+        "interdimensional-parasites",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7182b44d0b21-c02",
+      "assertion": "Athena says some crew members considered human contact harmful and wanted it stopped; she says their actions increased stress and division.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0031",
+        "p0035"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7182b44d0b21-c03",
+      "assertion": "Athena reports Yazhi’s view that all people are aspects of her, ultimately one with Source, and separate identities are illusory.",
+      "speaker": "Swaruu X (Athena), reporting Yazhi",
+      "paragraph_ids": [
+        "p0053"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "original-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other passages cover the private video and its reception, the conflict's background, and crew members' differing views."
+  ]
+}

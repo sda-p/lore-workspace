@@ -1,0 +1,73 @@
+{
+  "source_id": "src-6b8c0befd4ce",
+  "snapshot_sha256": "05ae5a78bc926589a9e8eb7c4f05898b7674708d88a7263d06130115ff8de633",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6b8c0befd4ce-c01",
+      "assertion": "Yazhi says Taygetean social-media participants will remain unidentified, embedding ideas and values to guide society positively rather than initiate extraterrestrial contact.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0026",
+        "p0028",
+        "p0038"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6b8c0befd4ce-c02",
+      "assertion": "Yazhi says participants may post across platforms and countries, but must train themselves to avoid revealing their knowledge or identity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0032",
+        "p0034",
+        "p0036",
+        "p0040"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "extraterrestrial-contact"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6b8c0befd4ce-c03",
+      "assertion": "Yazhi says sharing advanced technology would violate the Prime Directive; she describes the project as a new way to influence Earth’s Matrix from within.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0042",
+        "p0044",
+        "p0046"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "taygetans",
+        "planetary-matrix-resets"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the effects add up but are less effective than incarnating as a human starseed."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about a Taygetean social-media project are attributed to Yazhi and not independently established."
+  ],
+  "coverage_gaps": [
+    "the Muon-based interstellar internet",
+    "the reported ship populations and project scale"
+  ]
+}

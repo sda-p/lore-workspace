@@ -1,0 +1,36 @@
+{
+  "source_id": "src-376885ee0493",
+  "snapshot_sha256": "fda8b3fbf5e2f9686977546a12016ab811400e43ea4dc453314bd2f2137a885e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-376885ee0493-c01",
+      "assertion": "Athena Swaruu says ancient Egyptians inherited a Federation-linked city and infrastructure, including pyramids and underground levels.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": ["p0041", "p0045", "p0047", "p0072"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "atlantis-lemuria"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She contrasts this with conventional Egyptian history."
+    },
+    {
+      "id": "src-376885ee0493-c02",
+      "assertion": "Athena describes pyramids as atmospheric-energy reactors and says their narrow passages served maintenance rather than rituals.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": ["p0009", "p0011", "p0095", "p0097"],
+      "primary_topic": "starship-systems",
+      "topics": ["starship-systems", "atlantis-lemuria"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is an unverified alternative-history and technology claim."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The discussion contains unverified claims about ancient Egypt, underground bases, and pyramid technology."
+  ],
+  "coverage_gaps": [
+    "Other passages discuss alleged inner-Earth passages and interpretations of Egyptian rulers and symbols."
+  ]
+}

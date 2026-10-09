@@ -1,0 +1,53 @@
+{
+  "source_id": "src-036cd2f853c6",
+  "snapshot_sha256": "3cacd0fa8eadeada3153a02e7359411f7fd0771dd77c82facdc5154ccb2dff55",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-036cd2f853c6-c01",
+      "assertion": "Mari Swa describes Sadicleya as a purpose-built Toleka-class Mark 2 yacht, 30% larger than Mark 1, with two indoor park decks containing a lake, beach, and model Taygetan and human towns under simulated climates.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0012",
+        "p0014",
+        "p0016",
+        "p0020",
+        "p0015"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She describes these as leisure environments and a human-settlement training space."
+    },
+    {
+      "id": "src-036cd2f853c6-c02",
+      "assertion": "Mari Swa says Mark 2 adds improved pneumatic doors and shipwide wireless electricity and moves the main water tanks below after earlier leaks in Ritol and Toleka.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "taygetan-wireless-power-grid"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents these as upgrades over Mark 1."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source is a first-person description of unverified spacecraft design."
+  ],
+  "coverage_gaps": [
+    "The account also compares Toleka's conversion into a queen's yacht and describes the indoor agricultural and solarium spaces."
+  ]
+}

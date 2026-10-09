@@ -1,0 +1,242 @@
+{
+  "batch_id": "continuous-019",
+  "reviewer": 1,
+  "reviewed_source_ids": [
+    "src-bc90a28d3260",
+    "src-febfd3115d54",
+    "src-e199916654ef",
+    "src-f21197da8edc",
+    "src-c59b5aacbe03",
+    "src-c3fbe6d57df9",
+    "src-27320216da18",
+    "src-3515c1d5e5af",
+    "src-9fe31867478a",
+    "src-65d76dd19e45",
+    "src-878fcdc382ad",
+    "src-f800679ac838",
+    "src-f7ed383444ff",
+    "src-b5287bde7dbd",
+    "src-36d1c2cc2b42",
+    "src-68aff81d2865",
+    "src-d9447e9bc7cb",
+    "src-ba636b6b0a32",
+    "src-90b312a2313e",
+    "src-4603aaa764e8",
+    "src-706e33985c24",
+    "src-410360813ac6",
+    "src-2dfb4d0b258e",
+    "src-5d1072c7f701",
+    "src-a08a91afe77a",
+    "src-48d158152f65",
+    "src-61705721c8a4",
+    "src-9ba9fd3c5196",
+    "src-dc11ccfaa156",
+    "src-23338fda8765",
+    "src-970412680838",
+    "src-d1946d4d6179",
+    "src-c4b9d7cc5da7",
+    "src-cc22fe9b0951",
+    "src-98a32eb0aec0",
+    "src-cf077618db34",
+    "src-6b93fc9acdf1",
+    "src-122cf2f1788a",
+    "src-844eb80ca26a",
+    "src-f5e242746230",
+    "src-4e1219d918f8",
+    "src-f4f832e0b846",
+    "src-8ee420a4a174",
+    "src-459adec9f429",
+    "src-30dde9581dd8",
+    "src-1e3db31a154c",
+    "src-012423a73157",
+    "src-6686d72d7b77",
+    "src-9d22c8ed0ce3",
+    "src-9111b6efe5ee",
+    "src-ecffdc685a7f",
+    "src-77c972071063",
+    "src-66fa7120be60",
+    "src-013f3b7ef0b7",
+    "src-10384d9b6430",
+    "src-94a76cc92296",
+    "src-71a373d209fe",
+    "src-e50e737a17f6",
+    "src-156e62aff826",
+    "src-701161a49196",
+    "src-bf51bc11a750",
+    "src-e65d20a8cc55",
+    "src-f1b422bf071c",
+    "src-2f81be695f91",
+    "src-3a088ee3f235",
+    "src-44e5587f249c",
+    "src-1b7607a63355",
+    "src-4e95fb5ac87a",
+    "src-c51952aaa5b9",
+    "src-d54e1ca307fe",
+    "src-1bdd11c6fbaa",
+    "src-d40d0c81cfc7",
+    "src-bc06a6f6252f",
+    "src-88b1b2aa8184",
+    "src-321671be4604",
+    "src-9ce83f769cba",
+    "src-44dc8e3179b9",
+    "src-4653f0e2c815",
+    "src-0163d8ab9901",
+    "src-6b8c0befd4ce"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-36d1c2cc2b42",
+      "claim_id": "src-36d1c2cc2b42-c02",
+      "problem": "“Main executors” is not supported by the cited text, which says Centauri are most numerous near Earth; the Antarian patrol detail is supported.",
+      "action": "Rephrased to the documented relative numbers and patrol role.",
+      "paragraph_ids": [
+        "p0019",
+        "p0022"
+      ]
+    },
+    {
+      "source_id": "src-36d1c2cc2b42",
+      "claim_id": "src-36d1c2cc2b42-c03",
+      "problem": "The cited paragraphs do not support the claim about protecting starseeds or a cooperation treaty.",
+      "action": "Restricted the claim to Urmah’s continued Federation membership, disagreement, militarization, and directness about intentions.",
+      "paragraph_ids": [
+        "p0029",
+        "p0031"
+      ]
+    },
+    {
+      "source_id": "src-c3fbe6d57df9",
+      "claim_id": "src-c3fbe6d57df9-c03",
+      "problem": "The cited passages did not include the source’s explicit spiral-like timeline description.",
+      "action": "Added the direct passage describing repeated jumps as a spiral along other time axes.",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0032"
+      ]
+    },
+    {
+      "source_id": "src-e199916654ef",
+      "claim_id": "src-e199916654ef-c03",
+      "problem": "The qualifier that no one was injured was uncited.",
+      "action": "Added Mari’s direct statement that no one was injured.",
+      "paragraph_ids": [
+        "p0041"
+      ]
+    },
+    {
+      "source_id": "src-b5287bde7dbd",
+      "claim_id": "src-b5287bde7dbd-c02",
+      "problem": "“Across communities and species” overstates the selected evidence, which focuses on groups and Lyrian telepathy.",
+      "action": "Reframed as collective ideas coordinated by a group field and ether-mediated contact independent of distance.",
+      "paragraph_ids": [
+        "p0016",
+        "p0019",
+        "p0023"
+      ]
+    },
+    {
+      "source_id": "src-b5287bde7dbd",
+      "claim_id": "src-b5287bde7dbd-c03",
+      "problem": "“Transmitting new interpretations” is not stated in the cited passages.",
+      "action": "Rephrased to the source’s claims that distinct vibration and actions affect the surrounding field.",
+      "paragraph_ids": [
+        "p0020",
+        "p0022",
+        "p0027"
+      ]
+    },
+    {
+      "source_id": "src-bc90a28d3260",
+      "claim_id": "src-bc90a28d3260-c02",
+      "problem": "The claim attributed avoiding military action only to preventing wider war and omitted Athena’s stated concern for Earth’s population.",
+      "action": "Added her answer explaining protection of Earth’s population as a reason Urmah avoid military action.",
+      "paragraph_ids": [
+        "p0092"
+      ]
+    },
+    {
+      "source_id": "src-d9447e9bc7cb",
+      "claim_id": "src-d9447e9bc7cb-c02",
+      "problem": "The paraphrase lacked cited context that Occam’s razor needs understanding of the event and that paranormal cases involve different realms with distinct rules.",
+      "action": "Added the supporting caveats and examples.",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027"
+      ]
+    },
+    {
+      "source_id": "src-90b312a2313e",
+      "claim_id": "src-90b312a2313e-c01",
+      "problem": "The gravity-beam method was not cited.",
+      "action": "Added the paragraph explicitly describing modulated gravity beams.",
+      "paragraph_ids": [
+        "p0015"
+      ]
+    },
+    {
+      "source_id": "src-71a373d209fe",
+      "claim_id": "src-71a373d209fe-c01–c04",
+      "problem": "A post-release readback found that the record’s earlier claims described unrelated astral-warfare content and did not match this snapshot. This was a material source-to-record mismatch.",
+      "action": "Removed the mismatched claims and fully re-reviewed the snapshot. Rebuilt four claims from the actual passages on expanded identity, duality and self-change, collective choice, and astral/dream identity; validated citations and the repaired record. Incident resolved.",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008",
+        "p0009",
+        "p0011",
+        "p0012",
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0028",
+        "p0051",
+        "p0059",
+        "p0061",
+        "p0062",
+        "p0063",
+        "p0067",
+        "p0071",
+        "p0076",
+        "p0080",
+        "p0082",
+        "p0083"
+      ]
+    },
+    {
+      "source_id": "src-44e5587f249c",
+      "claim_id": "src-44e5587f249c-c01",
+      "problem": "The claim omitted the source’s qualification that nonsentient computers may still have a limited lower-astral presence through human projection.",
+      "action": "Added the limitation and supporting passages to distinguish indirect presence from direct astral access.",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0012",
+        "p0013"
+      ]
+    },
+    {
+      "source_id": "src-1bdd11c6fbaa",
+      "claim_id": "src-1bdd11c6fbaa-c01",
+      "problem": "The claim was tagged as elementals, but its subject is alleged astral exploitation of starseeds through manipulative people; elementals are not discussed.",
+      "action": "Changed its topic to astral-entities and starseeds.",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0021",
+        "p0023",
+        "p0028",
+        "p0030",
+        "p0031"
+      ]
+    }
+  ],
+  "unresolved": []
+}

@@ -1,0 +1,75 @@
+{
+  "source_id": "src-d40d0c81cfc7",
+  "snapshot_sha256": "af43669c5592f79e7f64641ac0b66a7421331063b719d0b649e2ceb78cb3e078",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d40d0c81cfc7-c01",
+      "assertion": "Swaruu X (Athena) argues Earth is spherical, citing constellation observations across hemispheres, measured gravity and mass, and geometric calculations.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0010",
+        "p0016",
+        "p0017",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d40d0c81cfc7-c02",
+      "assertion": "Athena says flat-Earth ideas are a manipulated agenda that distracts conspiracy-minded audiences from stars and extraterrestrial topics.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0028"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d40d0c81cfc7-c03",
+      "assertion": "Yazhi says flat-Earth claims are disinformation that can discredit extraterrestrials; she says whole-Earth photos are absent because spacecraft have not gone far enough.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0044",
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She acknowledges NASA lies but rejects flat Earth."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about Earth shape, NASA, and extraterrestrial disinformation are attributed to Athena or Yazhi, not established facts.",
+    "The article combines separate conversations and speakers."
+  ],
+  "coverage_gaps": [
+    "optical refraction and atmospheric effects",
+    "the gravitational and water-curvature arguments"
+  ]
+}

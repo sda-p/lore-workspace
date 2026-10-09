@@ -288,6 +288,124 @@ Attributed to **Yazhi**; reported; extraction confidence: medium.
 
 Source: [CONVERSACIONES EXTRATERRESTRES ARQUEOLOGÍA - Monte Bucegi - Sophia Swaruu](https://swaruu.org/transcripts/conversaciones-extraterrestres-arqueologia-monte-bucegi-sophia-swaruu) (2022-07-27; es); passages p0032, p0033, p0034. [Structured record](../../records/src-fc02a9d40d9c.json).
 
+### src-848c84c2deeb-c02
+
+Mari reports a damaged, 2-km uncrewed ship, believed possibly Lemurian, was placed in high Earth orbit; it may have drifted there under automated return programming. Its origin and history remain uncertain.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Noticias espaciales 23, 11 de mayo de 2024. 500 Videos. Mari-16](https://swaruu.org/transcripts/noticias-espaciales-23-11-de-mayo-de-2024-500-videos-mari-16) (2024-05-12; es); passages p0012, p0013, p0014, p0015. [Structured record](../../records/src-848c84c2deeb.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-1fea626a42d3-c02
+
+Anéeka says Federation and M45 visitors helped rebuild post-Tiamat Egypt, with a Giza base and starport by 12,500 BCE.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Antiguo Egipto (2) - Homo Capensis - Presencia Extraterrestre en la Tierra (Akhenaten/Nefertiti)](https://swaruu.org/transcripts/antiguo-egipto-2-homo-capensis-presencia-extraterrestre-en-la-tierra-akhenaten-nefertiti) (2025-02-02; es); passages p0009, p0010. [Structured record](../../records/src-1fea626a42d3.json).
+
+Related topics: [Tiamat](tiamat.md), [Galactic Federation](galactic-federation.md).
+
+### src-1fea626a42d3-c03
+
+Swaruu says Akhenaten and Nefertiti imposed solar monotheism; their expulsion inspired the Exodus story.
+
+Attributed to **Swaruu (9); Anéeka**; reported; extraction confidence: high.
+
+Source: [Antiguo Egipto (2) - Homo Capensis - Presencia Extraterrestre en la Tierra (Akhenaten/Nefertiti)](https://swaruu.org/transcripts/antiguo-egipto-2-homo-capensis-presencia-extraterrestre-en-la-tierra-akhenaten-nefertiti) (2025-02-02; es); passages p0012, p0018, p0019. [Structured record](../../records/src-1fea626a42d3.json).
+
+### src-f2ce50705052-c01
+
+Swaruu (9) says Akhenaten's Egyptian followers dispersed to Sinai, Italy, Spain, Ireland, and Scotland; a later expedition founded Celtic culture.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Antiguo Egipto (3) - Meritaten, Exodus, Escocia, Cabal - Swaruu de Erra](https://swaruu.org/transcripts/antiguo-egipto-3-meritaten-exodus-escocia-cabal-swaruu-de-erra) (2025-02-10; es); passages p0003, p0004, p0007, p0016, p0019, p0021. [Structured record](../../records/src-f2ce50705052.json).
+
+Related topics: [Atlantes](atlantes.md).
+
+### src-f2ce50705052-c02
+
+Swaruu (9) identifies herself as Meritaten, saying she joined an Egypt-to-Scotland expedition and lived that life twice. She says her second incarnation anticipated her assassination.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Antiguo Egipto (3) - Meritaten, Exodus, Escocia, Cabal - Swaruu de Erra](https://swaruu.org/transcripts/antiguo-egipto-3-meritaten-exodus-escocia-cabal-swaruu-de-erra) (2025-02-10; es); passages p0017, p0018, p0021, p0023, p0027. [Structured record](../../records/src-f2ce50705052.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md), [Sand Clock](sand-clock.md).
+
+### src-1bea1cb4c06c-c01
+
+The compilation claims Osiris was Taygetan and taught agriculture and Nile-water management to ancient people. It presents Egyptian gods as nonhuman historical people later mythologized.
+
+Attributed to **Agencia Cósmica compilation**; asserted; extraction confidence: high.
+
+Source: [Osiris, Ojo de Horus, Asuntos Antiguos Egipcios - Gente Extraterrestre](https://swaruu.org/transcripts/osiris-ojo-de-horus-asuntos-antiguos-egipcios-gente-extraterrestre) (2025-04-14; es); passages p0003, p0005, p0006. [Structured record](../../records/src-1bea1cb4c06c.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-1bea1cb4c06c-c02
+
+The compilation says the Galactic Federation built a space base at Giza, with pyramids serving as an energy source.
+
+Attributed to **Agencia Cósmica compilation**; asserted; extraction confidence: high.
+
+Source: [Osiris, Ojo de Horus, Asuntos Antiguos Egipcios - Gente Extraterrestre](https://swaruu.org/transcripts/osiris-ojo-de-horus-asuntos-antiguos-egipcios-gente-extraterrestre) (2025-04-14; es); passages p0004, p0006. [Structured record](../../records/src-1bea1cb4c06c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Pyramid energy and portal network](pyramid-network.md).
+
+### src-1bea1cb4c06c-c03
+
+The compilation identifies Horus as a Taygetan orbital spacecraft and the Eye of Horus as a low-orbit craft observed from Earth. It interprets the symbol's features as the craft's sensors, trajectory, and atmospheric glow.
+
+Attributed to **Agencia Cósmica compilation**; asserted; extraction confidence: high.
+
+Source: [Osiris, Ojo de Horus, Asuntos Antiguos Egipcios - Gente Extraterrestre](https://swaruu.org/transcripts/osiris-ojo-de-horus-asuntos-antiguos-egipcios-gente-extraterrestre) (2025-04-14; es); passages p0008, p0009, p0010. [Structured record](../../records/src-1bea1cb4c06c.json).
+
+Related topics: [Starship systems](starship-systems.md), [Taygetans](taygetans.md).
+
+### src-599770c5705f-c02
+
+Yazhi says major pyramids are genuine, while many temple ornaments and some reconstructions were rearranged or fabricated to rewrite history and promote tourism. These are her claims.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Antiguo Egipto (5) - Misterios Egipcios - Preguntas (Athena Swaruu)](https://swaruu.org/transcripts/antiguo-egipto-5-misterios-egipcios-preguntas-athena-swaruu) (2025-03-18; es); passages p0030, p0031, p0032, p0041. [Structured record](../../records/src-599770c5705f.json).
+
+Related topics: [Great Pyramid of Giza](great-pyramid-of-giza.md).
+
+### src-034d05cf853e-c01
+
+Swaruu 9 and Dhor describe post-Tiamat Egypt as an interstellar Federation port where star races guided Lyrian natives; they say the First Directive did not apply.
+
+Attributed to **Swaruu 9; Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Antiguo Egipto (1) - Extraterrestres Entre los Humanos](https://swaruu.org/transcripts/antiguo-egipto-1-extraterrestres-entre-los-humanos) (2025-01-20; es); passages p0003, p0004, p0015, p0016, p0018. [Structured record](../../records/src-034d05cf853e.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-034d05cf853e-c02
+
+Dhor says Egypt’s interstellar era declined as Reptilian influence grew around Akhenaton and Nefertiti, driving other star races away.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Antiguo Egipto (1) - Extraterrestres Entre los Humanos](https://swaruu.org/transcripts/antiguo-egipto-1-extraterrestres-entre-los-humanos) (2025-01-20; es); passages p0022, p0024, p0026, p0028, p0030. [Structured record](../../records/src-034d05cf853e.json).
+
+Related topics: [Reptilians](reptilians.md).
+
+### src-034d05cf853e-c03
+
+Swaruu 9 says ancient people viewed star visitors as gods because of their technology, and myths exaggerated them; she identifies Horus as a spacecraft. She links it to Ishtar and Osiris.
+
+Attributed to **Swaruu 9**; asserted; extraction confidence: high.
+
+Source: [Antiguo Egipto (1) - Extraterrestres Entre los Humanos](https://swaruu.org/transcripts/antiguo-egipto-1-extraterrestres-entre-los-humanos) (2025-01-20; es); passages p0010, p0011, p0012, p0035, p0037, p0039. [Structured record](../../records/src-034d05cf853e.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-45ef563e0d5a-c03](prime-directive.md#src-45ef563e0d5a-c03) — Prime Directive
@@ -318,15 +436,23 @@ Source: [CONVERSACIONES EXTRATERRESTRES ARQUEOLOGÍA - Monte Bucegi - Sophia Swa
 - [src-1b58a21e9def-c01](pyramid-network.md#src-1b58a21e9def-c01) — Pyramid energy and portal network
 - [src-1b58a21e9def-c02](artificial-portals.md#src-1b58a21e9def-c02) — Artificial portals
 - [src-1b58a21e9def-c03](atlantean-zero-point-pyramids.md#src-1b58a21e9def-c03) — Atlantean zero-point pyramids
+- [src-66fa7120be60-c03](engan-people.md#src-66fa7120be60-c03) — Engan people
+- [src-a431c798e8b4-c01](atlantis-lemuria.md#src-a431c798e8b4-c01) — Atlantis and Lemuria
+- [src-599770c5705f-c01](pyramid-network.md#src-599770c5705f-c01) — Pyramid energy and portal network
+- [src-599770c5705f-c03](natural-portals.md#src-599770c5705f-c03) — Natural and artificial portals
 
 ## Review flags
 
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
 - Eye of Horus interpretation is attributed to Swaruu 9.
+- Historical claims about Engan influence on Earth are Mari's account, not independently established.
 - Opening Atlantis chronology is Robert’s condensed paraphrase of Swaruu, not a direct quotation. No equivalent English follow-up identified; related longer Enki/Enlil articles are distinct.
 - Snapshot is an unattributed compilation; claims are not assigned to a specific Swaruu speaker
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
+- The speaker's historical and reincarnation accounts are her claims, not independently corroborated.
+- The transcript gives several speculative ancient-history identifications; preserve speaker-specific attribution and uncertainty.
 - These are attributed dialogue claims; terminology for Hyades varies by convention
+- This brief compilation presents speculative historical identifications without identifying an individual speaker; claims are attributed to the source compilation.
 - alternative-history-claims-attributed
 - ancient-history-reinterpretation
 - ancient-site-claims-attributed

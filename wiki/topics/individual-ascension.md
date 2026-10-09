@@ -132,6 +132,76 @@ Source: [EL MAL DE EXTRATERRESTRES LA MATRIX Y SUS FRECUENCIAS](https://swaruu.o
 
 Related topics: [Shadow Work](shadow-work.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-012423a73157-c01
+
+Athena says Earth’s ascension is relative to the perspectives and experiences of groups, especially positive starseeds, rather than an absolute planetary change. She associates it with improved living conditions and a population vibration compatible with that change.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: ["Agenda" Positiva - Parte 1 - Conversación con Athena Swaruu (Contacto Extraterrestre)](https://swaruu.org/transcripts/agenda-positiva-parte-1-conversacion-con-athena-swaruu-contacto-extraterrestre) (2023-12-27; es); passages p0012, p0014, p0016. [Structured record](../../records/src-012423a73157.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1e3db31a154c-c01
+
+Mari defines ascension as a state of consciousness rather than movement to a physical higher-density place.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Ascensión](https://swaruu.org/transcripts/ascension) (2023-12-15; es); passages p0017, p0025, p0026. [Structured record](../../records/src-1e3db31a154c.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-1e3db31a154c-c03
+
+Mari urges people to embody the world they want through personal action, saying collective awakening can shift Earth's dominant vibration.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Ascensión](https://swaruu.org/transcripts/ascension) (2023-12-15; es); passages p0018, p0019, p0020, p0028, p0030, p0034. [Structured record](../../records/src-1e3db31a154c.json).
+
+Related topics: [Collective timeline influence](collective-timeline-influence.md).
+
+### src-1e3db31a154c-c04
+
+Mari warns that promised imminent ascension can encourage passive waiting, though she says the concept has a real basis. She distinguishes her interpretation from claims of a physical Earth split.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Ascensión](https://swaruu.org/transcripts/ascension) (2023-12-15; es); passages p0009, p0010, p0015, p0018, p0024. [Structured record](../../records/src-1e3db31a154c.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-6686d72d7b77-c03
+
+Mari says habitual subconscious patterns can resist conscious change, so she recommends barriers that limit harmful behavior.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [La Ley de la Atracción, Conviértete en la mejor versión de ti mismo](https://swaruu.org/transcripts/la-ley-de-la-atraccion-conviertete-en-la-mejor-version-de-ti-mismo) (2023-12-29; es); passages p0024, p0025, p0026, p0027. [Structured record](../../records/src-6686d72d7b77.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-bbcda30708c9-c04
+
+Mari counters that suffering can trap souls in a cycle of further suffering, while more evolved souls may grow through peace.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Reporte de Gori'el, Por qué la Tierra debe mantenerse como está, según la Federación Galáctica](https://swaruu.org/transcripts/reporte-de-gori-el-por-que-la-tierra-debe-mantenerse-como-esta-segun-la-federacion-galactica) (2024-07-05; es); passages p0023, p0024, p0025. [Structured record](../../records/src-bbcda30708c9.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f6679288cfba-c02
+
+Athena says planetary ascension is relative to each observer, especially positive starseeds, and linked to improved collective life and vibration.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [NO ES NECESARIO SUFRIR PARA AVANZAR - ATHENA SWARUU](https://swaruu.org/transcripts/no-es-necesario-sufrir-para-avanzar-athena-swaruu) (2024-09-04; es); passages p0012, p0014, p0016. [Structured record](../../records/src-f6679288cfba.json).
+
+Related topics: [Starseeds](starseeds.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-12823666aeee-c02](holistic-society.md#src-12823666aeee-c02) — Holistic society
@@ -140,10 +210,25 @@ Related topics: [Shadow Work](shadow-work.md), [Consciousness and metaphysics](c
 - [src-39d2bef39243-c03](starseeds.md#src-39d2bef39243-c03) — Starseeds
 - [src-5dcb0e2a993c-c01](consciousness-metaphysics.md#src-5dcb0e2a993c-c01) — Consciousness and metaphysics
 - [src-d834e6dbdec7-c03](starseeds.md#src-d834e6dbdec7-c03) — Starseeds
+- [src-71a373d209fe-c02](consciousness-metaphysics.md#src-71a373d209fe-c02) — Consciousness and metaphysics
+- [src-6686d72d7b77-c01](consciousness-metaphysics.md#src-6686d72d7b77-c01) — Consciousness and metaphysics
+- [src-6686d72d7b77-c02](consciousness-metaphysics.md#src-6686d72d7b77-c02) — Consciousness and metaphysics
+- [src-6686d72d7b77-c04](holistic-society.md#src-6686d72d7b77-c04) — Holistic society
+- [src-ecffdc685a7f-c02](reincarnation-cycles.md#src-ecffdc685a7f-c02) — Reincarnation and karmic cycles
+- [src-10384d9b6430-c01](galactic-federation.md#src-10384d9b6430-c01) — Galactic Federation
+- [src-10384d9b6430-c02](galactic-federation.md#src-10384d9b6430-c02) — Galactic Federation
+- [src-10384d9b6430-c03](holistic-society.md#src-10384d9b6430-c03) — Holistic society
+- [src-bbcda30708c9-c01](galactic-federation.md#src-bbcda30708c9-c01) — Galactic Federation
+- [src-6651f8ddc19a-c04](consciousness-metaphysics.md#src-6651f8ddc19a-c04) — Consciousness and metaphysics
 
 ## Review flags
 
 - Anéeka distinguishes her perspective on awakening from Yazhi’s expanded account.
 - Contains speaker claims about illness causation and cancer; preserve attribution.
+- Metaphysical claims about identity, duality, collective timelines, and astral experience reflect the speakers’ views.
+- Reincarnation and afterlife claims are attributed to Mari; she acknowledges differing interpretations.
 - Spiritual interpretations and timeline claims are attributed to Za’el, not independently verified.
+- The Federation's rationale is reported by Mari; she questions its ethics and does not endorse all its conduct.
+- The Federation's stated rationale is relayed by Mari from Gori'el's account of the conference; it is not endorsed as fact.
+- Yazhi's account of the pod outcome conflicts with Alenym's observation of her apparent age; the transcript does not resolve this.
 - lore-claims-attributed-to-Yazhi

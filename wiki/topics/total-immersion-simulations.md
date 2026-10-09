@@ -166,6 +166,76 @@ Source: [Pods de Inmersiones - Entretenimiento y Entrada en la Tierra](https://s
 
 Related topics: [Walk-in phenomenon](walk-in-phenomenon.md).
 
+### src-e4d9d208cc31-c01
+
+Swaruu (9) describes a full-immersion temporal-travel simulation from Toleka to Bronze Age Scotland, emphasizing that no actual journey occurred. She says the computer simulated events using historical data, while some outcomes remained unpredictable.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 5B - Mas Anécdotas de la Vida en la Nave Extraterrestre - Taygeta (Pléyades)](https://swaruu.org/transcripts/vida-interestelar-5b-mas-anecdotas-de-la-vida-en-la-nave-extraterrestre-taygeta-pleyades) (2024-03-22; es); passages p0054, p0056, p0064, p0068. [Structured record](../../records/src-e4d9d208cc31.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md), [Starship systems](starship-systems.md).
+
+### src-e4d9d208cc31-c02
+
+Swaruu (9) says participants remained awake in a sealed Toleka room, where gravity manipulation suspended their bodies during immersive movement. She says participants felt like they were walking through the simulated destination.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 5B - Mas Anécdotas de la Vida en la Nave Extraterrestre - Taygeta (Pléyades)](https://swaruu.org/transcripts/vida-interestelar-5b-mas-anecdotas-de-la-vida-en-la-nave-extraterrestre-taygeta-pleyades) (2024-03-22; es); passages p0073, p0074, p0076, p0078, p0080, p0083. [Structured record](../../records/src-e4d9d208cc31.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-61c94d4f2880-c01
+
+Mari describes an immersive room projecting distant locations so users can appear to visit without travel.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Tecnología de Comunicación de Inmersión Total, Segunda Parte](https://swaruu.org/transcripts/tecnologia-de-comunicacion-de-inmersion-total-segunda-parte) (2024-06-28; es); passages p0004, p0005, p0006. [Structured record](../../records/src-61c94d4f2880.json).
+
+Related topics: [Remote-presence technology](remote-presence-technology.md).
+
+### src-61c94d4f2880-c04
+
+Mari says the older system reproduces sound, temperature, wind, and smells but has noticeable flaws. She says it was obsolete aboard Toleka.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Tecnología de Comunicación de Inmersión Total, Segunda Parte](https://swaruu.org/transcripts/tecnologia-de-comunicacion-de-inmersion-total-segunda-parte) (2024-06-28; es); passages p0016, p0017, p0020, p0021. [Structured record](../../records/src-61c94d4f2880.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-818ff317b4f9-c01
+
+Mari Swaruu describes an immersion system where a distant spherical drone maps an area's energy and frequency data, transmits it by muons, and a quantum computer creates a tactile, multisensory field around the user. She frames it as daily-use technology and entertainment.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Tecnología de Comunicación de Inmersión Total, Tercera Parte](https://swaruu.org/transcripts/tecnologia-de-comunicacion-de-inmersion-total-tercera-parte) (2024-06-30; es); passages p0006, p0007, p0008, p0009, p0010, p0019, p0020, p0025, p0029, p0030. [Structured record](../../records/src-818ff317b4f9.json).
+
+Related topics: [Holographic computers](holographic-computers.md), [Muonic gravitational communications](muonic-gravitational-communications.md).
+
+### src-818ff317b4f9-c02
+
+Mari Swaruu says users remain physically in place while experiencing simulated movement; ship or building installations can operate without a drone, which she says is needed in unequipped locations. She says it is common in Taygeta.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Tecnología de Comunicación de Inmersión Total, Tercera Parte](https://swaruu.org/transcripts/tecnologia-de-comunicacion-de-inmersion-total-tercera-parte) (2024-06-30; es); passages p0021, p0028. [Structured record](../../records/src-818ff317b4f9.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-75592048aefd-c03
+
+Mari says she used total-immersion technology to enter Toleka City and plans a solo return using a frequency suppressor to evade detection by residents’ special glasses.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 50. Inundaciones en España, Zanahoria, Nuevos proyectos en Temmer](https://swaruu.org/transcripts/noticias-espaciales-50-inundaciones-en-espana-zanahoria-nuevos-proyectos-en-temmer) (2024-11-10; es); passages p0019, p0020, p0021, p0022. [Structured record](../../records/src-75592048aefd.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-03ea45d7d724-c03](spherical-drones.md#src-03ea45d7d724-c03) — Spherical drones
@@ -175,12 +245,15 @@ Related topics: [Walk-in phenomenon](walk-in-phenomenon.md).
 - [src-9b3780bf7fb6-c02](memory-implants.md#src-9b3780bf7fb6-c02) — Memory implants
 - [src-1b04c8518bf7-c01](starseeds.md#src-1b04c8518bf7-c01) — Starseeds
 - [src-d3e73f956099-c02](starseeds.md#src-d3e73f956099-c02) — Starseeds
+- [src-b3cba5b1ffc9-c05](starship-systems.md#src-b3cba5b1ffc9-c05) — Starship systems
 
 ## Review flags
 
 - Alenym-attack-culprit-unknown
 - Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
+- Technical descriptions and faster-than-light mechanism are attributed to the speakers.
+- The source describes unverified technology and is explicitly framed as entertainment.
 - claims-attributed-to-source-narrators
 - clone-technology-attributed
 - federation-noninterference-tension

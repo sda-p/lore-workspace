@@ -162,6 +162,16 @@ Source: [Historia Falsa, en el espacio y en la Tierra, Tartaria, Cabal, Mentiras
 
 Related topics: [Galactic Federation](galactic-federation.md), [Civilizational resets](civilizational-resets.md).
 
+### src-46bf88241861-c03
+
+Mari claims a global reset occurred in the early 19th century, destroying Tartaria, which she describes as a powerful regional nation with global influence.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Por qué no existe la Historia Real y un poco sobre lo que Sabemos](https://swaruu.org/transcripts/por-que-no-existe-la-historia-real-y-un-poco-sobre-lo-que-sabemos) (2024-02-23; es); passages p0019, p0020, p0021, p0026, p0027. [Structured record](../../records/src-46bf88241861.json).
+
+Related topics: [Civilizational resets](civilizational-resets.md).
+
 ## Claims filed under other topics
 
 - [src-5f504bef5a30-c01](terrestrial-science.md#src-5f504bef5a30-c01) — Terrestrial science

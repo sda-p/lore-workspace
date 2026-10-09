@@ -68,6 +68,16 @@ Source: [LA RAZA NEGRA Y LAS FOTOS QUE NO DEBERIAN EXISTIR DE LA ESFINGE DE GIZA
 
 Related topics: [Starseeds](starseeds.md).
 
+### src-41de776754e0-c03
+
+Athena says humans are a Lyrian-derived biological suit shared by multiple species; the Federation considers humanity already interstellar and would not permit human-style expansion beyond Earth. This is her account.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [LA FEDERACIÓN NO TIENE PORQUÉ PERMITIR QUE LA HUMANIDAD SE VUELVA INTERESTELAR](https://swaruu.org/transcripts/la-federacion-no-tiene-porque-permitir-que-la-humanidad-se-vuelva-interestelar) (2024-10-01; es); passages p0013, p0014, p0016. [Structured record](../../records/src-41de776754e0.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Lyrian cellular-body model](lyrian-cellular-body.md).
+
 ## Claims filed under other topics
 
 - [src-00bbf49a9a01-c03](venus.md#src-00bbf49a9a01-c03) — Venus

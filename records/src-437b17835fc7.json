@@ -1,0 +1,68 @@
+{
+  "source_id": "src-437b17835fc7",
+  "snapshot_sha256": "09f60f6a8c31b1193881e95e6aa73b88e1ea165a34c67a87fb1a6f5b4785d019",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-437b17835fc7-c01",
+      "assertion": "Mari says years immersed in Earth culture gave some Toleka crew more human needs, including Earth food and social interaction; she cannot digest many Taygetan plants and sugars.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-437b17835fc7-c02",
+      "assertion": "Mari describes supply runs as military missions by Hashmallim and Shinonim, using fighter craft, concealed equipment, human vehicles, and night landings.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0017",
+        "p0020",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "astral-military-units",
+      "topics": [
+        "astral-military-units",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-437b17835fc7-c03",
+      "assertion": "Mari says returned vehicles and supplies are inspected and cleaned to prevent introducing seeds, spores, or animals aboard; she cites a spider and frog found on ships.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other logistics, safehouse and legal identity details omitted"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "source_id": "src-459adec9f429",
+  "snapshot_sha256": "09744343f008f37cbda6bfdf09cfbb71ca51f5b8539d6ff35e9e66e9479b41c0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-459adec9f429-c01",
+      "assertion": "Mari says astral entities monitor people to manipulate them, while guides protect them.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-459adec9f429-c02",
+      "assertion": "Mari claims companies and governments track people through phones, cameras, and connected cars.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says collected data guides population regulation."
+    },
+    {
+      "id": "src-459adec9f429-c03",
+      "assertion": "Mari says star-faring groups use drones to monitor and protect starseeds under Federation limits.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0028",
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones",
+        "prime-directive",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Drones should remain undetected and provide only deniable aid."
+    },
+    {
+      "id": "src-459adec9f429-c04",
+      "assertion": "Mari describes visible drones as roughly 110-centimeter spheres whose electromagnetic systems heat surrounding air.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0028",
+        "p0033",
+        "p0035"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones",
+        "spherical-drones"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Their concealment is imperfect."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about astral surveillance, starseed identification, and hidden population-control agendas are attributed to Mari."
+  ],
+  "coverage_gaps": [
+    "the alleged aura-reading technology and directed-energy targeting claims"
+  ]
+}

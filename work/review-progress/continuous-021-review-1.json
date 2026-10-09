@@ -1,19 +1,27 @@
 {
   "status": "partial-not-approval",
-  "checkpointed_at": "2026-10-09T05:27:43+00:00",
+  "checkpointed_at": "2026-10-09T05:38:33+00:00",
   "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
   "review_state": {
     "batch_id": "continuous-021",
     "reviewer": 1,
     "reviewed_source_ids": [
       "src-6651f8ddc19a",
-      "src-24efda7f42eb"
+      "src-24efda7f42eb",
+      "src-71eee4d5cfe1",
+      "src-1f23f0a67470",
+      "src-a3c767e81bd3",
+      "src-6132d2375df6"
     ],
     "corrections": [],
     "unresolved": []
   },
   "record_sha256": {
     "src-6651f8ddc19a": "6110125277ade6620d4cc888d37b8f4ef9db2d5292ce50ab633c0ea105d967d2",
-    "src-24efda7f42eb": "64cb60be2b9932f48aed7e04877fab2aad3ec5fba076b5ab28fbba475151c4c5"
+    "src-24efda7f42eb": "64cb60be2b9932f48aed7e04877fab2aad3ec5fba076b5ab28fbba475151c4c5",
+    "src-71eee4d5cfe1": "971a4083ff8a2b5a10de84fd57c8ecce502ba24948f54bd7624475787a906f95",
+    "src-1f23f0a67470": "b984dc2ff05fc9cb4b573b88ee0a3ad96d6300acef03cbe8af7e5149980927d7",
+    "src-a3c767e81bd3": "0d25085c0aff150b059949c44e713bb95eac6dbdfe501fc774708ecad4285cd3",
+    "src-6132d2375df6": "3a75b77bae107676bc81ffd805614ebb9d8805b1b079d8713425b10ab2e9418c"
   }
 }

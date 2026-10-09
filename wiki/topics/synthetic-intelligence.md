@@ -31,9 +31,12 @@ Source: [\#INTELIGENCIA \#ARTIFICIAL EN UNA NAVE Y EN LAS \#REDES \#SOCIALES - \
 - [src-b36d2a7b7c51-c02](borg.md#src-b36d2a7b7c51-c02) — Borg
 - [src-61a0b9a71122-c03](holistic-society.md#src-61a0b9a71122-c03) — Holistic society
 - [src-cddf1937a380-c01](sentient-starship-ai.md#src-cddf1937a380-c01) — Sentient starship AI
+- [src-936377231cd6-c03](reptilians.md#src-936377231cd6-c03) — Reptilians
+- [src-a08a91afe77a-c02](zeta-reticuli-gardeners.md#src-a08a91afe77a-c02) — Zeta Reticuli Gardeners
 
 ## Review flags
 
 - AI-sentience-claims
 - claims-about-suppressed-contact-evidence
 - online-AI-control-conspiracy-claims
+- p0007 gives contradictory Kingu–Usungal origin accounts.

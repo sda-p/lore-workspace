@@ -252,6 +252,64 @@ Source: [Los extraños fenómenos trans-dimensionales del Efecto Espejo](https:/
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-21a91506e065-c04
+
+Yazhi links human and Taygetan problems through starseed mirroring in astral reality. Solving Earth's problems helps Taygeta.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi Swaruu en Directo en Ingles - Traducido al Español](https://swaruu.org/transcripts/yazhi-swaruu-en-directo-en-ingles-traducido-al-espanol) (2024-06-13; es); passages p0035, p0040, p0042. [Structured record](../../records/src-21a91506e065.json).
+
+Related topics: [Starseeds](starseeds.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-aa6b810026d1-c01
+
+Yazhi says dimensional mirrors are parts of a whole viewed with incomplete information, spanning densities.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Espejos Dimensionales 4 - Pregunta del Publico - Yazhi Swaruu](https://swaruu.org/transcripts/espejos-dimensionales-4-pregunta-del-publico-yazhi-swaruu) (2024-05-21; es); passages p0007, p0008. [Structured record](../../records/src-aa6b810026d1.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-aa6b810026d1-c02
+
+Yazhi calls Earth's Cabal and the Federation mirrors; she says the Federation predates Earth and shares ideas with it.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Espejos Dimensionales 4 - Pregunta del Publico - Yazhi Swaruu](https://swaruu.org/transcripts/espejos-dimensionales-4-pregunta-del-publico-yazhi-swaruu) (2024-05-21; es); passages p0014, p0016, p0018. [Structured record](../../records/src-aa6b810026d1.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Earth Cabal and power structures](earth-cabal.md).
+
+### src-aa6b810026d1-c04
+
+Yazhi says planets such as Taygeta and Earth have dimensional mirrors, though their differing consciousness obscures them.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Espejos Dimensionales 4 - Pregunta del Publico - Yazhi Swaruu](https://swaruu.org/transcripts/espejos-dimensionales-4-pregunta-del-publico-yazhi-swaruu) (2024-05-21; es); passages p0043, p0044. [Structured record](../../records/src-aa6b810026d1.json).
+
+Related topics: [Distant Solar System Objects](solar-system-objects.md).
+
+### src-f0177a1a5739-c01
+
+Yazhi says natural doppelgangers may be soul-manifested copies or bilocation; other cases may involve portals or spacecraft, and their mechanisms remain poorly understood. She distinguishes these possibilities from ordinary people who merely look alike.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Espejos Dimensionales 3 - Conversación con Yazhi sobre el hombre que se encuentra consigo mismo](https://swaruu.org/transcripts/espejos-dimensionales-3-conversacion-con-yazhi-sobre-el-hombre-que-se-encuentra-consigo-mismo) (2024-05-17; es); passages p0008, p0014, p0016, p0022, p0033, p0035, p0029, p0055. [Structured record](../../records/src-f0177a1a5739.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md), [Tulpas](tulpas.md).
+
+### src-f0177a1a5739-c02
+
+Yazhi says doppelganger cases can repeat life events and produce identical photographs even when the circumstances leading to each image differ. She calls the phenomenon poorly understood and says similar appearances alone do not establish a mirror.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Espejos Dimensionales 3 - Conversación con Yazhi sobre el hombre que se encuentra consigo mismo](https://swaruu.org/transcripts/espejos-dimensionales-3-conversacion-con-yazhi-sobre-el-hombre-que-se-encuentra-consigo-mismo) (2024-05-17; es); passages p0036, p0037, p0038, p0042, p0043, p0024, p0055. [Structured record](../../records/src-f0177a1a5739.json).
+
 ## Claims filed under other topics
 
 - [src-e1ef5c3d2bef-c01](original-matrix.md#src-e1ef5c3d2bef-c01) — Original Matrix
@@ -263,9 +321,12 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
 ## Review flags
 
+- Claims about consciousness-based mirrors and quantum computers are attributed to Yazhi.
 - Contradictory descriptions may be valid from different perspectives.
 - Cosmological claims are attributed to Yazhi; one disease example in the source is omitted.
+- The account of the genetic weapon and its intended exposure route is attributed to Yazhi as investigators' belief, not established independently.
 - The article connects metaphysical claims to quantum mechanics without establishing a scientific basis.
+- The speakers discuss an unverified paranormal phenomenon and explicitly offer multiple possible explanations.
 - Yazhi frames these as a limited explanatory viewpoint.
 - metaphysical-model\_attributed
 - mirror-identity-varies

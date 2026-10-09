@@ -274,6 +274,8 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-026b0b5b32ce-c02](false-alien-invasion.md#src-026b0b5b32ce-c02) — False alien invasion scenarios
 - [src-e33e26096a8a-c02](holistic-society.md#src-e33e26096a8a-c02) — Holistic society
 - [src-3e6bb19f0b7f-c03](earth-cabal.md#src-3e6bb19f0b7f-c03) — Earth Cabal and power structures
+- [src-75b74d0d8734-c02](false-alien-invasion.md#src-75b74d0d8734-c02) — False alien invasion scenarios
+- [src-e637f0a885a8-c02](civilizational-resets.md#src-e637f0a885a8-c02) — Civilizational resets
 
 ## Review flags
 

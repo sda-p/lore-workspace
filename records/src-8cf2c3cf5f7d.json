@@ -1,0 +1,36 @@
+{
+  "source_id": "src-8cf2c3cf5f7d",
+  "snapshot_sha256": "2078665db5cbfde5e73ff9edcfb8891f823435123b9b334f96db567123d2684e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8cf2c3cf5f7d-c01",
+      "assertion": "Anéeka describes a shipboard museum containing artifacts from Earth and several extraterrestrial cultures, including Urmah armor and Zeta controls.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0005", "p0009", "p0020", "p0026", "p0031"],
+      "primary_topic": "starship-systems",
+      "topics": ["starship-systems", "urmah"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says most objects are believed original."
+    },
+    {
+      "id": "src-8cf2c3cf5f7d-c02",
+      "assertion": "Anéeka says collecting souvenirs from visited worlds is common among crews, especially on large ships.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0037", "p0038", "p0039", "p0040"],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": ["extraterrestrial-contact", "starship-systems"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says crews acquire items by collecting or receiving gifts."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source is an unverified account of extraterrestrial shipboard life and artifact collections."
+  ],
+  "coverage_gaps": [
+    "The interview also describes the museum’s layout and the ships’ passenger accommodations."
+  ]
+}

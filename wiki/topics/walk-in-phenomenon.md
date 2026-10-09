@@ -116,6 +116,26 @@ Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
 
 Source: [Gente No Real volviéndose todo Reales - Es cierto ese rumor? Yazhi Swaruu opina](https://swaruu.org/transcripts/gente-no-real-volviendose-todo-reales-es-cierto-ese-rumor-yazhi-swaruu-opina) (2022-12-29; es); passages p0012. [Structured record](../../records/src-93080c6ab938.json).
 
+### src-61705721c8a4-c01
+
+Mari defines natural walk-ins as consensual exchanges: an original soul leaves a living body and another enters. She cautions that abrupt personality changes alone do not establish a walk-in.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Walk-Ins, Intercambio de Almas, Arrebato de Cuerpos, Cápsulas de Inmersión. Primera Parte](https://swaruu.org/transcripts/walk-ins-intercambio-de-almas-arrebato-de-cuerpos-capsulas-de-inmersion-primera-parte) (2023-11-09; es); passages p0004, p0005, p0006, p0023, p0024, p0025, p0035. [Structured record](../../records/src-61705721c8a4.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-61705721c8a4-c02
+
+Mari says an incoming soul may inherit most of the body's memories but interpret them differently. She says memory gaps can remain.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Walk-Ins, Intercambio de Almas, Arrebato de Cuerpos, Cápsulas de Inmersión. Primera Parte](https://swaruu.org/transcripts/walk-ins-intercambio-de-almas-arrebato-de-cuerpos-capsulas-de-inmersion-primera-parte) (2023-11-09; es); passages p0027, p0028, p0030, p0031. [Structured record](../../records/src-61705721c8a4.json).
+
+Related topics: [Memory Veil](memory-veil.md).
+
 ## Claims filed under other topics
 
 - [src-4af520912230-c05](lyrian-cellular-body.md#src-4af520912230-c05) — Lyrian cellular-body model
@@ -125,12 +145,14 @@ Source: [Gente No Real volviéndose todo Reales - Es cierto ese rumor? Yazhi Swa
 - [src-aa6e0d670c42-c04](earth-cabal.md#src-aa6e0d670c42-c04) — Earth Cabal and power structures
 - [src-54359f164bb6-c03](consciousness-metaphysics.md#src-54359f164bb6-c03) — Consciousness and metaphysics
 - [src-83e6eecc2c25-c03](total-immersion-simulations.md#src-83e6eecc2c25-c03) — Total-immersion simulations
+- [src-61705721c8a4-c03](immersion-pods.md#src-61705721c8a4-c03) — Immersion pods
 
 ## Review flags
 
 - Claims describe Yazhi's metaphysical account of DNA and are not presented as established biology.
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - The article presents metaphysical DNA interpretations attributed to the speakers.
+- The source includes claims about soul replacement and criminal behavior; these are presented as the speaker's metaphysical account.
 - The source’s “real” versus “unreal” distinction concerns people and is an attributed metaphysical claim, not an objective assessment of anyone.
 - The transcript makes spiritual claims about death and reincarnation; they are attributed to Za’el and not verified.
 - claims about fabricated histories and public events are attributed lore, not independently substantiated

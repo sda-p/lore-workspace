@@ -1,0 +1,87 @@
+{
+  "source_id": "src-e50e737a17f6",
+  "snapshot_sha256": "d12d32f394c97a1567419c30da6f2736ecc69537c7cfde879398860d1e0e4074",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e50e737a17f6-c01",
+      "assertion": "Mari says starship navigation uses gravity-mass-energy maps rather than calendar dates to identify destinations in space-time.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "ship-internal-time"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e50e737a17f6-c02",
+      "assertion": "Mari says faster-than-light and time travel use the same process: changing a vessel's gravity-mass-energy matrix to match its destination.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0020"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "supraluminal-hyperdrive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e50e737a17f6-c03",
+      "assertion": "Mari says time travel can use a starship or an artificial portal; portal transit may be one-way without a return portal.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e50e737a17f6-c04",
+      "assertion": "Mari says imperfect destination maps and conscious observation create slightly different timelines, preventing fixed time-travel paradoxes.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Time-navigation and physics claims are attributed to Mari."
+  ],
+  "coverage_gaps": [
+    "the source's account of gravity waves, ether, and remote muon position reports"
+  ]
+}

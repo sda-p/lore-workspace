@@ -68,11 +68,33 @@ Source: [3,6,9,12 A TESLA LE FALTABAN NÚMEROS EN SU REACTOR PUNTO CERO -Athena 
 
 Related topics: [Taygetan Base-12 Mathematics](taygetan-base-12-mathematics.md).
 
+### src-b0e222a75427-c02
+
+Yazhi distinguishes crystal-based zero-point reactors from plasma-jet propulsion turbines, which she says require enriched mercury.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Antigravedad, Mercurio Enriquecido, y mas - Tecnología Extraterrestre - Yazhi Swaruu](https://swaruu.org/transcripts/antigravedad-mercurio-enriquecido-y-mas-tecnologia-extraterrestre-yazhi-swaruu) (2023-11-14; es); passages p0042, p0043. [Structured record](../../records/src-b0e222a75427.json).
+
+Related topics: [Nuclear-magnetic engines](nuclear-magnetic-engines.md).
+
+### src-013f3b7ef0b7-c01
+
+Athena describes Taygetan crystal-core zero-point reactors as 12 nested toroidal layers of synthetic quartz particles, with AI-controlled gravity and frequency generators regulating output through density and rotation. She says reactor size varies by vessel and function.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 4 - Ingeniería Extraterrestre - Reactores/Motores de Plasma (Taygeta - Pléyades)](https://swaruu.org/transcripts/vida-interestelar-4-ingenieria-extraterrestre-reactores-motores-de-plasma-taygeta-pleyades) (2023-11-09; es); passages p0015, p0019, p0020, p0021. [Structured record](../../records/src-013f3b7ef0b7.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-220efa38c406-c03](energy-generation.md#src-220efa38c406-c03) — Energy generation technology
 - [src-1301f08e45a8-c02](energy-generation.md#src-1301f08e45a8-c02) — Energy generation technology
 - [src-66fb35352fc6-c02](spherical-drones.md#src-66fb35352fc6-c02) — Spherical drones
+- [src-88e9e60e1494-c01](starship-systems.md#src-88e9e60e1494-c01) — Starship systems
+- [src-013f3b7ef0b7-c02](starship-systems.md#src-013f3b7ef0b7-c02) — Starship systems
 
 ## Review flags
 

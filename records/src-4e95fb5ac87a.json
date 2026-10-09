@@ -1,0 +1,83 @@
+{
+  "source_id": "src-4e95fb5ac87a",
+  "snapshot_sha256": "8d8d2bf29aa2ffe1bbed2af8d4f67076293db745e005686aa54cd96ff903c34a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4e95fb5ac87a-c01",
+      "assertion": "Mari says Alcyone reached low Earth orbit on May 2, 2024, as the original first-batch Alcyone-class battleship; Asterope is second-variant.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4e95fb5ac87a-c02",
+      "assertion": "Mari says Alcyone arrived operational, armed, and equipped for Earth communications, but its obsolete computers needed replacement.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4e95fb5ac87a-c03",
+      "assertion": "Mari lists five Taygetean ships around Earth: Vigilant Eagle escorts Toleka, Saska 1 repairs ships, Alcyone and Asterope handle social media and defense, and Toleka commands.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "toleka-class",
+        "alcyone-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4e95fb5ac87a-c04",
+      "assertion": "Mari reports Alfratean command confirmed two pilots shot down in a Black Knight fighter were held by the human government.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "alfrateans",
+      "topics": [
+        "alfrateans",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about Taygetean ships, fleet operations, and pilot custody are attributed to Mari or cited command statements."
+  ],
+  "coverage_gaps": [
+    "the arrival celebration and crew selection complications",
+    "Mari’s account of Earth-provided resources and donations"
+  ]
+}

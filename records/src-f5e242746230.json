@@ -1,0 +1,56 @@
+{
+  "source_id": "src-f5e242746230",
+  "snapshot_sha256": "2f7afec81139ae517110da0ac1bf3ac8ab4bcb5dbe62b89d970b5f1e186002c6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f5e242746230-c01",
+      "assertion": "Yazhi says inserting a 5D person into Earth’s 3D Matrix causes its collective beliefs to generate a compatible personal history; the reverse insertion needs no new history because 5D includes 3D.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "matrix-generated-persons",
+      "topics": [
+        "matrix-generated-persons",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes this as a consequence of differing levels of awareness."
+    },
+    {
+      "id": "src-f5e242746230-c02",
+      "assertion": "Yazhi says sustained attention can cause the Matrix to generate records supporting an inserted person, while genuine consciousness cannot be manipulated this way.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0017",
+        "p0018",
+        "p0020",
+        "p0022",
+        "p0026"
+      ],
+      "primary_topic": "matrix-generated-persons",
+      "topics": [
+        "matrix-generated-persons",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguishes generated paperwork and NPCs from real consciousness."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source presents unverifiable claims about fabricated histories, insertions, and Matrix-generated records"
+  ],
+  "coverage_gaps": [
+    "attention and manifestation dynamics",
+    "different Inserted-history examples"
+  ]
+}

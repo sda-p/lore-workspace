@@ -1,0 +1,53 @@
+{
+  "source_id": "src-9d1d21026c83",
+  "snapshot_sha256": "01d7e654dc013d472338ec8a19ec5cfe7e6dfb2b61a3430fab6326f0251849e5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9d1d21026c83-c01",
+      "assertion": "Yazhi says astral ideas and manifestations become immediate and tangible, so imagined protective shields or other mental constructs can function as real objects there.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "astral-travel",
+      "topics": [
+        "astral-travel",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She calls astral outcomes possibilities rather than laws."
+    },
+    {
+      "id": "src-9d1d21026c83-c02",
+      "assertion": "Yazhi says she and Mari can enter and leave the astral in seconds through autohypnosis; she describes confronting hostile forces without fear or emotional reaction, and says positive visualization can alter a place there.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0041",
+        "p0047",
+        "p0049",
+        "p0051",
+        "p0053",
+        "p0057",
+        "p0058"
+      ],
+      "primary_topic": "astral-travel",
+      "topics": [
+        "astral-travel",
+        "astral-entities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She advises positive focus over imagining entities."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source presents unverifiable claims about astral travel, hostile entities, and the effects of visualization."
+  ],
+  "coverage_gaps": [
+    "The conversation also discusses astral appearances, differing avatars, and the speaker's accounts of entities and regions of conflict."
+  ]
+}

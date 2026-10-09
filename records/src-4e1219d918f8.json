@@ -1,0 +1,52 @@
+{
+  "source_id": "src-4e1219d918f8",
+  "snapshot_sha256": "492ee2d56e5c76b38ff4227d0577788efcb028e3f6e34c1703be20b6da489fba",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4e1219d918f8-c01",
+      "assertion": "Mari says Earth incarnations generally forget past lives, but prior emotions and learning continue to shape present personality; forgetting enables a new identity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes this as the purpose of the memory veil."
+    },
+    {
+      "id": "src-4e1219d918f8-c02",
+      "assertion": "Mari claims newly deceased people remain conscious near the living through an etheric body, and prolonged grief may keep them attached to loved ones.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "astral-travel",
+      "topics": [
+        "astral-travel",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as a spiritual account of death and mourning."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "afterlife and bereavement claims are spiritual beliefs; preserve attribution and do not present as verified"
+  ],
+  "coverage_gaps": [
+    "religion and science as population-control mechanisms",
+    "grief related to animal companions"
+  ]
+}

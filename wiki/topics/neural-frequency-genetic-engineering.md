@@ -58,6 +58,16 @@ Source: [ADN - REFLEJO DE LA CONSCIENCIA - YAZHI SWARUU](https://swaruu.org/tran
 
 Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 
+### src-3593b46bea4f-c02
+
+Swaruu 9 says consciousness can activate or deactivate bodily genes, while telepathy is a mental state rather than a genetically controlled bodily trait; species have undergone genetic alteration. According to her.
+
+Attributed to **Swaruu 9**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra Charlando con Gosia \| Mensajes Previos a la Divulgación (2018)](https://swaruu.org/transcripts/swaruu-de-erra-charlando-con-gosia-mensajes-previos-a-la-divulgacion-2018) (2026-02-22; es); passages p0101, p0103, p0105, p0107. [Structured record](../../records/src-3593b46bea4f.json).
+
+Related topics: [Aggressive telepathy](aggressive-telepathy.md).
+
 ## Claims filed under other topics
 
 - [src-bd6721b51e72-c03](vaccine-inoculation-claims.md#src-bd6721b51e72-c03) — Inoculation and genetic alteration claims

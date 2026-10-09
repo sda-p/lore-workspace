@@ -62,6 +62,27 @@ Source: [Lupus Cosmicus, My quest to find Space Dogs and Wolves. With Ari the Ti
 
 Related topics: [Postmortem realities](postmortem-realities.md), [Galactic Federation](galactic-federation.md).
 
+### src-5fb1a6c15757-c01
+
+Ari describes the Spatium Lupi as a federation of advanced canine cultures whose main species are space wolves, with home planets near Enif and a presence around Procyon and Gomeisa. Mari says she translated Ari's response.
+
+Attributed to **Ari**; reported; extraction confidence: high.
+
+Source: [Mi Búsqueda para Encontrar Perros y Lobos Espaciales](https://swaruu.org/transcripts/mi-busqueda-para-encontrar-perros-y-lobos-espaciales) (2024-07-14; es); passages p0021, p0022, p0023, p0024, p0025. [Structured record](../../records/src-5fb1a6c15757.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-5fb1a6c15757-c02
+
+Ari says the Lupi opposed the Galactic Federation's plan for a controlled Earth Matrix and forgetting veil, favoring spiritual guidance to help souls return after earthly lives; he links this dispute to their expulsion. Mari presents this as an answer from Ari, translated by her.
+
+Attributed to **Ari**; reported; extraction confidence: high.
+
+Source: [Mi Búsqueda para Encontrar Perros y Lobos Espaciales](https://swaruu.org/transcripts/mi-busqueda-para-encontrar-perros-y-lobos-espaciales) (2024-07-14; es); passages p0027, p0028, p0029. [Structured record](../../records/src-5fb1a6c15757.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Moon and terrestrial Matrix](moon-matrix.md).
+
 ## Review flags
 
+- The account presents unverified extraterrestrial species and alternative-history claims.
 - reported-claims\_by\_Ari

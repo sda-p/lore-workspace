@@ -1,0 +1,72 @@
+{
+  "source_id": "src-a64514faa926",
+  "snapshot_sha256": "cb8126d6caa38381afe39f2cdd70d35b23c3c57f2436439cb890f7f35dcd31b6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a64514faa926-c01",
+      "assertion": "Athena says she flies combat air patrols around and within Earth due to increased Grey activity, which the Federation regards as expected cooperation with the Orion Council.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "orion-grays",
+      "topics": [
+        "orion-grays",
+        "orion-council",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Athena says Alcyone and Urmah disagree."
+    },
+    {
+      "id": "src-a64514faa926-c02",
+      "assertion": "Athena says ships monitor Earth military, emergency, aviation, maritime, and civilian radio, then send processed information to the CIC for planning.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0016",
+        "p0020",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "taygetan-cic",
+      "topics": [
+        "taygetan-cic",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a64514faa926-c03",
+      "assertion": "Athena says Alcyone CAPs gather intelligence and aim to deter harmful events and Federation actions, respecting altitude limits.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0028",
+        "p0030",
+        "p0032",
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "combat-doctrine",
+      "topics": [
+        "combat-doctrine",
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Some information is classified."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Ship refits and reported fighter losses omitted"
+  ]
+}

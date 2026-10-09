@@ -1,0 +1,25 @@
+{
+  "source_id": "src-0cb796fc06ef",
+  "snapshot_sha256": "f3c4e4c610f19e84a6d46a3198ed870a8146b6bbfbb1f36718a28facacc0b635",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0cb796fc06ef-c01",
+      "assertion": "Mari Swa says Taygetean concepts have no direct equivalent to human gravity; instead, she describes consciousness flowing through ether as forming matter and sustaining stellar orbits, while terrestrial gravity equations capture only limited interactions.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0018", "p0021", "p0022", "p0024", "p0026"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "gravity-harmonics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She rejects gravity as conceived by Earth science but acknowledges its equations as valid within a limited scope."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source advances metaphysical claims that reject conventional gravity while elsewhere granting limited validity to terrestrial gravity equations."
+  ],
+  "coverage_gaps": [
+    "The monologue also discusses the relative nature of truth and perception and criticizes Earth's base-10 physical models."
+  ]
+}

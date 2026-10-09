@@ -122,6 +122,7 @@ Related topics: [Taygetans](taygetans.md), [Taygetan ecosystems](taygetan-ecosys
 - [src-5b78336f9481-c04](taygetans.md#src-5b78336f9481-c04) — Taygetans
 - [src-f806bbf625d9-c02](crystalline-dna.md#src-f806bbf625d9-c02) — Crystalline DNA and proto-silicon biology
 - [src-e54847d402e6-c02](starseed-guides.md#src-e54847d402e6-c02) — Starseed guides
+- [src-6651f8ddc19a-c01](alien-species.md#src-6651f8ddc19a-c01) — Alien species and distinctions
 
 ## Review flags
 
@@ -130,6 +131,7 @@ Related topics: [Taygetans](taygetans.md), [Taygetan ecosystems](taygetan-ecosys
 - The author explicitly invited readers to treat the content as fiction or entertainment.
 - The first-person extraterrestrial identity and contact-policy claims are preserved as speaker claims.
 - These are Mari Swaruu’s autobiographical and extraterrestrial claims, not independently verified.
+- Yazhi's account of the pod outcome conflicts with Alenym's observation of her apparent age; the transcript does not resolve this.
 - internal-count-conflict:swaruwnian-chromosomes
 - species status is contested within Mari’s account; preserve her stated rationale
 - species-genome-taxonomy-account

@@ -5,11 +5,12 @@
   "claims": [
     {
       "id": "src-b9d71dd88442-c01",
-      "assertion": "Gosia says her English channel stayed unmonetized for five years; later she sent half its revenue to Athena and Yazhi for two years.",
+      "assertion": "Gosia says her English channel stayed unmonetized for five years; later she shared half its revenue with Athena and Yazhi for two years.",
       "speaker": "Gosia",
       "paragraph_ids": [
         "p0010",
-        "p0011"
+        "p0011",
+        "p0012"
       ],
       "primary_topic": "economics",
       "topics": [
@@ -18,7 +19,7 @@
       ],
       "modality": "asserted",
       "confidence": "high",
-      "qualifiers": "She says the aid was unconditional."
+      "qualifiers": "She states the aid had no conditions and did not obligate them to continue sharing."
     },
     {
       "id": "src-b9d71dd88442-c02",
@@ -38,7 +39,7 @@
     },
     {
       "id": "src-b9d71dd88442-c03",
-      "assertion": "Robert declined a proposal to sell shirts with his and Gosia’s names or faces, saying their channels and website should be promoted instead.",
+      "assertion": "Robert declined shirts bearing their names or faces, preferring promotion of their channels and website.",
       "speaker": "Robert, quoted by Dani and relayed by Gosia",
       "paragraph_ids": [
         "p0051"

@@ -2708,6 +2708,96 @@ Source: [LA ESCASEZ DEL AGUA EL NEGOCIO OCULTO - Athena Swaruu](https://swaruu.o
 
 Related topics: [Economics and resources](economics.md).
 
+### src-c59b5aacbe03-c02
+
+Mari argues the public should hear evidence from both the UFO researcher and critics before judging the mummies.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Momias Peruanas en los Medios, nunca hay pruebas suficientes sobre extraterrestres](https://swaruu.org/transcripts/momias-peruanas-en-los-medios-nunca-hay-pruebas-suficientes-sobre-extraterrestres) (2023-09-26; es); passages p0023, p0026. [Structured record](../../records/src-c59b5aacbe03.json).
+
+### src-183528b60334-c01
+
+Mari warns against recreational psychedelic use, while acknowledging possible therapeutic use under a competent physician. She says some can cause permanent physical or psychological harm.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [No tomen psicodélicos](https://swaruu.org/transcripts/no-tomen-psicodelicos) (2023-10-16; es); passages p0009, p0010, p0011. [Structured record](../../records/src-183528b60334.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-c4b9d7cc5da7-c01
+
+Za’el argues that Earth science is constrained by reductionist materialism and claims some findings are deliberately distorted to steer public belief and attention.
+
+Attributed to **Za’el**; asserted; extraction confidence: high.
+
+Source: [Arrogancia y Ciencia Falsa - La Enfermedad de la Sociedad de la Tierra, Parte 2](https://swaruu.org/transcripts/arrogancia-y-ciencia-falsa-la-enfermedad-de-la-sociedad-de-la-tierra-parte-2) (2023-10-20; es); passages p0006, p0007. [Structured record](../../records/src-c4b9d7cc5da7.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-c4b9d7cc5da7-c02
+
+Za’el says social pressure and arrogance discourage people from questioning established knowledge, reinforcing direct and indirect censorship.
+
+Attributed to **Za’el**; asserted; extraction confidence: high.
+
+Source: [Arrogancia y Ciencia Falsa - La Enfermedad de la Sociedad de la Tierra, Parte 2](https://swaruu.org/transcripts/arrogancia-y-ciencia-falsa-la-enfermedad-de-la-sociedad-de-la-tierra-parte-2) (2023-10-20; es); passages p0011, p0012, p0013. [Structured record](../../records/src-c4b9d7cc5da7.json).
+
+### src-4d7d91264321-c01
+
+Mari says most high-altitude contrails are ice formed as atmospheric water condenses around jet-exhaust hydrocarbons; they may persist and cloud skies. She says most are benign water crystals.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Contaminantes de los escapes de los aviones](https://swaruu.org/transcripts/contaminantes-de-los-escapes-de-los-aviones) (2023-10-10; es); passages p0010, p0011, p0012, p0013, p0014. [Structured record](../../records/src-4d7d91264321.json).
+
+Related topics: [Weather control systems](weather-control.md).
+
+### src-d40d0c81cfc7-c01
+
+Swaruu X (Athena) argues Earth is spherical, citing constellation observations across hemispheres, measured gravity and mass, and geometric calculations.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: ["Veo la Tierra de mi ventana y es REDONDA\!" - El Psyop de la Teoría de la Tierra Plana](https://swaruu.org/transcripts/veo-la-tierra-de-mi-ventana-y-es-redonda-el-psyop-de-la-teoria-de-la-tierra-plana) (2023-10-07; es); passages p0010, p0016, p0017, p0031, p0032. [Structured record](../../records/src-d40d0c81cfc7.json).
+
+### src-d40d0c81cfc7-c02
+
+Athena says flat-Earth ideas are a manipulated agenda that distracts conspiracy-minded audiences from stars and extraterrestrial topics.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: ["Veo la Tierra de mi ventana y es REDONDA\!" - El Psyop de la Teoría de la Tierra Plana](https://swaruu.org/transcripts/veo-la-tierra-de-mi-ventana-y-es-redonda-el-psyop-de-la-teoria-de-la-tierra-plana) (2023-10-07; es); passages p0009, p0022, p0023, p0024, p0028. [Structured record](../../records/src-d40d0c81cfc7.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-d40d0c81cfc7-c03
+
+Yazhi says flat-Earth claims are disinformation that can discredit extraterrestrials; she says whole-Earth photos are absent because spacecraft have not gone far enough. She acknowledges NASA lies but rejects flat Earth.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: ["Veo la Tierra de mi ventana y es REDONDA\!" - El Psyop de la Teoría de la Tierra Plana](https://swaruu.org/transcripts/veo-la-tierra-de-mi-ventana-y-es-redonda-el-psyop-de-la-teoria-de-la-tierra-plana) (2023-10-07; es); passages p0041, p0042, p0044, p0045, p0046. [Structured record](../../records/src-d40d0c81cfc7.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-b353e2ebdf6f-c02
+
+Yazhi says the Sun is naturally white and that atmospheric conditions affect its apparent color and intensity. She rejects claims that the Sun itself has changed.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [LA RAZÓN POR LA QUE EL SOL ACTIVA EL ADN HUMANO - ESO ES LA ASCENSIÓN](https://swaruu.org/transcripts/la-razon-por-la-que-el-sol-activa-el-adn-humano-eso-es-la-ascension) (2024-09-18; es); passages p0009, p0012, p0013. [Structured record](../../records/src-b353e2ebdf6f.json).
+
+### src-988926b6011b-c01
+
+Yazhi says that about 40,000 years ago Earth had few large seas, extensive green land, and five additional continents beneath today’s oceans.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Misterios de Orion: La Tierra Antigua - Parte 3](https://swaruu.org/transcripts/misterios-de-orion-la-tierra-antigua-parte-3) (2025-04-27; es); passages p0004, p0005, p0006. [Structured record](../../records/src-988926b6011b.json).
+
 ## Claims filed under other topics
 
 - [src-d16fe289eee6-c05](earth-cabal.md#src-d16fe289eee6-c05) — Earth Cabal and power structures
@@ -2859,12 +2949,31 @@ Related topics: [Economics and resources](economics.md).
 - [src-182d149f48ed-c02](extraterrestrial-contact.md#src-182d149f48ed-c02) — Extraterrestrial contact and disclosure
 - [src-a4adffb6f3a6-c02](earth-cabal.md#src-a4adffb6f3a6-c02) — Earth Cabal and power structures
 - [src-13154e3227fd-c04](weather-control.md#src-13154e3227fd-c04) — Weather control systems
+- [src-c59b5aacbe03-c03](alien-species.md#src-c59b5aacbe03-c03) — Alien species and distinctions
+- [src-65d76dd19e45-c03](earth-cabal.md#src-65d76dd19e45-c03) — Earth Cabal and power structures
+- [src-f7ed383444ff-c01](earth-cabal.md#src-f7ed383444ff-c01) — Earth Cabal and power structures
+- [src-f7ed383444ff-c02](astral-entities.md#src-f7ed383444ff-c02) — Astral entities
+- [src-d9447e9bc7cb-c01](astral-entities.md#src-d9447e9bc7cb-c01) — Astral entities
+- [src-26ffc134d92e-c01](earth-cabal.md#src-26ffc134d92e-c01) — Earth Cabal and power structures
+- [src-26ffc134d92e-c02](consciousness-metaphysics.md#src-26ffc134d92e-c02) — Consciousness and metaphysics
+- [src-90b312a2313e-c02](weather-control.md#src-90b312a2313e-c02) — Weather control systems
+- [src-5d1072c7f701-c01](solar-consciousness.md#src-5d1072c7f701-c01) — Solar consciousness
+- [src-104ec28109ef-c01](earth-cabal.md#src-104ec28109ef-c01) — Earth Cabal and power structures
+- [src-d8c144de6128-c01](taygetans.md#src-d8c144de6128-c01) — Taygetans
+- [src-6cdd5b495d4b-c02](lyran-expansion.md#src-6cdd5b495d4b-c02) — Lyran expansion
+- [src-b353e2ebdf6f-c01](consciousness-metaphysics.md#src-b353e2ebdf6f-c01) — Consciousness and metaphysics
+- [src-79e2266995cb-c02](atlantis-lemuria.md#src-79e2266995cb-c02) — Atlantis and Lemuria
 
 ## Review flags
 
 - 5g-covid-causality-distinction
 - Antarctica and Cabal allegations are attributed to Dhor Káal’él and are not independently evidenced in the transcript.
+- Claims about Earth shape, NASA, and extraterrestrial disinformation are attributed to Athena or Yazhi, not established facts.
+- Claims about audio frequencies, music effects, and astral entities are attributed to Mari Swaruu.
 - Claims about contemporary institutions or external events reflect the speaker’s interpretation.
+- Claims about covert weather and earthquake control are attributed to Mari Swaruu and are not independently verified.
+- Claims about media control and reality formation are attributed to Mari Swaruu.
+- Claims about paranormal evidence are attributed to Mari Swaruu.
 - Claims about soul-body separation, telepathy, particle observation, and ancient history are attributed statements, not independently established facts.
 - Conspiracy and UFO claims are attributed to Mari Swaruu and are not independently verified.
 - Contains disputed environmental, market, vehicle safety, and government-control claims; attribute to Yazhi, not established findings.
@@ -2878,7 +2987,15 @@ Related topics: [Economics and resources](economics.md).
 - ISS-and-station-fabrication-allegation
 - Mari revises the earlier “gravity as consciousness flow” phrasing during this monologue
 - Nibiru\_claim\_conflicts\_with\_other\_sources
+- Political claims about hidden control and historical manipulation are attributed to Mari Swaruu.
+- Specimen authenticity and alleged scientific findings are attributed claims, not independently verified.
+- The article combines separate conversations and speakers.
+- The dialogue includes unsupported claims about solar effects, DNA activation, and chemtrails.
+- The source advances unverified alternative-history claims about Giza and ancient Egypt.
+- The source advances unverified alternative-history claims about planetary history and human origins.
 - The source disputes established nuclear science; content is attributed to Yazhi and not verified.
+- The source is an unverified first-person account framed as entertainment.
+- The source makes unverified allegations about chemical and biological spraying and nonhuman weather control.
 - The transcript contradicts established nuclear physics and history; claims are recorded as Yazhi’s assertions, not verified facts.
 - These are attributed dialogue claims; terminology for Hyades varies by convention
 - Yazhi distinguishes alleged energy weapons from radioactive materials and nuclear plants.

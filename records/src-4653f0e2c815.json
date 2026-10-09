@@ -1,0 +1,75 @@
+{
+  "source_id": "src-4653f0e2c815",
+  "snapshot_sha256": "be1faae2cc7eba936ff7152f2715907e208a1dfbc5519318b3741025ec7ac507",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4653f0e2c815-c01",
+      "assertion": "Mari reports an Orion Council delegation arrived in high Earth orbit for an Etorthan audit; Etorthans met Earth leaders remotely in Antarctica and planned an in-person meeting.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "orion-council",
+      "topics": [
+        "orion-council",
+        "etorthans",
+        "antarctica-federation-bases"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4653f0e2c815-c02",
+      "assertion": "Mari says most spacecraft entering Antarctica had Alfrata/Centauri transponders, with growing Orion Council traffic.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "alfrata",
+      "topics": [
+        "alfrata",
+        "orion-council",
+        "antarctica-federation-bases"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4653f0e2c815-c03",
+      "assertion": "Mari says Urmah refused Etorthan meetings and inspections, calling coercion an act of war; Alenym declined attendance except a later human-screen conference after consultation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans",
+        "urmah",
+        "taygetans",
+        "orion-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Antarctic activity and diplomatic claims are reported by Mari and not independently verified."
+  ],
+  "coverage_gaps": [
+    "the claimed UN and Chilean visits",
+    "Toleka repairs and reports of Etorthan monitoring"
+  ]
+}

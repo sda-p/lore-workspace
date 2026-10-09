@@ -1,0 +1,36 @@
+{
+  "source_id": "src-cd5071fd4bb0",
+  "snapshot_sha256": "064feb844749a205097e66cd4632613de6e043757e0cea5b78b44c5f6cfa45fd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-cd5071fd4bb0-c01",
+      "assertion": "Mari Swa says the Pleiadian-Urmah treaty covers agricultural and raw-material exchange, technology cooperation, shared exploration data and spatial-frequency maps, and trade terms adapted to each member's resources and culture.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0004", "p0006"],
+      "primary_topic": "urmah-federation",
+      "topics": ["urmah-federation", "alcyone-council", "economics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the agreement primarily promotes unity and mutual defense."
+    },
+    {
+      "id": "src-cd5071fd4bb0-c02",
+      "assertion": "Mari Swa says Antaria sought to join the treaty; because it is outside the Pleiades and Urmah sphere, membership required Alcyone Council review of legal and political consequences and would expand the alliance's influence.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0012", "p0013", "p0014", "p0015"],
+      "primary_topic": "alcyone-council",
+      "topics": ["alcyone-council", "urmah-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She describes this as a proposed accession, not an already completed one."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "This is a first-person report about an extraterrestrial alliance and its alleged treaty terms."
+  ],
+  "coverage_gaps": [
+    "The video also recounts Urmah diplomatic backing for Mari and criticizes Alfratean pilots' alcohol use."
+  ]
+}

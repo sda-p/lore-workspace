@@ -1,0 +1,66 @@
+{
+  "source_id": "src-087c933f7059",
+  "snapshot_sha256": "b14340705b97158fcc5706437ebeadc24b7146a10d65dbddb4ddc32dfb57357c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-087c933f7059-c01",
+      "assertion": "Mari says a portal opens when a location’s changing mass, energy, frequency, and vibration values align with another place, remaining open until they diverge.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-087c933f7059-c02",
+      "assertion": "She says some locations naturally favor portals, which may open during strong astronomical events such as equinoxes or eclipses.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-087c933f7059-c03",
+      "assertion": "Mari says portals can connect times as well as places, and artificial portals can transport objects across either.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says more detail on artificial portals would follow."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about portals and mass-energy frequencies are attributed to Mari and not independently established."
+  ],
+  "coverage_gaps": [
+    "her explanation of location as a numerical energy map",
+    "the connection to manifestation and the butterfly effect"
+  ]
+}

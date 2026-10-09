@@ -1,0 +1,37 @@
+{
+  "batch_id": "continuous-021",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-b76386ff7cd8",
+    "src-9bfba65b62f5",
+    "src-0b85eb2e2485",
+    "src-0c1133da59d5",
+    "src-27c6cbbb1fd4",
+    "src-b3cba5b1ffc9",
+    "src-3593b46bea4f",
+    "src-2f61745f8036",
+    "src-7182b44d0b21"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-0b85eb2e2485",
+      "claim_id": "src-0b85eb2e2485-c01",
+      "problem": "The qualifier said Gosia explicitly stated the scenario may never occur; the full source calls it one possible scenario and notes that opinions/plans differ, but does not explicitly say that.",
+      "action": "Reworded the qualifier to those supported statements. Direct validator passed (46 words).",
+      "paragraph_ids": [
+        "p0005",
+        "p0046"
+      ]
+    },
+    {
+      "source_id": "src-b3cba5b1ffc9",
+      "claim_id": "src-b3cba5b1ffc9-c03",
+      "problem": "The qualifier that converting holographic signals is necessary because the high-energy system is incompatible with low-energy digital servers was uncited.",
+      "action": "Added p0028, which states that the systems are incompatible and the holographic system would burn out the digital systems. Direct validator passed (82 words).",
+      "paragraph_ids": [
+        "p0028"
+      ]
+    }
+  ],
+  "unresolved": []
+}

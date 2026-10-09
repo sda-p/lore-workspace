@@ -452,6 +452,126 @@ Source: [Yazhi esta de Vuelta en Comunicación - Noticias - Directo con Gosia](h
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-07e941b6d7c6-c03
+
+Alcyone was to join Toleka in Earth orbit for a year, monitor starseeds and deter; its crew answers to Queen Alenym. Mari says its media role remains experimental under the First Directive.
+
+Attributed to **Mari Swaruu, reporting Alenym’s declassification**; reported; extraction confidence: high.
+
+Source: [Noticias espaciales 18. 6 de abril de 2024, Eclipse, Naves, Reuniones, Yazhi y otras noticias](https://swaruu.org/transcripts/noticias-espaciales-18-6-de-abril-de-2024-eclipse-naves-reuniones-yazhi-y-otras-noticias) (2024-04-07; es); passages p0024, p0025, p0026, p0027, p0028. [Structured record](../../records/src-07e941b6d7c6.json).
+
+Related topics: [Starseeds](starseeds.md), [Starship systems](starship-systems.md).
+
+### src-66fa7120be60-c04
+
+Mari says Alcyone represents Engans near Earth, though civilian ships visit to monitor starseeds.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [El Pueblo Engan](https://swaruu.org/transcripts/el-pueblo-engan) (2024-04-30; es); passages p0004, p0025. [Structured record](../../records/src-66fa7120be60.json).
+
+Related topics: [Engan people](engan-people.md), [Starseeds](starseeds.md).
+
+### src-4e95fb5ac87a-c01
+
+Mari says Alcyone reached low Earth orbit on May 2, 2024, as the original first-batch Alcyone-class battleship; Asterope is second-variant.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Noticias espaciales 22, 4 de Mayo de 2024, Alcyone llegando, Pilotos de Caballero Negro, Mi Youtube](https://swaruu.org/transcripts/noticias-espaciales-22-4-de-mayo-de-2024-alcyone-llegando-pilotos-de-caballero-negro-mi-youtube) (2024-05-05; es); passages p0003, p0004. [Structured record](../../records/src-4e95fb5ac87a.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-4e95fb5ac87a-c02
+
+Mari says Alcyone arrived operational, armed, and equipped for Earth communications, but its obsolete computers needed replacement.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Noticias espaciales 22, 4 de Mayo de 2024, Alcyone llegando, Pilotos de Caballero Negro, Mi Youtube](https://swaruu.org/transcripts/noticias-espaciales-22-4-de-mayo-de-2024-alcyone-llegando-pilotos-de-caballero-negro-mi-youtube) (2024-05-05; es); passages p0011, p0012, p0013. [Structured record](../../records/src-4e95fb5ac87a.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-c5120a65216b-c03
+
+Alcyone Council made Alenym its Federation envoy; she allied with Urmah.
+
+Attributed to **Mari Swa (narrator)**; reported; extraction confidence: high.
+
+Source: [Cómo es ser Princesa Reina Taygeteana y Youtuber. Parte 1, Reina Alenym](https://swaruu.org/transcripts/como-es-ser-princesa-reina-taygeteana-y-youtuber-parte-1-reina-alenym) (2024-07-16; es); passages p0012, p0017. [Structured record](../../records/src-c5120a65216b.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Urmah](urmah.md).
+
+### src-21a91506e065-c05
+
+Yazhi says the Alcyone Council supports humanity and opposes Federation rules concerning Earth.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi Swaruu en Directo en Ingles - Traducido al Español](https://swaruu.org/transcripts/yazhi-swaruu-en-directo-en-ingles-traducido-al-espanol) (2024-06-13; es); passages p0060. [Structured record](../../records/src-21a91506e065.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-e58c27053b29-c01
+
+Mari says Alenym aligned Alcyone Council against Federation Earth policy and allied militarily with Urmah.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias espaciales, número 26, 6 de Junio del 2024, Alenym, Marco Político, Mari Swa Reina Activa](https://swaruu.org/transcripts/noticias-espaciales-numero-26-6-de-junio-del-2024-alenym-marco-politico-mari-swa-reina-activa) (2024-06-07; es); passages p0006, p0007, p0008. [Structured record](../../records/src-e58c27053b29.json).
+
+Related topics: [Urmah](urmah.md), [Galactic Federation](galactic-federation.md).
+
+### src-5c5800b9d436-c01
+
+Athena says Alcyone chose Alenym as the Pleiades’ legal representative; only Toleka is officially present from M45, while other Pleiadian ships visit unofficially to monitor starseeds. They generally do not intervene directly.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Taygeta y las Pléyades \| Mini Temas - Comunicación Extraterrestre](https://swaruu.org/transcripts/taygeta-y-las-pleyades-mini-temas-comunicacion-extraterrestre) (2025-12-23; es); passages p0012. [Structured record](../../records/src-5c5800b9d436.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-cd5071fd4bb0-c02
+
+Mari Swa says Antaria sought to join the treaty; because it is outside the Pleiades and Urmah sphere, membership required Alcyone Council review of legal and political consequences and would expand the alliance's influence. She describes this as a proposed accession, not an already completed one.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 41, Tratado Pleyadiano-Urmah, ahora Antaria, Alcohol Y Alfrateanos, Alcyone](https://swaruu.org/transcripts/noticias-espaciales-41-tratado-pleyadiano-urmah-ahora-antaria-alcohol-y-alfrateanos-alcyone) (2024-09-08; es); passages p0012, p0013, p0014, p0015. [Structured record](../../records/src-cd5071fd4bb0.json).
+
+Related topics: [Urmah Federation](urmah-federation.md).
+
+### src-a47faa48bd71-c01
+
+Mari Swa says Alcyone Council seeks mutual defense, trade, and less dependence on Federation agreements; members suspect high-level regressive Orion-area infiltration. She says critics call this conspiracy theory.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 45, Consejo de Alcyone, Federación Galáctica, Nuevas Naves, Situación Actual](https://swaruu.org/transcripts/noticias-espaciales-45-consejo-de-alcyone-federacion-galactica-nuevas-naves-situacion-actual) (2024-10-13; es); passages p0003, p0004, p0005, p0008. [Structured record](../../records/src-a47faa48bd71.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-a47faa48bd71-c02
+
+Mari Swa reports Sirius A declined the Alcyone treaty, while Antariana ambassador Ased Nidia said her people would join on October 20, 2024.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 45, Consejo de Alcyone, Federación Galáctica, Nuevas Naves, Situación Actual](https://swaruu.org/transcripts/noticias-espaciales-45-consejo-de-alcyone-federacion-galactica-nuevas-naves-situacion-actual) (2024-10-13; es); passages p0009, p0010. [Structured record](../../records/src-a47faa48bd71.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-87c8ba600ace-c02
+
+Mari says Alcyone Council represents Pleiades M45 and distanced itself from Federation intervention while pursuing military cooperation with the Urmah. Its members remained Federation members.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 39, Otro choque de un Caballero Negro, Nuevo Tratado Pleyadiano - Urmah](https://swaruu.org/transcripts/noticias-espaciales-39-otro-choque-de-un-caballero-negro-nuevo-tratado-pleyadiano-urmah) (2024-09-03; es); passages p0011, p0016, p0017, p0018, p0023. [Structured record](../../records/src-87c8ba600ace.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Urmah Federation](urmah-federation.md).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c08](galactic-federation.md#src-a5811312e55c-c08) — Galactic Federation
@@ -479,6 +599,20 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-6d8ed766cc58-c01](higher-federation-councils.md#src-6d8ed766cc58-c01) — Higher Federation councils
 - [src-5e5e29eb902e-c03](stellar-navigation.md#src-5e5e29eb902e-c03) — Stellar navigation
 - [src-87bee905e958-c06](galactic-federation.md#src-87bee905e958-c06) — Galactic Federation
+- [src-bc90a28d3260-c02](urmah.md#src-bc90a28d3260-c02) — Urmah
+- [src-bc90a28d3260-c04](taygetans.md#src-bc90a28d3260-c04) — Taygetans
+- [src-848c84c2deeb-c01](galactic-federation.md#src-848c84c2deeb-c01) — Galactic Federation
+- [src-4974a0149f11-c03](urmah-federation.md#src-4974a0149f11-c03) — Urmah Federation
+- [src-7979e44104d7-c03](urmah-federation.md#src-7979e44104d7-c03) — Urmah Federation
+- [src-66fa7120be60-c01](engan-people.md#src-66fa7120be60-c01) — Engan people
+- [src-4e95fb5ac87a-c03](taygetans.md#src-4e95fb5ac87a-c03) — Taygetans
+- [src-44dc8e3179b9-c03](taygetans.md#src-44dc8e3179b9-c03) — Taygetans
+- [src-c5264b384243-c02](combat-doctrine.md#src-c5264b384243-c02) — Combat doctrine
+- [src-cd5071fd4bb0-c01](urmah-federation.md#src-cd5071fd4bb0-c01) — Urmah Federation
+- [src-63d593149f78-c01](galactic-federation.md#src-63d593149f78-c01) — Galactic Federation
+- [src-87c8ba600ace-c03](urmah.md#src-87c8ba600ace-c03) — Urmah
+- [src-a64514faa926-c03](combat-doctrine.md#src-a64514faa926-c03) — Combat doctrine
+- [src-b76386ff7cd8-c01](taygetans.md#src-b76386ff7cd8-c01) — Taygetans
 
 ## Review flags
 
@@ -487,16 +621,28 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - Alenym poisoning and Federation culpability are Mari’s allegations; the representative’s initial response notes prior Taygetan opposition
 - Alenym-attack-culprit-unknown
 - Athena-interview-original-English
+- Avyon is described as Vega’s second planet in p0003, but p0004 calls it the first.
+- Claims about Federation funding and Mari’s succession are attributed to Mari or the Taygetean CIC.
+- Claims about Gray activity, patrols, and Taygetean ships are attributed to Athena and not independently established.
+- Claims about Taygetean ships, fleet operations, and pilot custody are attributed to Mari or cited command statements.
+- Claims describe the speaker’s account of interstellar politics and are not independently verified.
+- Contradictory Federation and Urmah accounts of Etorthan history and alignment.
 - Cyndriel time-difference mechanism remains unknown.
 - Federation opacity and Alfratan conduct are Mari’s account; she says the meeting’s entry procedure was unclear
 - Federation-and-Taygetan-accounts-conflict-over-Earth-policy-and-consent
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - Federation-infiltration\_theory
 - Federation-sanctions\_reported
+- Historical claims about Engan influence on Earth are Mari's account, not independently established.
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - Nuclear policy account leaves Hiroshima/Nagasaki exception unresolved; reported intervention evidence is qualified.
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - Senetre-diagnosed-weapon-route-suspected
+- The account of the genetic weapon and its intended exposure route is attributed to Yazhi as investigators' belief, not established independently.
+- The alleged attack remains speculation in Mari's account.
+- The political account is Mari's narrative and includes claims about infiltration, propaganda, and Federation control; preserve attribution.
+- The source is a multi-topic interview and presents unverifiable political and reincarnation claims.
+- This is a first-person report about an extraterrestrial alliance and its alleged treaty terms.
 - Yazhi-interview-report
 - Yazhi’s statements on nuclear weapons and Hiroshima are unverified claims; she explicitly said there was no way to confirm them.
 - attack-theory\_speculative

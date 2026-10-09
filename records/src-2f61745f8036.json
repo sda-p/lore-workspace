@@ -1,0 +1,84 @@
+{
+  "source_id": "src-2f61745f8036",
+  "snapshot_sha256": "45769617d4c3de0928d0135cf1ec18c7b2d09baf1e4b59edc8f4dc6c7794f648",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2f61745f8036-c01",
+      "assertion": "Yazhi says disc craft's magnetic engines create toroidal fields for frequency-shifted interstellar travel.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "disc-shaped-shuttles",
+      "topics": [
+        "disc-shaped-shuttles",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Counterrotating turbines better power larger ships."
+    },
+    {
+      "id": "src-2f61745f8036-c02",
+      "assertion": "Anéeka says crop circles marked temporal positions for navigation or coordination, later becoming messages to humanity.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "crop-circles",
+      "topics": [
+        "crop-circles",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says tractor beams or drones create them."
+    },
+    {
+      "id": "src-2f61745f8036-c03",
+      "assertion": "Athena says shuttles vary by task and use gravity cancellation; larger ships have living quarters.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2f61745f8036-c04",
+      "assertion": "Swaruu (9) says warp flight appears black because vessels leave their original spacetime.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "supraluminal-hyperdrive",
+      "topics": [
+        "supraluminal-hyperdrive",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "other topics include shield defenses, satellite networks, and vessel designs"
+  ]
+}

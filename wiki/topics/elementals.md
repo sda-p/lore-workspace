@@ -96,6 +96,26 @@ Source: [DUENDES ADAS SIRENAS DRAGONES - PROTEGIENDO TU ENERGÍA CONTRA INFLUENC
 
 Related topics: [Astral entities](astral-entities.md).
 
+### src-e5883b5b7a35-c01
+
+Athena says positive higher-density beings influence people mainly through them, with little direct action. She describes balancing influence from the positive side.
+
+Attributed to **Swaruu X (Athena), relaying Yazhi**; reported; extraction confidence: high.
+
+Source: [Nos Influencian Otras Densidades? Los Elementales y Seres Etericos - Athena Swaruu](https://swaruu.org/transcripts/nos-influencian-otras-densidades-los-elementales-y-seres-etericos-athena-swaruu) (2023-11-19; es); passages p0003, p0004, p0006. [Structured record](../../records/src-e5883b5b7a35.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-e5883b5b7a35-c02
+
+Athena associates mermaids, fairies, dragons, and goblins with water, air, fire, and earth elementals. She places them between material and astral realms, with perception shaped by frequency.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Nos Influencian Otras Densidades? Los Elementales y Seres Etericos - Athena Swaruu](https://swaruu.org/transcripts/nos-influencian-otras-densidades-los-elementales-y-seres-etericos-athena-swaruu) (2023-11-19; es); passages p0009, p0010, p0011, p0012, p0013, p0014, p0015, p0016. [Structured record](../../records/src-e5883b5b7a35.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
 ## Claims filed under other topics
 
 - [src-4a19348a3734-c01](druidic-traditions.md#src-4a19348a3734-c01) — Druidic traditions
@@ -104,6 +124,7 @@ Related topics: [Astral entities](astral-entities.md).
 ## Review flags
 
 - Claims about elementals and gravity sensing are attributed to Athena.
+- The interview attributes emotional and physical effects to entities; these are presented as the speaker's claims.
 - distinct-speaker-models-attributed
 - mental-health-and-protection-advice-excluded
 - paranormal-entity-claims-attributed

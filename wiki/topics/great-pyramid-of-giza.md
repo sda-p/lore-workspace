@@ -53,6 +53,8 @@ Related topics: [Gravity harmonics](gravity-harmonics.md).
 - [src-e10b7b1c1712-c04](astrotheology.md#src-e10b7b1c1712-c04) — Astrotheology
 - [src-e10b7b1c1712-c05](astrotheology.md#src-e10b7b1c1712-c05) — Astrotheology
 - [src-8c403e396292-c03](giza-labyrinth.md#src-8c403e396292-c03) — Giza Labyrinth
+- [src-a431c798e8b4-c01](atlantis-lemuria.md#src-a431c798e8b4-c01) — Atlantis and Lemuria
+- [src-599770c5705f-c02](ancient-egypt.md#src-599770c5705f-c02) — Ancient Egypt
 
 ## Review flags
 

@@ -1,0 +1,37 @@
+{
+  "source_id": "src-9bfba65b62f5",
+  "snapshot_sha256": "581b881849733acb6455b83d9ab4168cc3345b8c3a624c59ac95c71c329d0740",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9bfba65b62f5-c01",
+      "assertion": "Yazhi says Alenym has no jurisdiction over her actions because she is from another race and only a guest aboard a Taygetan ship.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": ["p0102"],
+      "primary_topic": "taygetans",
+      "topics": ["taygetans", "galactic-federation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is Yazhi’s stated position during a disagreement over whether the disclosure project should continue."
+    },
+    {
+      "id": "src-9bfba65b62f5-c02",
+      "assertion": "Yazhi says the ship had been disconnected from the internet under Federation restrictions, while she alone could reconnect using a different system.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": ["p0108", "p0133", "p0135"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "stellar-navigation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the restrictions applied broadly and does not explain her connection method."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about Federation restrictions and shipboard authority are reported dialogue from a speculative source."
+  ],
+  "coverage_gaps": [
+    "the disagreement over continuing the disclosure project",
+    "the shipboard conflict attributed to workload, crew stress, and cats"
+  ]
+}

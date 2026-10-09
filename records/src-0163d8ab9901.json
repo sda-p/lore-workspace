@@ -1,0 +1,70 @@
+{
+  "source_id": "src-0163d8ab9901",
+  "snapshot_sha256": "8b6e5c508e98c604e03e2b42c7827e87ad3255e1a2d3a4add3b2680073fed469",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0163d8ab9901-c01",
+      "assertion": "Yazhi describes enlightenment as an evolving way of living and thinking, shaped by mind, frequency, focus, and coherence rather than a final attained state.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0163d8ab9901-c02",
+      "assertion": "Yazhi says enlightenment is possible anywhere because place-based limits are illusory; Earth’s Matrix pressures people to conform, making spiritual growth harder.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0010",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "planetary-matrix-resets"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0163d8ab9901-c03",
+      "assertion": "Yazhi doubts Buddha’s historicity, saying he may have been real but later embellished for social control; she says his existence remains unknowable.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016",
+        "p0020",
+        "p0023"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She also says Buddha inspires her and is respected aboard the ship."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about enlightenment, Earth’s Matrix, and Buddha are attributed to Yazhi and not independently established."
+  ],
+  "coverage_gaps": [
+    "the distinction between Buddha and later Buddhism",
+    "the claim that spiritual experience affects DNA"
+  ]
+}

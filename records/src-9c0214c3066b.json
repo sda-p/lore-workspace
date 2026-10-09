@@ -1,0 +1,71 @@
+{
+  "source_id": "src-9c0214c3066b",
+  "snapshot_sha256": "cac1897023d6cc5d67e41481ae978d375fb853f3da1cabc5ed614c65ff46e5b5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9c0214c3066b-c01",
+      "assertion": "Yazhi says she works in astral realms with many souls, often unable to identify their embodied selves because astral appearances may differ from physical bodies.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0014",
+        "p0018"
+      ],
+      "primary_topic": "astral-travel",
+      "topics": [
+        "astral-travel",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She declines to verify specific encounter reports."
+    },
+    {
+      "id": "src-9c0214c3066b-c02",
+      "assertion": "Yazhi describes astral work as observing and understanding conditions, including groups of entities and egregors; she says a high-frequency presence can dissolve negativity.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0029",
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are Yazhi’s claims."
+    },
+    {
+      "id": "src-9c0214c3066b-c03",
+      "assertion": "Yazhi says people can join astral work through meditation and imagination, focusing on positive changes rather than visualizing hostile entities.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0037",
+        "p0041",
+        "p0043",
+        "p0057",
+        "p0059"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "astral-travel"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says methods vary by person."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Specific astral conflicts, locales, and other suggested methods omitted"
+  ]
+}

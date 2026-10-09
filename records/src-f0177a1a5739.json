@@ -1,0 +1,59 @@
+{
+  "source_id": "src-f0177a1a5739",
+  "snapshot_sha256": "7b2fc8e3b9838d3ca206692ed64b8d6cc7b33f0c3d30f2698fdf5326be9ac6b4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f0177a1a5739-c01",
+      "assertion": "Yazhi says natural doppelgangers may be soul-manifested copies or bilocation; other cases may involve portals or spacecraft, and their mechanisms remain poorly understood.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0014",
+        "p0016",
+        "p0022",
+        "p0033",
+        "p0035",
+        "p0029",
+        "p0055"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "natural-portals",
+        "tulpas"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She distinguishes these possibilities from ordinary people who merely look alike."
+    },
+    {
+      "id": "src-f0177a1a5739-c02",
+      "assertion": "Yazhi says doppelganger cases can repeat life events and produce identical photographs even when the circumstances leading to each image differ.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0038",
+        "p0042",
+        "p0043",
+        "p0024",
+        "p0055"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She calls the phenomenon poorly understood and says similar appearances alone do not establish a mirror."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The speakers discuss an unverified paranormal phenomenon and explicitly offer multiple possible explanations."
+  ],
+  "coverage_gaps": [
+    "The conversation also discusses possible tulpas, semi-physical duplicates, and cases that allegedly disappear."
+  ]
+}

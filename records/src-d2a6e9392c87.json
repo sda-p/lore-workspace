@@ -1,0 +1,36 @@
+{
+  "source_id": "src-d2a6e9392c87",
+  "snapshot_sha256": "60b1d76b4e7a824b5fa586a170c65151cd46d4609eb9b4ffc4e7653416243b52",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d2a6e9392c87-c01",
+      "assertion": "Mari Swa portrays the Galactic Federation as a tiered council system where species can reach only local representatives; she says Earth-level officials claim higher authorities near Saturn issue orders but cannot be contacted.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0021", "p0023"],
+      "primary_topic": "higher-federation-councils",
+      "topics": ["higher-federation-councils", "galactic-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "These are her allegations about the Federation's structure and Earth situation."
+    },
+    {
+      "id": "src-d2a6e9392c87-c02",
+      "assertion": "Mari Swa recounts that a high-ranking Andromedan Federation representative urged her to stop criticizing the Federation and organizing counter-meetings; she says she rejected Federation direction over Taygetan policy.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0027", "p0028", "p0037"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "taygetans"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as her account of a conversation on August 13, 2024."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source opens by framing its content as entertainment and presents disputed geopolitical allegations as first-person testimony."
+  ],
+  "coverage_gaps": [
+    "The video also alleges Federation propaganda, exclusion zones near Solar System planets, and an attempted attack on Queen Alenym."
+  ]
+}

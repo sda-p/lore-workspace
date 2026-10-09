@@ -1,0 +1,65 @@
+{
+  "source_id": "src-a47faa48bd71",
+  "snapshot_sha256": "352b1de16b7c28352f1ba2b366c57eb212556d7fb38ee169df2e5a345834d4dd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a47faa48bd71-c01",
+      "assertion": "Mari Swa says Alcyone Council seeks mutual defense, trade, and less dependence on Federation agreements; members suspect high-level regressive Orion-area infiltration.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0008"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says critics call this conspiracy theory."
+    },
+    {
+      "id": "src-a47faa48bd71-c02",
+      "assertion": "Mari Swa reports Sirius A declined the Alcyone treaty, while Antariana ambassador Ased Nidia said her people would join on October 20, 2024.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a47faa48bd71-c03",
+      "assertion": "Mari Swa says new Taygetan ship Big E arrived in low Earth orbit to escort Sadicleya; at least 14 ships, including Aldebaran and Hyades-class vessels, were under construction on Temmer.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Cyndriel neared completion."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Planned Cyndriel replacement of Águila Vigilante; claims about Earth conflicts and nuclear threats."
+  ]
+}

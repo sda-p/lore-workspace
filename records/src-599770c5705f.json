@@ -1,0 +1,72 @@
+{
+  "source_id": "src-599770c5705f",
+  "snapshot_sha256": "80017c5d09e187a342c62dc4ea0023100953df30ca7cbb0e1ed28183975476fc",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-599770c5705f-c01",
+      "assertion": "Athena says Egyptian and Mesoamerican pyramids reflected their builders but shared a planetary energy-network role; regular sacrifices characterized Mesoamerica, not Egypt.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "pyramid-network",
+      "topics": [
+        "pyramid-network",
+        "ancient-egypt",
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-599770c5705f-c02",
+      "assertion": "Yazhi says major pyramids are genuine, while many temple ornaments and some reconstructions were rearranged or fabricated to rewrite history and promote tourism.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0041"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "great-pyramid-of-giza"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are her claims."
+    },
+    {
+      "id": "src-599770c5705f-c03",
+      "assertion": "Athena interprets a seven-keyed Karnak feature as a marker for an interdimensional portal, using frequency matching; she suggests its doors may encode destinations or security levels.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0050",
+        "p0051",
+        "p0052",
+        "p0054"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "ancient-egypt"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She offers alternative interpretations."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other image interpretations, Rosetta Stone claims, and underground-base discussion omitted"
+  ]
+}

@@ -900,6 +900,174 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 
 Source: [¿Es realmente necesario cambiar tu pasado?](https://swaruu.org/transcripts/es-realmente-necesario-cambiar-tu-pasado) (2023-05-10; es); passages p0013, p0016. [Structured record](../../records/src-d98b08976c76.json).
 
+### src-c3fbe6d57df9-c02
+
+Mari says time jumps may enter alternate timelines because time has three axes; navigation errors can cause travelers to become lost.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Espacio-Tiempo Hexadimensional](https://swaruu.org/transcripts/espacio-tiempo-hexadimensional) (2024-02-20; es); passages p0025, p0028, p0030. [Structured record](../../records/src-c3fbe6d57df9.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-c3fbe6d57df9-c03
+
+Mari says a traveler’s awareness contributes to a spiral-like personal timeline through repeated jumps to the same calendar date.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Espacio-Tiempo Hexadimensional](https://swaruu.org/transcripts/espacio-tiempo-hexadimensional) (2024-02-20; es); passages p0029, p0030, p0032. [Structured record](../../records/src-c3fbe6d57df9.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-68aff81d2865-c02
+
+Mari says a moment is physically distinguished by the arrangement and relations of objects within a location.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Principios básicos para el auténtico Viaje en el Tiempo, Segunda Parte](https://swaruu.org/transcripts/principios-basicos-para-el-autentico-viaje-en-el-tiempo-segunda-parte) (2024-02-06; es); passages p0009, p0010. [Structured record](../../records/src-68aff81d2865.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-08d63a920baf-c02
+
+Za’el says premonitory dreams may be interpreted as nonlinear influence from a possible future, though he cautions against treating this as fixed destiny.
+
+Attributed to **Za’el de Erra**; speculative; extraction confidence: high.
+
+Source: [Sueños Premonitorios, y Recuerdos del Futuro](https://swaruu.org/transcripts/suenos-premonitorios-y-recuerdos-del-futuro) (2023-11-16; es); passages p0015, p0017, p0018. [Structured record](../../records/src-08d63a920baf.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1a585b8926d1-c02
+
+Mari says multiple pasts and futures continue to exist and claims mind alone can revisit a time by matching its frequency, without a spacecraft. She presents time and space as mental perceptions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [No necesitas una nave espacial](https://swaruu.org/transcripts/no-necesitas-una-nave-espacial) (2024-02-11; es); passages p0019, p0020, p0025, p0026. [Structured record](../../records/src-1a585b8926d1.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-e50e737a17f6-c04
+
+Mari says imperfect destination maps and conscious observation create slightly different timelines, preventing fixed time-travel paradoxes.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Principios básicos para el auténtico Viaje en el Tiempo, Naves Espaciales, Tercera Parte](https://swaruu.org/transcripts/principios-basicos-para-el-autentico-viaje-en-el-tiempo-naves-espaciales-tercera-parte) (2024-02-09; es); passages p0023, p0024, p0025, p0026. [Structured record](../../records/src-e50e737a17f6.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-4dbc0136de84-c04
+
+Yazhi says time manipulation lets her avoid aging or growing like others in her current body.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Sophia (Yazhi) Swaruu - Primeros Años de Yazhi en Toleka (PARTE 1)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-primeros-anos-de-yazhi-en-toleka-parte-1) (2024-08-23; es); passages p0090, p0092, p0096. [Structured record](../../records/src-4dbc0136de84.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-4dbc0136de84-c05
+
+Anéeka and Nai'Shara describe time manipulation as the basis of Yazhi’s abilities and density control.
+
+Attributed to **Anéeka and Nai'Shara**; reported; extraction confidence: high.
+
+Source: [Sophia (Yazhi) Swaruu - Primeros Años de Yazhi en Toleka (PARTE 1)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-primeros-anos-de-yazhi-en-toleka-parte-1) (2024-08-23; es); passages p0052, p0053, p0054, p0055. [Structured record](../../records/src-4dbc0136de84.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-88b24c836599-c04
+
+Yazhi says a tractor beam brought food from another timeline; she stopped to spare its inhabitants.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Sophia (Yazhi) Swaruu - Nuevas Conversaciones (PARTE 3)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-nuevas-conversaciones-parte-3) (2024-09-10; es); passages p0084, p0085, p0087. [Structured record](../../records/src-88b24c836599.json).
+
+Related topics: [Tractor beams](tractor-beams.md).
+
+### src-8afe7430b1fb-c06
+
+Athena says Hourglass is an elite temporal-operations unit; Suzy craft use classified materials and are restricted to it.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 6A - Naves de Caza Avanzadas de Taygeta (Pleyades) - Yazhi y Athena Swaruu](https://swaruu.org/transcripts/vida-interestelar-6a-naves-de-caza-avanzadas-de-taygeta-pleyades-yazhi-y-athena-swaruu) (2024-07-18; es); passages p0057, p0059, p0061. [Structured record](../../records/src-8afe7430b1fb.json).
+
+Related topics: [Suzy-class starships](suzy-class-starships.md).
+
+### src-87c6a18876e9-c03
+
+Mari says Temmer time runs 4.6 times slower than Earth’s, complicating date comparisons.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [¿El último Diluvio Global ocurrió hace menos de 200 años?](https://swaruu.org/transcripts/el-ultimo-diluvio-global-ocurrio-hace-menos-de-200-anos) (2024-11-01; es); passages p0006, p0008. [Structured record](../../records/src-87c6a18876e9.json).
+
+### src-e97ad68aea23-c04
+
+The lion attributed Mari's grief and illness to other timelines and urged her not to carry others' burdens.
+
+Attributed to **Blue lion entity, as reported by Mari**; reported; extraction confidence: high.
+
+Source: [Los Urmah me Curaron. Parte 2, Cara a Cara con el Gato Cósmico que dije que no existía](https://swaruu.org/transcripts/los-urmah-me-curaron-parte-2-cara-a-cara-con-el-gato-cosmico-que-dije-que-no-existia) (2024-11-05; es); passages p0018, p0019, p0020. [Structured record](../../records/src-e97ad68aea23.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
+### src-9486adf569be-c01
+
+Mari Swa says souls may move among possible personal timelines, so a broadly planned life can still include practical free will. She presents this as her perspective on life planning.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Las Dos Creencias más Autodestructivas de las Semillas Estelares](https://swaruu.org/transcripts/las-dos-creencias-mas-autodestructivas-de-las-semillas-estelares) (2024-07-07; es); passages p0014, p0015, p0020. [Structured record](../../records/src-9486adf569be.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-6e7da028d2f1-c03
+
+Yazhi attributes differing recollections, including Mandela effects, to shifts in collective Matrix dynamics and individual frequency. This is her metaphysical explanation of memory differences.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Charla "Post-Espejos" - Conversación Metafísica con Yazhi Swaruu](https://swaruu.org/transcripts/charla-post-espejos-conversacion-metafisica-con-yazhi-swaruu) (2024-05-27; es); passages p0050, p0053, p0055, p0056. [Structured record](../../records/src-6e7da028d2f1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-0b2675478503-c02
+
+Athena describes past and future timelines as possibilities converging on an observer’s present, with thoughts and frequency influencing which future is experienced. She says future predictions are not definitive.
+
+Attributed to **Athena Swaruu**; reported; extraction confidence: high.
+
+Source: [Athena Swaruu - Charla espiritual con Dale y Rich (2021) - Federación Galáctica, Tiempo (PARTE 2)](https://swaruu.org/transcripts/athena-swaruu-charla-espiritual-con-dale-y-rich-2021-federacion-galactica-tiempo-parte-2) (2025-08-28; es); passages p0071, p0072, p0073, p0075. [Structured record](../../records/src-0b2675478503.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-424eb87288db-c03
+
+Yazhi says observer consciousness differentiates realities and technology can alter their frequency values; Taygetans use interferometers to detect external manipulation. She says humans lack this capability.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 11: Naves que se Pierden en las Líneas Temporales - Realidad Numérica](https://swaruu.org/transcripts/vida-interestelar-11-naves-que-se-pierden-en-las-lineas-temporales-realidad-numerica) (2025-08-14; es); passages p0023, p0024, p0025, p0026. [Structured record](../../records/src-424eb87288db.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md), [Taygetans](taygetans.md), [Tractor beams](tractor-beams.md).
+
+### src-f6679288cfba-c03
+
+Athena says souls experience worlds matching their vibration; strong positive souls may manifest shared realities, but starseed futures remain uncertain amid fragmented timelines.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [NO ES NECESARIO SUFRIR PARA AVANZAR - ATHENA SWARUU](https://swaruu.org/transcripts/no-es-necesario-sufrir-para-avanzar-athena-swaruu) (2024-09-04; es); passages p0018, p0020, p0022, p0026, p0028. [Structured record](../../records/src-f6679288cfba.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Starseeds](starseeds.md).
+
 ## Claims filed under other topics
 
 - [src-4d14ae46991f-c04](consciousness-metaphysics.md#src-4d14ae46991f-c04) — Consciousness and metaphysics
@@ -972,27 +1140,59 @@ Source: [¿Es realmente necesario cambiar tu pasado?](https://swaruu.org/transcr
 - [src-5747f0ef36c2-c03](memory-veil.md#src-5747f0ef36c2-c03) — Memory Veil
 - [src-52a4911db286-c02](collective-timeline-influence.md#src-52a4911db286-c02) — Collective timeline influence
 - [src-d98b08976c76-c04](consciousness-metaphysics.md#src-d98b08976c76-c04) — Consciousness and metaphysics
+- [src-46bf88241861-c01](consciousness-metaphysics.md#src-46bf88241861-c01) — Consciousness and metaphysics
+- [src-89492330f9ab-c03](sophia-swaruu.md#src-89492330f9ab-c03) — Sophia Swaruu
+- [src-4603aaa764e8-c03](reincarnation-cycles.md#src-4603aaa764e8-c03) — Reincarnation and karmic cycles
+- [src-cf077618db34-c01](frequency-map-navigation.md#src-cf077618db34-c01) — Frequency-map navigation
+- [src-f15dd35a07c7-c01](reincarnation-cycles.md#src-f15dd35a07c7-c01) — Reincarnation and karmic cycles
+- [src-122cf2f1788a-c01](consciousness-metaphysics.md#src-122cf2f1788a-c01) — Consciousness and metaphysics
+- [src-012423a73157-c02](collective-timeline-influence.md#src-012423a73157-c02) — Collective timeline influence
+- [src-30dde9581dd8-c01](starseed-guides.md#src-30dde9581dd8-c01) — Starseed guides
+- [src-4dbc0136de84-c03](tractor-beams.md#src-4dbc0136de84-c03) — Tractor beams
+- [src-7e2d3128e0af-c06](collective-timeline-influence.md#src-7e2d3128e0af-c06) — Collective timeline influence
+- [src-87c7b2fdd725-c01](consciousness-metaphysics.md#src-87c7b2fdd725-c01) — Consciousness and metaphysics
+- [src-87c7b2fdd725-c02](frequency-map-navigation.md#src-87c7b2fdd725-c02) — Frequency-map navigation
+- [src-87c7b2fdd725-c03](soul-family-groups.md#src-87c7b2fdd725-c03) — Soul-family groups
+- [src-184076248eae-c01](consciousness-metaphysics.md#src-184076248eae-c01) — Consciousness and metaphysics
+- [src-1c4bd7958c2e-c01](consciousness-metaphysics.md#src-1c4bd7958c2e-c01) — Consciousness and metaphysics
+- [src-424eb87288db-c01](frequency-map-navigation.md#src-424eb87288db-c01) — Frequency-map navigation
+- [src-6132d2375df6-c03](temporal-skipping.md#src-6132d2375df6-c03) — Temporal skipping
 
 ## Review flags
 
 - Abilities, body control, and density model are Yazhi’s self-reports
 - Athena’s multiverse/relationship-variant model and Swaruu (9)’s older soulmate model are distinct source sections
 - Claims about psychics, telepathy, and entities are attributed to the named speakers, not independently verified.
+- Claims about spirit guides, telepathy, and hostile astral entities are attributed to Mari.
+- Claims about time, gravity, and navigation are attributed to Mari Swaruu.
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
+- Cosmological and navigation claims are attributed to Mari Swaruu.
 - Cosmological claims are attributed to Yazhi; one disease example in the source is omitted.
 - Different-models-of-time-and-density-are-explicitly-contrasted
+- Dream and timeline interpretations are attributed to Za’el.
 - English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
 - English source src-dd0d7340a655 closely translates the complete Spanish article; paragraph segmentation differs, with no substantive additions found.
 - Historical chronology and the reported overlap are source claims; exact dating remains uncertain
+- Mari describes this as a personal experience and remains uncertain about the entity's identity; the lion's messages are reported speech.
 - Minerva’s claims about souls, vaccine effects, and astral conflict are metaphysical testimony; omitted health claims
 - Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - Spiritual interpretations and timeline claims are attributed to Za’el, not independently verified.
 - The author presents telepathy and thought-form manifestation as factual; these claims remain attributed.
+- The crew's initial descriptions of anomalies and Yazhi's own tractor-beam explanation are distinct attributions.
+- The dialogue presents metaphysical claims about memory, consciousness, and reality without independent verification.
+- The narrator explicitly calls her historical-reset theory speculative and says she has no proof; preserve this qualification.
 - The source also makes an unsupported cancer and dissociative-identity claim in p0052; it is omitted from the lore claims.
+- The source discusses reincarnation and higher-self claims as spiritual perspectives, without independent verification.
 - The source frames adversity through speculative metaphysical ideas; the author explicitly cautions that events need not have one definite purpose.
+- The source frames spiritual and conspiratorial claims as opinion and entertainment; they are unverified.
+- The source includes unverified conspiratorial and medical claims alongside metaphysical discussion.
+- The source makes extraordinary claims about sentient spacecraft and temporal travel; all are recorded as attributed lore.
+- The source says names were changed; the identity claims are the narrator's account of private crew cases.
+- The speaker frames these spiritual and extraterrestrial ideas as personal perspective and entertainment; they are unverified.
 - These are Yazhi’s metaphysical claims; tulpa “reality” and cross-density transfer are framed within her model
 - Time model rejects fixed linear time; do not reconcile with other accounts.
+- Time-navigation and physics claims are attributed to Mari.
 - Timeline travel described as branching/lateral; source does not quantify coordinates.
 - agenda21-assertion
 - ancient-history-claim

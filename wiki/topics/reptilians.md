@@ -218,6 +218,56 @@ Source: [CONTACTADOS EXTRATERRESTRES Y UFOLOGOS MATRIX 3D - YAZHI SWARUU](https:
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-936377231cd6-c03
+
+Mari says Reptiloids cannot biologically shapeshift but can distort human perception with psychic abilities and synthetic-telepathy devices; remote human influence requires genetic-frequency compatibility.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Los Reptiloides y cómo ven la Tierra y a la Humanidad](https://swaruu.org/transcripts/los-reptiloides-y-como-ven-la-tierra-y-a-la-humanidad) (2024-03-17; es); passages p0025, p0026, p0029, p0030. [Structured record](../../records/src-936377231cd6.json).
+
+Related topics: [Synthetic Intelligence](synthetic-intelligence.md), [DNA and metaphysical patterns](dna-metaphysics.md).
+
+### src-0ae97daa9913-c01
+
+Mari says the Galactic Federation claims Earth and Reptilian societies must remain isolated for different reasons; it portrays Reptilians as aggressive and says it does not control them. She says Reptilians are more aware of galactic society than Earth’s human population.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Los Reptilianos y la Federación Galáctica. Y Reptilianos Positivos](https://swaruu.org/transcripts/los-reptilianos-y-la-federacion-galactica-y-reptilianos-positivos) (2024-03-19; es); passages p0003, p0004, p0005, p0009. [Structured record](../../records/src-0ae97daa9913.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-0ae97daa9913-c02
+
+Mari describes Reptilian groups as morally diverse, including positive, protective civilizations; she says some have representatives near Earth and may protect their starseeds. She says positive Reptilians may avoid open contact because humans could fear their appearance.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Los Reptilianos y la Federación Galáctica. Y Reptilianos Positivos](https://swaruu.org/transcripts/los-reptilianos-y-la-federacion-galactica-y-reptilianos-positivos) (2024-03-19; es); passages p0013, p0014, p0015, p0016. [Structured record](../../records/src-0ae97daa9913.json).
+
+Related topics: [Alpha Draconians](alpha-draconians.md), [Starseeds](starseeds.md).
+
+### src-b76386ff7cd8-c04
+
+She says reptilians range from animal-like forms to alpha Draconians, with both hostile and peaceful varieties.
+
+Attributed to **Mari Swa**; reported; extraction confidence: medium.
+
+Source: [¿Quiénes Están Involucrados con la Tierra? Una Guía de las Razas Extraterrestres - CLASE 017](https://swaruu.org/transcripts/quienes-estan-involucrados-con-la-tierra-una-guia-de-las-razas-extraterrestres-clase-017) (2026-08-11; es); passages p0109, p0111. [Structured record](../../records/src-b76386ff7cd8.json).
+
+Related topics: [Alpha Draconians](alpha-draconians.md), [Reptilian invaders](reptilian-invaders.md).
+
+### src-27c6cbbb1fd4-c03
+
+Gosia describes many star cultures as benevolent, but says regressive Reptilian, Draco, and Grey factions covertly exploit humans; she cautions that not all Reptilians or Greys are negative.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [¿Son Amigables? Extraterrestres: ¿Buenos o Malos? Clase 016](https://swaruu.org/transcripts/son-amigables-extraterrestres-buenos-o-malos-clase-016) (2026-07-10; es); passages p0021, p0022, p0023, p0032, p0033, p0035, p0036. [Structured record](../../records/src-27c6cbbb1fd4.json).
+
+Related topics: [Alpha Draconians](alpha-draconians.md), [Earth Cabal and power structures](earth-cabal.md), [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-1fd1145b4a3b-c03](ancient-egypt.md#src-1fd1145b4a3b-c03) — Ancient Egypt
@@ -249,6 +299,14 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-52f3828b6f14-c03](hashmallim.md#src-52f3828b6f14-c03) — Hashmallim
 - [src-a69d54a0580b-c03](maitre.md#src-a69d54a0580b-c03) — Maitre
 - [src-4ae11aa0469c-c03](false-alien-invasion.md#src-4ae11aa0469c-c03) — False alien invasion scenarios
+- [src-936377231cd6-c01](kingu.md#src-936377231cd6-c01) — Kingu
+- [src-e2c0340ba4de-c02](earth-cabal.md#src-e2c0340ba4de-c02) — Earth Cabal and power structures
+- [src-410360813ac6-c01](alpha-draconians.md#src-410360813ac6-c01) — Alpha Draconians
+- [src-d1f6d4a06f3a-c01](astral-entities.md#src-d1f6d4a06f3a-c01) — Astral entities
+- [src-9111b6efe5ee-c03](alien-species.md#src-9111b6efe5ee-c03) — Alien species and distinctions
+- [src-f2ce50705052-c03](earth-cabal.md#src-f2ce50705052-c03) — Earth Cabal and power structures
+- [src-f2ce50705052-c04](alien-species.md#src-f2ce50705052-c04) — Alien species and distinctions
+- [src-034d05cf853e-c02](ancient-egypt.md#src-034d05cf853e-c02) — Ancient Egypt
 
 ## Review flags
 
@@ -259,6 +317,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - Grey-ancestry-uncertainty
 - Reptilian claims about a public figure are attributed to Yazhi and not independently verified.
 - Reptilian identity claim is an allegation by the speaker.
+- The speaker's historical and reincarnation accounts are her claims, not independently corroborated.
 - Yazhi’s denial of man-eating Reptilians outside the Earth Matrix conflicts with earlier source claims.
 - aircraft-identity-ambiguity
 - aliens-removed-from-quadrant-claim
@@ -286,11 +345,13 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - mass-explanation-variation
 - metaphysical-entity-origin-claims
 - name-variant-review
+- p0007 gives contradictory Kingu–Usungal origin accounts.
 - political-conspiracy-claims-attributed
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - reptilian-soul-claims
 - reptilian-species-versus-reptile-egregor
 - rh-negative-identity-caveat
+- source later labels people with mental-health conditions as demons and some people as soulless; avoid presenting these as facts
 - species-and-hostility-distinctions-preserved
 - species-variation-within-reptilians
 - speculative-biology-and-blood-group-claims

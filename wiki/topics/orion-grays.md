@@ -64,6 +64,26 @@ Source: [Alienígenas Grises. Parte 2. Razas de Orión y Etórtans](https://swar
 
 Related topics: [Kingu](kingu.md), [Galactic Federation](galactic-federation.md).
 
+### src-fbcfb08500c9-c01
+
+Mari reports increased Orion Gray activity near Earth and claims some ships used Zeta Gray identification codes. She speculates this could enable abductions under Zeta permissions.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 43. Mucha Actividad Grises de Orion, Yazhi, Naves, Críticos ET, mi YouTube](https://swaruu.org/transcripts/noticias-espaciales-43-mucha-actividad-grises-de-orion-yazhi-naves-criticos-et-mi-youtube) (2024-09-22; es); passages p0003, p0004, p0006, p0008. [Structured record](../../records/src-fbcfb08500c9.json).
+
+Related topics: [Zeta Reticuli Gardeners](zeta-reticuli-gardeners.md).
+
+### src-a64514faa926-c01
+
+Athena says she flies combat air patrols around and within Earth due to increased Grey activity, which the Federation regards as expected cooperation with the Orion Council. Athena says Alcyone and Urmah disagree.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [DEMASIADA ACTIVIDAD EXTRATERRESTRE GRIS EN LA TIERRA – ATHENA SWARUU](https://swaruu.org/transcripts/demasiada-actividad-extraterrestre-gris-en-la-tierra-athena-swaruu) (2024-09-16; es); passages p0004, p0006, p0008, p0010. [Structured record](../../records/src-a64514faa926.json).
+
+Related topics: [Orion Council](orion-council.md), [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-03651da1738e-c03](zeta-reticuli-gardeners.md#src-03651da1738e-c03) — Zeta Reticuli Gardeners
@@ -71,6 +91,8 @@ Related topics: [Kingu](kingu.md), [Galactic Federation](galactic-federation.md)
 - [src-554b76780378-c02](zeta-reticuli-gardeners.md#src-554b76780378-c02) — Zeta Reticuli Gardeners
 - [src-554b76780378-c03](galactic-federation.md#src-554b76780378-c03) — Galactic Federation
 - [src-a69d54a0580b-c01](alien-species.md#src-a69d54a0580b-c01) — Alien species and distinctions
+- [src-410360813ac6-c02](alpha-draconians.md#src-410360813ac6-c02) — Alpha Draconians
+- [src-88e9e60e1494-c03](zeta-reticuli-gardeners.md#src-88e9e60e1494-c03) — Zeta Reticuli Gardeners
 
 ## Review flags
 

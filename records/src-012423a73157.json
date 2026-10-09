@@ -1,0 +1,52 @@
+{
+  "source_id": "src-012423a73157",
+  "snapshot_sha256": "d7800e434e6f6cf4d9e733c7ad2eb7035cfb9a5e5f653cd0c3f760136f02fa55",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-012423a73157-c01",
+      "assertion": "Athena says Earth’s ascension is relative to the perspectives and experiences of groups, especially positive starseeds, rather than an absolute planetary change.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "individual-ascension",
+      "topics": [
+        "individual-ascension",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She associates it with improved living conditions and a population vibration compatible with that change."
+    },
+    {
+      "id": "src-012423a73157-c02",
+      "assertion": "Athena says strong positive souls can shape shared experience beyond their numbers, while Earth’s timelines are fragmented and its future remains uncertain.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0022",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says people experience realities aligned with their vibration."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "perceived isolation from distressing news",
+    "ongoing coexistence of Earth realities"
+  ]
+}

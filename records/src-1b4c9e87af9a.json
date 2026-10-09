@@ -1,0 +1,61 @@
+{
+  "source_id": "src-1b4c9e87af9a",
+  "snapshot_sha256": "966b91bf0a7ceecc757bb94efccf4e00a15e2e9f76a57b1abe9ce6b5de4ddb48",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1b4c9e87af9a-c01",
+      "assertion": "Mari says she was born aboard a starship in deep space and, under interstellar law, belongs to the Taygetan society associated with that vessel.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "According to her account."
+    },
+    {
+      "id": "src-1b4c9e87af9a-c02",
+      "assertion": "Mari distinguishes her mother Athena Julia from Athena Elizabeth as a variant across timelines and dimensions, and says she became separated from her mother at age thirteen.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "According to Mari."
+    },
+    {
+      "id": "src-1b4c9e87af9a-c03",
+      "assertion": "Mari identifies herself as Queen Mari Swa I and says she adopted Swa to distinguish her leadership and identity from earlier Swaruu figures.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Name and reincarnation disputes, Earth arrival timeline, and prior identities omitted"
+  ]
+}

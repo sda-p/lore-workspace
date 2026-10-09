@@ -54,6 +54,36 @@ Source: [Federación Galáctica, UFoP, estructura interna. Parte 3](https://swar
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-b4a8487b5217-c02
+
+Anéeka says Federation bases near Saturn are mainly underground on moons and in ring asteroids, with the rings used for mineral resources.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica y Saturno - Lideres Imposibles a Encontrar - Aneeka de Temmer](https://swaruu.org/transcripts/federacion-galactica-y-saturno-lideres-imposibles-a-encontrar-aneeka-de-temmer) (2024-01-14; es); passages p0038, p0041, p0044. [Structured record](../../records/src-b4a8487b5217.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-9f732504c39c-c02
+
+Mari says hidden forces may control higher Federation levels and identifies Saturn as a suspected center of regressive influence. She describes this as a likely theory, not a confirmed finding.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Teorías de la Conspiración sobre Federación Galáctica](https://swaruu.org/transcripts/teorias-de-la-conspiracion-sobre-federacion-galactica) (2024-08-27; es); passages p0014, p0015, p0025, p0026. [Structured record](../../records/src-9f732504c39c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-63d593149f78-c02
+
+Mari alleges a Federation-linked Saturn lab produced the pathogen used to poison former Queen Alenym, citing a protein signature identified by Taygetan labs. This is Mari’s allegation.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Taygeta Noticias Espaciales, 37, Actualización de la Federación Galáctica, exopolítica taygeteana](https://swaruu.org/transcripts/taygeta-noticias-espaciales-37-actualizacion-de-la-federacion-galactica-exopolitica-taygeteana) (2024-08-25; es); passages p0013, p0014, p0015. [Structured record](../../records/src-63d593149f78.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-fe82d1a07961-c02](galactic-federation.md#src-fe82d1a07961-c02) — Galactic Federation
@@ -65,12 +95,25 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-7a1af96e9fb5-c02](earth-cabal.md#src-7a1af96e9fb5-c02) — Earth Cabal and power structures
 - [src-b01e12100c02-c02](moon-biosphere-ship.md#src-b01e12100c02-c02) — The Moon as a biosphere ship
 - [src-f138a70a4ff8-c02](galactic-federation.md#src-f138a70a4ff8-c02) — Galactic Federation
+- [src-b4a8487b5217-c01](galactic-federation.md#src-b4a8487b5217-c01) — Galactic Federation
+- [src-0c76e94a437f-c02](galactic-federation.md#src-0c76e94a437f-c02) — Galactic Federation
+- [src-3694da810026-c02](galactic-federation.md#src-3694da810026-c02) — Galactic Federation
+- [src-2cbb8e402073-c03](galactic-federation.md#src-2cbb8e402073-c03) — Galactic Federation
+- [src-b3b68817ea60-c01](galactic-federation.md#src-b3b68817ea60-c01) — Galactic Federation
+- [src-be1186902ee6-c02](galactic-federation.md#src-be1186902ee6-c02) — Galactic Federation
 
 ## Review flags
 
+- Claims about Federation hierarchy and Saturn environments are attributed to Anéeka.
 - Claims about hidden councils and planetary bases are attributed to Mari Swaruu.
 - Federation-involvement-in-Earth-politics-varies-across-source-claims
 - Regional Sauroid control is distinct from Saturn itself; source dates its end to 2012.
+- The interview offers unverified claims about extraterrestrial spacecraft and locations.
+- The source presents unverified allegations about extraterrestrial diplomacy and a targeted pathogen.
+- The transcript presents Gosia’s extraterrestrial and political claims as reported information; they are not independently verified.
+- The video advances unverified claims about an assassination attempt, extraterrestrial actors, and alleged pathogen development.
+- The video presents unverified conspiratorial claims and explicitly frames them as the speaker’s interpretation.
+- This essay is Gosia’s synthesis of Taygetan claims; political allegations are attributed and unverified.
 - broad-exopolitical-allegations
 - competing-cabal-scenarios
 - dated-political-predictions

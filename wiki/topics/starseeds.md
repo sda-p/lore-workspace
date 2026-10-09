@@ -612,6 +612,136 @@ Source: [ROMPIENDO LAS CADENAS DEL JUEGO ABRAZANDO LA ALEGRÍA Y LA PLENITUD](ht
 
 Related topics: [Individual ascension](individual-ascension.md).
 
+### src-48d158152f65-c03
+
+Arien frames some difficult circumstances as pre-incarnation learning challenges that can trigger emotional shadows. She says changing one's response can reduce their impact even if others remain unchanged.
+
+Attributed to **Arien de Erra**; asserted; extraction confidence: high.
+
+Source: [¿Puede alguien hacerte compatible con Eventos Negativos?](https://swaruu.org/transcripts/puede-alguien-hacerte-compatible-con-eventos-negativos) (2023-12-06; es); passages p0021, p0022, p0023. [Structured record](../../records/src-48d158152f65.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-dc11ccfaa156-c03
+
+Mari says boundaries between humans and extraterrestrials are unclear and describes many listeners as star people like herself. She says she was born off Earth but lived among humans.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Sobre Aliens, Extraterrestres y Cepillos de Dientes](https://swaruu.org/transcripts/sobre-aliens-extraterrestres-y-cepillos-de-dientes) (2024-03-03; es); passages p0025. [Structured record](../../records/src-dc11ccfaa156.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-f4f832e0b846-c03
+
+Mari says like-minded groups can reinforce members but should compartmentalize plans; she links alcohol with lower-astral vulnerability. She also says excessive planning talk can reduce motivation.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Espíritus Monitoreadores](https://swaruu.org/transcripts/espiritus-monitoreadores) (2024-03-31; es); passages p0028, p0029, p0030. [Structured record](../../records/src-f4f832e0b846.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
+### src-fcecbbc01e3e-c01
+
+Za’el says conscious starseeds influence shared reality more strongly; sustained defeatism can lower their frequency and reinforce harsher experiences.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [¿Luchar o no Luchar? - El Peligro de dejar de creer en ti mismo](https://swaruu.org/transcripts/luchar-o-no-luchar-el-peligro-de-dejar-de-creer-en-ti-mismo) (2023-12-23; es); passages p0006, p0007, p0008. [Structured record](../../records/src-fcecbbc01e3e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-afdc7253ce04-c01
+
+Mari says high-vibration starseeds disrupt low-astral patterns simply by existing, without direct confrontation.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Los Guerreros Astrales, Parte 2, Episodio 4](https://swaruu.org/transcripts/los-guerreros-astrales-parte-2-episodio-4) (2024-10-11; es); passages p0004, p0005, p0010, p0019. [Structured record](../../records/src-afdc7253ce04.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
+### src-afdc7253ce04-c02
+
+Mari says starseeds are expressions of Source whose values and focus shape their surroundings; she urges emotional self-control. She associates strong manifestation with responsibility for one's thoughts and actions.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Los Guerreros Astrales, Parte 2, Episodio 4](https://swaruu.org/transcripts/los-guerreros-astrales-parte-2-episodio-4) (2024-10-11; es); passages p0008, p0009, p0013, p0015. [Structured record](../../records/src-afdc7253ce04.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-8c2d0a81fbc4-c01
+
+Athena says Yazhi replicated and hid about 600 webcams throughout the ship, including private rooms, after arguing that Taygetan drones surveilling starseeds was unethical; she framed this as a reciprocal lesson. Finding the hidden cameras took over a month.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Sophia Swaruu (Yazhi) - Anecdotas Pasadas - Vida en la Nave (Parte 4)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-anecdotas-pasadas-vida-en-la-nave-parte-4) (2024-10-09; es); passages p0041, p0044, p0045. [Structured record](../../records/src-8c2d0a81fbc4.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-8c2d0a81fbc4-c02
+
+Athena says Taygetans use drones to monitor people they worry about and claim not to watch through windows, or to do so only when needed for important research or safety. Her wording leaves the extent of window surveillance ambiguous.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Sophia Swaruu (Yazhi) - Anecdotas Pasadas - Vida en la Nave (Parte 4)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-anecdotas-pasadas-vida-en-la-nave-parte-4) (2024-10-09; es); passages p0047, p0048, p0049, p0051. [Structured record](../../records/src-8c2d0a81fbc4.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-4ac5bfb36d51-c01
+
+Anéeka says souls migrate among planetary cultures as starseeds, carrying ideas between them; interstellar travel and exploration also spread cultural concepts.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Razas Extraterrestres y los Humanos - Intercambios Culturales en Sociedades Estelares](https://swaruu.org/transcripts/razas-extraterrestres-y-los-humanos-intercambios-culturales-en-sociedades-estelares) (2024-11-28; es); passages p0005, p0006. [Structured record](../../records/src-4ac5bfb36d51.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-61375db7ccbc-c03
+
+Gosia says spacefaring cultures exchange ideas through travel and reincarnation, and that shared cultural concepts also arise through a collective unconscious.
+
+Attributed to **Gosia, relaying Taygetan views**; reported; extraction confidence: high.
+
+Source: [CLASE 007 - Gente Extraterrestre que se Parece a Nosotros \| Divulgación ET 2025](https://swaruu.org/transcripts/clase-007-gente-extraterrestre-que-se-parece-a-nosotros-divulgacion-et-2025) (2025-06-02; es); passages p0020, p0022, p0024. [Structured record](../../records/src-61375db7ccbc.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9c0214c3066b-c03
+
+Yazhi says people can join astral work through meditation and imagination, focusing on positive changes rather than visualizing hostile entities. She says methods vary by person.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares - Trabajemos en el Astral\! - Yazhi Swaruu](https://swaruu.org/transcripts/semillas-estelares-trabajemos-en-el-astral-yazhi-swaruu) (2024-10-17; es); passages p0037, p0041, p0043, p0057, p0059. [Structured record](../../records/src-9c0214c3066b.json).
+
+Related topics: [Astral Travel](astral-travel.md).
+
+### src-35d30319a131-c03
+
+Yazhi says Earth experiences can carry positive and negative thought-forms back to a person’s homeworld, while rejecting their ideas prevents negative tulpas attaching. According to Yazhi.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL MIEDO - TULPA - YAZHI SWARUU](https://swaruu.org/transcripts/el-miedo-tulpa-yazhi-swaruu) (2024-10-13; es); passages p0016, p0017, p0036, p0038. [Structured record](../../records/src-35d30319a131.json).
+
+Related topics: [Egregors](egregors.md), [Soul-loop reincarnation](soul-loop-reincarnation.md).
+
+### src-41a031f2b0d7-c03
+
+Gosia says positive extraterrestrials remind starseeds of their own forgotten cosmic identity and capacities, rather than deserving worship or dependence. She frames this as her interpretation of starseed identity and purpose.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares y el Despertar – Error común al aceptar la Realidad Extraterrestre](https://swaruu.org/transcripts/semillas-estelares-y-el-despertar-error-comun-al-aceptar-la-realidad-extraterrestre) (2026-02-01; es); passages p0011, p0012, p0014, p0016. [Structured record](../../records/src-41a031f2b0d7.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-10009bbe55a5-c01](lyran-expansion.md#src-10009bbe55a5-c01) — Lyran expansion
@@ -647,15 +777,57 @@ Related topics: [Individual ascension](individual-ascension.md).
 - [src-afbb59548515-c02](taygetan-first-contact-project.md#src-afbb59548515-c02) — Taygetan First Contact Project
 - [src-0c64b4d8967b-c02](nexus-souls.md#src-0c64b4d8967b-c02) — Nexus souls
 - [src-8b87ad437fe7-c01](galactic-federation.md#src-8b87ad437fe7-c01) — Galactic Federation
+- [src-07e941b6d7c6-c03](alcyone-council.md#src-07e941b6d7c6-c03) — Alcyone Council
+- [src-e2c0340ba4de-c03](zeta-reticuli-gardeners.md#src-e2c0340ba4de-c03) — Zeta Reticuli Gardeners
+- [src-063e423c3c3e-c02](consciousness-metaphysics.md#src-063e423c3c3e-c02) — Consciousness and metaphysics
+- [src-53b7b9229509-c01](urmah-federation.md#src-53b7b9229509-c01) — Urmah Federation
+- [src-44116d038dec-c03](collective-timeline-influence.md#src-44116d038dec-c03) — Collective timeline influence
+- [src-bba74bf888bc-c01](galactic-federation.md#src-bba74bf888bc-c01) — Galactic Federation
+- [src-89492330f9ab-c02](taygetan-first-contact-project.md#src-89492330f9ab-c02) — Taygetan First Contact Project
+- [src-6b645b07c265-c02](taygetans.md#src-6b645b07c265-c02) — Taygetans
+- [src-d7d4a197e542-c01](astral-entities.md#src-d7d4a197e542-c01) — Astral entities
+- [src-0ae97daa9913-c02](reptilians.md#src-0ae97daa9913-c02) — Reptilians
+- [src-1bdd11c6fbaa-c01](astral-entities.md#src-1bdd11c6fbaa-c01) — Astral entities
+- [src-f4f832e0b846-c01](astral-entities.md#src-f4f832e0b846-c01) — Astral entities
+- [src-f4f832e0b846-c02](astral-entities.md#src-f4f832e0b846-c02) — Astral entities
+- [src-459adec9f429-c01](astral-entities.md#src-459adec9f429-c01) — Astral entities
+- [src-459adec9f429-c03](nonhuman-surveillance-drones.md#src-459adec9f429-c03) — Nonhuman surveillance drones
+- [src-30dde9581dd8-c03](astral-entities.md#src-30dde9581dd8-c03) — Astral entities
+- [src-30dde9581dd8-c04](astral-entities.md#src-30dde9581dd8-c04) — Astral entities
+- [src-66fa7120be60-c04](alcyone-council.md#src-66fa7120be60-c04) — Alcyone Council
+- [src-94a76cc92296-c03](urmah.md#src-94a76cc92296-c03) — Urmah
+- [src-94a76cc92296-c04](urmah.md#src-94a76cc92296-c04) — Urmah
+- [src-fcecbbc01e3e-c02](consciousness-metaphysics.md#src-fcecbbc01e3e-c02) — Consciousness and metaphysics
+- [src-21a91506e065-c04](dimensional-mirroring.md#src-21a91506e065-c04) — Dimensional mirroring
+- [src-afdc7253ce04-c03](telepathic-channeling.md#src-afdc7253ce04-c03) — Telepathic channeling
+- [src-afdc7253ce04-c04](astral-military-units.md#src-afdc7253ce04-c04) — Astral military units
+- [src-d4fd0344343b-c02](reincarnation-cycles.md#src-d4fd0344343b-c02) — Reincarnation and karmic cycles
+- [src-f6679288cfba-c02](individual-ascension.md#src-f6679288cfba-c02) — Individual ascension
+- [src-f6679288cfba-c03](timeline-branching.md#src-f6679288cfba-c03) — Timeline branching
+- [src-1a481912cd2c-c03](earth-cabal.md#src-1a481912cd2c-c03) — Earth Cabal and power structures
+- [src-0c1133da59d5-c02](consciousness-metaphysics.md#src-0c1133da59d5-c02) — Consciousness and metaphysics
+- [src-1f23f0a67470-c03](galactic-federation.md#src-1f23f0a67470-c03) — Galactic Federation
+- [src-3593b46bea4f-c03](galactic-consciousness.md#src-3593b46bea4f-c03) — Galactic consciousness
 
 ## Review flags
 
+- Claims about astral entities, telepathy, and manifestation are attributed to Mari.
+- Claims about astral surveillance, starseed identification, and hidden population-control agendas are attributed to Mari.
+- Claims about manifestation and frequency are attributed to Za’el and not independently established.
+- Claims about spirit guides, telepathy, and hostile astral entities are attributed to Mari.
+- Claims about surveillance spirits, astral influence, and alcohol are attributed to Mari and not independently substantiated.
 - Extraterrestrial identity claims are Mari Swaruu’s perspective and are not independently verified.
+- Historical and spiritual claims are attributed to interviewee Arishah, not presenter Mari.
+- Historical claims about Engan influence on Earth are Mari's account, not independently established.
 - Numerical influence estimates and the measurement interpretation are attributed to Alahi.
 - Racial and archaeological claims are attributed to Yazhi and are not established findings.
 - Source also contains unextracted real-world political and health claims.
+- The account of the genetic weapon and its intended exposure route is attributed to Yazhi as investigators' belief, not established independently.
 - The author’s claims about starseeds and social economic control are unverified and attributed.
 - The source affirms extraterrestrial identities based on subjective feelings; preserve attribution as the author’s belief.
+- The source describes alleged surveillance by extraterrestrial crews and a retaliatory prank involving cameras in private spaces.
+- The source makes unsupported paranormal and mental-health generalizations, especially about narcissism and mothers; the extraction attributes these claims and avoids presenting them as clinical facts.
+- The source presents metaphysical claims about interstellar humanity, telepathy, reincarnation, and vibrational return.
 - Yazhi’s account of higher-council governance and intervention is internally framed as perspective-dependent
 - agenda21-assertion
 - aliens-removed-from-quadrant-claim
@@ -688,6 +860,7 @@ Related topics: [Individual ascension](individual-ascension.md).
 - personal-responsibility-model-retains-victim-perspective
 - reincarnation-and-catholic-control-claim
 - related-starseed-material-overlap
+- source frames everyday relationships and setbacks as alleged supernatural monitoring; preserve explicit attribution
 - speculative-extraction-account
 - starseed-identity-and-mission-attributed
 - translation-counterpart: src-d0398aec7731; close full translation; similar-title source src-ba29b281f533 is a distinct later essay

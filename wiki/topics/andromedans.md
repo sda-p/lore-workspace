@@ -58,6 +58,16 @@ Source: [RAZAS EXTRATERRESTRES en 5D (8) - ANDROMEDANOS (Mensaje Pleyadiano-TAYG
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-b76386ff7cd8-c02
+
+She says Andromedans, Arcturians, and Lyrians founded the Federation; Andromedan ship Viera is its local headquarters.
+
+Attributed to **Mari Swa**; reported; extraction confidence: medium.
+
+Source: [¿Quiénes Están Involucrados con la Tierra? Una Guía de las Razas Extraterrestres - CLASE 017](https://swaruu.org/transcripts/quienes-estan-involucrados-con-la-tierra-una-guia-de-las-razas-extraterrestres-clase-017) (2026-08-11; es); passages p0058, p0059. [Structured record](../../records/src-b76386ff7cd8.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Viera](viera.md), [The Moon as a biosphere ship](moon-biosphere-ship.md).
+
 ## Claims filed under other topics
 
 - [src-c8989a4b274b-c02](black-goo.md#src-c8989a4b274b-c02) — Black goo
@@ -68,6 +78,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-89c87eaf0e6d-c03](alien-species.md#src-89c87eaf0e6d-c03) — Alien species and distinctions
 - [src-56668c63592b-c01](galactic-federation.md#src-56668c63592b-c01) — Galactic Federation
 - [src-607024b7b198-c01](moon-biosphere-ship.md#src-607024b7b198-c01) — The Moon as a biosphere ship
+- [src-63d593149f78-c01](galactic-federation.md#src-63d593149f78-c01) — Galactic Federation
 
 ## Review flags
 

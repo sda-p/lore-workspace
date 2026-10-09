@@ -164,6 +164,16 @@ Source: [Inteligencia Artificial y la Federación - Alenym y Aneeka (Taygeta, Pl
 
 Related topics: [Muon-triggered gravity communications](muon-gravity-communications.md), [Galactic Federation](galactic-federation.md).
 
+### src-b3cba5b1ffc9-c03
+
+Anéeka says ship internet links devices via shared Federation satellites and muon transmission. Holographic systems need conversion.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 13 (Parte 3) – Mas Preguntas Relacionadas con Naves Espaciales](https://swaruu.org/transcripts/vida-interestelar-13-parte-3-mas-preguntas-relacionadas-con-naves-espaciales) (2026-07-15; es); passages p0011, p0012, p0015, p0016, p0018, p0022, p0028. [Structured record](../../records/src-b3cba5b1ffc9.json).
+
+Related topics: [Muon-triggered gravity communications](muon-gravity-communications.md), [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-0a76aae844b1-c04](natural-portals.md#src-0a76aae844b1-c04) — Natural and artificial portals
@@ -174,11 +184,14 @@ Related topics: [Muon-triggered gravity communications](muon-gravity-communicati
 - [src-9d6224eacf32-c03](earth-cabal.md#src-9d6224eacf32-c03) — Earth Cabal and power structures
 - [src-66eb347ad466-c01](borg.md#src-66eb347ad466-c01) — Borg
 - [src-9c3e0642a4e2-c04](secret-society-hierarchy.md#src-9c3e0642a4e2-c04) — Secret-society hierarchy
+- [src-0cb068df4dc2-c05](starship-systems.md#src-0cb068df4dc2-c05) — Starship systems
+- [src-aa6b810026d1-c03](holographic-computers.md#src-aa6b810026d1-c03) — Holographic computers
 
 ## Review flags
 
 - AI-infiltration-speculation-vs-no-invasion-conclusion
 - Claims about Federation bureaucracy and a galactic AI network are attributed to Alenym; the transcript provides no independent evidence.
+- Claims about consciousness-based mirrors and quantum computers are attributed to Yazhi.
 - Claims about invasive AI and the galactic network are attributed to the speakers; the transcript provides no independent evidence.
 - Federation-involvement-in-Earth-politics-varies-across-source-claims
 - broad-exopolitical-allegations

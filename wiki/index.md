@@ -9,43 +9,43 @@ Language and revision variants remain separate source records unless content equ
 | [5G electromagnetic weapons](topics/5g-electromagnetic-weapons.md) | technology | 3 | 4 |
 | [Aethien Mantis](topics/aethien-mantis.md) | species | 1 | 4 |
 | [Agarthians](topics/agarthians.md) | civilization | 2 | 1 |
-| [Aggressive telepathy](topics/aggressive-telepathy.md) | psionic ability | 8 | 2 |
+| [Aggressive telepathy](topics/aggressive-telepathy.md) | psionic ability | 8 | 3 |
 | [Agro threat focus](topics/agro-threat-focus.md) | perception mechanic | 1 | 0 |
 | [Advanced Holographic Computer Systems (AHCS)](topics/ahcs-computers.md) | technology | 5 | 0 |
-| [Aircraft Mimicry](topics/aircraft-mimicry.md) | technology | 5 | 0 |
-| [Akashic records](topics/akashic-records.md) | cosmology | 3 | 1 |
-| [Alcyone Council](topics/alcyone-council.md) | institution | 47 | 25 |
-| [Alfrata (Phaeton)](topics/alfrata.md) | location | 15 | 10 |
-| [Alfrateans](topics/alfrateans.md) | civilization | 0 | 3 |
+| [Aircraft Mimicry](topics/aircraft-mimicry.md) | technology | 7 | 0 |
+| [Akashic records](topics/akashic-records.md) | cosmology | 8 | 1 |
+| [Alcyone Council](topics/alcyone-council.md) | institution | 59 | 39 |
+| [Alfrata (Phaeton)](topics/alfrata.md) | location | 16 | 10 |
+| [Alfrateans](topics/alfrateans.md) | civilization | 2 | 5 |
 | [Alien abduction practices](topics/alien-abduction-practices.md) | technology and encounter process | 8 | 2 |
-| [Alien species and distinctions](topics/alien-species.md) | species | 412 | 260 |
+| [Alien species and distinctions](topics/alien-species.md) | species | 427 | 274 |
 | [Battle for the liberation of Alpha Centauri](topics/alpha-centauri-liberation.md) | historical event | 1 | 0 |
-| [Alpha Draconians](topics/alpha-draconians.md) | species | 6 | 4 |
+| [Alpha Draconians](topics/alpha-draconians.md) | species | 9 | 8 |
 | [Alpha Dracos](topics/alpha-dracos.md) | species | 2 | 3 |
 | [Amelie](topics/amelie.md) | species | 3 | 0 |
-| [Ancient Egypt](topics/ancient-egypt.md) | historical civilization | 31 | 28 |
+| [Ancient Egypt](topics/ancient-egypt.md) | historical civilization | 43 | 32 |
 | [Andromeda Council](topics/andromeda-council.md) | institution | 5 | 11 |
-| [Andromedans](topics/andromedans.md) | species | 5 | 8 |
-| [Antarctica](topics/antarctica.md) | location | 8 | 2 |
-| [Antarctic Federation bases](topics/antarctica-federation-bases.md) | infrastructure | 2 | 0 |
-| [Antarians](topics/antarians.md) | civilization | 0 | 1 |
-| [Archons and demons](topics/archons-and-demons.md) | astral-entity | 43 | 38 |
+| [Andromedans](topics/andromedans.md) | species | 6 | 9 |
+| [Antarctica](topics/antarctica.md) | location | 10 | 3 |
+| [Antarctic Federation bases](topics/antarctica-federation-bases.md) | infrastructure | 2 | 3 |
+| [Antarians](topics/antarians.md) | civilization | 0 | 3 |
+| [Archons and demons](topics/archons-and-demons.md) | astral-entity | 46 | 41 |
 | [Arsinoe IV](topics/arsinoe-iv.md) | historical person | 2 | 2 |
 | [Arsinoe–Mary Magdalene](topics/arsinoe-magdalene.md) | person or identity | 3 | 0 |
 | [Artificial hybridization](topics/artificial-hybridization.md) | biological process | 1 | 0 |
-| [Artificial intelligence](topics/artificial-intelligence.md) | technology | 41 | 43 |
-| [Artificial portals](topics/artificial-portals.md) | technology | 17 | 5 |
-| [Astral entities](topics/astral-entities.md) | species group | 17 | 25 |
-| [Astral military units](topics/astral-military-units.md) | organization | 7 | 5 |
-| [Astral Travel](topics/astral-travel.md) | practice and phenomenon | 5 | 6 |
-| [Astrotheology](topics/astrotheology.md) | cosmology | 44 | 21 |
+| [Artificial intelligence](topics/artificial-intelligence.md) | technology | 45 | 46 |
+| [Artificial portals](topics/artificial-portals.md) | technology | 24 | 6 |
+| [Astral entities](topics/astral-entities.md) | species group | 49 | 48 |
+| [Astral military units](topics/astral-military-units.md) | organization | 10 | 8 |
+| [Astral Travel](topics/astral-travel.md) | practice and phenomenon | 15 | 11 |
+| [Astrotheology](topics/astrotheology.md) | cosmology | 45 | 23 |
 | [Atlantean zero-point pyramids](topics/atlantean-zero-point-pyramids.md) | technology | 2 | 3 |
-| [Atlantes](topics/atlantes.md) | species | 2 | 0 |
-| [Atlantis and Lemuria](topics/atlantis-lemuria.md) | history | 54 | 29 |
+| [Atlantes](topics/atlantes.md) | species | 2 | 1 |
+| [Atlantis and Lemuria](topics/atlantis-lemuria.md) | history | 63 | 39 |
 | [Taygetan atomic wave structure](topics/atomic-wave-structure.md) | cosmological model | 5 | 6 |
 | [Aura spectrometry](topics/aura-spectrometry.md) | technology | 1 | 0 |
 | [Betelgeuse](topics/betelgeuse.md) | location | 1 | 2 |
-| [Bigfoot, Sasquatch and Yeti](topics/bigfoot-sasquatch.md) | species | 3 | 2 |
+| [Bigfoot, Sasquatch and Yeti](topics/bigfoot-sasquatch.md) | species | 4 | 2 |
 | [Black goo](topics/black-goo.md) | technology | 48 | 13 |
 | [Black holes](topics/black-holes.md) | cosmology | 16 | 12 |
 | [Black Raven UAV](topics/black-raven-uav.md) | technology | 2 | 2 |
@@ -55,144 +55,146 @@ Language and revision variants remain separate source records unless content equ
 | [C-17 Globemaster](topics/c-17-globemaster.md) | aircraft | 4 | 0 |
 | [Cancer claims](topics/cancer.md) | medical claims | 3 | 0 |
 | [Celtic Bards](topics/celtic-bards.md) | cultural institution | 0 | 2 |
-| [Centauri L-class fighters](topics/centauri-l-class-fighters.md) | technology | 2 | 0 |
-| [Centaurians](topics/centaurians.md) | species | 1 | 0 |
+| [Centauri L-class fighters](topics/centauri-l-class-fighters.md) | technology | 4 | 1 |
+| [Centaurians](topics/centaurians.md) | species | 2 | 2 |
 | [Ceres](topics/ceres.md) | location | 3 | 0 |
 | [Cetaceans](topics/cetaceans.md) | species group | 5 | 0 |
 | [China](topics/china.md) | civilization-state | 0 | 1 |
-| [Civilizational resets](topics/civilizational-resets.md) | historical mechanism | 8 | 2 |
-| [Collective timeline influence](topics/collective-timeline-influence.md) | phenomenon | 23 | 21 |
-| [Combat doctrine](topics/combat-doctrine.md) | practice | 0 | 1 |
+| [Civilizational resets](topics/civilizational-resets.md) | historical mechanism | 11 | 5 |
+| [Collective timeline influence](topics/collective-timeline-influence.md) | phenomenon | 32 | 26 |
+| [Combat doctrine](topics/combat-doctrine.md) | practice | 7 | 4 |
 | [Compressed-sound cutting](topics/compressed-sound-cutting.md) | technology | 1 | 0 |
-| [Consciousness and metaphysics](topics/consciousness-metaphysics.md) | cosmology | 1583 | 830 |
+| [Consciousness and metaphysics](topics/consciousness-metaphysics.md) | cosmology | 1694 | 936 |
 | [Consciousness singularity](topics/consciousness-singularity.md) | cosmology | 5 | 1 |
 | [Council of the Sphere](topics/council-of-the-sphere.md) | institution | 0 | 1 |
 | [Taygetan base beneath Crimea](topics/crimea-taygetan-base.md) | location | 1 | 0 |
-| [Crop circles](topics/crop-circles.md) | phenomenon | 5 | 0 |
-| [Crystal-core zero-point reactors](topics/crystal-core-zero-point-reactors.md) | technology | 6 | 3 |
+| [Crop circles](topics/crop-circles.md) | phenomenon | 6 | 0 |
+| [Crystal-core zero-point reactors](topics/crystal-core-zero-point-reactors.md) | technology | 8 | 5 |
 | [Crystal skulls](topics/crystal-skulls.md) | artifact claim | 1 | 0 |
-| [Crystalline DNA and proto-silicon biology](topics/crystalline-dna.md) | biology | 3 | 5 |
+| [Crystalline DNA and proto-silicon biology](topics/crystalline-dna.md) | biology | 4 | 7 |
 | [Cultivated meat](topics/cultivated-meat.md) | technology | 6 | 3 |
 | [Cyndriel](topics/cyndriel.md) | location | 23 | 5 |
-| [Deep underground military bases](topics/deep-underground-military-bases.md) | infrastructure | 7 | 12 |
+| [Dark matter as other densities](topics/dark-matter-as-density.md) | cosmology | 1 | 0 |
+| [Deep underground military bases](topics/deep-underground-military-bases.md) | infrastructure | 8 | 14 |
 | [Devonians](topics/devonians.md) | species | 0 | 1 |
 | [Dieslientiplex](topics/dieslientiplex.md) | species | 1 | 4 |
-| [Dimensional mirroring](topics/dimensional-mirroring.md) | cosmology | 25 | 6 |
-| [Disc-shaped shuttle craft](topics/disc-shaped-shuttles.md) | technology | 12 | 4 |
+| [Dimensional mirroring](topics/dimensional-mirroring.md) | cosmology | 31 | 6 |
+| [Disc-shaped shuttle craft](topics/disc-shaped-shuttles.md) | technology | 14 | 6 |
 | [D’Jedi](topics/djedi.md) | faction or role | 2 | 2 |
-| [DNA and metaphysical patterns](topics/dna-metaphysics.md) | cosmology | 68 | 38 |
-| [Druidic traditions](topics/druidic-traditions.md) | historical culture | 5 | 1 |
-| [Dyatlov Pass Incident](topics/dyatlov-pass-incident.md) | historical event | 1 | 0 |
-| [Earth Cabal and power structures](topics/earth-cabal.md) | faction | 438 | 295 |
+| [DNA and metaphysical patterns](topics/dna-metaphysics.md) | cosmology | 70 | 42 |
+| [Druidic traditions](topics/druidic-traditions.md) | historical culture | 6 | 1 |
+| [Dyatlov Pass Incident](topics/dyatlov-pass-incident.md) | historical event | 2 | 0 |
+| [Earth Cabal and power structures](topics/earth-cabal.md) | faction | 472 | 330 |
 | [Earth DNA Arks](topics/earth-dna-arks.md) | infrastructure | 8 | 1 |
-| [Economics and resources](topics/economics.md) | economics | 88 | 73 |
-| [Eden Escape](topics/eden-escape.md) | historical event | 0 | 1 |
-| [Egregors](topics/egregors.md) | cosmology | 63 | 32 |
-| [Electric vehicles](topics/electric-vehicles.md) | technology | 2 | 1 |
-| [Electromagnetic influence on perception](topics/electromagnetic-mind-influence.md) | technology claim | 3 | 0 |
-| [Elementals](topics/elementals.md) | species | 9 | 2 |
-| [Elohi](topics/elohi.md) | species | 3 | 3 |
+| [Economics and resources](topics/economics.md) | economics | 98 | 82 |
+| [Eden Escape](topics/eden-escape.md) | historical event | 1 | 1 |
+| [Egregors](topics/egregors.md) | cosmology | 67 | 41 |
+| [Electric vehicles](topics/electric-vehicles.md) | technology | 2 | 2 |
+| [Electromagnetic influence on perception](topics/electromagnetic-mind-influence.md) | technology claim | 3 | 1 |
+| [Elementals](topics/elementals.md) | species | 11 | 2 |
+| [Elohi](topics/elohi.md) | species | 5 | 5 |
 | [Elohim groups](topics/elohim.md) | species group | 1 | 1 |
-| [Energy generation technology](topics/energy-generation.md) | technology | 107 | 98 |
-| [Engan people](topics/engan-people.md) | species | 4 | 7 |
-| [Engineered social unrest](topics/engineered-social-unrest.md) | political mechanism | 26 | 8 |
+| [Energy generation technology](topics/energy-generation.md) | technology | 111 | 104 |
+| [Engan people](topics/engan-people.md) | species | 7 | 9 |
+| [Engineered social unrest](topics/engineered-social-unrest.md) | political mechanism | 26 | 10 |
 | [Enki and Enlil factions](topics/enki-enlil-factions.md) | factional concepts | 1 | 0 |
-| [Ether field](topics/ether-field.md) | cosmology | 18 | 20 |
+| [Ether field](topics/ether-field.md) | cosmology | 18 | 24 |
+| [Etheric gravity model](topics/etheric-gravity-model.md) | cosmology | 1 | 0 |
 | [Etheric load heaters](topics/etheric-load-heaters.md) | technology | 2 | 0 |
-| [Etorthans](topics/etorthans.md) | species | 6 | 6 |
+| [Etorthans](topics/etorthans.md) | species | 17 | 7 |
 | [Europa](topics/europa.md) | location | 2 | 0 |
 | [Exo-gen cellular signaling model](topics/exo-gen.md) | biological phenomenon | 3 | 0 |
 | [Exo-gen cellular signals](topics/exo-gen-signals.md) | biology | 5 | 1 |
-| [Extraterrestrial contact and disclosure](topics/extraterrestrial-contact.md) | contact practice | 12 | 3 |
-| [Extraterrestrial step-downs](topics/extraterrestrial-stepdowns.md) | phenomenon | 33 | 14 |
+| [Extraterrestrial contact and disclosure](topics/extraterrestrial-contact.md) | contact practice | 37 | 26 |
+| [Extraterrestrial step-downs](topics/extraterrestrial-stepdowns.md) | phenomenon | 33 | 16 |
 | [Extraterrestrial syndrome](topics/extraterrestrial-syndrome.md) | condition | 4 | 0 |
-| [False alien invasion scenarios](topics/false-alien-invasion.md) | history | 45 | 17 |
+| [False alien invasion scenarios](topics/false-alien-invasion.md) | history | 51 | 18 |
 | [Flavian Jesus narrative](topics/flavian-jesus-claim.md) | historical claim | 9 | 3 |
 | [Food replicators](topics/food-replicators.md) | technology | 3 | 0 |
-| [Forshagh](topics/forshagh.md) | sport | 0 | 5 |
+| [Forshagh](topics/forshagh.md) | sport | 3 | 5 |
 | [Frequency-based astrology](topics/frequency-astrology.md) | cosmology | 9 | 4 |
 | [Frequency-holding sample containers](topics/frequency-holding-containers.md) | technology | 0 | 2 |
-| [Frequency-map navigation](topics/frequency-map-navigation.md) | technology | 59 | 34 |
-| [Frequency Mapping Microscopes](topics/frequency-microscopes.md) | technology | 2 | 0 |
+| [Frequency-map navigation](topics/frequency-map-navigation.md) | technology | 67 | 41 |
+| [Frequency Mapping Microscopes](topics/frequency-microscopes.md) | technology | 3 | 0 |
 | [Gahonam](topics/gahonam.md) | secret society | 1 | 1 |
-| [Galactic consciousness](topics/galactic-consciousness.md) | cosmology | 2 | 0 |
-| [Galactic Federation](topics/galactic-federation.md) | faction | 557 | 381 |
+| [Galactic consciousness](topics/galactic-consciousness.md) | cosmology | 8 | 5 |
+| [Galactic Federation](topics/galactic-federation.md) | faction | 643 | 458 |
 | [Galactic high-energy arms](topics/galactic-high-energy-arms.md) | celestial phenomenon | 5 | 1 |
-| [Genetic weapons](topics/genetic-weapons.md) | technology | 4 | 4 |
+| [Genetic weapons](topics/genetic-weapons.md) | technology | 6 | 4 |
 | [Earth magnetic field cycles](topics/geomagnetic-cycles.md) | planetary phenomenon | 2 | 1 |
-| [Giza Labyrinth](topics/giza-labyrinth.md) | underground base | 2 | 0 |
+| [Giza Labyrinth](topics/giza-labyrinth.md) | underground base | 2 | 1 |
 | [Global deluge](topics/global-deluge.md) | historical event | 3 | 1 |
 | [Goblins](topics/goblins.md) | species | 1 | 0 |
-| [Gravitic generators](topics/gravitic-generators.md) | technology | 3 | 1 |
-| [Gravity harmonics](topics/gravity-harmonics.md) | cosmology | 30 | 39 |
-| [Great Pyramid of Giza](topics/great-pyramid-of-giza.md) | location | 4 | 3 |
+| [Gravitic generators](topics/gravitic-generators.md) | technology | 3 | 2 |
+| [Gravity harmonics](topics/gravity-harmonics.md) | cosmology | 32 | 41 |
+| [Great Pyramid of Giza](topics/great-pyramid-of-giza.md) | location | 4 | 5 |
 | [Grey gardeners](topics/grey-gardeners.md) | species group | 1 | 0 |
 | [Gwen towers](topics/gwen-towers.md) | technology | 2 | 1 |
 | [Haitian zombification](topics/haitian-zombification.md) | phenomenon | 1 | 1 |
 | [Hanáre / Scimitar fighters](topics/hanare-scimitar-fighters.md) | spacecraft class | 3 | 0 |
-| [Harmonic shields](topics/harmonic-shields.md) | technology | 13 | 9 |
-| [Hashmallim](topics/hashmallim.md) | faction | 11 | 1 |
-| [High Greys](topics/high-greys.md) | species group | 1 | 1 |
+| [Harmonic shields](topics/harmonic-shields.md) | technology | 14 | 12 |
+| [Hashmallim](topics/hashmallim.md) | faction | 14 | 2 |
+| [High Greys](topics/high-greys.md) | species group | 2 | 4 |
 | [Higher-density councils](topics/higher-density-councils.md) | institution | 1 | 1 |
-| [Higher Federation councils](topics/higher-federation-councils.md) | institution | 12 | 4 |
-| [Holistic society](topics/holistic-society.md) | institution | 207 | 90 |
-| [Holographic computers](topics/holographic-computers.md) | technology | 55 | 47 |
-| [Humanity as a shared biological suit](topics/human-biosuit-model.md) | species model | 6 | 3 |
+| [Higher Federation councils](topics/higher-federation-councils.md) | institution | 13 | 4 |
+| [Holistic society](topics/holistic-society.md) | institution | 220 | 105 |
+| [Holographic computers](topics/holographic-computers.md) | technology | 64 | 53 |
+| [Humanity as a shared biological suit](topics/human-biosuit-model.md) | species model | 7 | 3 |
 | [Human clones and manufactured persons](topics/human-clones.md) | technology | 24 | 9 |
 | [Humanity as a multi-species experiment](topics/humanity-multi-species-experiment.md) | civilization | 6 | 2 |
-| [Immersion pods](topics/immersion-pods.md) | technology | 45 | 9 |
-| [Individual ascension](topics/individual-ascension.md) | cosmological process | 14 | 6 |
-| [Interdimensional parasites](topics/interdimensional-parasites.md) | species | 5 | 9 |
+| [Immersion pods](topics/immersion-pods.md) | technology | 49 | 10 |
+| [Individual ascension](topics/individual-ascension.md) | cosmological process | 21 | 16 |
+| [Interdimensional parasites](topics/interdimensional-parasites.md) | species | 6 | 15 |
 | [Agartha resistance network](topics/intra-terrestrial-agartha.md) | faction | 2 | 0 |
-| [Intraterrestrial civilizations](topics/intraterrestrial-civilizations.md) | civilization | 12 | 14 |
+| [Intraterrestrial civilizations](topics/intraterrestrial-civilizations.md) | civilization | 13 | 14 |
 | [Intraterrestrial Vulcans](topics/intraterrestrial-vulcans.md) | species | 3 | 2 |
 | [Ishtar genetic project](topics/ishtar-genetic-project.md) | historical project | 3 | 0 |
 | [Jupiter](topics/jupiter.md) | location | 4 | 2 |
-| [Karistus](topics/karistus.md) | civilization | 14 | 4 |
-| [Karma and dharma](topics/karma-and-dharma.md) | spiritual concepts | 2 | 1 |
-| [Kingu](topics/kingu.md) | species | 11 | 12 |
+| [Karistus](topics/karistus.md) | civilization | 14 | 5 |
+| [Karma and dharma](topics/karma-and-dharma.md) | spiritual concepts | 4 | 3 |
+| [Kingu](topics/kingu.md) | species | 12 | 13 |
 | [Korendians](topics/korendians.md) | species | 0 | 1 |
-| [Ley-line energy nodes](topics/ley-line-energy-nodes.md) | planetary energy system | 2 | 1 |
+| [Ley-line energy nodes](topics/ley-line-energy-nodes.md) | planetary energy system | 4 | 1 |
 | [Lurkers](topics/lurkers.md) | species | 9 | 1 |
-| [Fear-fed egregore entities](topics/lush-feeding-entities.md) | metaphysical entity | 2 | 0 |
-| [Lyran expansion](topics/lyran-expansion.md) | history | 25 | 24 |
+| [Fear-fed egregore entities](topics/lush-feeding-entities.md) | metaphysical entity | 2 | 1 |
+| [Lyran expansion](topics/lyran-expansion.md) | history | 29 | 32 |
 | [Lyra-based unified brain](topics/lyran-unified-brain.md) | species biology | 1 | 1 |
-| [Lyrian cellular-body model](topics/lyrian-cellular-body.md) | biology | 8 | 13 |
-| [Lyrians](topics/lyrians.md) | civilization | 7 | 11 |
+| [Lyrian cellular-body model](topics/lyrian-cellular-body.md) | biology | 8 | 14 |
+| [Lyrians](topics/lyrians.md) | civilization | 14 | 16 |
 | [Maitre](topics/maitre.md) | species | 20 | 16 |
 | [Mars](topics/mars.md) | location | 11 | 6 |
 | [Mary Magdalene](topics/mary-magdalene.md) | religious figure | 1 | 0 |
 | [Maternal medical pods](topics/maternal-med-pods.md) | technology | 15 | 4 |
 | [Matrix energy insertion](topics/matrix-energy-insertion.md) | technology | 6 | 1 |
-| [Matrix-generated persons](topics/matrix-generated-persons.md) | metaphysical population | 7 | 4 |
-| [Medical regeneration pods](topics/medical-pods.md) | technology | 26 | 7 |
+| [Matrix-generated persons](topics/matrix-generated-persons.md) | metaphysical population | 9 | 5 |
+| [Medical regeneration pods](topics/medical-pods.md) | technology | 29 | 9 |
 | [Memory implantation](topics/memory-implantation.md) | technology | 3 | 7 |
 | [Memory implants](topics/memory-implants.md) | memory and consciousness technology | 3 | 0 |
-| [Memory Veil](topics/memory-veil.md) | cosmology | 13 | 12 |
+| [Memory Veil](topics/memory-veil.md) | cosmology | 16 | 14 |
 | [Men in Black](topics/men-in-black.md) | organization | 1 | 0 |
 | [Mercury](topics/mercury.md) | location | 3 | 1 |
 | [Merlin and King Arthur](topics/merlin-and-arthur.md) | historical tradition | 1 | 0 |
-| [Mind-generated force fields](topics/mind-generated-force-fields.md) | phenomenon | 1 | 0 |
+| [Mind-generated force fields](topics/mind-generated-force-fields.md) | phenomenon | 2 | 0 |
 | [Mogh-yay](topics/mogh-yay.md) | species | 1 | 0 |
-| [Moghyay](topics/moghyay.md) | species | 5 | 0 |
+| [Moghyay](topics/moghyay.md) | species | 8 | 2 |
 | [Moldavite](topics/moldavite.md) | resource | 2 | 0 |
 | [Moma ship AI](topics/moma-ship-ai.md) | artificial intelligence | 1 | 0 |
 | [Monoliths](topics/monoliths.md) | technology | 9 | 1 |
-| [The Moon as a biosphere ship](topics/moon-biosphere-ship.md) | location-technology | 26 | 6 |
-| [Moon and terrestrial Matrix](topics/moon-matrix.md) | technology | 244 | 127 |
-| [Muon-triggered gravity communications](topics/muon-gravity-communications.md) | technology | 9 | 3 |
-| [Muonic galactic AI network](topics/muonic-galactic-ai-network.md) | technology | 16 | 8 |
-| [Muonic gravitational communications](topics/muonic-gravitational-communications.md) | technology | 2 | 0 |
+| [The Moon as a biosphere ship](topics/moon-biosphere-ship.md) | location-technology | 26 | 7 |
+| [Moon and terrestrial Matrix](topics/moon-matrix.md) | technology | 254 | 136 |
+| [Muon-triggered gravity communications](topics/muon-gravity-communications.md) | technology | 10 | 5 |
+| [Muonic galactic AI network](topics/muonic-galactic-ai-network.md) | technology | 17 | 10 |
+| [Muonic gravitational communications](topics/muonic-gravitational-communications.md) | technology | 5 | 5 |
 | [Naki bide’taa’ii](topics/naki-bideetaaii.md) | species | 1 | 0 |
-| [Nanotechnology and implants](topics/nanotechnology.md) | technology | 10 | 12 |
-| [Natural and artificial portals](topics/natural-portals.md) | technology | 117 | 65 |
-| [Nazca spaceport](topics/nazca-spaceport.md) | location | 8 | 0 |
+| [Nanotechnology and implants](topics/nanotechnology.md) | technology | 12 | 14 |
+| [Natural and artificial portals](topics/natural-portals.md) | technology | 123 | 66 |
+| [Nazca spaceport](topics/nazca-spaceport.md) | location | 10 | 0 |
 | [Neptune and Triton](topics/neptune.md) | planet and moon | 3 | 0 |
-| [Neural frequency and genetic engineering](topics/neural-frequency-genetic-engineering.md) | biological mechanism | 5 | 3 |
+| [Neural frequency and genetic engineering](topics/neural-frequency-genetic-engineering.md) | biological mechanism | 6 | 3 |
 | [Nexus beings](topics/nexus-beings.md) | species | 2 | 0 |
-| [Nexus souls](topics/nexus-souls.md) | cosmology | 20 | 18 |
-| [Nonhuman surveillance drones](topics/nonhuman-surveillance-drones.md) | technology | 17 | 6 |
-| [Nuclear-magnetic engines](topics/nuclear-magnetic-engines.md) | technology | 2 | 0 |
+| [Nexus souls](topics/nexus-souls.md) | cosmology | 20 | 20 |
+| [Nonhuman surveillance drones](topics/nonhuman-surveillance-drones.md) | technology | 20 | 8 |
+| [Nuclear-magnetic engines](topics/nuclear-magnetic-engines.md) | technology | 3 | 1 |
 | [Nuclear weapon claims](topics/nuclear-weapons-claims.md) | military technology claim | 1 | 0 |
 | [O’ha’lu](topics/o-halu.md) | location | 4 | 0 |
 | [Oalu](topics/oalu.md) | location | 2 | 1 |
@@ -200,128 +202,129 @@ Language and revision variants remain separate source records unless content equ
 | [Oalu Mantis](topics/oalu-mantis.md) | species | 2 | 2 |
 | [Ohalum Council](topics/ohalum-council.md) | institution | 1 | 0 |
 | [Operation Venus Haven](topics/operation-venus-haven.md) | historical event | 4 | 2 |
-| [Original Matrix](topics/original-matrix.md) | cosmology | 52 | 43 |
-| [Orion Council](topics/orion-council.md) | polity | 2 | 4 |
-| [Orion Grays](topics/orion-grays.md) | species | 6 | 5 |
-| [Orion Wars](topics/orion-wars.md) | history | 11 | 19 |
-| [Perceptual density](topics/perceptual-density.md) | cosmology | 92 | 132 |
+| [Original Matrix](topics/original-matrix.md) | cosmology | 52 | 48 |
+| [Orion Council](topics/orion-council.md) | polity | 4 | 12 |
+| [Orion Grays](topics/orion-grays.md) | species | 8 | 7 |
+| [Orion Wars](topics/orion-wars.md) | history | 13 | 23 |
+| [Perceptual density](topics/perceptual-density.md) | cosmology | 101 | 159 |
 | [Pineal interface](topics/pineal-interface.md) | biology | 11 | 3 |
 | [Planetary DNA Arks](topics/planetary-dna-arks.md) | technology | 3 | 2 |
-| [Planetary Matrix resets](topics/planetary-matrix-resets.md) | historical event | 6 | 2 |
+| [Planetary Matrix resets](topics/planetary-matrix-resets.md) | historical event | 7 | 4 |
 | [Planetary Unification](topics/planetary-unification.md) | institution | 2 | 1 |
 | [Pluto](topics/pluto.md) | dwarf planet and astrological symbol | 6 | 1 |
-| [Postmortem realities](topics/postmortem-realities.md) | cosmology | 163 | 45 |
+| [Postmortem realities](topics/postmortem-realities.md) | cosmology | 168 | 48 |
 | [Primary and Secondary Species](topics/primary-secondary-species.md) | species-taxonomy | 3 | 0 |
-| [Prime Directive](topics/prime-directive.md) | institution | 74 | 43 |
-| [Planet Procyon](topics/procyon.md) | location | 4 | 5 |
-| [Project Second Contact](topics/project-second-contact.md) | program | 10 | 2 |
+| [Prime Directive](topics/prime-directive.md) | institution | 82 | 53 |
+| [Planet Procyon](topics/procyon.md) | location | 6 | 5 |
+| [Project Second Contact](topics/project-second-contact.md) | program | 16 | 4 |
 | [Protective charms](topics/protective-charms.md) | technology | 2 | 0 |
 | [Pulsa Denura](topics/pulsa-denura.md) | ritual | 1 | 0 |
-| [Pyramid energy and portal network](topics/pyramid-network.md) | technology network | 8 | 0 |
+| [Pyramid energy and portal network](topics/pyramid-network.md) | technology network | 9 | 1 |
 | [Rashell–Eisenhower Contact](topics/rashell-eisenhower-contact.md) | historical-event | 3 | 1 |
 | [Red-mercury gravity turbines](topics/red-mercury-gravity-turbines.md) | technology | 1 | 1 |
 | [Red Queen AI](topics/red-queen-ai.md) | artificial-intelligence | 2 | 0 |
-| [Reincarnation and karmic cycles](topics/reincarnation-cycles.md) | cosmology | 31 | 34 |
-| [Remote-presence technology](topics/remote-presence-technology.md) | technology | 3 | 0 |
-| [Replicators](topics/replicators.md) | technology | 2 | 0 |
-| [Reptilian invaders](topics/reptilian-invaders.md) | faction | 3 | 6 |
-| [Reptilians](topics/reptilians.md) | species | 22 | 29 |
-| [Resonance-based medical pods](topics/resonance-medical-pods.md) | medical technology | 5 | 0 |
-| [Ritual symbolism in toys and media](topics/ritual-symbolism-in-media.md) | symbolism | 5 | 0 |
-| [Sand Clock](topics/sand-clock.md) | institution | 9 | 7 |
-| [Sasquatch](topics/sasquatch.md) | species | 5 | 0 |
+| [Reincarnation and karmic cycles](topics/reincarnation-cycles.md) | cosmology | 45 | 51 |
+| [Remote-presence technology](topics/remote-presence-technology.md) | technology | 4 | 2 |
+| [Replicators](topics/replicators.md) | technology | 2 | 1 |
+| [Reptilian invaders](topics/reptilian-invaders.md) | faction | 3 | 9 |
+| [Reptilians](topics/reptilians.md) | species | 27 | 37 |
+| [Resonance-based medical pods](topics/resonance-medical-pods.md) | medical technology | 6 | 0 |
+| [Ritual symbolism in toys and media](topics/ritual-symbolism-in-media.md) | symbolism | 7 | 0 |
+| [Sand Clock](topics/sand-clock.md) | institution | 9 | 8 |
+| [Sand-Clock temporal squadrons](topics/sand-clock-squadrons.md) | temporal operation | 0 | 1 |
+| [Sasquatch](topics/sasquatch.md) | species | 6 | 1 |
 | [Sassani](topics/sassani.md) | species | 0 | 1 |
-| [Saturnian orbital bases](topics/saturn-bases.md) | location | 5 | 9 |
-| [Saturnian atmospheric fauna](topics/saturn-fauna.md) | species | 1 | 0 |
-| [Scalar Internet](topics/scalar-internet.md) | technology | 5 | 1 |
-| [Scimitar-class craft](topics/scimitar-class-craft.md) | technology | 1 | 0 |
-| [Secret-society hierarchy](topics/secret-society-hierarchy.md) | organization structure | 4 | 3 |
-| [Secret Space Program](topics/secret-space-program.md) | program | 5 | 9 |
+| [Saturnian orbital bases](topics/saturn-bases.md) | location | 8 | 15 |
+| [Saturnian atmospheric fauna](topics/saturn-fauna.md) | species | 2 | 0 |
+| [Scalar Internet](topics/scalar-internet.md) | technology | 5 | 2 |
+| [Scimitar-class craft](topics/scimitar-class-craft.md) | technology | 3 | 0 |
+| [Secret-society hierarchy](topics/secret-society-hierarchy.md) | organization structure | 6 | 3 |
+| [Secret Space Program](topics/secret-space-program.md) | program | 6 | 11 |
 | [Sentient crystals](topics/sentient-crystals.md) | entity or phenomenon | 2 | 1 |
-| [Sentient starship AI](topics/sentient-starship-ai.md) | technology | 19 | 7 |
-| [SETI surveillance operation](topics/seti-surveillance.md) | institution | 1 | 1 |
+| [Sentient starship AI](topics/sentient-starship-ai.md) | technology | 20 | 7 |
+| [SETI surveillance operation](topics/seti-surveillance.md) | institution | 1 | 2 |
 | [Shadow People](topics/shadow-people.md) | species | 6 | 0 |
-| [Shadow Work](topics/shadow-work.md) | practice | 12 | 2 |
+| [Shadow Work](topics/shadow-work.md) | practice | 13 | 2 |
 | [Shambala](topics/shambala.md) | location | 0 | 1 |
-| [Ship internal time](topics/ship-internal-time.md) | technology | 22 | 11 |
+| [Ship internal time](topics/ship-internal-time.md) | technology | 28 | 13 |
 | [Sirian civilizations](topics/sirian-civilizations.md) | species and civilization group | 4 | 1 |
 | [Smart flight suits](topics/smart-flight-suits.md) | technology | 2 | 0 |
 | [Sol 13 system](topics/sol-13.md) | star system | 3 | 1 |
-| [Solar consciousness](topics/solar-consciousness.md) | cosmology | 2 | 0 |
-| [Solar portal transit](topics/solar-portal-transit.md) | technology | 14 | 4 |
-| [Distant Solar System Objects](topics/solar-system-objects.md) | astronomical object | 4 | 1 |
-| [Solatians](topics/solatians.md) | species | 5 | 2 |
-| [Sophia Swaruu](topics/sophia-swaruu.md) | character | 12 | 7 |
+| [Solar consciousness](topics/solar-consciousness.md) | cosmology | 4 | 0 |
+| [Solar portal transit](topics/solar-portal-transit.md) | technology | 15 | 4 |
+| [Distant Solar System Objects](topics/solar-system-objects.md) | astronomical object | 5 | 3 |
+| [Solatians](topics/solatians.md) | species | 9 | 2 |
+| [Sophia Swaruu](topics/sophia-swaruu.md) | character | 13 | 7 |
 | [Pre-incarnation soul contracts](topics/soul-contracts.md) | cosmology | 1 | 2 |
-| [Soul-family groups](topics/soul-family-groups.md) | cosmology | 2 | 5 |
+| [Soul-family groups](topics/soul-family-groups.md) | cosmology | 3 | 5 |
 | [Soul harvesting](topics/soul-harvesting.md) | cosmological mechanism | 2 | 0 |
-| [Soul-loop reincarnation](topics/soul-loop-reincarnation.md) | cosmology | 16 | 7 |
+| [Soul-loop reincarnation](topics/soul-loop-reincarnation.md) | cosmology | 20 | 11 |
 | [Soulmates](topics/soulmates.md) | cosmology | 10 | 2 |
-| [Spatium Lupi](topics/spatium-lupi.md) | faction | 6 | 0 |
+| [Spatium Lupi](topics/spatium-lupi.md) | faction | 8 | 0 |
 | [Alliance of the Sphere](topics/sphere-alliance.md) | faction | 0 | 1 |
-| [Spherical drones](topics/spherical-drones.md) | technology | 10 | 4 |
-| [Sphinx Underground Bases](topics/sphinx-underground-bases.md) | location | 2 | 0 |
+| [Spherical drones](topics/spherical-drones.md) | technology | 10 | 6 |
+| [Sphinx Underground Bases](topics/sphinx-underground-bases.md) | location | 2 | 1 |
 | [Starlette](topics/starlette.md) | person | 0 | 2 |
-| [Starseed guides](topics/starseed-guides.md) | group | 8 | 4 |
-| [Starseeds](topics/starseeds.md) | metaphysical population | 60 | 33 |
-| [Starship systems](topics/starship-systems.md) | technology | 384 | 281 |
-| [Stellar navigation](topics/stellar-navigation.md) | technology | 172 | 118 |
+| [Starseed guides](topics/starseed-guides.md) | group | 9 | 4 |
+| [Starseeds](topics/starseeds.md) | metaphysical population | 73 | 64 |
+| [Starship systems](topics/starship-systems.md) | technology | 438 | 352 |
+| [Stellar navigation](topics/stellar-navigation.md) | technology | 177 | 123 |
 | [Subterranean ocean networks](topics/subterranean-ocean-networks.md) | location | 5 | 1 |
 | [Sumerian tablet interpretations](topics/sumerian-tablet-interpretations.md) | history | 2 | 1 |
 | [Sumerian tablets](topics/sumerian-tablets.md) | historical source | 1 | 3 |
-| [Sunspot portals](topics/sunspot-portals.md) | technology | 9 | 6 |
+| [Sunspot portals](topics/sunspot-portals.md) | technology | 9 | 7 |
 | [Supersonic water-jet cutting](topics/supersonic-water-jet-cutting.md) | technology | 0 | 1 |
-| [Supraluminal frequency hyperdrive](topics/supraluminal-hyperdrive.md) | technology | 4 | 0 |
-| [Suzy-class starships](topics/suzy-class-starships.md) | technology | 1 | 7 |
-| [Suzy fighter craft](topics/suzy-fighter-craft.md) | technology | 14 | 6 |
-| [Swaruunians](topics/swaruunians.md) | civilization | 11 | 4 |
-| [Synthetic Intelligence](topics/synthetic-intelligence.md) | artificial intelligence | 2 | 3 |
+| [Supraluminal frequency hyperdrive](topics/supraluminal-hyperdrive.md) | technology | 6 | 1 |
+| [Suzy-class starships](topics/suzy-class-starships.md) | technology | 15 | 13 |
+| [Suzy fighter craft](topics/suzy-fighter-craft.md) | technology | 17 | 6 |
+| [Swaruunians](topics/swaruunians.md) | civilization | 11 | 5 |
+| [Synthetic Intelligence](topics/synthetic-intelligence.md) | artificial intelligence | 2 | 5 |
 | [Tall Whites](topics/tall-whites.md) | species | 3 | 1 |
-| [Tartaria](topics/tartaria.md) | history | 17 | 5 |
-| [Taygetan Base-12 Mathematics](topics/taygetan-base-12-mathematics.md) | mathematics | 2 | 1 |
-| [Taygetan CIC](topics/taygetan-cic.md) | intelligence organization | 3 | 0 |
-| [Taygetan ecosystems](topics/taygetan-ecosystems.md) | geography | 37 | 27 |
-| [Taygetan First Contact Project](topics/taygetan-first-contact-project.md) | contact-program | 13 | 0 |
+| [Tartaria](topics/tartaria.md) | history | 18 | 5 |
+| [Taygetan Base-12 Mathematics](topics/taygetan-base-12-mathematics.md) | mathematics | 2 | 2 |
+| [Taygetan CIC](topics/taygetan-cic.md) | intelligence organization | 9 | 1 |
+| [Taygetan ecosystems](topics/taygetan-ecosystems.md) | geography | 43 | 37 |
+| [Taygetan First Contact Project](topics/taygetan-first-contact-project.md) | contact-program | 16 | 1 |
 | [Taygetan flight suits and boots](topics/taygetan-flight-suits.md) | technology | 14 | 3 |
 | [Taygetan holographic language](topics/taygetan-holographic-language.md) | language | 1 | 0 |
-| [Taygetan language](topics/taygetan-language.md) | language | 20 | 3 |
+| [Taygetan language](topics/taygetan-language.md) | language | 23 | 5 |
 | [Taygetan mathematics](topics/taygetan-mathematics.md) | technology and mathematics | 0 | 1 |
-| [Taygetan medicine](topics/taygetan-medicine.md) | medical practice | 3 | 0 |
+| [Taygetan medicine](topics/taygetan-medicine.md) | medical practice | 11 | 5 |
 | [Mobile Plants of Taygeta](topics/taygetan-mobile-plants.md) | flora | 1 | 0 |
 | [Taygetan parthenogenesis](topics/taygetan-parthenogenesis.md) | reproductive mechanism | 4 | 1 |
 | [Taygetan Hanáre/Scimitar fighters](topics/taygetan-scimitar-fighters.md) | starship class | 3 | 0 |
 | [Taygetan toys and games](topics/taygetan-toys-and-games.md) | culture | 2 | 0 |
-| [Taygetan wireless power grid](topics/taygetan-wireless-power-grid.md) | technology | 4 | 3 |
-| [Taygetans](topics/taygetans.md) | civilization | 332 | 307 |
-| [Telepathic channeling](topics/telepathic-channeling.md) | communication method | 10 | 2 |
-| [Teleportation](topics/teleportation.md) | technology | 5 | 4 |
-| [Temporal skipping](topics/temporal-skipping.md) | technology | 74 | 39 |
-| [Terrestrial science](topics/terrestrial-science.md) | institution | 316 | 149 |
-| [Tiamat](topics/tiamat.md) | location | 47 | 30 |
-| [Timeline branching](topics/timeline-branching.md) | mechanism | 94 | 70 |
-| [Toleka-class starships](topics/toleka-class.md) | technology | 28 | 13 |
+| [Taygetan wireless power grid](topics/taygetan-wireless-power-grid.md) | technology | 6 | 4 |
+| [Taygetans](topics/taygetans.md) | civilization | 386 | 387 |
+| [Telepathic channeling](topics/telepathic-channeling.md) | communication method | 19 | 8 |
+| [Teleportation](topics/teleportation.md) | technology | 7 | 5 |
+| [Temporal skipping](topics/temporal-skipping.md) | technology | 80 | 50 |
+| [Terrestrial science](topics/terrestrial-science.md) | institution | 326 | 163 |
+| [Tiamat](topics/tiamat.md) | location | 52 | 31 |
+| [Timeline branching](topics/timeline-branching.md) | mechanism | 111 | 87 |
+| [Toleka-class starships](topics/toleka-class.md) | technology | 34 | 18 |
 | [Toroidal planetary model](topics/toroidal-planetary-model.md) | cosmology | 1 | 0 |
-| [Total-immersion simulations](topics/total-immersion-simulations.md) | technology | 16 | 7 |
-| [Tractor beams](topics/tractor-beams.md) | technology | 18 | 8 |
+| [Total-immersion simulations](topics/total-immersion-simulations.md) | technology | 23 | 8 |
+| [Tractor beams](topics/tractor-beams.md) | technology | 21 | 11 |
 | [Triangulum portal](topics/triangulum.md) | location | 1 | 1 |
-| [Tulpas](topics/tulpas.md) | cosmology | 22 | 10 |
+| [Tulpas](topics/tulpas.md) | cosmology | 23 | 13 |
 | [Ukraine](topics/ukraine.md) | location | 28 | 8 |
-| [Ummite civilization](topics/ummite-civilization.md) | civilization | 1 | 2 |
+| [Ummite civilization](topics/ummite-civilization.md) | civilization | 1 | 3 |
 | [Unicorn symbolism](topics/unicorn-symbolism.md) | symbolism | 12 | 0 |
 | [Uranus and its moons](topics/uranus.md) | planetary system | 7 | 0 |
-| [Urmah](topics/urmah.md) | species | 134 | 34 |
-| [Urmah Federation](topics/urmah-federation.md) | faction | 1 | 6 |
+| [Urmah](topics/urmah.md) | species | 161 | 60 |
+| [Urmah Federation](topics/urmah-federation.md) | faction | 8 | 11 |
 | [Usungal](topics/usungal.md) | species | 1 | 2 |
 | [Inoculation and genetic alteration claims](topics/vaccine-inoculation-claims.md) | technology | 29 | 21 |
-| [Vampires](topics/vampires.md) | parasitic entity group | 3 | 1 |
+| [Vampires](topics/vampires.md) | parasitic entity group | 6 | 1 |
 | [Van Allen belts](topics/van-allen-belts.md) | celestial phenomenon | 18 | 9 |
 | [Venus](topics/venus.md) | location | 12 | 6 |
-| [Viera](topics/viera.md) | location | 14 | 7 |
+| [Viera](topics/viera.md) | location | 16 | 12 |
 | [Vlash, Vlad and Vrill clans](topics/vlash-vlad-vrill-clans.md) | faction | 3 | 3 |
-| [Walk-in phenomenon](topics/walk-in-phenomenon.md) | cosmology | 11 | 7 |
-| [Weather control systems](topics/weather-control.md) | technology | 14 | 4 |
+| [Walk-in phenomenon](topics/walk-in-phenomenon.md) | cosmology | 13 | 8 |
+| [Weather control systems](topics/weather-control.md) | technology | 22 | 5 |
 | [Witchcraft and Voodoo](topics/witchcraft-and-voodoo.md) | practice | 5 | 1 |
-| [Zeta Reticuli Gardeners](topics/zeta-reticuli-gardeners.md) | species | 12 | 6 |
+| [Zeta Reticuli Gardeners](topics/zeta-reticuli-gardeners.md) | species | 15 | 7 |
 
 ## Reviewed sources
 
@@ -1872,330 +1875,667 @@ Language and revision variants remain separate source records unless content equ
 | [¿Es aconsejable eliminar el Cabal? Sociedad Holística, Parte 2](https://swaruu.org/transcripts/es-aconsejable-eliminar-el-cabal-sociedad-holistica-parte-2) | es | 2023-09-22 | 3 |
 | [Why is the Galactic Federation so permissive towards all what causes humanity's problems? (English)](https://swaruu.org/transcripts/why-is-the-galactic-federation-so-permissive-towards-all-what-causes-humanity-s-problems-english) | en | 2023-09-23 | 5 |
 | [Fuerzas Militares en el Astral - MILABs - Mundo Astral - Athena Swaruu y Yazhi Swaruu (PARTE 1)](https://swaruu.org/transcripts/fuerzas-militares-en-el-astral-milabs-mundo-astral-athena-swaruu-y-yazhi-swaruu-parte-1) | es | 2023-09-23 | 3 |
+| [¿Por qué la Federación Galáctica es tan permisiva con lo que causa los problemas de la humanidad?](https://swaruu.org/transcripts/por-que-la-federacion-galactica-es-tan-permisiva-con-lo-que-causa-los-problemas-de-la-humanidad) | es | 2023-09-24 | 4 |
 | [Military Forces in the Astral - MILABs - Astral World - Athena and Yazhi Swaruu](https://swaruu.org/transcripts/military-forces-in-the-astral-milabs-astral-world-athena-and-yazhi-swaruu) | en | 2023-09-25 | 5 |
 | [Peruvian Mummies in the Media, there is never enough proof about extra-terrestrials, (English)](https://swaruu.org/transcripts/peruvian-mummies-in-the-media-there-is-never-enough-proof-about-extra-terrestrials-english) | en | 2023-09-25 | 4 |
+| [Momias Peruanas en los Medios, nunca hay pruebas suficientes sobre extraterrestres](https://swaruu.org/transcripts/momias-peruanas-en-los-medios-nunca-hay-pruebas-suficientes-sobre-extraterrestres) | es | 2023-09-26 | 3 |
 | [Taygeta, origins and history. Part 1 (English)](https://swaruu.org/transcripts/taygeta-origins-and-history-part-1-english) | en | 2023-09-27 | 5 |
+| [Taygeta, orígenes e historia. Parte 1](https://swaruu.org/transcripts/taygeta-origenes-e-historia-parte-1) | es | 2023-09-28 | 3 |
 | [The Elites are Planning to leave Earth. (English)](https://swaruu.org/transcripts/the-elites-are-planning-to-leave-earth-english) | en | 2023-09-29 | 5 |
 | [Astral World - Soldiers in the Astral - Astral Banking, Animals, and more - Yazhi Swaruu](https://swaruu.org/transcripts/astral-world-soldiers-in-the-astral-astral-banking-animals-and-more-yazhi-swaruu) | en | 2023-09-29 | 5 |
+| [Mundo Astral - Soldados y Guerras en el Astral - Banca Astral, Animales y mas](https://swaruu.org/transcripts/mundo-astral-soldados-y-guerras-en-el-astral-banca-astral-animales-y-mas) | es | 2023-09-29 | 2 |
+| [Las Élites Planean Abandonar la Tierra](https://swaruu.org/transcripts/las-elites-planean-abandonar-la-tierra) | es | 2023-09-30 | 2 |
 | [Society in Taygeta, Structure. (English)](https://swaruu.org/transcripts/society-in-taygeta-structure-english) | en | 2023-10-01 | 5 |
 | [The Sickness of Earth's Society, and the Purpose of the Starseeds](https://swaruu.org/transcripts/the-sickness-of-earth-s-society-and-the-purpose-of-the-starseeds) | en | 2023-10-01 | 5 |
+| [Sociedad en Taygeta. Estructura](https://swaruu.org/transcripts/sociedad-en-taygeta-estructura) | es | 2023-10-02 | 3 |
+| [La Enfermedad de la Sociedad de la Tierra, y el Propósito de las Semillas Estelares](https://swaruu.org/transcripts/la-enfermedad-de-la-sociedad-de-la-tierra-y-el-proposito-de-las-semillas-estelares) | es | 2023-10-02 | 2 |
+| [Inteligencia Artificial y el Astral (PARTE 3)- Como se Relaciona? Yazhi Swaruu](https://swaruu.org/transcripts/inteligencia-artificial-y-el-astral-parte-3-como-se-relaciona-yazhi-swaruu) | es | 2023-10-02 | 4 |
 | [The Terrible Ending of the First Settlers on Planet Procyon. (English)](https://swaruu.org/transcripts/the-terrible-ending-of-the-first-settlers-on-planet-procyon-english) | en | 2023-10-03 | 5 |
 | [Artificial Intelligence and the Astral (PART 3) - Do they Relate? Yazhi Swaruu](https://swaruu.org/transcripts/artificial-intelligence-and-the-astral-part-3-do-they-relate-yazhi-swaruu) | en | 2023-10-03 | 5 |
+| [El Terrible final de los primeros pobladores del planeta Proción](https://swaruu.org/transcripts/el-terrible-final-de-los-primeros-pobladores-del-planeta-procion) | es | 2023-10-04 | 2 |
+| [Buda y la Iluminación - se puede alcanzarla? Yazhi Swaruu](https://swaruu.org/transcripts/buda-y-la-iluminacion-se-puede-alcanzarla-yazhi-swaruu) | es | 2023-10-04 | 3 |
 | [Avoid building Karma, or build as much Karma as you can in your life (English)](https://swaruu.org/transcripts/avoid-building-karma-or-build-as-much-karma-as-you-can-in-your-life-english) | en | 2023-10-05 | 5 |
 | [Buddha and Enlightenment - Can it be Reached? Yazhi Swaruu](https://swaruu.org/transcripts/buddha-and-enlightenment-can-it-be-reached-yazhi-swaruu) | en | 2023-10-05 | 5 |
+| [¿Evitar acumular Karma, o construir tanto Karma como se pueda en la vida?](https://swaruu.org/transcripts/evitar-acumular-karma-o-construir-tanto-karma-como-se-pueda-en-la-vida) | es | 2023-10-06 | 3 |
 | [Audio and Music Conspiracy Detected (English)](https://swaruu.org/transcripts/audio-and-music-conspiracy-detected-english) | en | 2023-10-07 | 5 |
+| ["Veo la Tierra de mi ventana y es REDONDA\!" - El Psyop de la Teoría de la Tierra Plana](https://swaruu.org/transcripts/veo-la-tierra-de-mi-ventana-y-es-redonda-el-psyop-de-la-teoria-de-la-tierra-plana) | es | 2023-10-07 | 3 |
 | ["I see Earth from my window and it is ROUND\!" - Flat Earth Theory Psyop](https://swaruu.org/transcripts/i-see-earth-from-my-window-and-it-is-round-flat-earth-theory-psyop) | en | 2023-10-08 | 5 |
+| [Audio y Música. Conspiración detectada](https://swaruu.org/transcripts/audio-y-musica-conspiracion-detectada) | es | 2023-10-08 | 2 |
 | [Aircraft exhaust contaminants (English)](https://swaruu.org/transcripts/aircraft-exhaust-contaminants-english) | en | 2023-10-09 | 5 |
+| [Contaminantes de los escapes de los aviones](https://swaruu.org/transcripts/contaminantes-de-los-escapes-de-los-aviones) | es | 2023-10-10 | 3 |
 | [Stop Drinking Alcohol (English)](https://swaruu.org/transcripts/stop-drinking-alcohol-english) | en | 2023-10-11 | 5 |
+| [Deja de beber alcohol](https://swaruu.org/transcripts/deja-de-beber-alcohol) | es | 2023-10-12 | 3 |
+| [Swaruu de Erra y Yazhi Swaruu - Conversaciones Metafísicas](https://swaruu.org/transcripts/swaruu-de-erra-y-yazhi-swaruu-conversaciones-metafisicas) | es | 2023-10-13 | 4 |
 | [Do not take Psychedelics (English)](https://swaruu.org/transcripts/do-not-take-psychedelics-english) | en | 2023-10-15 | 5 |
+| [No tomen psicodélicos](https://swaruu.org/transcripts/no-tomen-psicodelicos) | es | 2023-10-16 | 3 |
 | [Artificial Weather (English ) / (Re-loaded)](https://swaruu.org/transcripts/artificial-weather-english-re-loaded) | en | 2023-10-17 | 5 |
 | [Swaruu of Erra and Yazhi Swaruu - Metaphysical Chats](https://swaruu.org/transcripts/swaruu-of-erra-and-yazhi-swaruu-metaphysical-chats) | en | 2023-10-17 | 5 |
 | [Important Comments, several other subjects, please watch to understand everything better (English)](https://swaruu.org/transcripts/important-comments-several-other-subjects-please-watch-to-understand-everything-better-english) | en | 2023-10-17 | 5 |
+| [Clima Artificial (Re-subido)](https://swaruu.org/transcripts/clima-artificial-re-subido) | es | 2023-10-17 | 2 |
+| [Comentarios Importantes y varios otros temas, miren para comprender todo mejor](https://swaruu.org/transcripts/comentarios-importantes-y-varios-otros-temas-miren-para-comprender-todo-mejor) | es | 2023-10-18 | 3 |
 | [A Perfect Example of how a Soul becomes Strongly Attached to its past life, a true story (English)](https://swaruu.org/transcripts/a-perfect-example-of-how-a-soul-becomes-strongly-attached-to-its-past-life-a-true-story-english) | en | 2023-10-19 | 5 |
 | [Arrogance and False Science - The Sickness of Earth's Society, Part 2](https://swaruu.org/transcripts/arrogance-and-false-science-the-sickness-of-earth-s-society-part-2) | en | 2023-10-19 | 5 |
 | [Light Beings, Demons, Part 4, Religion, Possessions and Star Seeds (English / Re-loaded)](https://swaruu.org/transcripts/light-beings-demons-part-4-religion-possessions-and-star-seeds-english-re-loaded) | en | 2023-10-20 | 5 |
+| [Arrogancia y Ciencia Falsa - La Enfermedad de la Sociedad de la Tierra, Parte 2](https://swaruu.org/transcripts/arrogancia-y-ciencia-falsa-la-enfermedad-de-la-sociedad-de-la-tierra-parte-2) | es | 2023-10-20 | 3 |
+| [Un ejemplo perfecto de cómo un Alma se Apega Fuertemente a su Vida Pasada, una historia real](https://swaruu.org/transcripts/un-ejemplo-perfecto-de-como-un-alma-se-apega-fuertemente-a-su-vida-pasada-una-historia-real) | es | 2023-10-20 | 3 |
+| [Seres de Luz, Demonios, Parte 4, Religión, Posesiones y Semillas Estelares (Re-subido)](https://swaruu.org/transcripts/seres-de-luz-demonios-parte-4-religion-posesiones-y-semillas-estelares-re-subido) | es | 2023-10-20 | 1 |
 | [No Men in Taygeta? (English)](https://swaruu.org/transcripts/no-men-in-taygeta-english) | en | 2023-10-21 | 5 |
 | [The Collective Unconscious. (English / Re-loaded)](https://swaruu.org/transcripts/the-collective-unconscious-english-re-loaded) | en | 2023-10-21 | 5 |
+| [El Inconsciente Colectivo - (Re-Subido)](https://swaruu.org/transcripts/el-inconsciente-colectivo-re-subido) | es | 2023-10-21 | 3 |
 | [Mari Swaruu Live - Recopilation of all Questions and Answers](https://swaruu.org/transcripts/mari-swaruu-live-recopilation-of-all-questions-and-answers) | en | 2023-10-22 | 5 |
+| [¿Hay pocos hombres en Taygeta?](https://swaruu.org/transcripts/hay-pocos-hombres-en-taygeta) | es | 2023-10-22 | 2 |
 | [Reflections, by Mari Swaruu, Important, please watch (English)](https://swaruu.org/transcripts/reflections-by-mari-swaruu-important-please-watch-english) | en | 2023-10-23 | 5 |
+| [Mari Swaruu - El Directo - Recopilación de Preguntas y Respuestas](https://swaruu.org/transcripts/mari-swaruu-el-directo-recopilacion-de-preguntas-y-respuestas) | es | 2023-10-24 | 5 |
+| [Reflexiones de Mari Swaruu, Importante, por favor ver](https://swaruu.org/transcripts/reflexiones-de-mari-swaruu-importante-por-favor-ver) | es | 2023-10-24 | 3 |
 | [Non-linear Time and its Perception (English)](https://swaruu.org/transcripts/non-linear-time-and-its-perception-english) | en | 2023-10-25 | 5 |
 | [Metaphysical chat with Yazhi Swaruu about influencing timelines](https://swaruu.org/transcripts/metaphysical-chat-with-yazhi-swaruu-about-influencing-timelines) | en | 2023-10-25 | 5 |
+| [Tiempo No-Lineal y su Percepción](https://swaruu.org/transcripts/tiempo-no-lineal-y-su-percepcion) | es | 2023-10-26 | 2 |
 | [Dreams, and What They Are (English)](https://swaruu.org/transcripts/dreams-and-what-they-are-english) | en | 2023-10-27 | 5 |
+| [Charla Metafísica con Yazhi Swaruu sobre como Influenciar las Líneas Colectivas](https://swaruu.org/transcripts/charla-metafisica-con-yazhi-swaruu-sobre-como-influenciar-las-lineas-colectivas) | es | 2023-10-28 | 3 |
+| [Sueños. Que Son](https://swaruu.org/transcripts/suenos-que-son) | es | 2023-10-28 | 2 |
 | [Dreams, and Dark Lower-Astral Entity Night Visitations (English)](https://swaruu.org/transcripts/dreams-and-dark-lower-astral-entity-night-visitations-english) | en | 2023-10-29 | 5 |
+| [Sueños y visitas nocturnas de entidades oscuras del astral inferior](https://swaruu.org/transcripts/suenos-y-visitas-nocturnas-de-entidades-oscuras-del-astral-inferior) | es | 2023-10-30 | 1 |
 | [BigFoot/Sasquatch - Daniel James´ Real Encounters - Dyatlov Pass Incident](https://swaruu.org/transcripts/bigfoot-sasquatch-daniel-james-real-encounters-dyatlov-pass-incident) | en | 2023-10-31 | 5 |
 | [Religions and Lower Astral Entities, and why it works against some of them (English)](https://swaruu.org/transcripts/religions-and-lower-astral-entities-and-why-it-works-against-some-of-them-english) | en | 2023-10-31 | 5 |
 | [Falsehood - The Sickness of Earth's Society, Part 3](https://swaruu.org/transcripts/falsehood-the-sickness-of-earth-s-society-part-3) | en | 2023-11-01 | 4 |
+| [Pie Grande/Sasquatch - El Incidente del Paso Dyatlov - Swaruu de Erra y Aneeka de Temmer](https://swaruu.org/transcripts/pie-grande-sasquatch-el-incidente-del-paso-dyatlov-swaruu-de-erra-y-aneeka-de-temmer) | es | 2023-11-01 | 3 |
+| [Las Religiones y las Entidades del Bajo Astral y porqué funcionan en contra de algunas de ellas](https://swaruu.org/transcripts/las-religiones-y-las-entidades-del-bajo-astral-y-porque-funcionan-en-contra-de-algunas-de-ellas) | es | 2023-11-01 | 3 |
 | [Vampires/Zombies - Are they Real? Yazhi Swaruu and Aneeka explain](https://swaruu.org/transcripts/vampires-zombies-are-they-real-yazhi-swaruu-and-aneeka-explain) | en | 2023-11-02 | 5 |
 | [A Day in Mari’s Life (English)](https://swaruu.org/transcripts/a-day-in-mari-s-life-english) | en | 2023-11-02 | 5 |
+| [Falsedad - La Enfermedad de la Sociedad de la Tierra, Parte 3](https://swaruu.org/transcripts/falsedad-la-enfermedad-de-la-sociedad-de-la-tierra-parte-3) | es | 2023-11-02 | 2 |
+| [Un día en la vida de Mari](https://swaruu.org/transcripts/un-dia-en-la-vida-de-mari) | es | 2023-11-03 | 3 |
+| [Vampiros/Zombies -Son Reales? Yazhi Swaruu y Aneeka Responden](https://swaruu.org/transcripts/vampiros-zombies-son-reales-yazhi-swaruu-y-aneeka-responden) | es | 2023-11-03 | 3 |
 | [How to Control Society on Earth, and more about Holistic Society (English)](https://swaruu.org/transcripts/how-to-control-society-on-earth-and-more-about-holistic-society-english) | en | 2023-11-04 | 5 |
+| [Cómo Controlar la Sociedad en la Tierra y más sobre la Sociedad Holística](https://swaruu.org/transcripts/como-controlar-la-sociedad-en-la-tierra-y-mas-sobre-la-sociedad-holistica) | es | 2023-11-05 | 1 |
 | [Space News: 4 New People Arriving on The Ship. First Part (English)](https://swaruu.org/transcripts/space-news-4-new-people-arriving-on-the-ship-first-part-english) | en | 2023-11-06 | 5 |
 | [Interstellar Life 4 - Extraterrestrial Engineering - Reactors/Plasma Engines (Taygeta - Pleiades)](https://swaruu.org/transcripts/interstellar-life-4-extraterrestrial-engineering-reactors-plasma-engines-taygeta-pleiades) | en | 2023-11-07 | 5 |
+| [Noticias Espaciales: 4 Nuevas Personas Llegando a la Nave. Primera parte](https://swaruu.org/transcripts/noticias-espaciales-4-nuevas-personas-llegando-a-la-nave-primera-parte) | es | 2023-11-07 | 4 |
 | [Walk-ins, Soul Swap, Body Snatching, Immersion Pods. First Part (English)](https://swaruu.org/transcripts/walk-ins-soul-swap-body-snatching-immersion-pods-first-part-english) | en | 2023-11-08 | 5 |
+| [Walk-Ins, Intercambio de Almas, Arrebato de Cuerpos, Cápsulas de Inmersión. Primera Parte](https://swaruu.org/transcripts/walk-ins-intercambio-de-almas-arrebato-de-cuerpos-capsulas-de-inmersion-primera-parte) | es | 2023-11-09 | 3 |
+| [Vida Interestelar 4 - Ingeniería Extraterrestre - Reactores/Motores de Plasma (Taygeta - Pléyades)](https://swaruu.org/transcripts/vida-interestelar-4-ingenieria-extraterrestre-reactores-motores-de-plasma-taygeta-pleyades) | es | 2023-11-09 | 2 |
 | [Walk-Ins, Second Part, the Same Soul Re-Entering, but a Lot More Evolved (English)](https://swaruu.org/transcripts/walk-ins-second-part-the-same-soul-re-entering-but-a-lot-more-evolved-english) | en | 2023-11-10 | 5 |
 | [Anti-Gravity, Enriched Mercury, and more - Extraterrestrial Tech - Yazhi Swaruu](https://swaruu.org/transcripts/anti-gravity-enriched-mercury-and-more-extraterrestrial-tech-yazhi-swaruu) | en | 2023-11-11 | 5 |
+| [Walk-Ins, Segunda Parte, entra la Misma Alma, pero Mucho Más Evolucionada](https://swaruu.org/transcripts/walk-ins-segunda-parte-entra-la-misma-alma-pero-mucho-mas-evolucionada) | es | 2023-11-11 | 3 |
 | [4 New Crew Members on Board, Part 2, Heavy Cultural Shock (English)](https://swaruu.org/transcripts/4-new-crew-members-on-board-part-2-heavy-cultural-shock-english) | en | 2023-11-12 | 5 |
+| [4 Nuevos Miembros de la Tripulación a Bordo, Parte 2, Fuerte Choque Cultural](https://swaruu.org/transcripts/4-nuevos-miembros-de-la-tripulacion-a-bordo-parte-2-fuerte-choque-cultural) | es | 2023-11-13 | 3 |
 | [How Existential Densities work in Deep Space (English)](https://swaruu.org/transcripts/how-existential-densities-work-in-deep-space-english) | en | 2023-11-14 | 5 |
+| [Antigravedad, Mercurio Enriquecido, y mas - Tecnología Extraterrestre - Yazhi Swaruu](https://swaruu.org/transcripts/antigravedad-mercurio-enriquecido-y-mas-tecnologia-extraterrestre-yazhi-swaruu) | es | 2023-11-14 | 3 |
 | [Premonitory Dreams, and Memories of the Future](https://swaruu.org/transcripts/premonitory-dreams-and-memories-of-the-future) | en | 2023-11-15 | 5 |
+| [Cómo Funcionan las Densidades Existenciales en el Espacio Profundo](https://swaruu.org/transcripts/como-funcionan-las-densidades-existenciales-en-el-espacio-profundo) | es | 2023-11-15 | 4 |
 | [Break Away Civilizations and Space Pirates (English)](https://swaruu.org/transcripts/break-away-civilizations-and-space-pirates-english) | en | 2023-11-16 | 5 |
+| [Sueños Premonitorios, y Recuerdos del Futuro](https://swaruu.org/transcripts/suenos-premonitorios-y-recuerdos-del-futuro) | es | 2023-11-16 | 2 |
+| [Civilizaciones Disidentes, Separatistas y Piratas Espaciales](https://swaruu.org/transcripts/civilizaciones-disidentes-separatistas-y-piratas-espaciales) | es | 2023-11-17 | 4 |
 | [Space Pirates Break Away Civilizations, Part 2, Galactic Federation Involvement (English)](https://swaruu.org/transcripts/space-pirates-break-away-civilizations-part-2-galactic-federation-involvement-english) | en | 2023-11-18 | 5 |
 | [Are We Influenced by Other Densities? Elementals and Etheric Beings - Athena Swaruu](https://swaruu.org/transcripts/are-we-influenced-by-other-densities-elementals-and-etheric-beings-athena-swaruu) | en | 2023-11-18 | 5 |
+| [Piratas Espaciales y Civilizaciones Disidentes, Parte 2, Participación de la Federación Galáctica](https://swaruu.org/transcripts/piratas-espaciales-y-civilizaciones-disidentes-parte-2-participacion-de-la-federacion-galactica) | es | 2023-11-19 | 3 |
+| [Nos Influencian Otras Densidades? Los Elementales y Seres Etericos - Athena Swaruu](https://swaruu.org/transcripts/nos-influencian-otras-densidades-los-elementales-y-seres-etericos-athena-swaruu) | es | 2023-11-19 | 3 |
 | [Death, Introduction (English)](https://swaruu.org/transcripts/death-introduction-english) | en | 2023-11-20 | 5 |
+| [Muerte, Introducción](https://swaruu.org/transcripts/muerte-introduccion) | es | 2023-11-21 | 2 |
 | [Starseeds, What Are They? (English)](https://swaruu.org/transcripts/starseeds-what-are-they-english) | en | 2023-11-22 | 5 |
 | [My Higher Self - does it guide me according to its own interests only?](https://swaruu.org/transcripts/my-higher-self-does-it-guide-me-according-to-its-own-interests-only) | en | 2023-11-23 | 5 |
+| [Semillas Estelares, ¿Qué Son?](https://swaruu.org/transcripts/semillas-estelares-que-son) | es | 2023-11-23 | 3 |
 | [How to Prove for Yourself that the Paranormal Does Exist (English)](https://swaruu.org/transcripts/how-to-prove-for-yourself-that-the-paranormal-does-exist-english) | en | 2023-11-24 | 5 |
+| [Cómo Demostrar por ti mismo que lo Paranormal Existe](https://swaruu.org/transcripts/como-demostrar-por-ti-mismo-que-lo-paranormal-existe) | es | 2023-11-25 | 2 |
+| [Mi Yo Superior - Me Guía Solo Según Sus Intereses? - Athena Swaruu](https://swaruu.org/transcripts/mi-yo-superior-me-guia-solo-segun-sus-intereses-athena-swaruu) | es | 2023-11-25 | 2 |
 | [Prepare for your own Death, and for your Next Incarnation, by Living to the Fullest (English)](https://swaruu.org/transcripts/prepare-for-your-own-death-and-for-your-next-incarnation-by-living-to-the-fullest-english) | en | 2023-11-26 | 5 |
+| [Prepárate para tu Propia Muerte y para tu Próxima Encarnación Viviendo al Máximo](https://swaruu.org/transcripts/preparate-para-tu-propia-muerte-y-para-tu-proxima-encarnacion-viviendo-al-maximo) | es | 2023-11-27 | 4 |
 | [Titanic - How it Sank - Swaruu of Erra talks to Dale Harder](https://swaruu.org/transcripts/titanic-how-it-sank-swaruu-of-erra-talks-to-dale-harder) | en | 2023-11-28 | 5 |
 | [What is, and who is your Higher Self? (English)](https://swaruu.org/transcripts/what-is-and-who-is-your-higher-self-english) | en | 2023-11-28 | 5 |
+| [Titanic - Como se Hundió? Swaruu de Erra habla con Dale Harder](https://swaruu.org/transcripts/titanic-como-se-hundio-swaruu-de-erra-habla-con-dale-harder) | es | 2023-11-29 | 3 |
+| [Qué es y Quién es tu Yo Superior](https://swaruu.org/transcripts/que-es-y-quien-es-tu-yo-superior) | es | 2023-11-29 | 2 |
 | [Deep Federation, Etorthan detachment arriving, And Urmah vs Etorthans (English)](https://swaruu.org/transcripts/deep-federation-etorthan-detachment-arriving-and-urmah-vs-etorthans-english) | en | 2023-11-30 | 5 |
+| [Destacamento Etorthiano llegando y Urmah vs Etorthans](https://swaruu.org/transcripts/destacamento-etorthiano-llegando-y-urmah-vs-etorthans) | es | 2023-12-01 | 3 |
 | [Swaruu of Erra and Aneeka of Temmer - A Mix of Totally Random Questions and Answers](https://swaruu.org/transcripts/swaruu-of-erra-and-aneeka-of-temmer-a-mix-of-totally-random-questions-and-answers) | en | 2023-12-02 | 5 |
 | [Interview with the Urmah Tiger, Arishah, Part 3 (English)](https://swaruu.org/transcripts/interview-with-the-urmah-tiger-arishah-part-3-english) | en | 2023-12-02 | 5 |
+| [Entrevista con el Tigre Urmah, Arishah, Parte 3](https://swaruu.org/transcripts/entrevista-con-el-tigre-urmah-arishah-parte-3) | es | 2023-12-03 | 3 |
 | [This is to all Regressive and Negative Forces influencing Earth](https://swaruu.org/transcripts/this-is-to-all-regressive-and-negative-forces-influencing-earth) | en | 2023-12-04 | 5 |
 | [The Urmah, Part 1, Prelude and Context from Earth’s culture’s point of view (English)](https://swaruu.org/transcripts/the-urmah-part-1-prelude-and-context-from-earth-s-culture-s-point-of-view-english) | en | 2023-12-04 | 5 |
+| [Swaruu de Erra y Aneeka de Temmer - Una Mezcla de Preguntas y Respuestas](https://swaruu.org/transcripts/swaruu-de-erra-y-aneeka-de-temmer-una-mezcla-de-preguntas-y-respuestas) | es | 2023-12-04 | 3 |
 | [Can someone make you a match with negative events?](https://swaruu.org/transcripts/can-someone-make-you-a-match-with-negative-events) | en | 2023-12-05 | 5 |
+| [Los Urmah, Parte 1, Preludio y contexto desde el punto de vista de la cultura de la Tierra](https://swaruu.org/transcripts/los-urmah-parte-1-preludio-y-contexto-desde-el-punto-de-vista-de-la-cultura-de-la-tierra) | es | 2023-12-05 | 3 |
 | [The Urmah, Part 2 (English)](https://swaruu.org/transcripts/the-urmah-part-2-english) | en | 2023-12-06 | 5 |
+| [Este video es para todas las Fuerzas Regresivas influenciando la Tierra](https://swaruu.org/transcripts/este-video-es-para-todas-las-fuerzas-regresivas-influenciando-la-tierra) | es | 2023-12-06 | 2 |
+| [¿Puede alguien hacerte compatible con Eventos Negativos?](https://swaruu.org/transcripts/puede-alguien-hacerte-compatible-con-eventos-negativos) | es | 2023-12-06 | 3 |
+| [Los Urmah, Pueblo Felino](https://swaruu.org/transcripts/los-urmah-pueblo-felino) | es | 2023-12-07 | 3 |
 | [What’s it, with Flat Globe? (English)](https://swaruu.org/transcripts/what-s-it-with-flat-globe-english) | en | 2023-12-08 | 5 |
 | [Why are we a vibrational match to corrupt Galactic Federation? Yazhi Swaruu](https://swaruu.org/transcripts/why-are-we-a-vibrational-match-to-corrupt-galactic-federation-yazhi-swaruu) | en | 2023-12-09 | 5 |
+| [¿Qué pasa con la Tierra Plana?](https://swaruu.org/transcripts/que-pasa-con-la-tierra-plana) | es | 2023-12-09 | 1 |
 | [The Space Situation around Earth, December 2023. (English)](https://swaruu.org/transcripts/the-space-situation-around-earth-december-2023-english) | en | 2023-12-10 | 5 |
+| [Porque Somos Compatibles con Observar la Federación Corrupta? Yazhi Swaruu](https://swaruu.org/transcripts/porque-somos-compatibles-con-observar-la-federacion-corrupta-yazhi-swaruu) | es | 2023-12-10 | 2 |
+| [La Situación Alrededor de la Tierra, Diciembre de 2023](https://swaruu.org/transcripts/la-situacion-alrededor-de-la-tierra-diciembre-de-2023) | es | 2023-12-11 | 3 |
 | [1st Anniversary, of this YouTube channel, Swaruu Official. Thank You (English)](https://swaruu.org/transcripts/1st-anniversary-of-this-youtube-channel-swaruu-official-thank-you-english) | en | 2023-12-12 | 5 |
+| [Primer Aniversario de éste canal, Swaruu Oficial. Muchas Gracias](https://swaruu.org/transcripts/primer-aniversario-de-este-canal-swaruu-oficial-muchas-gracias) | es | 2023-12-13 | 3 |
 | [Ascension (English)](https://swaruu.org/transcripts/ascension-english) | en | 2023-12-14 | 5 |
+| [Ascensión](https://swaruu.org/transcripts/ascension) | es | 2023-12-15 | 4 |
 | [Athena Swaruu - Compilation of All Questions Answered in the Live (with the Surprise)](https://swaruu.org/transcripts/athena-swaruu-compilation-of-all-questions-answered-in-the-live-with-the-surprise) | en | 2023-12-16 | 5 |
 | [Surviving the Holidays, for Star Seeds (English)](https://swaruu.org/transcripts/surviving-the-holidays-for-star-seeds-english) | en | 2023-12-16 | 5 |
+| [Sobrevivir a las Fiestas, para Semillas Estelares](https://swaruu.org/transcripts/sobrevivir-a-las-fiestas-para-semillas-estelares) | es | 2023-12-17 | 2 |
+| [Athena Swaruu - Recopilación de Todas las Preguntas Respondidas en el Directo (CON LA SORPRESA)](https://swaruu.org/transcripts/athena-swaruu-recopilacion-de-todas-las-preguntas-respondidas-en-el-directo-con-la-sorpresa) | es | 2023-12-19 | 4 |
 | [Space News, and a lot of important comments (English)](https://swaruu.org/transcripts/space-news-and-a-lot-of-important-comments-english) | en | 2023-12-20 | 5 |
 | [Clarification regarding Galactic Federation - Gosia](https://swaruu.org/transcripts/clarification-regarding-galactic-federation-gosia) | en | 2023-12-21 | 3 |
+| [Noticias Espaciales y muchos comentarios importantes](https://swaruu.org/transcripts/noticias-espaciales-y-muchos-comentarios-importantes) | es | 2023-12-21 | 3 |
+| [Clarificacion sobre la Federacion Galactica - Gosia](https://swaruu.org/transcripts/clarificacion-sobre-la-federacion-galactica-gosia) | es | 2023-12-21 | 3 |
 | [To fight or not to fight? - The danger of not believing in yourself](https://swaruu.org/transcripts/to-fight-or-not-to-fight-the-danger-of-not-believing-in-yourself) | en | 2023-12-22 | 5 |
 | [You are never really alone, Guardian Angels of all kinds, Part 1 (English)](https://swaruu.org/transcripts/you-are-never-really-alone-guardian-angels-of-all-kinds-part-1-english) | en | 2023-12-22 | 5 |
 | [Transition into 4D? Short casual chat with Athena Swaruu](https://swaruu.org/transcripts/transition-into-4d-short-casual-chat-with-athena-swaruu) | en | 2023-12-23 | 5 |
+| [Realmente nunca estás solo, Ángeles Guardianes de todo tipo, Primera Parte](https://swaruu.org/transcripts/realmente-nunca-estas-solo-angeles-guardianes-de-todo-tipo-primera-parte) | es | 2023-12-23 | 3 |
+| [¿Luchar o no Luchar? - El Peligro de dejar de creer en ti mismo](https://swaruu.org/transcripts/luchar-o-no-luchar-el-peligro-de-dejar-de-creer-en-ti-mismo) | es | 2023-12-23 | 3 |
 | [You are never really alone, Part 2 (English)](https://swaruu.org/transcripts/you-are-never-really-alone-part-2-english) | en | 2023-12-24 | 5 |
+| [Transición en 4D? Breve Charla Casual con Athena Swaruu](https://swaruu.org/transcripts/transicion-en-4d-breve-charla-casual-con-athena-swaruu) | es | 2023-12-25 | 2 |
+| [Nunca estás realmente solo, Parte 2](https://swaruu.org/transcripts/nunca-estas-realmente-solo-parte-2) | es | 2023-12-25 | 4 |
 | [Positive "Agenda" - PART 1 - Conversation with Athena Swaruu (Taygeta, Pleiades)](https://swaruu.org/transcripts/positive-agenda-part-1-conversation-with-athena-swaruu-taygeta-pleiades) | en | 2023-12-26 | 5 |
 | [You are never really alone, Part 3, Technological surveillance (English)](https://swaruu.org/transcripts/you-are-never-really-alone-part-3-technological-surveillance-english) | en | 2023-12-26 | 5 |
+| ["Agenda" Positiva - Parte 1 - Conversación con Athena Swaruu (Contacto Extraterrestre)](https://swaruu.org/transcripts/agenda-positiva-parte-1-conversacion-con-athena-swaruu-contacto-extraterrestre) | es | 2023-12-27 | 2 |
+| [En realidad, Nunca Estás Solo, Parte 3, Vigilancia Tecnológica](https://swaruu.org/transcripts/en-realidad-nunca-estas-solo-parte-3-vigilancia-tecnologica) | es | 2023-12-27 | 4 |
 | [The Law of Attraction, Become the Best Version of Yourself (English)](https://swaruu.org/transcripts/the-law-of-attraction-become-the-best-version-of-yourself-english) | en | 2023-12-28 | 5 |
+| [La Ley de la Atracción, Conviértete en la mejor versión de ti mismo](https://swaruu.org/transcripts/la-ley-de-la-atraccion-conviertete-en-la-mejor-version-de-ti-mismo) | es | 2023-12-29 | 4 |
 | [Positive "Agenda" - PART 2 - Conversation with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/positive-agenda-part-2-conversation-with-sophia-swaruu-yazhi) | en | 2023-12-31 | 5 |
 | [Dramatic Life Changes, the Law of Mirrors and Quantum Jumps (English)](https://swaruu.org/transcripts/dramatic-life-changes-the-law-of-mirrors-and-quantum-jumps-english) | en | 2024-01-01 | 5 |
+| [Agenda Positiva - PARTE 2 - Conversación con Yazhi Swaruu](https://swaruu.org/transcripts/agenda-positiva-parte-2-conversacion-con-yazhi-swaruu) | es | 2024-01-02 | 3 |
+| [Cambios Dramáticos en la Vida, la Ley de los Espejos y los Saltos Cuánticos](https://swaruu.org/transcripts/cambios-dramaticos-en-la-vida-la-ley-de-los-espejos-y-los-saltos-cuanticos) | es | 2024-01-02 | 3 |
 | [Super Manifestation (English)](https://swaruu.org/transcripts/super-manifestation-english) | en | 2024-01-03 | 5 |
+| [Súper Manifestación](https://swaruu.org/transcripts/super-manifestacion) | es | 2024-01-04 | 2 |
 | [Space News 8, Galactic Federation Update for January 5th 2024 (English)](https://swaruu.org/transcripts/space-news-8-galactic-federation-update-for-january-5th-2024-english) | en | 2024-01-05 | 6 |
+| [Actualización de la Federación Galáctica. 5 de enero de 2024](https://swaruu.org/transcripts/actualizacion-de-la-federacion-galactica-5-de-enero-de-2024) | es | 2024-01-06 | 4 |
 | [Letter for the Galactic Federation, January 7th 2024 (English)](https://swaruu.org/transcripts/letter-for-the-galactic-federation-january-7th-2024-english) | en | 2024-01-07 | 5 |
+| [Carta a la Federación Galáctica. 7 de enero de 2024](https://swaruu.org/transcripts/carta-a-la-federacion-galactica-7-de-enero-de-2024) | es | 2024-01-08 | 3 |
 | [A Serious Incident on board Starship Toleka (English)](https://swaruu.org/transcripts/a-serious-incident-on-board-starship-toleka-english) | en | 2024-01-09 | 5 |
+| [Un Incidente Grave a bordo de la Nave Estelar Toleka](https://swaruu.org/transcripts/un-incidente-grave-a-bordo-de-la-nave-estelar-toleka) | es | 2024-01-10 | 3 |
 | [Space News 10, Galactic Federation Update for January 10 2024 (English)](https://swaruu.org/transcripts/space-news-10-galactic-federation-update-for-january-10-2024-english) | en | 2024-01-11 | 5 |
+| [Actualización de la Federación Galáctica. 10 de Enero de 2024](https://swaruu.org/transcripts/actualizacion-de-la-federacion-galactica-10-de-enero-de-2024) | es | 2024-01-12 | 3 |
 | [The Cosmic Cat, and the Urmah Spiritual Belief System (English)](https://swaruu.org/transcripts/the-cosmic-cat-and-the-urmah-spiritual-belief-system-english) | en | 2024-01-13 | 5 |
 | [Galactic Federation and Saturn - Leaders Impossible to Find - Aneeka of Temmer](https://swaruu.org/transcripts/galactic-federation-and-saturn-leaders-impossible-to-find-aneeka-of-temmer) | en | 2024-01-13 | 5 |
+| [Federación Galáctica y Saturno - Lideres Imposibles a Encontrar - Aneeka de Temmer](https://swaruu.org/transcripts/federacion-galactica-y-saturno-lideres-imposibles-a-encontrar-aneeka-de-temmer) | es | 2024-01-14 | 3 |
+| [El Gato Cósmico y el Sistema de Creencias Espirituales Urmah](https://swaruu.org/transcripts/el-gato-cosmico-y-el-sistema-de-creencias-espirituales-urmah) | es | 2024-01-14 | 3 |
 | [Power Structure on Earth and Society Resets (English)](https://swaruu.org/transcripts/power-structure-on-earth-and-society-resets-english) | en | 2024-01-15 | 5 |
+| [La Estructura de Poder en la Tierra y el Reinicio o Reseteo Social](https://swaruu.org/transcripts/la-estructura-de-poder-en-la-tierra-y-el-reinicio-o-reseteo-social) | es | 2024-01-16 | 3 |
 | [Taygeta - Gender Roles, Fallen Angels, and more - MINITOPICS (Extraterrestrial Information)](https://swaruu.org/transcripts/taygeta-gender-roles-fallen-angels-and-more-minitopics-extraterrestrial-information) | en | 2024-01-17 | 5 |
 | [Changes in this YouTube Channel, Swaruu Official, and a Surprise (English)](https://swaruu.org/transcripts/changes-in-this-youtube-channel-swaruu-official-and-a-surprise-english) | en | 2024-01-17 | 5 |
+| [Cambios en este Canal de Youtube, Swaruu Oficial, y una Sorpresa (Español)](https://swaruu.org/transcripts/cambios-en-este-canal-de-youtube-swaruu-oficial-y-una-sorpresa-espanol) | es | 2024-01-17 | 2 |
 | [Space News 11, Galactic Federation Update for January 17 2024 (English)](https://swaruu.org/transcripts/space-news-11-galactic-federation-update-for-january-17-2024-english) | en | 2024-01-18 | 5 |
+| [Actualización de la Federación Galáctica. 17 de Enero de 2024](https://swaruu.org/transcripts/actualizacion-de-la-federacion-galactica-17-de-enero-de-2024) | es | 2024-01-19 | 3 |
 | [Soft Social Resets, and how they are done with Mind Control, going deep into details (English)](https://swaruu.org/transcripts/soft-social-resets-and-how-they-are-done-with-mind-control-going-deep-into-details-english) | en | 2024-01-20 | 5 |
+| [Taygeta - Roles de Genero, Ángeles Caídos, y mas - MINITEMAS (Información Extraterrestre)](https://swaruu.org/transcripts/taygeta-roles-de-genero-angeles-caidos-y-mas-minitemas-informacion-extraterrestre) | es | 2024-01-20 | 2 |
 | [Light Language - What does Athena Swaruu Think? Opinion of the Extraterrestrial Person](https://swaruu.org/transcripts/light-language-what-does-athena-swaruu-think-opinion-of-the-extraterrestrial-person) | en | 2024-01-21 | 5 |
+| [Reseteos Sociales Suaves y cómo se realizan con Control Mental, profundizan en los detalles](https://swaruu.org/transcripts/reseteos-sociales-suaves-y-como-se-realizan-con-control-mental-profundizan-en-los-detalles) | es | 2024-01-21 | 3 |
 | [On Starships and why many look so human, and Earth as an Isolated Island (English)](https://swaruu.org/transcripts/on-starships-and-why-many-look-so-human-and-earth-as-an-isolated-island-english) | en | 2024-01-22 | 5 |
+| [Lenguaje de Luz - Que Piensa Athena Swaruu? La Opinion de una Persona Extraterrestre](https://swaruu.org/transcripts/lenguaje-de-luz-que-piensa-athena-swaruu-la-opinion-de-una-persona-extraterrestre) | es | 2024-01-22 | 3 |
+| [Sobre las Naves Estelares, por qué muchas parecen tan humanas y la Tierra Aislada](https://swaruu.org/transcripts/sobre-las-naves-estelares-por-que-muchas-parecen-tan-humanas-y-la-tierra-aislada) | es | 2024-01-23 | 3 |
 | [Space News 12, Galactic Federation harassing Taygeta, Update for January 23, 2024 (English)](https://swaruu.org/transcripts/space-news-12-galactic-federation-harassing-taygeta-update-for-january-23-2024-english) | en | 2024-01-25 | 5 |
+| [Actualización, Federación Galáctica molestando a Taygeta. 23 de Enero de 2024](https://swaruu.org/transcripts/actualizacion-federacion-galactica-molestando-a-taygeta-23-de-enero-de-2024) | es | 2024-01-26 | 3 |
 | [More on False Past, how it is studied, and Time Travel (English)](https://swaruu.org/transcripts/more-on-false-past-how-it-is-studied-and-time-travel-english) | en | 2024-01-27 | 5 |
+| [Más sobre el Falso Pasado, cómo se Estudia y los Viajes en el Tiempo](https://swaruu.org/transcripts/mas-sobre-el-falso-pasado-como-se-estudia-y-los-viajes-en-el-tiempo) | es | 2024-01-28 | 1 |
 | [Light Beings passing off as Normal People (English)](https://swaruu.org/transcripts/light-beings-passing-off-as-normal-people-english) | en | 2024-01-29 | 5 |
+| [Seres de Luz haciendose pasar por Personas Normales](https://swaruu.org/transcripts/seres-de-luz-haciendose-pasar-por-personas-normales) | es | 2024-01-30 | 3 |
 | [Taygetan Pleiadian Extraterrestrial Disclosure - Contact - JOURNEY SO FAR](https://swaruu.org/transcripts/taygetan-pleiadian-extraterrestrial-disclosure-contact-journey-so-far) | en | 2024-02-01 | 5 |
 | [Space News 13, Update January 31st, 2024 (English)](https://swaruu.org/transcripts/space-news-13-update-january-31st-2024-english) | en | 2024-02-01 | 5 |
+| [Noticias Espaciales 13, Actualización 31 de Enero de 2024](https://swaruu.org/transcripts/noticias-espaciales-13-actualizacion-31-de-enero-de-2024) | es | 2024-02-02 | 2 |
 | [Basic Principles for Real Time Travel, First Part (English)](https://swaruu.org/transcripts/basic-principles-for-real-time-travel-first-part-english) | en | 2024-02-03 | 5 |
+| [Divulgacion Extraterrestre Taygeteana (Swaruu) - Nuestro Contacto - Camino Hasta Ahora](https://swaruu.org/transcripts/divulgacion-extraterrestre-taygeteana-swaruu-nuestro-contacto-camino-hasta-ahora) | es | 2024-02-04 | 3 |
+| [Principios básicos para el auténtico Viaje en el Tiempo, Primera Parte](https://swaruu.org/transcripts/principios-basicos-para-el-autentico-viaje-en-el-tiempo-primera-parte) | es | 2024-02-04 | 2 |
 | [Basic Principles for Real Time Travel, Second Part (English)](https://swaruu.org/transcripts/basic-principles-for-real-time-travel-second-part-english) | en | 2024-02-05 | 5 |
+| [Principios básicos para el auténtico Viaje en el Tiempo, Segunda Parte](https://swaruu.org/transcripts/principios-basicos-para-el-autentico-viaje-en-el-tiempo-segunda-parte) | es | 2024-02-06 | 3 |
 | [Basic Principles for Real Time Travel, Third Part. Starships (English)](https://swaruu.org/transcripts/basic-principles-for-real-time-travel-third-part-starships-english) | en | 2024-02-08 | 5 |
 | [Sun, Galactic Waves - Do they Matter? Athena and Yazhi Swaruu](https://swaruu.org/transcripts/sun-galactic-waves-do-they-matter-athena-and-yazhi-swaruu) | en | 2024-02-09 | 5 |
+| [Principios básicos para el auténtico Viaje en el Tiempo, Naves Espaciales, Tercera Parte](https://swaruu.org/transcripts/principios-basicos-para-el-autentico-viaje-en-el-tiempo-naves-espaciales-tercera-parte) | es | 2024-02-09 | 4 |
 | [You don’t need a Starship (English)](https://swaruu.org/transcripts/you-don-t-need-a-starship-english) | en | 2024-02-10 | 5 |
+| [Sol y Ondas Galácticas - Importan? Athena y Yazhi Swaruu](https://swaruu.org/transcripts/sol-y-ondas-galacticas-importan-athena-y-yazhi-swaruu) | es | 2024-02-11 | 3 |
+| [No necesitas una nave espacial](https://swaruu.org/transcripts/no-necesitas-una-nave-espacial) | es | 2024-02-11 | 2 |
 | [Thoughts on Consciousness and Awakening](https://swaruu.org/transcripts/thoughts-on-consciousness-and-awakening) | en | 2024-02-12 | 5 |
+| [Pensamientos sobre la Conciencia y el Despertar](https://swaruu.org/transcripts/pensamientos-sobre-la-conciencia-y-el-despertar) | es | 2024-02-13 | 2 |
 | ["Technological Subjects are not practical"" - Why We and I Disagree and Why they are Important](https://swaruu.org/transcripts/technological-subjects-are-not-practical-why-we-and-i-disagree-and-why-they-are-important) | en | 2024-02-14 | 4 |
 | [Space News 14, Federation Update, February 15, 2024 (English)](https://swaruu.org/transcripts/space-news-14-federation-update-february-15-2024-english) | en | 2024-02-15 | 5 |
+| ["Temas Tecnológicos no son Prácticos\!" - Porque No Estoy de Acuerdo y porque Son Importantes](https://swaruu.org/transcripts/temas-tecnologicos-no-son-practicos-porque-no-estoy-de-acuerdo-y-porque-son-importantes) | es | 2024-02-15 | 3 |
+| [Noticias Espaciales 14, Actualización de la Federación, 15 de febrero de 2024](https://swaruu.org/transcripts/noticias-espaciales-14-actualizacion-de-la-federacion-15-de-febrero-de-2024) | es | 2024-02-16 | 2 |
 | [The importance of understanding Time for Spiritual Growth, and understanding Reality (English)](https://swaruu.org/transcripts/the-importance-of-understanding-time-for-spiritual-growth-and-understanding-reality-english) | en | 2024-02-17 | 5 |
+| [La importancia de comprender el Tiempo para la Conciencia y Crecimiento Espiritual, y la Realidad](https://swaruu.org/transcripts/la-importancia-de-comprender-el-tiempo-para-la-conciencia-y-crecimiento-espiritual-y-la-realidad) | es | 2024-02-18 | 2 |
 | [Hexa-Dimensional Space-Time (English)](https://swaruu.org/transcripts/hexa-dimensional-space-time-english) | en | 2024-02-19 | 5 |
 | [Time - Mix of Topics - Extraterrestrial Communication (Taygeta - Pleyades)](https://swaruu.org/transcripts/time-mix-of-topics-extraterrestrial-communication-taygeta-pleyades) | en | 2024-02-20 | 5 |
+| [Espacio-Tiempo Hexadimensional](https://swaruu.org/transcripts/espacio-tiempo-hexadimensional) | es | 2024-02-20 | 3 |
+| [Tiempo - Mezcla de Temas - Comunicación Extraterrestre (Taygeta - Pléyades)](https://swaruu.org/transcripts/tiempo-mezcla-de-temas-comunicacion-extraterrestre-taygeta-pleyades) | es | 2024-02-21 | 3 |
 | [Why there is no Real History and a bit of What We Know (English)](https://swaruu.org/transcripts/why-there-is-no-real-history-and-a-bit-of-what-we-know-english) | en | 2024-02-22 | 5 |
+| [Por qué no existe la Historia Real y un poco sobre lo que Sabemos](https://swaruu.org/transcripts/por-que-no-existe-la-historia-real-y-un-poco-sobre-lo-que-sabemos) | es | 2024-02-23 | 3 |
 | [Arishah, the Urmah Tiger , 3rd Interview, Part 1 (English)](https://swaruu.org/transcripts/arishah-the-urmah-tiger-3rd-interview-part-1-english) | en | 2024-02-24 | 5 |
+| [Arishah, el Tigre Urmah, entrevista 23 de febrero de 2024](https://swaruu.org/transcripts/arishah-el-tigre-urmah-entrevista-23-de-febrero-de-2024) | es | 2024-02-25 | 4 |
 | [Extraterrestrial Technology of Immersion - Personal chats between Gosia and Yazhi Swaruu](https://swaruu.org/transcripts/extraterrestrial-technology-of-immersion-personal-chats-between-gosia-and-yazhi-swaruu) | en | 2024-02-26 | 5 |
 | [Arishah, the Urmah Tiger , 3rd Interview, Part 2 (English)](https://swaruu.org/transcripts/arishah-the-urmah-tiger-3rd-interview-part-2-english) | en | 2024-02-26 | 5 |
+| [Arishah, el Tigre Urmah, entrevista 23 de febrero de 2024. Parte 2](https://swaruu.org/transcripts/arishah-el-tigre-urmah-entrevista-23-de-febrero-de-2024-parte-2) | es | 2024-02-27 | 3 |
+| [Tecnología Extraterrestre de Inmersión - Charlas Personales entre Gosia y Yazhi Swaruu](https://swaruu.org/transcripts/tecnologia-extraterrestre-de-inmersion-charlas-personales-entre-gosia-y-yazhi-swaruu) | es | 2024-02-28 | 2 |
 | [Space News 15, Federation Update, February 28, 2024 (English)](https://swaruu.org/transcripts/space-news-15-federation-update-february-28-2024-english) | en | 2024-02-29 | 5 |
+| [Noticias Espaciales 15, Actualización de la Federación, 28 de febrero de 2024](https://swaruu.org/transcripts/noticias-espaciales-15-actualizacion-de-la-federacion-28-de-febrero-de-2024) | es | 2024-03-01 | 2 |
 | [On Aliens, Extraterrestrials and Toothbrushes (English)](https://swaruu.org/transcripts/on-aliens-extraterrestrials-and-toothbrushes-english) | en | 2024-03-02 | 5 |
+| [Sobre Aliens, Extraterrestres y Cepillos de Dientes](https://swaruu.org/transcripts/sobre-aliens-extraterrestres-y-cepillos-de-dientes) | es | 2024-03-03 | 3 |
 | [Movies and Dark Entities. The content you watch defines your world (English)](https://swaruu.org/transcripts/movies-and-dark-entities-the-content-you-watch-defines-your-world-english) | en | 2024-03-04 | 5 |
 | [Timelines - Gosia Chats with Yazhi Swaruu (Extraterrestrial Communication)](https://swaruu.org/transcripts/timelines-gosia-chats-with-yazhi-swaruu-extraterrestrial-communication) | en | 2024-03-05 | 5 |
+| [Películas y Entidades Oscuras. El Contenido que ves define tu Mundo](https://swaruu.org/transcripts/peliculas-y-entidades-oscuras-el-contenido-que-ves-define-tu-mundo) | es | 2024-03-05 | 3 |
 | [Space News March 6 2024, Earth moving into a Positive Timeline, detected (English)](https://swaruu.org/transcripts/space-news-march-6-2024-earth-moving-into-a-positive-timeline-detected-english) | en | 2024-03-07 | 4 |
+| [Líneas Temporales - Gosia Habla con Yazhi Swaruu (Comunicación Extraterrestre)](https://swaruu.org/transcripts/lineas-temporales-gosia-habla-con-yazhi-swaruu-comunicacion-extraterrestre) | es | 2024-03-07 | 3 |
+| [Noticias Espaciales 16, Tierra se mueve hacia una Línea de Tiempo Positiva., 6 de Marzo de 2024](https://swaruu.org/transcripts/noticias-espaciales-16-tierra-se-mueve-hacia-una-linea-de-tiempo-positiva-6-de-marzo-de-2024) | es | 2024-03-08 | 3 |
 | [Alpha Dracos or Alpha Draconians. Space Dragons (English)](https://swaruu.org/transcripts/alpha-dracos-or-alpha-draconians-space-dragons-english) | en | 2024-03-09 | 5 |
+| [Alfa Dracos o Alfa Draconianos. Dragones Espaciales](https://swaruu.org/transcripts/alfa-dracos-o-alfa-draconianos-dragones-espaciales) | es | 2024-03-10 | 3 |
 | [Interstellar Life 5A - Anecdotes of Life Onboard the Extraterrestrial Ship - Taygeta](https://swaruu.org/transcripts/interstellar-life-5a-anecdotes-of-life-onboard-the-extraterrestrial-ship-taygeta) | en | 2024-03-11 | 5 |
 | [Arishah, the Urmah Tiger, 3rd Interview, Part 3 (English)](https://swaruu.org/transcripts/arishah-the-urmah-tiger-3rd-interview-part-3-english) | en | 2024-03-11 | 5 |
+| [Arishah, el Tigre Urmah, entrevista 23 de febrero de 2024 (Parte 3)](https://swaruu.org/transcripts/arishah-el-tigre-urmah-entrevista-23-de-febrero-de-2024-parte-3) | es | 2024-03-12 | 2 |
+| [Vida Interestelar 5A - Anécdotas de la Vida en la Nave Extraterrestre - Taygeta](https://swaruu.org/transcripts/vida-interestelar-5a-anecdotas-de-la-vida-en-la-nave-extraterrestre-taygeta) | es | 2024-03-13 | 3 |
 | [On the Media and other related subjects (English)](https://swaruu.org/transcripts/on-the-media-and-other-related-subjects-english) | en | 2024-03-14 | 5 |
+| [Sobre los Medios de Comunicación y otros temas relacionados](https://swaruu.org/transcripts/sobre-los-medios-de-comunicacion-y-otros-temas-relacionados) | es | 2024-03-15 | 2 |
 | [Reptiloids and how they view Earth and Humanity (English)](https://swaruu.org/transcripts/reptiloids-and-how-they-view-earth-and-humanity-english) | en | 2024-03-16 | 5 |
+| [Los Reptiloides y cómo ven la Tierra y a la Humanidad](https://swaruu.org/transcripts/los-reptiloides-y-como-ven-la-tierra-y-a-la-humanidad) | es | 2024-03-17 | 3 |
 | [Reptilians and the Galactic Federation, and Positive Reptiles (English)](https://swaruu.org/transcripts/reptilians-and-the-galactic-federation-and-positive-reptiles-english) | en | 2024-03-18 | 5 |
 | [Interstellar Life 5B - More Anecdotes of Life Onboard the Extraterrestrial Ship - Taygeta](https://swaruu.org/transcripts/interstellar-life-5a-more-anecdotes-of-life-onboard-the-extraterrestrial-ship-taygeta) | en | 2024-03-19 | 5 |
+| [Los Reptilianos y la Federación Galáctica. Y Reptilianos Positivos](https://swaruu.org/transcripts/los-reptilianos-y-la-federacion-galactica-y-reptilianos-positivos) | es | 2024-03-19 | 2 |
 | [Human Genetic Compatibility with Reptilian Possessions (English)](https://swaruu.org/transcripts/human-genetic-compatibility-with-reptilian-possessions-english) | en | 2024-03-21 | 5 |
+| [Vida Interestelar 5B - Mas Anécdotas de la Vida en la Nave Extraterrestre - Taygeta (Pléyades)](https://swaruu.org/transcripts/vida-interestelar-5b-mas-anecdotas-de-la-vida-en-la-nave-extraterrestre-taygeta-pleyades) | es | 2024-03-22 | 2 |
+| [Compatibilidad Genética Humana con Posesiones Reptilianas](https://swaruu.org/transcripts/compatibilidad-genetica-humana-con-posesiones-reptilianas) | es | 2024-03-22 | 1 |
 | [Space News March 22 2024, News and Birthdays (English)](https://swaruu.org/transcripts/space-news-march-22-2024-news-and-birthdays-english) | en | 2024-03-23 | 5 |
+| [Noticias Espaciales 17, y los Cumpleaños. 22 de marzo de 2024](https://swaruu.org/transcripts/noticias-espaciales-17-y-los-cumpleanos-22-de-marzo-de-2024) | es | 2024-03-24 | 3 |
 | [Technology and why I cannot share More Details (English)](https://swaruu.org/transcripts/technology-and-why-i-cannot-share-more-details-english) | en | 2024-03-25 | 5 |
 | [Gravity - Questions - Extraterrestrial Knowledge - Yazhi and Athena Swaruu](https://swaruu.org/transcripts/gravity-questions-extraterrestrial-knowledge-yazhi-and-athena-swaruu) | en | 2024-03-26 | 5 |
+| [Tecnología y por qué no puedo compartir más detalles](https://swaruu.org/transcripts/tecnologia-y-por-que-no-puedo-compartir-mas-detalles) | es | 2024-03-26 | 3 |
+| [Gravedad - Preguntas - Conocimiento Extraterrestre - Yazhi y Athena Swaruu](https://swaruu.org/transcripts/gravedad-preguntas-conocimiento-extraterrestre-yazhi-y-athena-swaruu) | es | 2024-03-27 | 3 |
 | [On Flying Saucers (English)](https://swaruu.org/transcripts/on-flying-saucers-english) | en | 2024-03-28 | 5 |
+| [Sobre Platillos Voladores](https://swaruu.org/transcripts/sobre-platillos-voladores) | es | 2024-03-29 | 3 |
 | [Monitoring Spirits (English)](https://swaruu.org/transcripts/monitoring-spirits-english) | en | 2024-03-30 | 5 |
 | [Yazhi Swaruu talks with Rich - Metaphysical Conversation from 2021](https://swaruu.org/transcripts/yazhi-swaruu-talks-with-rich-metaphysical-conversation-from-2021) | en | 2024-03-31 | 5 |
+| [Espíritus Monitoreadores](https://swaruu.org/transcripts/espiritus-monitoreadores) | es | 2024-03-31 | 3 |
 | [Monitoring Spirits. Part 2 (English)](https://swaruu.org/transcripts/monitoring-spirits-part-2-english) | en | 2024-04-01 | 5 |
+| [Yazhi Swaruu habla con Rich - Conversación Metafísica de 2021](https://swaruu.org/transcripts/yazhi-swaruu-habla-con-rich-conversacion-metafisica-de-2021) | es | 2024-04-01 | 3 |
+| [Espíritus Monitoreadores. Parte 2](https://swaruu.org/transcripts/espiritus-monitoreadores-parte-2) | es | 2024-04-02 | 1 |
 | [Eclipse, April 8th, 2024 (English)](https://swaruu.org/transcripts/eclipse-april-8th-2024-english) | en | 2024-04-04 | 5 |
 | [Interstellar Life 5C - Swaruu and Yazhi and their Starship Suzy - Anecdotes](https://swaruu.org/transcripts/interstellar-life-5c-swaruu-and-yazhi-and-their-starship-suzy-anecdotes) | en | 2024-04-05 | 5 |
+| [Eclipse, 8 de Abril, 2024](https://swaruu.org/transcripts/eclipse-8-de-abril-2024) | es | 2024-04-05 | 3 |
 | [Space News 18. April 6 2024, Eclipse, Starships, Meetings, Yazhi, and other news (English)](https://swaruu.org/transcripts/space-news-18-april-6-2024-eclipse-starships-meetings-yazhi-and-other-news-english) | en | 2024-04-06 | 5 |
+| [Vida Interestelar 5C - Swaruu (9) y Yazhi y su Nave Suzy - Anécdotas](https://swaruu.org/transcripts/vida-interestelar-5c-swaruu-9-y-yazhi-y-su-nave-suzy-anecdotas) | es | 2024-04-07 | 4 |
+| [Noticias espaciales 18. 6 de abril de 2024, Eclipse, Naves, Reuniones, Yazhi y otras noticias](https://swaruu.org/transcripts/noticias-espaciales-18-6-de-abril-de-2024-eclipse-naves-reuniones-yazhi-y-otras-noticias) | es | 2024-04-07 | 3 |
 | [Portals. Basic Principles (English)](https://swaruu.org/transcripts/portals-basic-principles-english) | en | 2024-04-08 | 5 |
+| [Portales, Principios Básicos](https://swaruu.org/transcripts/portales-principios-basicos) | es | 2024-04-09 | 3 |
 | [Hashmallim - Taygetan Pleiadian Military Special Units - Archangels in Action](https://swaruu.org/transcripts/hashmallim-taygetan-pleiadian-military-special-units-archangels-in-action) | en | 2024-04-11 | 6 |
 | [Space News 19. April 10 2024, Eclipse from Space, Starships, Black Knights (English)](https://swaruu.org/transcripts/space-news-19-april-10-2024-eclipse-from-space-starships-black-knights-english) | en | 2024-04-11 | 6 |
 | [Chat with Yazhi about new updates from Mari (Extraterrestrial Communication)](https://swaruu.org/transcripts/chat-with-yazhi-about-new-updates-from-mari-extraterrestrial-communication) | en | 2024-04-12 | 5 |
+| [Noticias espaciales 19. 10 de abril de 2024. Eclipse, Naves, Caballeros Negros](https://swaruu.org/transcripts/noticias-espaciales-19-10-de-abril-de-2024-eclipse-naves-caballeros-negros) | es | 2024-04-12 | 2 |
 | [Artificial Portals (English)](https://swaruu.org/transcripts/artificial-portals-english) | en | 2024-04-13 | 5 |
+| [Charla con Yazhi sobre las noticias de Mari (Comunicación Extraterrestre)](https://swaruu.org/transcripts/charla-con-yazhi-sobre-las-noticias-de-mari-comunicacion-extraterrestre) | es | 2024-04-13 | 2 |
+| [Hashmallim - Unidades Especiales Militares de Taygeta (Pléyades) - Arcángeles en Acción](https://swaruu.org/transcripts/hashmallim-unidades-especiales-militares-de-taygeta-pleyades-arcangeles-en-accion) | es | 2024-04-14 | 3 |
+| [Portales Artificiales](https://swaruu.org/transcripts/portales-artificiales) | es | 2024-04-14 | 4 |
 | [Space News 20. April 14 2024, Asterope, Mari Swa's first Live Public Presentation (English)](https://swaruu.org/transcripts/space-news-20-april-14-2024-asterope-mari-swa-s-first-live-public-presentation-english) | en | 2024-04-15 | 5 |
+| [Noticias Espaciales 20. 14 de Abril 2024. Asterope, Primera presentación en vivo de Mari Swa](https://swaruu.org/transcripts/noticias-espaciales-20-14-de-abril-2024-asterope-primera-presentacion-en-vivo-de-mari-swa) | es | 2024-04-16 | 2 |
 | [Portals - Conversations with Aneeka of Temmer and Aneeka´s live with Robert](https://swaruu.org/transcripts/portals-conversations-with-aneeka-of-temmer-and-aneeka-s-live-with-robert) | en | 2024-04-18 | 6 |
 | [Akashic Records, Part 1 (English)](https://swaruu.org/transcripts/akashic-records-part-1-english) | en | 2024-04-18 | 5 |
+| [Registros Akáshicos. Parte 1](https://swaruu.org/transcripts/registros-akashicos-parte-1) | es | 2024-04-19 | 3 |
 | [The Problem with Food and Diet on Earth (English)](https://swaruu.org/transcripts/the-problem-with-food-and-diet-on-earth-english) | en | 2024-04-20 | 6 |
+| [Portales - Conversaciones con Aneeka de Temmer y el Directo de Aneeka con Robert](https://swaruu.org/transcripts/portales-conversaciones-con-aneeka-de-temmer-y-el-directo-de-aneeka-con-robert) | es | 2024-04-20 | 3 |
+| [El Problema de la Comida y la Dieta en la Tierra](https://swaruu.org/transcripts/el-problema-de-la-comida-y-la-dieta-en-la-tierra) | es | 2024-04-21 | 2 |
 | [Akashic Records, Part 2](https://swaruu.org/transcripts/akashic-records-part-2) | en | 2024-04-22 | 6 |
 | [Akashic Records - Swaruu of Erra (Taygeta - Pleiades)](https://swaruu.org/transcripts/akashic-records-swaruu-of-erra-taygeta-pleiades) | en | 2024-04-22 | 6 |
+| [Registros Akashicos - Conversacion con Swaruu de Erra (Taygeta - Pleyades)](https://swaruu.org/transcripts/registros-akashicos-conversacion-con-swaruu-de-erra-taygeta-pleyades) | es | 2024-04-22 | 2 |
+| [Registros Akáshicos. Parte 2](https://swaruu.org/transcripts/registros-akashicos-parte-2) | es | 2024-04-23 | 3 |
 | [Space News 21. April 25 2024, Kassia, Etorthans, Greys, Toleka, Asterope, My Youtube (English)](https://swaruu.org/transcripts/space-news-21-april-25-2024-kassia-etorthans-greys-toleka-asterope-my-youtube-english) | en | 2024-04-25 | 5 |
 | [How is Athena Swaruu? Flight Missions, Asterope, and Grays](https://swaruu.org/transcripts/how-is-athena-swaruu-flight-missions-asterope-and-grays) | en | 2024-04-25 | 5 |
+| [Como esta Athena Swaruu? Misiones de Vuelo, Asterope, y los Grises](https://swaruu.org/transcripts/como-esta-athena-swaruu-misiones-de-vuelo-asterope-y-los-grises) | es | 2024-04-25 | 3 |
+| [Noticias Espaciales, 25 Abril de 2024, Kassia, Etorthans, Grises, Toleka, Asterope, mi YouTube](https://swaruu.org/transcripts/noticias-espaciales-25-abril-de-2024-kassia-etorthans-grises-toleka-asterope-mi-youtube) | es | 2024-04-26 | 3 |
 | [Arishah, the Urmah Tiger , 4th part, Ari describes Urmah Contact Sports (English)](https://swaruu.org/transcripts/arishah-the-urmah-tiger-4th-part-ari-describes-urmah-contact-sports-english) | en | 2024-04-27 | 5 |
+| [Arishah, el Tigre Urmah, Parte 4. Ari describe Deportes de Contacto Urmah](https://swaruu.org/transcripts/arishah-el-tigre-urmah-parte-4-ari-describe-deportes-de-contacto-urmah) | es | 2024-04-28 | 3 |
 | [The Engan People (English)](https://swaruu.org/transcripts/the-engan-people-english) | en | 2024-04-29 | 6 |
 | [Dimensional Mirrors - People Repeating Themselves - Athena and Yazhi Swaruu](https://swaruu.org/transcripts/dimensional-mirrors-people-repeating-themselves-athena-and-yazhi-swaruu) | en | 2024-04-30 | 5 |
+| [El Pueblo Engan](https://swaruu.org/transcripts/el-pueblo-engan) | es | 2024-04-30 | 4 |
+| [Espejos Dimensionales - La Gente que se Repite - Athena y Yazhi Swaruu](https://swaruu.org/transcripts/espejos-dimensionales-la-gente-que-se-repite-athena-y-yazhi-swaruu) | es | 2024-05-01 | 1 |
 | [Free Will (English)](https://swaruu.org/transcripts/free-will-english) | en | 2024-05-02 | 5 |
+| [Libre Albedrío](https://swaruu.org/transcripts/libre-albedrio) | es | 2024-05-03 | 4 |
 | [Space News 22. May 4th 2024, Alcyone Arriving, Black Knight Pilots, My Youtube. (English)](https://swaruu.org/transcripts/space-news-22-may-4th-2024-alcyone-arriving-black-knight-pilots-my-youtube-english) | en | 2024-05-04 | 6 |
 | [Dimensional Mirrors 2 - Generation of Personal Histories - Yazhi Swaruu](https://swaruu.org/transcripts/dimensional-mirrors-2-generation-of-personal-histories-yazhi-swaruu) | en | 2024-05-05 | 6 |
+| [Noticias espaciales 22, 4 de Mayo de 2024, Alcyone llegando, Pilotos de Caballero Negro, Mi Youtube](https://swaruu.org/transcripts/noticias-espaciales-22-4-de-mayo-de-2024-alcyone-llegando-pilotos-de-caballero-negro-mi-youtube) | es | 2024-05-05 | 4 |
 | [The Solatian People (English)](https://swaruu.org/transcripts/the-solatian-people-english) | en | 2024-05-06 | 5 |
+| [Espejos Dimensionales 2 - Generando Historiales Personales - Yazhi Swaruu](https://swaruu.org/transcripts/espejos-dimensionales-2-generando-historiales-personales-yazhi-swaruu) | es | 2024-05-06 | 2 |
+| [El Pueblo Solatiano](https://swaruu.org/transcripts/el-pueblo-solatiano) | es | 2024-05-07 | 4 |
 | [Taygetans in the Social Media - Arrival of Starship Alcyone - Yazhi Swaruu](https://swaruu.org/transcripts/taygetans-in-the-social-media-arrival-of-starship-alcyone-yazhi-swaruu) | en | 2024-05-08 | 5 |
+| [NAVE EXTRATERRESTRE TAYGETEANA PLEYADIANA EN ORBITA DE LA TIERRA - YAZHI - ALCYONE](https://swaruu.org/transcripts/nave-extraterrestre-taygeteana-pleyadiana-en-orbita-de-la-tierra-yazhi-alcyone) | es | 2024-05-08 | 2 |
+| [Taygeteanos en las Redes Sociales - Llegada de Nave Alcyone - Yazhi Swaruu](https://swaruu.org/transcripts/taygeteanos-en-las-redes-sociales-llegada-de-nave-alcyone-yazhi-swaruu) | es | 2024-05-08 | 3 |
 | [Monitoring Spirits, Narcissists (English)](https://swaruu.org/transcripts/monitoring-spirits-narcissists-english) | en | 2024-05-09 | 5 |
+| [Espíritus Monitoreadores, Narcisistas](https://swaruu.org/transcripts/espiritus-monitoreadores-narcisistas) | es | 2024-05-10 | 1 |
 | [Space News, 23, May 11, 2024, 500 Video Special. Mari-16 (English)](https://swaruu.org/transcripts/space-news-23-may-11-2024-500-video-special-mari-16-english) | en | 2024-05-11 | 5 |
+| [Noticias espaciales 23, 11 de mayo de 2024. 500 Videos. Mari-16](https://swaruu.org/transcripts/noticias-espaciales-23-11-de-mayo-de-2024-500-videos-mari-16) | es | 2024-05-12 | 3 |
 | [Post Eclipse Entities](https://swaruu.org/transcripts/post-eclipse-entities) | en | 2024-05-13 | 6 |
+| [Aparición de Entidades posteriores al Eclipse](https://swaruu.org/transcripts/aparicion-de-entidades-posteriores-al-eclipse) | es | 2024-05-14 | 1 |
 | [Dimensional Mirrors 3 - Conversation with Yazhi about the man who sees his double](https://swaruu.org/transcripts/dimensional-mirrors-3-conversation-with-yazhi-about-the-man-who-sees-his-double) | en | 2024-05-16 | 5 |
 | [On Souls and Entities, Life and Death from the point of view of a Spirit](https://swaruu.org/transcripts/on-souls-and-entities-life-and-death-from-the-point-of-view-of-a-spirit) | en | 2024-05-16 | 5 |
+| [Sobre Almas y Entidades, la Vida y la Muerte desde el punto de vista del Espíritu](https://swaruu.org/transcripts/sobre-almas-y-entidades-la-vida-y-la-muerte-desde-el-punto-de-vista-del-espiritu) | es | 2024-05-17 | 4 |
+| [Espejos Dimensionales 3 - Conversación con Yazhi sobre el hombre que se encuentra consigo mismo](https://swaruu.org/transcripts/espejos-dimensionales-3-conversacion-con-yazhi-sobre-el-hombre-que-se-encuentra-consigo-mismo) | es | 2024-05-17 | 2 |
 | [Project Second Contact, and Protocols (English)](https://swaruu.org/transcripts/project-second-contact-and-protocols-english) | en | 2024-05-18 | 5 |
 | [Dimensional Mirrors 4 - Questions from the Public - Yazhi Swaruu](https://swaruu.org/transcripts/dimensional-mirrors-4-questions-from-the-public-yazhi-swaruu) | en | 2024-05-19 | 5 |
+| [Proyecto Segundo Contacto y Protocolos](https://swaruu.org/transcripts/proyecto-segundo-contacto-y-protocolos) | es | 2024-05-19 | 2 |
 | [Project Second Contact, Extra Comments (English)](https://swaruu.org/transcripts/project-second-contact-extra-comments-english) | en | 2024-05-20 | 5 |
+| [Proyecto Segundo Contacto, Comentarios Extra](https://swaruu.org/transcripts/proyecto-segundo-contacto-comentarios-extra) | es | 2024-05-21 | 4 |
+| [Espejos Dimensionales 4 - Pregunta del Publico - Yazhi Swaruu](https://swaruu.org/transcripts/espejos-dimensionales-4-pregunta-del-publico-yazhi-swaruu) | es | 2024-05-21 | 4 |
 | [Thoughts on Reincarnation, and the Higher Self (English)](https://swaruu.org/transcripts/thoughts-on-reincarnation-and-the-higher-self-english) | en | 2024-05-23 | 5 |
+| [Pensamientos sobre la Reencarnación y el Yo Superior](https://swaruu.org/transcripts/pensamientos-sobre-la-reencarnacion-y-el-yo-superior) | es | 2024-05-24 | 2 |
 | [Space News, 24, May 25, 2024, Starships, Moghyay birds, Meteor over Spain, my YouTube (English)](https://swaruu.org/transcripts/space-news-24-may-25-2024-starships-moghyay-birds-meteor-over-spain-my-youtube-english) | en | 2024-05-25 | 6 |
 | [Post - "Mirrors" Chat - Metaphysical Conversation with Yazhi Swaruu](https://swaruu.org/transcripts/post-mirrors-chat-metaphysical-conversation-with-yazhi-swaruu) | en | 2024-05-26 | 5 |
+| [Noticias espaciales, 25 de mayo de 2024, Naves, Pájaros Moghyay, Meteorito sobre España, mi YouTube](https://swaruu.org/transcripts/noticias-espaciales-25-de-mayo-de-2024-naves-pajaros-moghyay-meteorito-sobre-espana-mi-youtube) | es | 2024-05-26 | 6 |
 | [You are Experiencing the last stages of a total Cultural and Social Reset (English)](https://swaruu.org/transcripts/you-are-experiencing-the-last-stages-of-a-total-cultural-and-social-reset-english) | en | 2024-05-27 | 6 |
+| [Charla "Post-Espejos" - Conversación Metafísica con Yazhi Swaruu](https://swaruu.org/transcripts/charla-post-espejos-conversacion-metafisica-con-yazhi-swaruu) | es | 2024-05-27 | 3 |
+| [Están Viviendo las últimas etapas de un Reinicio Cultural y Social Total](https://swaruu.org/transcripts/estan-viviendo-las-ultimas-etapas-de-un-reinicio-cultural-y-social-total) | es | 2024-05-28 | 3 |
 | [Galactic Federation and Extraterrestrial Councils - Aneeka of Temmer responds questions](https://swaruu.org/transcripts/galactic-federation-and-extraterrestrial-councils-aneeka-of-temmer-responds-questions) | en | 2024-05-30 | 7 |
 | [A Taygetan Supply Mission to Earth (English)](https://swaruu.org/transcripts/a-taygetan-supply-mission-to-earth-english) | en | 2024-05-30 | 5 |
+| [Misión Taygeteana de Suministros a la Tierra](https://swaruu.org/transcripts/mision-taygeteana-de-suministros-a-la-tierra) | es | 2024-05-31 | 3 |
 | [The Importance of ET Contact (English)](https://swaruu.org/transcripts/the-importance-of-et-contact-english) | en | 2024-06-01 | 5 |
+| [La Importancia del Contacto Extraterrestre](https://swaruu.org/transcripts/la-importancia-del-contacto-extraterrestre) | es | 2024-06-02 | 3 |
 | [Space News, 25, June 3, 2024, Moghyays, Alenym Unwell, Mari Swa in Control (English)](https://swaruu.org/transcripts/space-news-25-june-3-2024-moghyays-alenym-unwell-mari-swa-in-control-english) | en | 2024-06-03 | 5 |
+| [Noticias espaciales, número 25, 3 de Junio del 2024, Moghyays, Alenym indispuesta, Mari Swa](https://swaruu.org/transcripts/noticias-espaciales-numero-25-3-de-junio-del-2024-moghyays-alenym-indispuesta-mari-swa) | es | 2024-06-04 | 3 |
 | [Space News, 26, June 6, 2024, Alenym, Political context, Mari Swa now Acting Queen (English)](https://swaruu.org/transcripts/space-news-26-june-6-2024-alenym-political-context-mari-swa-now-acting-queen-english) | en | 2024-06-06 | 6 |
 | [High Frequency and Bad Events - Athena and Yazhi Swaruu](https://swaruu.org/transcripts/high-frequency-and-bad-events-athena-and-yazhi-swaruu) | en | 2024-06-06 | 5 |
+| [Alta Frecuencia y Malos Eventos - Athena y Yazhi Swaruu](https://swaruu.org/transcripts/alta-frecuencia-y-malos-eventos-athena-y-yazhi-swaruu) | es | 2024-06-07 | 5 |
+| [Noticias espaciales, número 26, 6 de Junio del 2024, Alenym, Marco Político, Mari Swa Reina Activa](https://swaruu.org/transcripts/noticias-espaciales-numero-26-6-de-junio-del-2024-alenym-marco-politico-mari-swa-reina-activa) | es | 2024-06-07 | 4 |
 | [The Greater Interstellar Humanity, First Part (English)](https://swaruu.org/transcripts/the-greater-interstellar-humanity-first-part-english) | en | 2024-06-08 | 5 |
+| [La Gran Humanidad Interestelar, Primera Parte](https://swaruu.org/transcripts/la-gran-humanidad-interestelar-primera-parte) | es | 2024-06-09 | 2 |
 | [Surprise Live with Yazhi Swaruu\! - Mari Swaruu has been Crowned a Queen](https://swaruu.org/transcripts/surprise-live-with-yazhi-swaruu-mari-swaruu-has-been-crowned-a-queen) | en | 2024-06-10 | 5 |
 | [Space News, 27, June 10, 2024, Kings and Queens in Space, Alenym, Mari Swa, Ships (English)](https://swaruu.org/transcripts/space-news-27-june-10-2024-kings-and-queens-in-space-alenym-mari-swa-ships-english) | en | 2024-06-10 | 5 |
+| [Noticias Espaciales, Número 27, 9 de Junio 2024, Reyes y Reinas, Alenym, Mari Swa Reina Activa](https://swaruu.org/transcripts/noticias-espaciales-numero-27-9-de-junio-2024-reyes-y-reinas-alenym-mari-swa-reina-activa) | es | 2024-06-11 | 2 |
 | [The Greater Interstellar Humanity, Second Part ( English )](https://swaruu.org/transcripts/the-greater-interstellar-humanity-second-part-english) | en | 2024-06-13 | 5 |
+| [Yazhi Swaruu en Directo en Ingles - Traducido al Español](https://swaruu.org/transcripts/yazhi-swaruu-en-directo-en-ingles-traducido-al-espanol) | es | 2024-06-13 | 5 |
+| [La Gran Humanidad Interestelar, Segunda Parte](https://swaruu.org/transcripts/la-gran-humanidad-interestelar-segunda-parte) | es | 2024-06-14 | 2 |
 | [Taygetan Quantum Holographic Computer Technology (English)](https://swaruu.org/transcripts/taygetan-quantum-holographic-computer-technology-english) | en | 2024-06-15 | 7 |
+| [Tecnología Informática Holográfica Cuántica de Taygeta](https://swaruu.org/transcripts/tecnologia-informatica-holografica-cuantica-de-taygeta) | es | 2024-06-16 | 2 |
 | [Full Immersion Communication Technology, Part One, Applications (English)](https://swaruu.org/transcripts/full-immersion-communication-technology-part-one-applications-english) | en | 2024-06-17 | 6 |
+| [Tecnología de Comunicación de Inmersión Total, Primera Parte, Aplicaciones](https://swaruu.org/transcripts/tecnologia-de-comunicacion-de-inmersion-total-primera-parte-aplicaciones) | es | 2024-06-18 | 3 |
 | [Space News, 28, June 20, 2024, Alenym, brand new S.S. Hyades (English)](https://swaruu.org/transcripts/space-news-28-june-20-2024-alenym-brand-new-s-s-hyades-english) | en | 2024-06-20 | 5 |
+| [Noticias Espaciales, Número 28, 20 de Junio 2024, Alenym, nave nueva S.S. Hyades](https://swaruu.org/transcripts/noticias-espaciales-numero-28-20-de-junio-2024-alenym-nave-nueva-s-s-hyades) | es | 2024-06-21 | 3 |
 | [Ancient Abandoned Lemurian Ship - Aneeka of Temmer](https://swaruu.org/transcripts/ancient-abandoned-lemurian-ship-aneeka-of-temmer) | en | 2024-06-22 | 5 |
 | [A Case Against the Existence of Gravity (English)](https://swaruu.org/transcripts/a-case-against-the-existence-of-gravity-english) | en | 2024-06-22 | 5 |
+| [Contra la Existencia de la Gravedad](https://swaruu.org/transcripts/contra-la-existencia-de-la-gravedad) | es | 2024-06-23 | 1 |
 | [Space News, 29, June 24, 2024, Hurricane in Temmer, Fluffy Cotton in the Sky (English)](https://swaruu.org/transcripts/space-news-29-june-24-2024-hurricane-in-temmer-fluffy-cotton-in-the-sky-english) | en | 2024-06-24 | 7 |
+| [Noticias Espaciales, Número 29, 24 de Junio 2024, Huracán en Taygeta, Algodón en el Cielo](https://swaruu.org/transcripts/noticias-espaciales-numero-29-24-de-junio-2024-huracan-en-taygeta-algodon-en-el-cielo) | es | 2024-06-25 | 4 |
+| [Nave Antigua Lemuriana Abandonada - Aneeka de Temmer](https://swaruu.org/transcripts/nave-antigua-lemuriana-abandonada-aneeka-de-temmer) | es | 2024-06-25 | 2 |
 | [Full Immersion Communication Technology, Part 2 (English)](https://swaruu.org/transcripts/full-immersion-communication-technology-part-2-english) | en | 2024-06-27 | 5 |
+| [Tecnología de Comunicación de Inmersión Total, Segunda Parte](https://swaruu.org/transcripts/tecnologia-de-comunicacion-de-inmersion-total-segunda-parte) | es | 2024-06-28 | 4 |
 | [Full Immersion Communication Technology, Part 3 (English)](https://swaruu.org/transcripts/full-immersion-communication-technology-part-3-english) | en | 2024-06-29 | 5 |
+| [Tecnología de Comunicación de Inmersión Total, Tercera Parte](https://swaruu.org/transcripts/tecnologia-de-comunicacion-de-inmersion-total-tercera-parte) | es | 2024-06-30 | 2 |
 | [Space News, 30, July 01, 2024,?️, Hurricane in Temmer, Aftermath (English)](https://swaruu.org/transcripts/space-news-30-july-01-2024-hurricane-in-temmer-aftermath-english) | en | 2024-07-01 | 5 |
+| [Noticias Espaciales, Número 30, 1 de Julio 2024, ?️ Huracán en Taygeta, Secuelas](https://swaruu.org/transcripts/noticias-espaciales-numero-30-1-de-julio-2024-huracan-en-taygeta-secuelas) | es | 2024-07-02 | 3 |
 | [Gori'el Report. Why the Earth must be kept as it is according to the Galactic Federation (English)](https://swaruu.org/transcripts/gori-el-report-why-the-earth-must-be-kept-as-it-is-according-to-the-galactic-federation-english) | en | 2024-07-04 | 5 |
+| [Reporte de Gori'el, Por qué la Tierra debe mantenerse como está, según la Federación Galáctica](https://swaruu.org/transcripts/reporte-de-gori-el-por-que-la-tierra-debe-mantenerse-como-esta-segun-la-federacion-galactica) | es | 2024-07-05 | 4 |
 | [The Two most Self-destructive, Star Seed Beliefs (English)](https://swaruu.org/transcripts/the-two-most-self-destructive-star-seed-beliefs-english) | en | 2024-07-06 | 5 |
+| [Las Dos Creencias más Autodestructivas de las Semillas Estelares](https://swaruu.org/transcripts/las-dos-creencias-mas-autodestructivas-de-las-semillas-estelares) | es | 2024-07-07 | 3 |
 | [Forced Reincarnation? (English)](https://swaruu.org/transcripts/forced-reincarnation-english) | en | 2024-07-08 | 4 |
+| [Reencarnación Forzada](https://swaruu.org/transcripts/reencarnacion-forzada) | es | 2024-07-09 | 2 |
 | [Space News, 31, July 11, 2024, Hurricane, Chat GPT, and other things (English)](https://swaruu.org/transcripts/space-news-31-july-11-2024-hurricane-chat-gpt-and-other-things-english) | en | 2024-07-11 | 5 |
+| [Noticias Espaciales, Número 31, 11 de Julio 2024, Huracán en Taygeta, Chat GPT y otras cosas](https://swaruu.org/transcripts/noticias-espaciales-numero-31-11-de-julio-2024-huracan-en-taygeta-chat-gpt-y-otras-cosas) | es | 2024-07-12 | 3 |
 | [Lupus Cosmicus, My quest to find Space Dogs and Wolves. With Ari the Tiger (English)](https://swaruu.org/transcripts/lupus-cosmicus-my-quest-to-find-space-dogs-and-wolves-with-ari-the-tiger-english) | en | 2024-07-13 | 6 |
+| [Mi Búsqueda para Encontrar Perros y Lobos Espaciales](https://swaruu.org/transcripts/mi-busqueda-para-encontrar-perros-y-lobos-espaciales) | es | 2024-07-14 | 2 |
 | [What it is like to be the Taygetan Princess Queen and a Youtuber, Part 1, Queen Alenym. (English)](https://swaruu.org/transcripts/what-it-is-like-to-be-the-taygetan-princess-queen-and-a-youtuber-part-1-queen-alenym-english) | en | 2024-07-15 | 5 |
+| [Cómo es ser Princesa Reina Taygeteana y Youtuber. Parte 1, Reina Alenym](https://swaruu.org/transcripts/como-es-ser-princesa-reina-taygeteana-y-youtuber-parte-1-reina-alenym) | es | 2024-07-16 | 6 |
 | [Space News, 32, July 18, 2024, Beryl, Attempt against Carrot, Gori'el Rep-2, New Ship (English)](https://swaruu.org/transcripts/space-news-32-july-18-2024-beryl-attempt-against-carrot-gori-el-rep-2-new-ship-english) | en | 2024-07-18 | 5 |
 | [Interstellar Life 6A - Taygetan Pleiadian Special Fighter Crafts - Yazhi and Athena Swaruu](https://swaruu.org/transcripts/interstellar-life-6a-taygetan-pleiadian-special-fighter-crafts-yazhi-and-athena-swaruu) | en | 2024-07-18 | 5 |
+| [Vida Interestelar 6A - Naves de Caza Avanzadas de Taygeta (Pleyades) - Yazhi y Athena Swaruu](https://swaruu.org/transcripts/vida-interestelar-6a-naves-de-caza-avanzadas-de-taygeta-pleyades-yazhi-y-athena-swaruu) | es | 2024-07-18 | 6 |
+| [Noticias Espaciales, Número 32, 18 de Julio 2024, Beryl, Zanahoria, Reporte Gori'el-2.Nave Nueva](https://swaruu.org/transcripts/noticias-espaciales-numero-32-18-de-julio-2024-beryl-zanahoria-reporte-gori-el-2-nave-nueva) | es | 2024-07-19 | 3 |
 | [What it is like to be the Taygetan Queen and a Youtuber, Part 2, My Experience (English)](https://swaruu.org/transcripts/what-it-is-like-to-be-the-taygetan-queen-and-a-youtuber-part-2-my-experience-english) | en | 2024-07-20 | 5 |
+| [Cómo es ser La Reina de Taygeta y una YouTuber. Parte 2, Mi experiencia](https://swaruu.org/transcripts/como-es-ser-la-reina-de-taygeta-y-una-youtuber-parte-2-mi-experiencia) | es | 2024-07-21 | 2 |
 | [Analysing the Galactic Federation and Gori’el’s Report, and the New Age (English)](https://swaruu.org/transcripts/analysing-the-galactic-federation-and-gori-el-s-report-and-the-new-age-english) | en | 2024-07-22 | 5 |
 | [Interstellar Life 6B - Taygetan Pleiadian Advanced Fighter Crafts - Yazhi and Athena Swaruu](https://swaruu.org/transcripts/interstellar-life-6b-taygetan-pleiadian-advanced-fighter-crafts-yazhi-and-athena-swaruu) | en | 2024-07-23 | 5 |
+| [Analizando a la Federación Galáctica, la Nueva Era y el Informe de Gori'el](https://swaruu.org/transcripts/analizando-a-la-federacion-galactica-la-nueva-era-y-el-informe-de-gori-el) | es | 2024-07-23 | 2 |
 | [I am Mari Swa (English)](https://swaruu.org/transcripts/i-am-mari-swa-english) | en | 2024-07-25 | 4 |
+| [Vida Interestelar 6B - Naves de Caza Avanzadas de Taygeta (Pleyades) - Yazhi y Athena Swaruu](https://swaruu.org/transcripts/vida-interestelar-6b-naves-de-caza-avanzadas-de-taygeta-pleyades-yazhi-y-athena-swaruu) | es | 2024-07-25 | 6 |
+| [Yo soy Mari Swa](https://swaruu.org/transcripts/yo-soy-mari-swa) | es | 2024-07-26 | 3 |
 | [Step Down Anecdotes and Stories Number 1, Unwanted Visitors (English)](https://swaruu.org/transcripts/step-down-anecdotes-and-stories-number-1-unwanted-visitors-english) | en | 2024-07-27 | 5 |
+| [Anécdotas e Historias de Step Down, Número 1, Visitantes no Deseados](https://swaruu.org/transcripts/anecdotas-e-historias-de-step-down-numero-1-visitantes-no-deseados) | es | 2024-07-28 | 1 |
 | [Interstellar Life 6C - Taygetan Pleiadian Advanced Fighter Crafts](https://swaruu.org/transcripts/interstellar-life-6c-taygetan-pleiadian-advanced-fighter-crafts) | en | 2024-07-29 | 7 |
 | [Space News, 33, July 29, 2024, Attacks against Alenym and Carrot, Bye Bye Toleka. (English)](https://swaruu.org/transcripts/space-news-33-july-29-2024-attacks-against-alenym-and-carrot-bye-bye-toleka-english) | en | 2024-07-29 | 5 |
+| [Vida Interestelar 6C - Naves de Caza Avanzadas de Taygeta (Pleyades) - Athena Swaruu](https://swaruu.org/transcripts/vida-interestelar-6c-naves-de-caza-avanzadas-de-taygeta-pleyades-athena-swaruu) | es | 2024-07-30 | 6 |
+| [Noticias Espaciales, Número 33, 29 de Julio 2024, Ataques vs Alenym y Zanahoria, Adiós Toleka](https://swaruu.org/transcripts/noticias-espaciales-numero-33-29-de-julio-2024-ataques-vs-alenym-y-zanahoria-adios-toleka) | es | 2024-07-30 | 2 |
 | [Star Ship Sadicleya (English)](https://swaruu.org/transcripts/star-ship-sadicleya-english) | en | 2024-08-01 | 5 |
+| [Nave Estelar Sadicleya](https://swaruu.org/transcripts/nave-estelar-sadicleya) | es | 2024-08-02 | 3 |
 | [What it is like to Remember Past Lives (English)](https://swaruu.org/transcripts/what-it-is-like-to-remember-past-lives-english) | en | 2024-08-03 | 5 |
+| [Cómo es Recordar Vidas Pasadas](https://swaruu.org/transcripts/como-es-recordar-vidas-pasadas) | es | 2024-08-04 | 3 |
 | [Taygeta Space News, 34, August 5, 2024, Swaruuneans No More, Bad-G.F., New-Meetings (English)](https://swaruu.org/transcripts/taygeta-space-news-34-august-5-2024-swaruuneans-no-more-bad-g-f-new-meetings-english) | en | 2024-08-05 | 5 |
+| [Taygeta Noticias Espaciales, 34, 05 de Agosto 2024, Swaruuneanas nunca más, Mala F.G. Reuniones](https://swaruu.org/transcripts/taygeta-noticias-espaciales-34-05-de-agosto-2024-swaruuneanas-nunca-mas-mala-f-g-reuniones) | es | 2024-08-06 | 3 |
 | [More on Genetics, Swaruuneans, and Other Things, Reaction Video (English)](https://swaruu.org/transcripts/more-on-genetics-swaruuneans-and-other-things-reaction-video-english) | en | 2024-08-08 | 6 |
+| [Más sobre Genética, Swaruuneanas y Otras Cosas, Video de Reacción (Actualizado)](https://swaruu.org/transcripts/mas-sobre-genetica-swaruuneanas-y-otras-cosas-video-de-reaccion-actualizado) | es | 2024-08-09 | 5 |
 | [Remembering Past Lives 2, Implanted Memories, Walk-Ins and Extreme Gaslighting (English)](https://swaruu.org/transcripts/remembering-past-lives-2-implanted-memories-walk-ins-and-extreme-gaslighting-english) | en | 2024-08-10 | 6 |
+| [Recordando Vidas Pasadas, los Recuerdos Implantados, Walk-Ins y el Gaslighting Extremo](https://swaruu.org/transcripts/recordando-vidas-pasadas-los-recuerdos-implantados-walk-ins-y-el-gaslighting-extremo) | es | 2024-08-11 | 3 |
 | [Taygeta Space News, 35, August 12, 2024, Good Bye Starship Toleka (English)](https://swaruu.org/transcripts/taygeta-space-news-35-august-12-2024-good-bye-starship-toleka-english) | en | 2024-08-12 | 5 |
+| [Taygeta Noticias Espaciales, 35, 12 de Agosto 2024, Adiós Nave Toleka](https://swaruu.org/transcripts/taygeta-noticias-espaciales-35-12-de-agosto-2024-adios-nave-toleka) | es | 2024-08-13 | 2 |
 | [Galactic Federation, Current Situation, Taygetean Exo-Politics and Diplomatic Incident (English)](https://swaruu.org/transcripts/galactic-federation-current-situation-taygetean-exo-politics-and-diplomatic-incident-english) | en | 2024-08-15 | 5 |
+| [Federación Galáctica, Situación Actual, Exopolítica Taygeteana e Incidente Diplomático](https://swaruu.org/transcripts/federacion-galactica-situacion-actual-exopolitica-taygeteana-e-incidente-diplomatico) | es | 2024-08-16 | 2 |
 | [Taygeta Space News, 36, G.F. Cancels Project Second Contact Toleka and Vigilant Eagle (English)](https://swaruu.org/transcripts/taygeta-space-news-36-g-f-cancels-project-second-contact-toleka-and-vigilant-eagle-english) | en | 2024-08-17 | 6 |
+| [Taygeta Noticias Espaciales, 36, F.G Cancela Proyecto Segundo Contacto, Aguila Vigilante, Toleka](https://swaruu.org/transcripts/taygeta-noticias-espaciales-36-f-g-cancela-proyecto-segundo-contacto-aguila-vigilante-toleka) | es | 2024-08-18 | 2 |
 | [Parasited Places (English)](https://swaruu.org/transcripts/parasited-places-english) | en | 2024-08-19 | 5 |
 | [Sophia Swaruu (Yazhi) - Yazhi´s Early Life on Toleka (PART 1)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-yazhi-s-early-life-on-toleka-part-1) | en | 2024-08-20 | 5 |
+| [Lugares Parasitados](https://swaruu.org/transcripts/lugares-parasitados) | es | 2024-08-20 | 3 |
 | [Gender Roles and Homosexuality in Space Lyrians and on Earth, and Past Lives (English)](https://swaruu.org/transcripts/gender-roles-and-homosexuality-in-space-lyrians-and-on-earth-and-past-lives-english) | en | 2024-08-22 | 5 |
+| [Sophia (Yazhi) Swaruu - Primeros Años de Yazhi en Toleka (PARTE 1)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-primeros-anos-de-yazhi-en-toleka-parte-1) | es | 2024-08-23 | 5 |
+| [Roles de Género y Homosexualidad en los Lyrianos del Espacio y en la Tierra, y Vidas Pasadas](https://swaruu.org/transcripts/roles-de-genero-y-homosexualidad-en-los-lyrianos-del-espacio-y-en-la-tierra-y-vidas-pasadas) | es | 2024-08-23 | 3 |
 | [Taygeta Space News, 37, Galactic Federation Update, Taygetan exo-politics (English)](https://swaruu.org/transcripts/taygeta-space-news-37-galactic-federation-update-taygetan-exo-politics-english) | en | 2024-08-24 | 5 |
+| [Taygeta Noticias Espaciales, 37, Actualización de la Federación Galáctica, exopolítica taygeteana](https://swaruu.org/transcripts/taygeta-noticias-espaciales-37-actualizacion-de-la-federacion-galactica-exopolitica-taygeteana) | es | 2024-08-25 | 3 |
 | [Galactic Federation Conspiracy Theories (English)](https://swaruu.org/transcripts/galactic-federation-conspiracy-theories-english) | en | 2024-08-26 | 6 |
+| [Teorías de la Conspiración sobre Federación Galáctica](https://swaruu.org/transcripts/teorias-de-la-conspiracion-sobre-federacion-galactica) | es | 2024-08-27 | 2 |
 | [Higher Realms of/and the Galactic Federation (English)](https://swaruu.org/transcripts/higher-realms-of-and-the-galactic-federation-english) | en | 2024-08-29 | 6 |
 | [Sophia Swaruu (Yazhi) - Yazhi´s Early Life on Toleka (PART 2)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-yazhi-s-early-life-on-toleka-part-2) | en | 2024-08-30 | 5 |
+| [Reinos Superiores y la Federación Galáctica](https://swaruu.org/transcripts/reinos-superiores-y-la-federacion-galactica) | es | 2024-08-30 | 3 |
+| [La Federación Galáctica Corrupta - Yazhi Swaruu](https://swaruu.org/transcripts/la-federacion-galactica-corrupta-yazhi-swaruu) | es | 2024-08-30 | 3 |
 | [Space News 38, New Crew Member, Another G.F. Diplomatic Incident, Thinking Hat 02 (English)](https://swaruu.org/transcripts/space-news-38-new-crew-member-another-g-f-diplomatic-incident-thinking-hat-02-english) | en | 2024-08-31 | 5 |
+| [Noticias Espaciales 38, Tripulante Nueva, Incidente Diplomatico F.G. Sombrero para Pensar 02](https://swaruu.org/transcripts/noticias-espaciales-38-tripulante-nueva-incidente-diplomatico-f-g-sombrero-para-pensar-02) | es | 2024-09-01 | 2 |
+| [Sophia (Yazhi) Swaruu - Primeros Años de Yazhi en Toleka (PARTE 2)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-primeros-anos-de-yazhi-en-toleka-parte-2) | es | 2024-09-01 | 3 |
 | [Space News 39, Another Black Knight Crash, New Pleiadian Treaty with the Urmah (English)](https://swaruu.org/transcripts/space-news-39-another-black-knight-crash-new-pleiadian-treaty-with-the-urmah-english) | en | 2024-09-02 | 5 |
+| [Noticias Espaciales 39, Otro choque de un Caballero Negro, Nuevo Tratado Pleyadiano - Urmah](https://swaruu.org/transcripts/noticias-espaciales-39-otro-choque-de-un-caballero-negro-nuevo-tratado-pleyadiano-urmah) | es | 2024-09-03 | 3 |
+| [NO ES NECESARIO SUFRIR PARA AVANZAR - ATHENA SWARUU](https://swaruu.org/transcripts/no-es-necesario-sufrir-para-avanzar-athena-swaruu) | es | 2024-09-04 | 3 |
 | [Space News 40, New Pleiadian Treaty with the Urmah (English)](https://swaruu.org/transcripts/space-news-40-new-pleiadian-treaty-with-the-urmah-english) | en | 2024-09-05 | 5 |
+| [Noticias Espaciales 40, Nuevo Tratado Pleyadiano - Urmah, a detalle](https://swaruu.org/transcripts/noticias-espaciales-40-nuevo-tratado-pleyadiano-urmah-a-detalle) | es | 2024-09-06 | 2 |
 | [Space News 41, Pleiadian-Urmah Treaty and now Antaria, Alcohol and Alfratans, Alcyone (English)](https://swaruu.org/transcripts/space-news-41-pleiadian-urmah-treaty-and-now-antaria-alcohol-and-alfratans-alcyone-english) | en | 2024-09-07 | 5 |
+| [Noticias Espaciales 41, Tratado Pleyadiano-Urmah, ahora Antaria, Alcohol Y Alfrateanos, Alcyone](https://swaruu.org/transcripts/noticias-espaciales-41-tratado-pleyadiano-urmah-ahora-antaria-alcohol-y-alfrateanos-alcyone) | es | 2024-09-08 | 2 |
 | [Sophia Swaruu (Yazhi) - Recent Conversations (PART 3)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-recent-conversations-part-3) | en | 2024-09-09 | 6 |
 | [Step Down Anecdotes 02. Bank-Office, Supplies, Difficult Return Home (English)](https://swaruu.org/transcripts/step-down-anecdotes-02-bank-office-supplies-difficult-return-home-english) | en | 2024-09-09 | 5 |
+| [Sophia (Yazhi) Swaruu - Nuevas Conversaciones (PARTE 3)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-nuevas-conversaciones-parte-3) | es | 2024-09-10 | 5 |
+| [Anécdotas de Step Down 02. Oficina-Banco, Suministros, Difícil Regreso a Casa](https://swaruu.org/transcripts/anecdotas-de-step-down-02-oficina-banco-suministros-dificil-regreso-a-casa) | es | 2024-09-10 | 1 |
 | [Sadicleya Inside (English)](https://swaruu.org/transcripts/sadicleya-inside-english) | en | 2024-09-12 | 5 |
+| [NO HAY AGENDA POSITIVA - LA GENTE COLAPSARÁ MUCHO ANTES - Yazhi Swaruu](https://swaruu.org/transcripts/no-hay-agenda-positiva-la-gente-colapsara-mucho-antes-yazhi-swaruu) | es | 2024-09-12 | 3 |
+| [Sadicleya Adentro](https://swaruu.org/transcripts/sadicleya-adentro) | es | 2024-09-13 | 2 |
 | [Thoughts on the Astral (English)](https://swaruu.org/transcripts/thoughts-on-the-astral-english) | en | 2024-09-14 | 5 |
+| [Pensamientos Sobre el Astral](https://swaruu.org/transcripts/pensamientos-sobre-el-astral) | es | 2024-09-15 | 3 |
 | [Thoughts on the Astral. Part 2 (English)](https://swaruu.org/transcripts/thoughts-on-the-astral-part-2-english) | en | 2024-09-16 | 6 |
+| [DEMASIADA ACTIVIDAD EXTRATERRESTRE GRIS EN LA TIERRA – ATHENA SWARUU](https://swaruu.org/transcripts/demasiada-actividad-extraterrestre-gris-en-la-tierra-athena-swaruu) | es | 2024-09-16 | 3 |
+| [Pensamientos Sobre el Astral. Parte 2](https://swaruu.org/transcripts/pensamientos-sobre-el-astral-parte-2) | es | 2024-09-17 | 3 |
+| [LA RAZÓN POR LA QUE EL SOL ACTIVA EL ADN HUMANO - ESO ES LA ASCENSIÓN](https://swaruu.org/transcripts/la-razon-por-la-que-el-sol-activa-el-adn-humano-eso-es-la-ascension) | es | 2024-09-18 | 2 |
 | [Space News 42, Galactic Federation And Alcyone Council Update](https://swaruu.org/transcripts/space-news-42-galactic-federation-and-alcyone-council-update) | en | 2024-09-19 | 5 |
+| [Noticias Espaciales 42. Actualización de la Federación Galáctica y del Consejo de Alcyone](https://swaruu.org/transcripts/noticias-espaciales-42-actualizacion-de-la-federacion-galactica-y-del-consejo-de-alcyone) | es | 2024-09-20 | 2 |
 | [Space News 43, Increased Orion Grey Activity, Yazhi, Ships, ET Critics, my YouTube](https://swaruu.org/transcripts/space-news-43-increased-orion-grey-activity-yazhi-ships-et-critics-my-youtube) | en | 2024-09-21 | 5 |
+| [GUERRA ASTRAL ESTAN AQUI - YAZHI SWARUU](https://swaruu.org/transcripts/guerra-astral-estan-aqui-yazhi-swaruu) | es | 2024-09-22 | 1 |
+| [Noticias Espaciales 43. Mucha Actividad Grises de Orion, Yazhi, Naves, Críticos ET, mi YouTube](https://swaruu.org/transcripts/noticias-espaciales-43-mucha-actividad-grises-de-orion-yazhi-naves-criticos-et-mi-youtube) | es | 2024-09-22 | 3 |
 | [Astral Warriors, Part 1 (English)](https://swaruu.org/transcripts/astral-warriors-part-1-english) | en | 2024-09-23 | 5 |
+| [Guerreros Astrales, Primera Parte](https://swaruu.org/transcripts/guerreros-astrales-primera-parte) | es | 2024-09-24 | 2 |
 | [Garbage Dump Mistake gone Horribly Wrong (English)](https://swaruu.org/transcripts/garbage-dump-mistake-gone-horribly-wrong-english) | en | 2024-09-26 | 6 |
+| [El Vertido de Basura que salió Terriblemente Mal](https://swaruu.org/transcripts/el-vertido-de-basura-que-salio-terriblemente-mal) | es | 2024-09-27 | 5 |
 | [Space News 44, Galactic Federation and Earth Situation Update (English)](https://swaruu.org/transcripts/space-news-44-galactic-federation-and-earth-situation-update-english) | en | 2024-09-28 | 5 |
+| [Charlando con Yazhi Swaruu - Septiembre 2024](https://swaruu.org/transcripts/charlando-con-yazhi-swaruu-septiembre-2024) | es | 2024-09-28 | 2 |
 | [Chatting with Yazhi Swaruu - September 2024](https://swaruu.org/transcripts/chatting-with-yazhi-swaruu-september-2024) | en | 2024-09-29 | 6 |
+| [Noticias Espaciales 44, Actualización de la Federación Galáctica, Situación Actual de la Tierra](https://swaruu.org/transcripts/noticias-espaciales-44-actualizacion-de-la-federacion-galactica-situacion-actual-de-la-tierra) | es | 2024-09-29 | 2 |
 | [Should you worry about the news? (English)](https://swaruu.org/transcripts/should-you-worry-about-the-news-english) | en | 2024-09-30 | 5 |
+| [¿Deberías preocuparte por las noticias?](https://swaruu.org/transcripts/deberias-preocuparte-por-las-noticias) | es | 2024-10-01 | 6 |
+| [LA FEDERACIÓN NO TIENE PORQUÉ PERMITIR QUE LA HUMANIDAD SE VUELVA INTERESTELAR](https://swaruu.org/transcripts/la-federacion-no-tiene-porque-permitir-que-la-humanidad-se-vuelva-interestelar) | es | 2024-10-01 | 3 |
 | [Astral Warriors, Part 2 (English)](https://swaruu.org/transcripts/astral-warriors-part-2-english) | en | 2024-10-03 | 6 |
+| [Guerreros Astrales, Segunda Parte](https://swaruu.org/transcripts/guerreros-astrales-segunda-parte) | es | 2024-10-04 | 2 |
 | [I am not well (English)](https://swaruu.org/transcripts/i-am-not-well-english) | en | 2024-10-05 | 5 |
+| [No estoy bien](https://swaruu.org/transcripts/no-estoy-bien) | es | 2024-10-06 | 3 |
 | [The Astral Warriors, Part 1 (English)](https://swaruu.org/transcripts/the-astral-warriors-part-1-english) | en | 2024-10-07 | 5 |
 | [Sophia Swaruu (Yazhi) - Past Anecdotes - Life on the Ship (PART 4)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-past-anecdotes-life-on-the-ship-part-4) | en | 2024-10-07 | 5 |
+| [Los Guerreros Astrales, Primera Parte](https://swaruu.org/transcripts/los-guerreros-astrales-primera-parte) | es | 2024-10-08 | 2 |
+| [Sophia Swaruu (Yazhi) - Anecdotas Pasadas - Vida en la Nave (Parte 4)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-anecdotas-pasadas-vida-en-la-nave-parte-4) | es | 2024-10-09 | 2 |
 | [The Astral Warriors, Part 2. Episode 4. Star Seeds and their Mission (English)](https://swaruu.org/transcripts/the-astral-warriors-part-2-episode-4-star-seeds-and-their-mission-english) | en | 2024-10-10 | 6 |
 | [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu (2021)](https://swaruu.org/transcripts/tulpas-everything-is-a-tulpa-metaphysical-chat-with-yazhi-swaruu-2021) | en | 2024-10-11 | 5 |
+| [Los Guerreros Astrales, Parte 2, Episodio 4](https://swaruu.org/transcripts/los-guerreros-astrales-parte-2-episodio-4) | es | 2024-10-11 | 4 |
 | [Space News 45, Alcyone Council, Galactic Federation and New Starships, Update (English)](https://swaruu.org/transcripts/space-news-45-alcyone-council-galactic-federation-and-new-starships-update-english) | en | 2024-10-12 | 5 |
+| [Tulpas - "Todo es una Tulpa" - Charla Metafísica con Yazhi Swaruu (2021)](https://swaruu.org/transcripts/tulpas-todo-es-una-tulpa-charla-metafisica-con-yazhi-swaruu-2021) | es | 2024-10-12 | 2 |
+| [Noticias Espaciales 45, Consejo de Alcyone, Federación Galáctica, Nuevas Naves, Situación Actual](https://swaruu.org/transcripts/noticias-espaciales-45-consejo-de-alcyone-federacion-galactica-nuevas-naves-situacion-actual) | es | 2024-10-13 | 3 |
+| [EL MIEDO - TULPA - YAZHI SWARUU](https://swaruu.org/transcripts/el-miedo-tulpa-yazhi-swaruu) | es | 2024-10-13 | 3 |
 | [Space News 46, My Health, Open Letter to Taygetans, How I Write. Current Situation (English)](https://swaruu.org/transcripts/space-news-46-my-health-open-letter-to-taygetans-how-i-write-current-situation-english) | en | 2024-10-14 | 3 |
+| [Noticias Espaciales 46, Mi salud, Carta Abierta a los Taygeteanos, Cómo Escribo. Situación actual](https://swaruu.org/transcripts/noticias-espaciales-46-mi-salud-carta-abierta-a-los-taygeteanos-como-escribo-situacion-actual) | es | 2024-10-15 | 3 |
 | [Starseeds - Let´s Work through the Astral\! - Yazhi´s Call For Action](https://swaruu.org/transcripts/starseeds-let-s-work-through-the-astral-yazhi-s-call-for-action) | en | 2024-10-16 | 5 |
 | [Extra-terrestrial or Interdimensional (English)](https://swaruu.org/transcripts/extra-terrestrial-or-interdimensional-english) | en | 2024-10-17 | 5 |
+| [LLAMADA AL ASTRAL - NOS ENFRENTAMOS DIRECTAMENTE A LAS FUERZAS MALIGNAS](https://swaruu.org/transcripts/llamada-al-astral-nos-enfrentamos-directamente-a-las-fuerzas-malignas) | es | 2024-10-17 | 2 |
+| [Semillas Estelares - Trabajemos en el Astral\! - Yazhi Swaruu](https://swaruu.org/transcripts/semillas-estelares-trabajemos-en-el-astral-yazhi-swaruu) | es | 2024-10-17 | 3 |
+| [Extraterrestre o Interdimensional](https://swaruu.org/transcripts/extraterrestre-o-interdimensional) | es | 2024-10-18 | 4 |
 | [Space News 47, My Health, Sick Taygetans, Queen Subjects in Temmer (English)](https://swaruu.org/transcripts/space-news-47-my-health-sick-taygetans-queen-subjects-in-temmer-english) | en | 2024-10-19 | 5 |
+| [Noticias Espaciales 47, Mi Salud, Taygetanos Enfermos, Cosas de Reina en Temmer](https://swaruu.org/transcripts/noticias-espaciales-47-mi-salud-taygetanos-enfermos-cosas-de-reina-en-temmer) | es | 2024-10-20 | 2 |
 | [Space News 48, What on Earth is going on in Australia? (English)](https://swaruu.org/transcripts/space-news-48-what-on-earth-is-going-on-in-australia-english) | en | 2024-10-21 | 5 |
+| [Noticias Espaciales 48, ¿Qué diablos está pasando en Australia?](https://swaruu.org/transcripts/noticias-espaciales-48-que-diablos-esta-pasando-en-australia) | es | 2024-10-22 | 2 |
 | [My Undercover Trip to Temmer (English)](https://swaruu.org/transcripts/my-undercover-trip-to-temmer-english) | en | 2024-10-24 | 5 |
+| [Mi Viaje Encubierta a Témmer, Taygeta](https://swaruu.org/transcripts/mi-viaje-encubierta-a-temmer-taygeta) | es | 2024-10-25 | 5 |
 | [Space News 49, New Spaceport, More on Australia, My health & Birthday (English)](https://swaruu.org/transcripts/space-news-49-new-spaceport-more-on-australia-my-health-birthday-english) | en | 2024-10-26 | 5 |
 | [The Galactic Federation - TO ALL EARTH CITIZENS - No BS or New Age - THIS IS IT](https://swaruu.org/transcripts/the-galactic-federation-to-all-earth-citizens-no-bs-or-new-age-this-is-it) | en | 2024-10-27 | 5 |
+| [Noticias Espaciales 49, Nuevo Puerto Espacial, Más Sobre Australia, Mi Salud y Cumpleaños](https://swaruu.org/transcripts/noticias-espaciales-49-nuevo-puerto-espacial-mas-sobre-australia-mi-salud-y-cumpleanos) | es | 2024-10-27 | 4 |
 | [Unity - No Existential Realms, No Timelines, No Densities, No Dimensions (English)](https://swaruu.org/transcripts/unity-no-existential-realms-no-timelines-no-densities-no-dimensions-english) | en | 2024-10-28 | 5 |
+| [Unidad - No hay Reinos Existenciales, No hay Líneas de Tiempo, No hay Densidades, Ni Dimensiones](https://swaruu.org/transcripts/unidad-no-hay-reinos-existenciales-no-hay-lineas-de-tiempo-no-hay-densidades-ni-dimensiones) | es | 2024-10-29 | 3 |
+| [La Federación Galáctica - A TODOS LOS CIUDADANOS DE LA TIERRA - Sin tonterías ni Nueva Era](https://swaruu.org/transcripts/la-federacion-galactica-a-todos-los-ciudadanos-de-la-tierra-sin-tonterias-ni-nueva-era) | es | 2024-10-30 | 3 |
 | [Did the last Global Deluge happen less than 200 years ago? (English)](https://swaruu.org/transcripts/did-the-last-global-deluge-happen-less-than-200-years-ago-english) | en | 2024-10-31 | 5 |
+| [¿El último Diluvio Global ocurrió hace menos de 200 años?](https://swaruu.org/transcripts/el-ultimo-diluvio-global-ocurrio-hace-menos-de-200-anos) | es | 2024-11-01 | 5 |
 | [The Urmah Healed Me, Part 1 (English)](https://swaruu.org/transcripts/the-urmah-healed-me-part-1-english) | en | 2024-11-02 | 5 |
 | [Van Allen Belts and DNA - short casual chat with Swaruu of Erra (2018/19)](https://swaruu.org/transcripts/van-allen-belts-and-dna-short-casual-chat-with-swaruu-of-erra-2018-19) | en | 2024-11-02 | 4 |
+| [Los Urmah me Curaron](https://swaruu.org/transcripts/los-urmah-me-curaron) | es | 2024-11-03 | 2 |
 | [The Urmah Healed Me, Part 2. Face to Face with the Cosmic Cat I once said didn’t exist (English)](https://swaruu.org/transcripts/the-urmah-healed-me-part-2-face-to-face-with-the-cosmic-cat-i-once-said-didn-t-exist-english) | en | 2024-11-04 | 5 |
+| [Los Urmah me Curaron. Parte 2, Cara a Cara con el Gato Cósmico que dije que no existía](https://swaruu.org/transcripts/los-urmah-me-curaron-parte-2-cara-a-cara-con-el-gato-cosmico-que-dije-que-no-existia) | es | 2024-11-05 | 5 |
 | [The Urmah Healed Me, Part 3, Aftermath and Conclusions (English)](https://swaruu.org/transcripts/the-urmah-healed-me-part-3-aftermath-and-conclusions-english) | en | 2024-11-07 | 5 |
+| [Los Urmah me Curaron. Parte 3, Consecuencias y Conclusiones](https://swaruu.org/transcripts/los-urmah-me-curaron-parte-3-consecuencias-y-conclusiones) | es | 2024-11-08 | 5 |
 | [Space News 50. Floods in Spain, Carrot, New Projects in Temmer (English)](https://swaruu.org/transcripts/space-news-50-floods-in-spain-carrot-new-projects-in-temmer-english) | en | 2024-11-09 | 5 |
+| [Noticias Espaciales 50. Inundaciones en España, Zanahoria, Nuevos proyectos en Temmer](https://swaruu.org/transcripts/noticias-espaciales-50-inundaciones-en-espana-zanahoria-nuevos-proyectos-en-temmer) | es | 2024-11-10 | 3 |
 | [Interstellar Life 7 - Taygetan Pleiadian Starships - Materials and Construction](https://swaruu.org/transcripts/interstellar-life-7-taygetan-pleiadian-starships-materials-and-construction) | en | 2024-11-11 | 6 |
+| [Vida Interestelar 7 - Naves Estelares Taygeteanas (Pléyades) - Materiales y Construcción](https://swaruu.org/transcripts/vida-interestelar-7-naves-estelares-taygeteanas-pleyades-materiales-y-construccion) | es | 2024-11-13 | 6 |
 | [Galactic Federation and Money - Athena Swaruu´s Additional Comments](https://swaruu.org/transcripts/galactic-federation-and-money-athena-swaruu-s-additional-comments) | en | 2024-11-15 | 5 |
 | [Space News 51. What is up with Taygetans, My YouTube Channel, and Me? (English)](https://swaruu.org/transcripts/space-news-51-what-is-up-with-taygetans-my-youtube-channel-and-me-english) | en | 2024-11-16 | 4 |
+| [Federación Galáctica y Dinero - Comentarios de Athena Swaruu](https://swaruu.org/transcripts/federacion-galactica-y-dinero-comentarios-de-athena-swaruu) | es | 2024-11-16 | 3 |
+| [Noticias Espaciales 51. ¿Qué pasa con los Taygetanos, mi canal de YouTube y yo?](https://swaruu.org/transcripts/noticias-espaciales-51-que-pasa-con-los-taygetanos-mi-canal-de-youtube-y-yo) | es | 2024-11-17 | 3 |
 | [Space News 52. Two Major Taygetan Starships Crash (English)](https://swaruu.org/transcripts/space-news-52-two-major-taygetan-starships-crash-english) | en | 2024-11-18 | 4 |
 | [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu)](https://swaruu.org/transcripts/mini-mini-topics-quick-questions-and-answers-yazhi-and-athena-swaruu) | en | 2024-11-18 | 7 |
+| [Noticias Espaciales 52. Choque de dos grandes naves espaciales Taygeteanas](https://swaruu.org/transcripts/noticias-espaciales-52-choque-de-dos-grandes-naves-espaciales-taygeteanas) | es | 2024-11-19 | 2 |
+| [Mini-Mini Temas - Rapidas Preguntas y Respuestas (Yazhi y Athena Swaruu)](https://swaruu.org/transcripts/mini-mini-temas-rapidas-preguntas-y-respuestas-yazhi-y-athena-swaruu) | es | 2024-11-20 | 4 |
 | [UFO/UAP Hearings at US Congress - Alien Disclosure? MY OPINION](https://swaruu.org/transcripts/ufo-uap-hearings-at-us-congress-alien-disclosure-my-opinion) | en | 2024-11-22 | 2 |
+| [OVNIs - Audiencias en el Congreso (USA) - Divulgación Extraterrestre? Mi Opinion](https://swaruu.org/transcripts/ovnis-audiencias-en-el-congreso-usa-divulgacion-extraterrestre-mi-opinion) | es | 2024-11-23 | 3 |
 | [Extraterrestrial races and Humans - Intercultural Exchanges in Interstellar Societies](https://swaruu.org/transcripts/extraterrestrial-races-and-humans-intercultural-exchanges-in-interstellar-societies) | en | 2024-11-26 | 6 |
+| [Razas Extraterrestres y los Humanos - Intercambios Culturales en Sociedades Estelares](https://swaruu.org/transcripts/razas-extraterrestres-y-los-humanos-intercambios-culturales-en-sociedades-estelares) | es | 2024-11-28 | 3 |
 | [Psychic Attack (English)](https://swaruu.org/transcripts/psychic-attack-english) | en | 2024-11-30 | 6 |
+| [Ataque Psíquico](https://swaruu.org/transcripts/ataque-psiquico) | es | 2024-12-01 | 3 |
 | [The Unity of Each Species (English)](https://swaruu.org/transcripts/the-unity-of-each-species-english) | en | 2024-12-02 | 6 |
+| [La Unidad de Cada Especie](https://swaruu.org/transcripts/la-unidad-de-cada-especie) | es | 2024-12-03 | 2 |
 | [Gosia chatting with Yazhi - metaphysical chat with my extraterrestrial friend](https://swaruu.org/transcripts/gosia-chatting-with-yazhi-metaphysical-chat-with-my-extraterrestrial-friend) | en | 2024-12-06 | 6 |
+| [Gosia charlando con Yazhi - chat metafísico con mi amiga extraterrestre](https://swaruu.org/transcripts/gosia-charlando-con-yazhi-chat-metafisico-con-mi-amiga-extraterrestre) | es | 2024-12-06 | 3 |
 | [Taygetan Military (English)](https://swaruu.org/transcripts/taygetan-military-english) | en | 2024-12-07 | 5 |
+| [Militares Taygeteanos](https://swaruu.org/transcripts/militares-taygeteanos) | es | 2024-12-08 | 3 |
 | [Space News 53, Event Report 01 (English)](https://swaruu.org/transcripts/space-news-53-event-report-01-english) | en | 2024-12-09 | 5 |
+| [Noticias Espaciales 53, Informe de Eventos 01](https://swaruu.org/transcripts/noticias-espaciales-53-informe-de-eventos-01) | es | 2024-12-10 | 3 |
 | [Is there a Gene of Spirituality? Brain and Consciousness - Aneeka of Temmer](https://swaruu.org/transcripts/is-there-a-gene-of-spirituality-brain-and-consciousness-aneeka-of-temmer) | en | 2024-12-13 | 4 |
 | [Interstellar Life 8 - Life Onboard the Starship - Aneeka of Temmer](https://swaruu.org/transcripts/interstellar-life-8-life-onboard-the-starship-aneeka-of-temmer) | en | 2024-12-18 | 5 |
+| [Vida Interestelar 8 - Vida A bordo de la Nave Estelar - Aneeka de Temmer](https://swaruu.org/transcripts/vida-interestelar-8-vida-a-bordo-de-la-nave-estelar-aneeka-de-temmer) | es | 2024-12-21 | 2 |
 | [Time Is Linear - My Metaphysical Divagations and Conclusions (Gosia)](https://swaruu.org/transcripts/time-is-linear-my-metaphysical-divagations-and-conclusions-gosia) | en | 2024-12-29 | 5 |
+| [Tiempo es Lineal? Mis Contemplaciones Personales y Conclusiones (Gosia)](https://swaruu.org/transcripts/tiempo-es-lineal-mis-contemplaciones-personales-y-conclusiones-gosia) | es | 2024-12-31 | 3 |
 | [Ancient Egypt (1) - Extraterrestrials among Humans](https://swaruu.org/transcripts/ancient-egypt-1-extraterrestrials-among-humans) | en | 2025-01-17 | 6 |
+| [Antiguo Egipto (1) - Extraterrestres Entre los Humanos](https://swaruu.org/transcripts/antiguo-egipto-1-extraterrestres-entre-los-humanos) | es | 2025-01-20 | 3 |
 | [CLASS 001 - Something Is Not Right in the Reality Around You](https://swaruu.org/transcripts/class-001-something-is-not-right-in-the-reality-around-you) | en | 2025-01-25 | 4 |
+| [CLASE 001 - Algo No Esta Bien en la Realidad Alrededor](https://swaruu.org/transcripts/clase-001-algo-no-esta-bien-en-la-realidad-alrededor) | es | 2025-01-28 | 3 |
 | [Ancient Egypt (2) - Homo Capensis - Extraterrestrial Presence on Earth (Akhenaten/Nefertiti)](https://swaruu.org/transcripts/ancient-egypt-2-homo-capensis-extraterrestrial-presence-on-earth-akhenaten-nefertiti) | en | 2025-01-31 | 5 |
+| [Antiguo Egipto (2) - Homo Capensis - Presencia Extraterrestre en la Tierra (Akhenaten/Nefertiti)](https://swaruu.org/transcripts/antiguo-egipto-2-homo-capensis-presencia-extraterrestre-en-la-tierra-akhenaten-nefertiti) | es | 2025-02-02 | 5 |
 | [Ancient Egypt (3) - Meritaten, Exodus, Scotland, Cabal - Swaruu of Erra](https://swaruu.org/transcripts/ancient-egypt-3-meritaten-exodus-scotland-cabal-swaruu-of-erra) | en | 2025-02-09 | 7 |
+| [Antiguo Egipto (3) - Meritaten, Exodus, Escocia, Cabal - Swaruu de Erra](https://swaruu.org/transcripts/antiguo-egipto-3-meritaten-exodus-escocia-cabal-swaruu-de-erra) | es | 2025-02-10 | 4 |
 | [CLASS 002 - False Realities Around you - Is Reality as You Are Told?](https://swaruu.org/transcripts/class-002-false-realities-around-you-is-reality-as-you-are-told) | en | 2025-02-14 | 5 |
+| [CLASE 002 - Falsas Realidades a tu Alrededor: ¿Es la Realidad como te Cuentan?](https://swaruu.org/transcripts/clase-002-falsas-realidades-a-tu-alrededor-es-la-realidad-como-te-cuentan) | es | 2025-02-24 | 3 |
 | [Ancient Egypt (4) - Ancient Egypt Is Not what You´ve Been Told (Athena Swaruu)](https://swaruu.org/transcripts/ancient-egypt-4-ancient-egypt-is-not-what-you-ve-been-told-athena-swaruu) | en | 2025-03-01 | 5 |
+| [Antiguo Egipto (4) - Antiguo Egipto No Es lo que te Cuentan (Athena Swaruu)](https://swaruu.org/transcripts/antiguo-egipto-4-antiguo-egipto-no-es-lo-que-te-cuentan-athena-swaruu) | es | 2025-03-03 | 2 |
 | [CLASS 003 - What is The Matrix? Free Your Mind - Types of Matrixes Explained](https://swaruu.org/transcripts/class-003-what-is-the-matrix-free-your-mind-types-of-matrixes-explained) | en | 2025-03-09 | 6 |
+| [CLASE 003 - Que es la Matrix? Libera tu Mente - Tipos de Matrix](https://swaruu.org/transcripts/clase-003-que-es-la-matrix-libera-tu-mente-tipos-de-matrix) | es | 2025-03-11 | 5 |
 | [Ancient Egypt (5) - Egyptian Mysteries - Questions (Athena Swaruu)](https://swaruu.org/transcripts/ancient-egypt-5-egyptian-mysteries-questions-athena-swaruu) | en | 2025-03-18 | 6 |
+| [Antiguo Egipto (5) - Misterios Egipcios - Preguntas (Athena Swaruu)](https://swaruu.org/transcripts/antiguo-egipto-5-misterios-egipcios-preguntas-athena-swaruu) | es | 2025-03-18 | 3 |
 | [Ancient Egypt (6) - Revealing Ancient History - Questions (Athena Swaruu)](https://swaruu.org/transcripts/ancient-egypt-6-revealing-ancient-history-questions-athena-swaruu) | en | 2025-03-23 | 5 |
+| [Antiguo Egipto (6) - Misterios Egipcios - Preguntas (Athena Swaruu)](https://swaruu.org/transcripts/antiguo-egipto-6-misterios-egipcios-preguntas-athena-swaruu) | es | 2025-03-24 | 2 |
 | [CLASS 004 - Matrix in the New Age - Layers of Control](https://swaruu.org/transcripts/class-004-matrix-in-the-new-age-layers-of-control) | en | 2025-03-26 | 5 |
+| [CLASE 004 - Matrix en la Nueva Era - Niveles de Control](https://swaruu.org/transcripts/clase-004-matrix-en-la-nueva-era-niveles-de-control) | es | 2025-03-27 | 5 |
 | [Aswan Dam and Extraterrestrial DUMBs - Why did they move Abu Simbel statues?](https://swaruu.org/transcripts/aswan-dam-and-extraterrestrial-dumbs-why-did-they-move-abu-simbel-statues) | en | 2025-04-11 | 3 |
+| [La Presa de Asuán y los DUMBs extraterrestres: ¿Por qué trasladaron las estatuas de Abu Simbel?](https://swaruu.org/transcripts/la-presa-de-asuan-y-los-dumbs-extraterrestres-por-que-trasladaron-las-estatuas-de-abu-simbel) | es | 2025-04-12 | 1 |
 | [Osiris, Eye of Horus, Ancient Egyptian matters - Extraterrestrial People](https://swaruu.org/transcripts/osiris-eye-of-horus-ancient-egyptian-matters-extraterrestrial-people) | en | 2025-04-13 | 5 |
+| [Osiris, Ojo de Horus, Asuntos Antiguos Egipcios - Gente Extraterrestre](https://swaruu.org/transcripts/osiris-ojo-de-horus-asuntos-antiguos-egipcios-gente-extraterrestre) | es | 2025-04-14 | 3 |
+| [Misterios de Orión: Leyendas cósmicas - Parte 1](https://swaruu.org/transcripts/the-orion-wars-part-one) | es | 2025-04-19 | 3 |
 | [CLASS 005 - Body or Soul - Who Are You? What Makes You "You"? Are you Consciousness?](https://swaruu.org/transcripts/class-005-body-or-soul-who-are-you-what-makes-you-you-are-you-consciousness) | en | 2025-04-22 | 5 |
+| [Misterios de Orión Planetas y vida cósmica - Parte 2](https://swaruu.org/transcripts/misterios-de-orion-planetas-y-vida-cosmica-parte-2) | es | 2025-04-22 | 2 |
+| [CLASE 005 - Cuerpo o Alma: ¿Quién eres? ¿Qué te hace ser "tú"? ¿Eres Consciencia?](https://swaruu.org/transcripts/clase-005-cuerpo-o-alma-quien-eres-que-te-hace-ser-tu-eres-consciencia) | es | 2025-04-24 | 3 |
+| [Misterios de Orion: La Tierra Antigua - Parte 3](https://swaruu.org/transcripts/misterios-de-orion-la-tierra-antigua-parte-3) | es | 2025-04-27 | 3 |
 | [Questions and Answers - Swaruu of Erra and Aneeka of Temmer](https://swaruu.org/transcripts/questions-and-answers-swaruu-of-erra-and-aneeka-of-temmer) | en | 2025-04-29 | 6 |
+| [Misterios de las Civilizaciones Antiguas - Consciencia y Orígenes Cósmicos P4](https://swaruu.org/transcripts/misterios-de-las-civilizaciones-antiguas-consciencia-y-origenes-cosmicos-p4) | es | 2025-05-04 | 2 |
 | [Interstellar Life 9 - Spaceship Struck by Lightning — Taygetan Pilot´s 2021 Earth Mission Explained](https://swaruu.org/transcripts/interstellar-life-9-spaceship-struck-by-lightning-taygetan-pilot-s-2021-earth-mission-explained) | en | 2025-05-08 | 5 |
+| [Vida Interestelar 9 - Nave espacial alcanzada por un Rayo - Explicación de la Misión de 2021](https://swaruu.org/transcripts/interstellar-life-9-spacecraft-struck-by-lightning-2021-mission-explained) | es | 2025-05-09 | 2 |
+| [Misterios de las Civilizaciones Antiguas - Conciencia y Orígenes Cósmicos P4b](https://swaruu.org/transcripts/misterios-de-las-civilizaciones-antiguas-conciencia-y-origenes-cosmicos-p4b) | es | 2025-05-12 | 3 |
 | [CLASS 006 - Are We Alone in the Universe? Are Governments Hiding the Truth?](https://swaruu.org/transcripts/class-006-are-we-alone-in-the-universe-are-governments-hiding-the-truth) | en | 2025-05-16 | 5 |
+| [CLASE 006 - ¿Estamos solos en el Universo? ¿Estan ocultando la verdad?](https://swaruu.org/transcripts/clase-006-estamos-solos-en-el-universo-estan-ocultando-la-verdad) | es | 2025-05-18 | 5 |
 | [Deep Spiritual Talk with Yazhi: Metaphysics, Past Lives & Urmah Memories](https://swaruu.org/transcripts/deep-spiritual-talk-with-yazhi-metaphysics-past-lives-urmah-memories) | en | 2025-05-23 | 5 |
+| [Charla espiritual profunda con Yazhi: Metafísica, Vidas Pasadas y Recuerdos de Urmah](https://swaruu.org/transcripts/charla-espiritual-profunda-con-yazhi-metafisica-vidas-pasadas-y-recuerdos-de-urmah) | es | 2025-05-24 | 2 |
 | [CLASS 007 - Extraterrestrial People That Look Just Like Us \| ET Disclosure 2025](https://swaruu.org/transcripts/class-007-extraterrestrial-people-that-look-just-like-us-et-disclosure-2025) | en | 2025-05-31 | 5 |
+| [LA PRIMERA BATALLA ANTIGUA - LAS GUERRAS DE ORIÓN](https://swaruu.org/transcripts/la-primera-batalla-antigua-las-guerras-de-orion) | es | 2025-06-01 | 2 |
+| [CLASE 007 - Gente Extraterrestre que se Parece a Nosotros \| Divulgación ET 2025](https://swaruu.org/transcripts/clase-007-gente-extraterrestre-que-se-parece-a-nosotros-divulgacion-et-2025) | es | 2025-06-02 | 3 |
 | [Interstellar Life 10 - Aboard Viera - Inside a Galactic Federation Starship](https://swaruu.org/transcripts/interstellar-life-10-aboard-viera-inside-a-galactic-federation-starship) | en | 2025-06-06 | 7 |
+| [Vida Interestelar 10 - A Bordo de Viera - Dentro de una nave de la Federación Galáctica](https://swaruu.org/transcripts/vida-interestelar-10-a-bordo-de-viera-dentro-de-una-nave-de-la-federacion-galactica) | es | 2025-06-09 | 3 |
 | [Swaruu of Erra and Shady Events in 2019 - Relevant for Today?](https://swaruu.org/transcripts/swaruu-of-erra-and-shady-events-in-2019-relevant-for-today) | en | 2025-07-23 | 5 |
+| [Swaruu de Erra y Eventos Oscuros en 2019 - Relevante para Hoy?](https://swaruu.org/transcripts/swaruu-de-erra-y-eventos-oscuros-en-2019-relevante-para-hoy) | es | 2025-07-25 | 5 |
 | [Gosia and Robert - Money & Fame, And True Intentions](https://swaruu.org/transcripts/gosia-and-robert-money-fame-and-true-intentions) | en | 2025-07-29 | 5 |
+| [Robert y Gosia - Dinero, Fama, y Verdaderas Intenciones](https://swaruu.org/transcripts/robert-y-gosia-dinero-fama-y-verdaderas-intenciones) | es | 2025-07-31 | 3 |
 | [Interstellar Life 11- Ships Getting Lost in Timelines - Numerical Reality](https://swaruu.org/transcripts/interstellar-life-11-ships-getting-lost-in-timelines-numerical-reality) | en | 2025-08-12 | 6 |
+| [Vida Interestelar 11: Naves que se Pierden en las Líneas Temporales - Realidad Numérica](https://swaruu.org/transcripts/vida-interestelar-11-naves-que-se-pierden-en-las-lineas-temporales-realidad-numerica) | es | 2025-08-14 | 3 |
 | [Athena Swaruu - Spiritual Chat with Dale & Rich (2021) - Higher Consciousness (PART 1)](https://swaruu.org/transcripts/athena-swaruu-spiritual-chat-with-dale-rich-2021-higher-consciousness-part-1) | en | 2025-08-20 | 4 |
+| [Athena Swaruu – Charla Espiritual con Dale y Rich \| Astral, Elementales, y 3D vs 5D (PARTE 1)](https://swaruu.org/transcripts/athena-swaruu-charla-espiritual-con-dale-y-rich-astral-elementales-y-3d-vs-5d-parte-1) | es | 2025-08-23 | 3 |
 | [Athena Swaruu - Spiritual Chat with Dale & Rich (2021) - Galactic Federation, Time (PART 2)](https://swaruu.org/transcripts/athena-swaruu-spiritual-chat-with-dale-rich-2021-galactic-federation-time-part-2) | en | 2025-08-26 | 5 |
+| [Athena Swaruu - Charla espiritual con Dale y Rich (2021) - Federación Galáctica, Tiempo (PARTE 2)](https://swaruu.org/transcripts/athena-swaruu-charla-espiritual-con-dale-y-rich-2021-federacion-galactica-tiempo-parte-2) | es | 2025-08-28 | 2 |
 | [BLAST FROM THE PAST: Behind the Mission: Swaruu of Erra - Problems with Contacts (PART 1)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-swaruu-of-erra-problems-with-contacts-part-1) | en | 2025-09-03 | 4 |
+| [UN VIAJE AL PASADO: Detrás de la Misión: Swaruu de Erra - Problemas con los Contactos (PARTE 1)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-swaruu-de-erra-problemas-con-los-contactos-parte-1) | es | 2025-09-05 | 2 |
 | [BLAST FROM THE PAST: Behind the Mission: Swaruu of Erra - Health (PART 2)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-swaruu-of-erra-health-part-2) | en | 2025-09-09 | 8 |
+| [UN VIAJE AL PASADO: Detrás de la Misión: Swaruu de Erra - Salud (PARTE 2)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-swaruu-de-erra-salud-parte-2) | es | 2025-09-10 | 6 |
 | [CLASS 008 - Cabal and Power Structures of Earth - Who is in Control of our Planet?](https://swaruu.org/transcripts/class-008-cabal-and-power-structures-of-earth-who-is-in-control-of-our-planet) | en | 2025-09-30 | 5 |
+| [CLASE 008 - El Cabal y las Estructuras de Poder de la Tierra: ¿Quién Controla Nuestro Planeta?](https://swaruu.org/transcripts/clase-008-el-cabal-y-las-estructuras-de-poder-de-la-tierra-quien-controla-nuestro-planeta) | es | 2025-10-05 | 3 |
 | [Comet 3I/Atlas or Alien/ET Spaceship? My Thoughts](https://swaruu.org/transcripts/comet-3i-atlas-or-alien-et-spaceship-my-thoughts) | en | 2025-10-10 | 3 |
+| [3I/Atlas - el Nuevo Cometa Interestelar Descubierto por la NASA — ¿Natural o Artificial?](https://swaruu.org/transcripts/3i-atlas-el-nuevo-cometa-interestelar-descubierto-por-la-nasa-natural-o-artificial) | es | 2025-10-12 | 2 |
 | [BLAST FROM THE PAST: Behind the Mission: Aneeka - Rise to the Top (PART 1)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-aneeka-rise-to-the-top-part-1) | en | 2025-10-25 | 7 |
+| [UN VIAJE AL PASADO: Detrás de la Misión: Aneeka - El Ascenso a la Cima (Parte 1)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-aneeka-el-ascenso-a-la-cima-parte-1) | es | 2025-10-28 | 2 |
 | [BLAST FROM THE PAST: Behind the Mission: Aneeka - Downfall (PART 2)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-aneeka-downfall-part-2) | en | 2025-11-03 | 6 |
+| [UN VIAJE AL PASADO: Detrás de la Misión: Aneeka - La Caida (Parte 2)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-aneeka-la-caida-parte-2) | es | 2025-11-06 | 3 |
 | [Galactic Federation & the Matrix Beyond Earth - Conversation with Aneeka of Temmer](https://swaruu.org/transcripts/galactic-federation-the-matrix-beyond-earth-conversation-with-aneeka-of-temmer) | en | 2025-11-09 | 5 |
+| [Federacion Galactica y Matrix Fuera de la Tierra - Conversacion con Aneeka - Mujer Extraterrestre](https://swaruu.org/transcripts/federacion-galactica-y-matrix-fuera-de-la-tierra-conversacion-con-aneeka-mujer-extraterrestre) | es | 2025-11-11 | 2 |
 | [BLAST FROM THE PAST - "You are in a Taygetan Immersion" - Does Cosmic Identity Matter?](https://swaruu.org/transcripts/blast-from-the-past-you-are-in-a-taygetan-immersion-does-cosmic-identity-matter) | en | 2025-11-19 | 5 |
+| [VIAJE AL PASADO – Mi Inmersión Taygeteana: ¿Realmente Importa la Identidad Estelar?](https://swaruu.org/transcripts/viaje-al-pasado-mi-inmersion-taygeteana-realmente-importa-la-identidad-estelar) | es | 2025-11-24 | 2 |
 | [CLASS 009 - Galactic Federation - Top Managers of Planet Earth](https://swaruu.org/transcripts/class-009-galactic-federation-top-managers-of-planet-earth) | en | 2025-12-06 | 3 |
+| [CLASE 009 - Federación Galáctica - Altos Gerentes del Planeta Tierra](https://swaruu.org/transcripts/clase-009-federacion-galactica-altos-gerentes-del-planeta-tierra) | es | 2025-12-08 | 3 |
 | [Do Extraterrestrials Value the Past? Taygetan Pleiadian Museum](https://swaruu.org/transcripts/do-extraterrestrials-value-the-past-taygetan-pleiadian-museum) | en | 2025-12-13 | 5 |
+| [El Valor del Pasado en Civilizaciones Extraterrestres \| Museo Pleyadiano Taygeteano](https://swaruu.org/transcripts/el-valor-del-pasado-en-civilizaciones-extraterrestres-museo-pleyadiano-taygeteano) | es | 2025-12-15 | 2 |
 | [Random Conversations with the Taygetan Pleiadians - Mini Topics](https://swaruu.org/transcripts/random-conversations-with-the-taygetan-pleiadians-mini-topics) | en | 2025-12-21 | 4 |
+| [Taygeta y las Pléyades \| Mini Temas - Comunicación Extraterrestre](https://swaruu.org/transcripts/taygeta-y-las-pleyades-mini-temas-comunicacion-extraterrestre) | es | 2025-12-23 | 2 |
 | [Taygetan Communication - Athena and Yazhi Gone for a Year - Where do I Stand?](https://swaruu.org/transcripts/taygetan-communication-athena-and-yazhi-gone-for-a-year-where-do-i-stand) | en | 2025-12-26 | 3 |
+| [Comunicación Taygeteana Hoy: Athena y Yazhi Ausentes por un Año](https://swaruu.org/transcripts/comunicacion-taygeteana-hoy-athena-y-yazhi-ausentes-por-un-ano) | es | 2025-12-27 | 3 |
 | [Extraterrestrial Life: How Would It Affect Humanity and You? - CLASS 010](https://swaruu.org/transcripts/extraterrestrial-life-how-would-it-affect-humanity-and-you-class-010) | en | 2026-01-04 | 5 |
+| [Vida Extraterrestre: ¿Cómo Afectaría a la Humanidad y a Ti? - CLASE 010](https://swaruu.org/transcripts/vida-extraterrestre-como-afectaria-a-la-humanidad-y-a-ti-clase-010) | es | 2026-01-08 | 2 |
 | [Interstellar Life 12 – Extraterrestrial Craft Posing as Human Aircraft Explained](https://swaruu.org/transcripts/interstellar-life-12-extraterrestrial-craft-posing-as-human-aircraft-explained) | en | 2026-01-23 | 6 |
+| [Vida Interestelar 12 – OVNIs Disfrazados de Aeronaves Humanas y Mas](https://swaruu.org/transcripts/vida-interestelar-12-ovnis-disfrazados-de-aeronaves-humanas-y-mas) | es | 2026-01-25 | 3 |
 | [Starseeds and Awakening - Common Mistake when Embracing ET Reality](https://swaruu.org/transcripts/starseeds-and-awakening-common-mistake-when-embracing-et-reality) | en | 2026-01-29 | 3 |
+| [Semillas Estelares y el Despertar – Error común al aceptar la Realidad Extraterrestre](https://swaruu.org/transcripts/semillas-estelares-y-el-despertar-error-comun-al-aceptar-la-realidad-extraterrestre) | es | 2026-02-01 | 3 |
 | [UFO/UAP Disclosure - Truth, Psyop, or Damage Control?? - CLASS 011](https://swaruu.org/transcripts/ufo-uap-disclosure-truth-psyop-or-damage-control-class-011) | en | 2026-02-11 | 3 |
+| [Divulgación de OVNIs/FANI: ¿Verdad, operación psicológica o control de daños? — CLASE 011](https://swaruu.org/transcripts/divulgacion-de-ovnis-fani-verdad-operacion-psicologica-o-control-de-danos-clase-011) | es | 2026-02-14 | 3 |
+| [Swaruu de Erra Charlando con Gosia \| Mensajes Previos a la Divulgación (2018)](https://swaruu.org/transcripts/swaruu-de-erra-charlando-con-gosia-mensajes-previos-a-la-divulgacion-2018) | es | 2026-02-22 | 3 |
 | [Swaruu of Erra & Gosia – Private Conversation Before Public Contact (2018)](https://swaruu.org/transcripts/swaruu-of-erra-gosia-private-conversation-before-public-contact-2018) | en | 2026-02-23 | 4 |
 | [UFO Disclosure and Project Blue Beam: Is False Alien Invasion Next? - CLASS 012](https://swaruu.org/transcripts/ufo-disclosure-and-project-blue-beam-is-false-alien-invasion-next-class-012) | en | 2026-03-05 | 3 |
+| [Divulgación OVNI y Proyecto Blue Beam: ¿Se Avecina una Falsa Invasión Extraterrestre? - CLASE 012](https://swaruu.org/transcripts/divulgacion-ovni-y-proyecto-blue-beam-se-avecina-una-falsa-invasion-extraterrestre-clase-012) | es | 2026-03-08 | 1 |
 | [BLAST FROM THE PAST: Behind the Mission: Sophia Swaruu (Yazhi) - Issues with Age (PART 1)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-sophia-swaruu-yazhi-issues-with-age-part-1) | en | 2026-03-19 | 2 |
+| [UN VIAJE AL PASADO: Detrás de la Misión: Sophia Swaruu (Yazhi) - Problemas con la Edad (PARTE 1)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-sophia-swaruu-yazhi-problemas-con-la-edad-parte-1) | es | 2026-03-22 | 4 |
 | [BLAST FROM THE PAST: Behind the Mission: Yazhi and Gosia - Gosia´s Doubts](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-yazhi-and-gosia-gosia-s-doubts) | en | 2026-03-28 | 3 |
+| [UN VIAJE AL PASADO: Detrás de la Misión: Yazhi y Gosia - Dudas de Gosia (PARTE 2)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-yazhi-y-gosia-dudas-de-gosia-parte-2) | es | 2026-03-30 | 2 |
 | [BLAST FROM THE PAST: Behind the Mission: Gosia´s Private Message to the Taygetans (2022)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-gosia-s-private-message-to-the-taygetans-2022) | en | 2026-03-31 | 4 |
+| [UN VIAJE AL PASADO: Detrás de la Misión: Mensaje Privado de Gosia para Taygeteanos (2022)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-mensaje-privado-de-gosia-para-taygeteanos-2022) | es | 2026-04-02 | 3 |
 | [BLAST FROM THE PAST: Behind the Mission: Why Do I Continue? - Yazhi Swaruu](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-why-do-i-continue-yazhi-swaruu) | en | 2026-04-07 | 5 |
+| [UN VIAJE AL PASADO: Detrás de la Misión: Porque Continuo? - Yazhi Swaruu](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-porque-continuo-yazhi-swaruu) | es | 2026-04-08 | 3 |
 | [Power of Your Mind - Reality Begins in Consciousness (PART 1) - CLASS 013](https://swaruu.org/transcripts/power-of-your-mind-reality-begins-in-consciousness-part-1-class-013) | en | 2026-04-20 | 6 |
+| [Poder de Tu Mente - La Realidad Comienza en la Conciencia (PARTE 1) - CLASE 013](https://swaruu.org/transcripts/poder-de-tu-mente-la-realidad-comienza-en-la-conciencia-parte-1-clase-013) | es | 2026-04-23 | 3 |
 | [Power of Your Mind - The Subconscious/Unconscious Generates Your World (PART 2) - CLASS 014](https://swaruu.org/transcripts/power-of-your-mind-the-subconscious-unconscious-generates-your-world-part-2-class-014) | en | 2026-05-02 | 3 |
+| [El Poder de tu Mente - El Subconsciente/Inconsciente Genera tu Mundo (PARTE 2) - CLASE 014](https://swaruu.org/transcripts/el-poder-de-tu-mente-el-subconsciente-inconsciente-genera-tu-mundo-parte-2-clase-014) | es | 2026-05-05 | 1 |
 | [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceships](https://swaruu.org/transcripts/interstellar-life-13-part-1-various-questions-related-to-spaceships) | en | 2026-05-09 | 6 |
+| [Vida Interestelar 13 (Parte 1) – Varias Preguntas Relacionadas con Naves Espaciales](https://swaruu.org/transcripts/vida-interestelar-13-parte-1-varias-preguntas-relacionadas-con-naves-espaciales) | es | 2026-05-11 | 4 |
+| [Vida Interestelar 13 (Parte 2) – Mas Preguntas Relacionadas con Naves Espaciales](https://swaruu.org/transcripts/vida-interestelar-13-parte-2-mas-preguntas-relacionadas-con-naves-espaciales) | es | 2026-06-07 | 3 |
 | [Power of Your Mind - Collective Consciousness and Responsibility (PART 3) - CLASS 015](https://swaruu.org/transcripts/power-of-your-mind-collective-consciousness-and-responsibility-part-3-class-015) | en | 2026-06-16 | 4 |
+| [El poder de tu Mente: Conciencia y Responsabilidad Colectiva (PARTE 3) - CLASE 015](https://swaruu.org/transcripts/el-poder-de-tu-mente-conciencia-y-responsabilidad-colectiva-parte-3-clase-015) | es | 2026-06-18 | 4 |
 | [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://swaruu.org/transcripts/are-they-friendly-extraterrestrials-good-or-bad-class-016) | en | 2026-07-07 | 7 |
+| [¿Son Amigables? Extraterrestres: ¿Buenos o Malos? Clase 016](https://swaruu.org/transcripts/son-amigables-extraterrestres-buenos-o-malos-clase-016) | es | 2026-07-10 | 3 |
 | [Interstellar Life 13 (Part 3) – Various Questions Related to Life in Space](https://swaruu.org/transcripts/interstellar-life-13-part-3-various-questions-related-to-life-in-space) | en | 2026-07-14 | 7 |
+| [Vida Interestelar 13 (Parte 3) – Mas Preguntas Relacionadas con Naves Espaciales](https://swaruu.org/transcripts/vida-interestelar-13-parte-3-mas-preguntas-relacionadas-con-naves-espaciales) | es | 2026-07-15 | 5 |
 | [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) | en | 2026-08-07 | 8 |
+| [¿Quiénes Están Involucrados con la Tierra? Una Guía de las Razas Extraterrestres - CLASE 017](https://swaruu.org/transcripts/quienes-estan-involucrados-con-la-tierra-una-guia-de-las-razas-extraterrestres-clase-017) | es | 2026-08-11 | 5 |
 | [Extra Bits on Extraterrestrial Races - Conversations and Descriptions](https://swaruu.org/transcripts/extra-bits-on-extraterrestrial-races-conversations-and-descriptions) | en | 2026-08-14 | 7 |
 
 See [continuous collection progress](../reports/collection.md), [pilot review](../reports/pilot.md), [reconciliation](../reports/reconciliation.md), and [original game design](../design/README.md).

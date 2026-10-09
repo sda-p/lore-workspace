@@ -1,0 +1,74 @@
+{
+  "source_id": "src-424eb87288db",
+  "snapshot_sha256": "bb1b6f47c48127b15dd42e04cf6fa80ad7b19994e301ced13d6256267d1c5426",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-424eb87288db-c01",
+      "assertion": "Anéeka describes ship coordinates as combined spatial and temporal frequency values. Complex timeline jumps can make recorded return coordinates unreliable.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "timeline-branching",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Basic navigation can record and revisit coordinates."
+    },
+    {
+      "id": "src-424eb87288db-c02",
+      "assertion": "Athena says date-based time travel requires a known frequency-map value, but historical dates do not match calculated frequencies, even in base 10.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "temporal-skipping",
+        "taygetan-base-12-mathematics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She prefers base 12."
+    },
+    {
+      "id": "src-424eb87288db-c03",
+      "assertion": "Yazhi says observer consciousness differentiates realities and technology can alter their frequency values; Taygetans use interferometers to detect external manipulation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "frequency-map-navigation",
+        "taygetans",
+        "tractor-beams"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says humans lack this capability."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Crop circles as navigation checks; Yazhi's openness to undetectable manipulation by more advanced species."
+  ]
+}

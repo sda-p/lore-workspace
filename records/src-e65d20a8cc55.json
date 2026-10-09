@@ -1,0 +1,87 @@
+{
+  "source_id": "src-e65d20a8cc55",
+  "snapshot_sha256": "70985e5e97ba1876b205beb7fede919fd6fab54d565b2296ee8dd8f5c5649d47",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e65d20a8cc55-c01",
+      "assertion": "Mari says natural portals form when the mathematical and energy patterns of distant locations coincide.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0008"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "ether-field"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e65d20a8cc55-c02",
+      "assertion": "Mari describes artificial portals as electromagnetic toroidal devices that alter an entrant's frequency to match a destination.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says greater destination differences or object mass require more energy."
+    },
+    {
+      "id": "src-e65d20a8cc55-c03",
+      "assertion": "Mari says portals and starships can reach other existential realms, though cross-realm travel has limitations.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e65d20a8cc55-c04",
+      "assertion": "Mari alleges some particle-physics facilities and ring-shaped structures host or test portals between the lower astral and material realms.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her allegation, not independently established."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about particle accelerators as portals and entities crossing from the lower astral are attributed to Mari and not independently substantiated."
+  ],
+  "coverage_gaps": [
+    "the role of consciousness and personal frequency in perceiving cross-realm entities"
+  ]
+}

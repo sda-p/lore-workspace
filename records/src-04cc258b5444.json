@@ -1,0 +1,49 @@
+{
+  "source_id": "src-04cc258b5444",
+  "snapshot_sha256": "27eed56e6dedd4dc445208332d0fcd6532a20a80bc8f1f8ae33cd32cefe88fda",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-04cc258b5444-c01",
+      "assertion": "Mari Swa says Federation conferences segregated visiting star peoples and kept them from questioning presentations; she cites Captain Gori'el's group as an example.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She characterizes the arrangement as suspicious and abusive."
+    },
+    {
+      "id": "src-04cc258b5444-c02",
+      "assertion": "Mari Swa says Federation meetings showed visiting species images of Earth's wars; she reports her Antarian counterpart said two delegates were hospitalized after trauma. She alleges the imagery promoted fear of humans and support for Earth's isolation.",
+      "speaker": "Mari Swa, relaying her Antarian counterpart",
+      "paragraph_ids": [
+        "p0023",
+        "p0025",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is her counterpart’s report and her interpretation of the motive."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source makes contested political allegations, including reported harm to delegates and claims about Federation propaganda."
+  ],
+  "coverage_gaps": [
+    "The video also argues that the New Age movement serves as a control mechanism and warns against generalizing whole species."
+  ]
+}

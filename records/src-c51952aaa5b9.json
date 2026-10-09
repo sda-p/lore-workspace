@@ -1,0 +1,89 @@
+{
+  "source_id": "src-c51952aaa5b9",
+  "snapshot_sha256": "f061f7caba624afd57d496b42c414aeb0ab4bb80457b2f3d6abd7c643d092864",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c51952aaa5b9-c01",
+      "assertion": "Mari says each inhabited planet’s magnetosphere maintains its inhabitants’ collective Matrix and dominant perceptual frequency.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "planetary-matrix-resets",
+      "topics": [
+        "planetary-matrix-resets",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c51952aaa5b9-c02",
+      "assertion": "She says deep space lacks planetary collective modulation, blending physical and astral realms into one chaotic, unmodulated existential range.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "astral-travel",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c51952aaa5b9-c03",
+      "assertion": "Mari says travelers’ fears and thoughts can manifest rapidly in deep space, making their experience depend on individual consciousness and vibration.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c51952aaa5b9-c04",
+      "assertion": "She describes deep space as psychologically dangerous: repressed contents may manifest, while stable self-knowledge and personal identity help regulate experience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about consciousness, planetary matrices, and manifestation are attributed to Mari and not independently established."
+  ],
+  "coverage_gaps": [
+    "the discussion of perceptual agreements and how travelers carry their home Matrix"
+  ]
+}

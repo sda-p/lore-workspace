@@ -242,6 +242,46 @@ Attributed to **Swaruu 9**; reported; extraction confidence: medium.
 
 Source: [Veganismo - Agendas - Investigación Taygeteana - NO recomendamos Dieta Vegana](https://swaruu.org/transcripts/veganismo-agendas-investigacion-taygeteana-no-recomendamos-dieta-vegana) (2022-09-29; es); passages p0222. [Structured record](../../records/src-f344c5152e16.json).
 
+### src-881f2f6deaf1-c01
+
+Mari recounts the official history that Lyrians fled an Orion invasion and founded a Taygetan settlement on Temmer after a 300-year search. She questions the stated 850,000-year date and conflicting origins.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Taygeta, orígenes e historia. Parte 1](https://swaruu.org/transcripts/taygeta-origenes-e-historia-parte-1) (2023-09-28; es); passages p0004, p0006, p0007, p0008, p0009, p0010, p0011. [Structured record](../../records/src-881f2f6deaf1.json).
+
+Related topics: [Orion Wars](orion-wars.md), [Taygetans](taygetans.md).
+
+### src-d14132fc678e-c01
+
+Mari Swa claims humans with similar genetics live on many other planets, naming Antarians, Centauri, Engan, Taygetans, and Maya. She acknowledges she has no proof and presents this as her perspective.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [La Gran Humanidad Interestelar, Primera Parte](https://swaruu.org/transcripts/la-gran-humanidad-interestelar-primera-parte) (2024-06-09; es); passages p0004, p0012, p0023, p0024. [Structured record](../../records/src-d14132fc678e.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-6cdd5b495d4b-c02
+
+Yazhi claims modern humans originated in Lyra and that some cave paintings encode star maps left by Lyrian settlers. She contrasts this account with terrestrial archaeology.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Misterios de Orión Planetas y vida cósmica - Parte 2](https://swaruu.org/transcripts/misterios-de-orion-planetas-y-vida-cosmica-parte-2) (2025-04-22; es); passages p0019, p0026, p0029, p0033, p0034. [Structured record](../../records/src-6cdd5b495d4b.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-e1e3be8acdea-c01
+
+Mari Swa says humans are a Lyrian species found across many planets, with shared traits despite cultural differences. She bases this on her claimed everyday experience.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [La Unidad de Cada Especie](https://swaruu.org/transcripts/la-unidad-de-cada-especie) (2024-12-03; es); passages p0005, p0006, p0008, p0018. [Structured record](../../records/src-e1e3be8acdea.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
 ## Claims filed under other topics
 
 - [src-03f88504384a-c08](stellar-navigation.md#src-03f88504384a-c08) — Stellar navigation
@@ -268,6 +308,14 @@ Source: [Veganismo - Agendas - Investigación Taygeteana - NO recomendamos Dieta
 - [src-29ae7cdf0163-c01](galactic-federation.md#src-29ae7cdf0163-c01) — Galactic Federation
 - [src-f10960087bcd-c01](taygetans.md#src-f10960087bcd-c01) — Taygetans
 - [src-07f9f86e1027-c02](lyrians.md#src-07f9f86e1027-c02) — Lyrians
+- [src-0c76e94a437f-c01](galactic-federation.md#src-0c76e94a437f-c01) — Galactic Federation
+- [src-3694da810026-c01](galactic-federation.md#src-3694da810026-c01) — Galactic Federation
+- [src-be1186902ee6-c01](taygetans.md#src-be1186902ee6-c01) — Taygetans
+- [src-e1e3be8acdea-c02](consciousness-metaphysics.md#src-e1e3be8acdea-c02) — Consciousness and metaphysics
+- [src-4d57ad423d19-c01](atlantis-lemuria.md#src-4d57ad423d19-c01) — Atlantis and Lemuria
+- [src-fdf489614ae3-c01](consciousness-metaphysics.md#src-fdf489614ae3-c01) — Consciousness and metaphysics
+- [src-54a6b17189d3-c01](orion-wars.md#src-54a6b17189d3-c01) — Orion Wars
+- [src-54a6b17189d3-c03](lyrians.md#src-54a6b17189d3-c03) — Lyrians
 
 ## Review flags
 
@@ -280,6 +328,14 @@ Source: [Veganismo - Agendas - Investigación Taygeteana - NO recomendamos Dieta
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - The author explicitly framed this material as entertainment or science fiction; claims are attributed to Mari.
+- The long dialogue makes unverified claims about extraterrestrial identity, immersion, and consciousness.
+- The source advances unverified alternative-history claims about planetary history and human origins.
+- The source presents unverified allegations about extraterrestrial diplomacy and a targeted pathogen.
+- The source presents unverified alternative-history claims about ancient civilizations and warfare.
+- The speaker explicitly says she has no proof and frames her claims as a perspective, not established history.
+- The transcript presents Gosia’s extraterrestrial and political claims as reported information; they are not independently verified.
+- The video presents unverified extraterrestrial and metaphysical claims as the speaker’s perspective.
+- This essay is Gosia’s synthesis of Taygetan claims; political allegations are attributed and unverified.
 - ancient-solar-system-density-and-polity-claims
 - ancient-texts-as-racial-symbolism-attributed
 - approximate\_dates

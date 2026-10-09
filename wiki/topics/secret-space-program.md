@@ -56,6 +56,14 @@ Source: [LA NARRATIVA SECRETA: CONTROL Y DESINFORMACIÓN SOBRE EL FENÓMENO EXTR
 
 Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
 
+### src-cd32d005f67d-c03
+
+Anéeka says Titanic carried radioactive cargo from Novaya Zemlya to New York; Swaruu (9) says Ballard’s Titanic expedition covered a Navy search for lost submarines. The cargo claim is Anéeka’s.
+
+Attributed to **Anéeka; Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Titanic - Como se Hundió? Swaruu de Erra habla con Dale Harder](https://swaruu.org/transcripts/titanic-como-se-hundio-swaruu-de-erra-habla-con-dale-harder) (2023-11-29; es); passages p0031, p0033, p0034, p0035, p0036. [Structured record](../../records/src-cd32d005f67d.json).
+
 ## Claims filed under other topics
 
 - [src-b2a52629b21d-c02](deep-underground-military-bases.md#src-b2a52629b21d-c02) — Deep underground military bases
@@ -67,6 +75,8 @@ Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-conta
 - [src-dff574e82d59-c04](mars.md#src-dff574e82d59-c04) — Mars
 - [src-9fb50ae5b7f5-c04](galactic-federation.md#src-9fb50ae5b7f5-c04) — Galactic Federation
 - [src-a32bbe4fc74a-c02](terrestrial-science.md#src-a32bbe4fc74a-c02) — Terrestrial science
+- [src-e2c0340ba4de-c02](earth-cabal.md#src-e2c0340ba4de-c02) — Earth Cabal and power structures
+- [src-65adcbdf271b-c03](energy-generation.md#src-65adcbdf271b-c03) — Energy generation technology
 
 ## Review flags
 

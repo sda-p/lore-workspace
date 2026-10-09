@@ -116,6 +116,16 @@ Source: [Veganismo - Agendas - Investigación Taygeteana - NO recomendamos Dieta
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-936377231cd6-c01
+
+Mari says Reptiloids comprise thousands of species; subterranean Kingu include green workers, red military and white ruling castes, and cooperate with human officials.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Los Reptiloides y cómo ven la Tierra y a la Humanidad](https://swaruu.org/transcripts/los-reptiloides-y-como-ven-la-tierra-y-a-la-humanidad) (2024-03-17; es); passages p0004, p0007, p0009, p0011, p0014. [Structured record](../../records/src-936377231cd6.json).
+
+Related topics: [Reptilians](reptilians.md), [Deep underground military bases](deep-underground-military-bases.md).
+
 ## Claims filed under other topics
 
 - [src-afa1873e4741-c02](alien-species.md#src-afa1873e4741-c02) — Alien species and distinctions
@@ -130,6 +140,7 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - [src-de22732f48f1-c01](antarctica.md#src-de22732f48f1-c01) — Antarctica
 - [src-5c6ca52aaabd-c01](intraterrestrial-civilizations.md#src-5c6ca52aaabd-c01) — Intraterrestrial civilizations
 - [src-6d5ee8028d87-c01](orion-grays.md#src-6d5ee8028d87-c01) — Orion Grays
+- [src-936377231cd6-c02](intraterrestrial-civilizations.md#src-936377231cd6-c02) — Intraterrestrial civilizations
 
 ## Review flags
 
@@ -147,5 +158,6 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - medical-diet-claims
 - metaphysical-entity-origin-claims
 - multi-speaker-source
+- p0007 gives contradictory Kingu–Usungal origin accounts.
 - reptilian-species-versus-reptile-egregor
 - species-labels-uncertain

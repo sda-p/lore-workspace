@@ -28,6 +28,10 @@ Source: [Tecnologia Taygeteana 02, replicadores industriales, ropa y maquillaje]
 
 Related topics: [Starship systems](starship-systems.md).
 
+## Claims filed under other topics
+
+- [src-65adcbdf271b-c02](frequency-microscopes.md#src-65adcbdf271b-c02) — Frequency Mapping Microscopes
+
 ## Review flags
 
 - replicator-technology-account

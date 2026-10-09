@@ -52,6 +52,26 @@ Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
 
 Source: [LO DE LOS OVNIS ES UNA TAPADERA O DISTRACTOR PARA OTROS EVENTOS - Athena Swaruu](https://swaruu.org/transcripts/lo-de-los-ovnis-es-una-tapadera-o-distractor-para-otros-eventos-athena-swaruu) (2023-02-18; es); passages p0015, p0017, p0021, p0023. [Structured record](../../records/src-0eb13f79d3c3.json).
 
+### src-fedf11ef16ee-c01
+
+Swaruu (9) says Taygetan ships can disguise as aircraft, including matching transponder data; they may also appear as lights, stars, or invisible.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 12 – OVNIs Disfrazados de Aeronaves Humanas y Mas](https://swaruu.org/transcripts/vida-interestelar-12-ovnis-disfrazados-de-aeronaves-humanas-y-mas) (2026-01-25; es); passages p0003, p0007. [Structured record](../../records/src-fedf11ef16ee.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-fedf11ef16ee-c02
+
+Athena describes two aircraft disguises: IFF-equipped spacecraft or mini-ships shaped like human jets; some fly with conventional jet engines and fuel. She says the latter can blend among ordinary aircraft.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 12 – OVNIs Disfrazados de Aeronaves Humanas y Mas](https://swaruu.org/transcripts/vida-interestelar-12-ovnis-disfrazados-de-aeronaves-humanas-y-mas) (2026-01-25; es); passages p0009, p0010, p0025, p0030. [Structured record](../../records/src-fedf11ef16ee.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Review flags
 
 - Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems

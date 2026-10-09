@@ -1,0 +1,43 @@
+{
+  "source_id": "src-fedf11ef16ee",
+  "snapshot_sha256": "754ed8d0e08b856c07583b57eb108f745589c6c839913043d9cc91316b32ca36",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fedf11ef16ee-c01",
+      "assertion": "Swaruu (9) says Taygetan ships can disguise as aircraft, including matching transponder data; they may also appear as lights, stars, or invisible.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0003", "p0007"],
+      "primary_topic": "aircraft-mimicry",
+      "topics": ["aircraft-mimicry", "taygetans"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fedf11ef16ee-c02",
+      "assertion": "Athena describes two aircraft disguises: IFF-equipped spacecraft or mini-ships shaped like human jets; some fly with conventional jet engines and fuel.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0009", "p0010", "p0025", "p0030"],
+      "primary_topic": "aircraft-mimicry",
+      "topics": ["aircraft-mimicry", "starship-systems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the latter can blend among ordinary aircraft."
+    },
+    {
+      "id": "src-fedf11ef16ee-c03",
+      "assertion": "Yazhi says Toleka's tractor beam inserts aircraft into the atmosphere without lowering the ship; deployment requires operating range, direction, and line of sight.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0039", "p0041", "p0043", "p0045", "p0047"],
+      "primary_topic": "tractor-beams",
+      "topics": ["tractor-beams", "starship-systems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says Federation rules discourage Toleka from descending visibly."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["Other passages discuss craft shielding and propulsion, undersea cargo, cloud camouflage, and the Phoenix Lights."]
+}

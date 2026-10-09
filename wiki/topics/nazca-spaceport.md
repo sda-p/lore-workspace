@@ -80,6 +80,26 @@ Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
 
 Source: [Líneas de Nazca - Que Son? Explicado por un Piloto Extraterrestre - Taygeta (Pleyades)](https://swaruu.org/transcripts/lineas-de-nazca-que-son-explicado-por-un-piloto-extraterrestre-taygeta-pleyades) (2022-09-02; es); passages p0021, p0046. [Structured record](../../records/src-e41d4b9ab4a8.json).
 
+### src-988926b6011b-c03
+
+The account interprets Nazca figures and lines as star maps and spacecraft routes, with landing zones and approach data linked to a subterranean control base. It says the mapping used base-12 mathematics.
+
+Attributed to **Taygetean account, relayed by Robert**; reported; extraction confidence: high.
+
+Source: [Misterios de Orion: La Tierra Antigua - Parte 3](https://swaruu.org/transcripts/misterios-de-orion-la-tierra-antigua-parte-3) (2025-04-27; es); passages p0054, p0060, p0061, p0062, p0063, p0065, p0067. [Structured record](../../records/src-988926b6011b.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-087e0abdd6c2-c03
+
+Mari says official Earth history is false and suspects a recent advanced, possibly interstellar civilization; she interprets Nazca as spacecraft guidance infrastructure.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Están Viviendo las últimas etapas de un Reinicio Cultural y Social Total](https://swaruu.org/transcripts/estan-viviendo-las-ultimas-etapas-de-un-reinicio-cultural-y-social-total) (2024-05-28; es); passages p0023, p0024, p0025, p0026. [Structured record](../../records/src-087e0abdd6c2.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
+
 ## Review flags
 
 - alternate-history\_claims\_attributed

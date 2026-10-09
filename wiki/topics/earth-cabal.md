@@ -3918,6 +3918,334 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 
 Source: [Que esta pasando en Maui, Hawai? Porque los Fuegos? Charla con Athena Swaruu](https://swaruu.org/transcripts/que-esta-pasando-en-maui-hawai-porque-los-fuegos-charla-con-athena-swaruu) (2023-08-18; es); passages p0006, p0007. [Structured record](../../records/src-4a2d4df80743.json).
 
+### src-6b844dadcd54-c03
+
+Yazhi argues extreme oppressive plans would undermine themselves by driving people to collapse the system. She presents this as her expectation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Agenda Positiva - PARTE 2 - Conversación con Yazhi Swaruu](https://swaruu.org/transcripts/agenda-positiva-parte-2-conversacion-con-yazhi-swaruu) (2024-01-02; es); passages p0021, p0022, p0023, p0024, p0025. [Structured record](../../records/src-6b844dadcd54.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-65d76dd19e45-c01
+
+Mari describes Earth’s power as layered from public institutions through secret societies to a hidden level she says receives Federation direction. This is her account of the hierarchy.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Estructura de Poder en la Tierra y el Reinicio o Reseteo Social](https://swaruu.org/transcripts/la-estructura-de-poder-en-la-tierra-y-el-reinicio-o-reseteo-social) (2024-01-16; es); passages p0007, p0008, p0009, p0010, p0012. [Structured record](../../records/src-65d76dd19e45.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-65d76dd19e45-c02
+
+Mari distinguishes catastrophic resets from gradual cultural resets, which she says rely on perception control and altered historical narratives.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Estructura de Poder en la Tierra y el Reinicio o Reseteo Social](https://swaruu.org/transcripts/la-estructura-de-poder-en-la-tierra-y-el-reinicio-o-reseteo-social) (2024-01-16; es); passages p0014, p0015, p0019, p0020. [Structured record](../../records/src-65d76dd19e45.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-65d76dd19e45-c03
+
+Mari says soft resets exploit generational forgetting and remove or reinterpret physical records, including ruins, texts, and printed books.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Estructura de Poder en la Tierra y el Reinicio o Reseteo Social](https://swaruu.org/transcripts/la-estructura-de-poder-en-la-tierra-y-el-reinicio-o-reseteo-social) (2024-01-16; es); passages p0022, p0027, p0028. [Structured record](../../records/src-65d76dd19e45.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-f7ed383444ff-c01
+
+Mari says popular music and lyrics can shape listeners’ moods and normalize emotional patterns; she attributes this to industry control. These are her claims about cultural influence.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Audio y Música. Conspiración detectada](https://swaruu.org/transcripts/audio-y-musica-conspiracion-detectada) (2023-10-08; es); passages p0006, p0007, p0011, p0012. [Structured record](../../records/src-f7ed383444ff.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-26ffc134d92e-c01
+
+Mari alleges that news and media are designed to shape beliefs and keep audiences fearful, while mixing claims she considers true and false.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Sobre los Medios de Comunicación y otros temas relacionados](https://swaruu.org/transcripts/sobre-los-medios-de-comunicacion-y-otros-temas-relacionados) (2024-03-15; es); passages p0014, p0020, p0021, p0017. [Structured record](../../records/src-26ffc134d92e.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-d49c526b01a4-c03
+
+Mari says alcohol weakens higher mental functions, making people easier targets for entity influence and Cabal control; she advises avoiding it beyond food traces. She presents this as a warning.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Deja de beber alcohol](https://swaruu.org/transcripts/deja-de-beber-alcohol) (2023-10-12; es); passages p0034, p0035, p0036, p0037, p0039. [Structured record](../../records/src-d49c526b01a4.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-e2c0340ba4de-c02
+
+Swaruu (9) places Reptiles and archons within the Cabal, with Illuminati as its human elite tier; Deep State actors control government, corporations and black operations.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra y Aneeka de Temmer - Una Mezcla de Preguntas y Respuestas](https://swaruu.org/transcripts/swaruu-de-erra-y-aneeka-de-temmer-una-mezcla-de-preguntas-y-respuestas) (2023-12-04; es); passages p0057, p0059, p0061. [Structured record](../../records/src-e2c0340ba4de.json).
+
+Related topics: [Reptilians](reptilians.md), [Secret Space Program](secret-space-program.md).
+
+### src-970412680838-c03
+
+Mari claims Earth power structures suppress public access to advanced technology, and says useful disclosures would benefit powerful institutions and companies.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Tecnología y por qué no puedo compartir más detalles](https://swaruu.org/transcripts/tecnologia-y-por-que-no-puedo-compartir-mas-detalles) (2024-03-26; es); passages p0006, p0007, p0012. [Structured record](../../records/src-970412680838.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-104ec28109ef-c01
+
+Za’el argues that religion and government education shape social ethics and can cultivate dependence, conformity, and a victim mentality. He presents this as his critique of Earth society.
+
+Attributed to **Za’el**; asserted; extraction confidence: high.
+
+Source: [Falsedad - La Enfermedad de la Sociedad de la Tierra, Parte 3](https://swaruu.org/transcripts/falsedad-la-enfermedad-de-la-sociedad-de-la-tierra-parte-3) (2023-11-02; es); passages p0008, p0009, p0013, p0015, p0017. [Structured record](../../records/src-104ec28109ef.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-104ec28109ef-c02
+
+Za’el says advertising, self-presentation, and workplace communication reward exaggeration, disadvantaging people who aim to be fully candid. He generalizes this as a pervasive social pattern.
+
+Attributed to **Za’el**; asserted; extraction confidence: high.
+
+Source: [Falsedad - La Enfermedad de la Sociedad de la Tierra, Parte 3](https://swaruu.org/transcripts/falsedad-la-enfermedad-de-la-sociedad-de-la-tierra-parte-3) (2023-11-02; es); passages p0018, p0019, p0020, p0021, p0022. [Structured record](../../records/src-104ec28109ef.json).
+
+### src-c3be419397ba-c01
+
+Mari claims public-facing elites cannot leave Earth because Federation controls space traffic, while a hidden power tier can travel offworld with Federation cooperation. She portrays public collapse rumors as fear-inducing messaging.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Las Élites Planean Abandonar la Tierra](https://swaruu.org/transcripts/las-elites-planean-abandonar-la-tierra) (2023-09-30; es); passages p0011, p0012, p0013, p0015, p0019, p0020, p0021, p0026, p0027. [Structured record](../../records/src-c3be419397ba.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-0163d8ab9901-c03
+
+Yazhi doubts Buddha’s historicity, saying he may have been real but later embellished for social control; she says his existence remains unknowable. She also says Buddha inspires her and is respected aboard the ship.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Buda y la Iluminación - se puede alcanzarla? Yazhi Swaruu](https://swaruu.org/transcripts/buda-y-la-iluminacion-se-puede-alcanzarla-yazhi-swaruu) (2023-10-04; es); passages p0016, p0020, p0023. [Structured record](../../records/src-0163d8ab9901.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1be7c951727d-c02
+
+Gosia says Earth authorities conceal extraterrestrials through denial and associations with fiction, entertainment, or conspiracy theories.
+
+Attributed to **Gosia (lesson narrator)**; asserted; extraction confidence: high.
+
+Source: [CLASE 006 - ¿Estamos solos en el Universo? ¿Estan ocultando la verdad?](https://swaruu.org/transcripts/clase-006-estamos-solos-en-el-universo-estan-ocultando-la-verdad) (2025-05-18; es); passages p0010, p0017, p0018. [Structured record](../../records/src-1be7c951727d.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-1233f3d1dc31-c03
+
+Gosia says Earth controllers shape accepted truths and history to serve those in power.
+
+Attributed to **Gosia (lesson narrator)**; asserted; extraction confidence: high.
+
+Source: [CLASE 003 - Que es la Matrix? Libera tu Mente - Tipos de Matrix](https://swaruu.org/transcripts/clase-003-que-es-la-matrix-libera-tu-mente-tipos-de-matrix) (2025-03-11; es); passages p0017, p0018, p0019, p0020. [Structured record](../../records/src-1233f3d1dc31.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-1233f3d1dc31-c05
+
+Gosia warns controllers also infiltrate alternative spaces, including New Age.
+
+Attributed to **Gosia (lesson narrator)**; asserted; extraction confidence: high.
+
+Source: [CLASE 003 - Que es la Matrix? Libera tu Mente - Tipos de Matrix](https://swaruu.org/transcripts/clase-003-que-es-la-matrix-libera-tu-mente-tipos-de-matrix) (2025-03-11; es); passages p0030, p0031. [Structured record](../../records/src-1233f3d1dc31.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-87c6a18876e9-c01
+
+Mari speculates a global flood/reset around 1800–1850 erased Tartaria, citing buried buildings and mudflows.
+
+Attributed to **Mari Swa (narrator)**; speculative; extraction confidence: high.
+
+Source: [¿El último Diluvio Global ocurrió hace menos de 200 años?](https://swaruu.org/transcripts/el-ultimo-diluvio-global-ocurrio-hace-menos-de-200-anos) (2024-11-01; es); passages p0017, p0020, p0021, p0025, p0026. [Structured record](../../records/src-87c6a18876e9.json).
+
+### src-87c6a18876e9-c05
+
+Mari alleges Earth and Federation histories, including ancient texts and the Bible, were edited.
+
+Attributed to **Mari Swa (narrator)**; speculative; extraction confidence: high.
+
+Source: [¿El último Diluvio Global ocurrió hace menos de 200 años?](https://swaruu.org/transcripts/el-ultimo-diluvio-global-ocurrio-hace-menos-de-200-anos) (2024-11-01; es); passages p0005, p0033, p0034, p0035. [Structured record](../../records/src-87c6a18876e9.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-ffe78a37d0f5-c02
+
+Gosia says Space Academy believes government agencies, especially the CIA, created or infiltrated New Age to shape public perception.
+
+Attributed to **Gosia (lesson narrator)**; reported; extraction confidence: high.
+
+Source: [CLASE 004 - Matrix en la Nueva Era - Niveles de Control](https://swaruu.org/transcripts/clase-004-matrix-en-la-nueva-era-niveles-de-control) (2025-03-27; es); passages p0015, p0017, p0019, p0020. [Structured record](../../records/src-ffe78a37d0f5.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-ffe78a37d0f5-c03
+
+Gosia says alternative authorities reinforce each other as controlled opposition, redirecting mainstream skeptics.
+
+Attributed to **Gosia (lesson narrator)**; asserted; extraction confidence: high.
+
+Source: [CLASE 004 - Matrix en la Nueva Era - Niveles de Control](https://swaruu.org/transcripts/clase-004-matrix-en-la-nueva-era-niveles-de-control) (2025-03-27; es); passages p0021, p0023, p0025. [Structured record](../../records/src-ffe78a37d0f5.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-c5120a65216b-c06
+
+Mari alleges Earth Cabal is a Federation branch; Taygetan warships are stationed near Earth.
+
+Attributed to **Mari Swa (narrator)**; reported; extraction confidence: high.
+
+Source: [Cómo es ser Princesa Reina Taygeteana y Youtuber. Parte 1, Reina Alenym](https://swaruu.org/transcripts/como-es-ser-princesa-reina-taygeteana-y-youtuber-parte-1-reina-alenym) (2024-07-16; es); passages p0030, p0032. [Structured record](../../records/src-c5120a65216b.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Taygetans](taygetans.md).
+
+### src-21d1a70ddcdd-c01
+
+Mari alleges Earth politics divide a single power bloc into rival factions, though their conflicts are real.
+
+Attributed to **Mari Swa (narrator)**; speculative; extraction confidence: high.
+
+Source: [¿Deberías preocuparte por las noticias?](https://swaruu.org/transcripts/deberias-preocuparte-por-las-noticias) (2024-10-01; es); passages p0004, p0020, p0021, p0023. [Structured record](../../records/src-21d1a70ddcdd.json).
+
+### src-7507aaf9433f-c05
+
+CIC identified May’s fireball as a rocket component carrying a billionaire’s classified payload.
+
+Attributed to **Mari Swa (narrator, citing Toleka CIC)**; reported; extraction confidence: high.
+
+Source: [Noticias espaciales, 25 de mayo de 2024, Naves, Pájaros Moghyay, Meteorito sobre España, mi YouTube](https://swaruu.org/transcripts/noticias-espaciales-25-de-mayo-de-2024-naves-pajaros-moghyay-meteorito-sobre-espana-mi-youtube) (2024-05-26; es); passages p0029, p0030. [Structured record](../../records/src-7507aaf9433f.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-f2ce50705052-c03
+
+Swaruu (9) describes the Cabal as a multi-species group seeking control of Earth and expansion. She distinguishes it from any single species.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Antiguo Egipto (3) - Meritaten, Exodus, Escocia, Cabal - Swaruu de Erra](https://swaruu.org/transcripts/antiguo-egipto-3-meritaten-exodus-escocia-cabal-swaruu-de-erra) (2025-02-10; es); passages p0029, p0035, p0037, p0038. [Structured record](../../records/src-f2ce50705052.json).
+
+Related topics: [Reptilians](reptilians.md), [Elohi](elohi.md).
+
+### src-bb1546ca3954-c03
+
+Gosia urges listeners to trust intuition and question possible hidden agendas in government, education, science, religion, and medicine. These are framed as questions and feelings to examine, not supported specific findings.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [CLASE 001 - Algo No Esta Bien en la Realidad Alrededor](https://swaruu.org/transcripts/clase-001-algo-no-esta-bien-en-la-realidad-alrededor) (2025-01-28; es); passages p0013. [Structured record](../../records/src-bb1546ca3954.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-a91c2e17d4b8-c01
+
+Gosia describes Earth’s power structure as layered, with secret societies and elite networks behind public governments and the deep state. She presents this as an account based on Taygetan sources.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [CLASE 008 - El Cabal y las Estructuras de Poder de la Tierra: ¿Quién Controla Nuestro Planeta?](https://swaruu.org/transcripts/clase-008-el-cabal-y-las-estructuras-de-poder-de-la-tierra-quien-controla-nuestro-planeta) (2025-10-05; es); passages p0004, p0006, p0007. [Structured record](../../records/src-a91c2e17d4b8.json).
+
+### src-a91c2e17d4b8-c02
+
+Gosia says the cabal’s alleged control extends into public institutions, media, economics, and religious narratives. The transcript attributes specific allegations to Swaruu sources.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [CLASE 008 - El Cabal y las Estructuras de Poder de la Tierra: ¿Quién Controla Nuestro Planeta?](https://swaruu.org/transcripts/clase-008-el-cabal-y-las-estructuras-de-poder-de-la-tierra-quien-controla-nuestro-planeta) (2025-10-05; es); passages p0012, p0013, p0014, p0015. [Structured record](../../records/src-a91c2e17d4b8.json).
+
+### src-9ddbc83ba873-c02
+
+Yazhi argues that harmful agendas eventually undermine themselves and cannot advance indefinitely. She presents this as a metaphysical claim.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [NO HAY AGENDA POSITIVA - LA GENTE COLAPSARÁ MUCHO ANTES - Yazhi Swaruu](https://swaruu.org/transcripts/no-hay-agenda-positiva-la-gente-colapsara-mucho-antes-yazhi-swaruu) (2024-09-12; es); passages p0021, p0022, p0036. [Structured record](../../records/src-9ddbc83ba873.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-345c62ef62b3-c02
+
+Mari alleges that Earth’s controllers suppress public awareness of extraterrestrials to preserve a limited terrestrial worldview. The video presents this as her account, not independently verified evidence.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [La Importancia del Contacto Extraterrestre](https://swaruu.org/transcripts/la-importancia-del-contacto-extraterrestre) (2024-06-02; es); passages p0011, p0012, p0022. [Structured record](../../records/src-345c62ef62b3.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-184076248eae-c02
+
+Mari also argues that controllers shape collective beliefs and perceptions, which can lead people to accept reincarnation-related belief systems. This is her conspiratorial explanation of perceived coercion.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Reencarnación Forzada](https://swaruu.org/transcripts/reencarnacion-forzada) (2024-07-09; es); passages p0021, p0022, p0024. [Structured record](../../records/src-184076248eae.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d80b36b16b30-c02
+
+Mari suspects central Australia has Federation traffic, restricted zones, and Cabal facilities, but says the activity’s purpose is unknown. She explicitly describes the proposed meeting scenario as speculation.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 48, ¿Qué diablos está pasando en Australia?](https://swaruu.org/transcripts/noticias-espaciales-48-que-diablos-esta-pasando-en-australia) (2024-10-22; es); passages p0014, p0017, p0019, p0023. [Structured record](../../records/src-d80b36b16b30.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-087e0abdd6c2-c01
+
+Mari claims internet centralizes control over facts and perception, replaces older information, and enables surveillance of individuals.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Están Viviendo las últimas etapas de un Reinicio Cultural y Social Total](https://swaruu.org/transcripts/estan-viviendo-las-ultimas-etapas-de-un-reinicio-cultural-y-social-total) (2024-05-28; es); passages p0009, p0012, p0013, p0014. [Structured record](../../records/src-087e0abdd6c2.json).
+
+Related topics: [Scalar Internet](scalar-internet.md).
+
+### src-1a481912cd2c-c03
+
+Mari claims controllers keep humanity fearful and divided to shape a low-vibration reality; starseeds can introduce more positive patterns.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Pensamientos Sobre el Astral. Parte 2](https://swaruu.org/transcripts/pensamientos-sobre-el-astral-parte-2) (2024-09-17; es); passages p0010, p0011, p0012, p0013, p0028. [Structured record](../../records/src-1a481912cd2c.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-93c7ee25f685-c03
+
+Mari alleges Earth controllers weaponize minority-rights causes to weaken family and gender-role structures and reduce population. This is her allegation.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Roles de Género y Homosexualidad en los Lyrianos del Espacio y en la Tierra, y Vidas Pasadas](https://swaruu.org/transcripts/roles-de-genero-y-homosexualidad-en-los-lyrianos-del-espacio-y-en-la-tierra-y-vidas-pasadas) (2024-08-23; es); passages p0019, p0021, p0022. [Structured record](../../records/src-93c7ee25f685.json).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c06](galactic-federation.md#src-239a41640463-c06) — Galactic Federation
@@ -4215,6 +4543,41 @@ Source: [Que esta pasando en Maui, Hawai? Porque los Fuegos? Charla con Athena S
 - [src-518eb9044e55-c02](false-alien-invasion.md#src-518eb9044e55-c02) — False alien invasion scenarios
 - [src-7fecc6636778-c03](false-alien-invasion.md#src-7fecc6636778-c03) — False alien invasion scenarios
 - [src-b2b1511e840d-c03](consciousness-metaphysics.md#src-b2b1511e840d-c03) — Consciousness and metaphysics
+- [src-f800679ac838-c01](astrotheology.md#src-f800679ac838-c01) — Astrotheology
+- [src-b0e222a75427-c03](medical-pods.md#src-b0e222a75427-c03) — Medical regeneration pods
+- [src-a133017c5c8d-c01](ritual-symbolism-in-media.md#src-a133017c5c8d-c01) — Ritual symbolism in toys and media
+- [src-bba74bf888bc-c02](galactic-federation.md#src-bba74bf888bc-c02) — Galactic Federation
+- [src-c4b9d7cc5da7-c01](terrestrial-science.md#src-c4b9d7cc5da7-c01) — Terrestrial science
+- [src-459adec9f429-c02](nonhuman-surveillance-drones.md#src-459adec9f429-c02) — Nonhuman surveillance drones
+- [src-156e62aff826-c04](etorthans.md#src-156e62aff826-c04) — Etorthans
+- [src-1be7c951727d-c03](alien-species.md#src-1be7c951727d-c03) — Alien species and distinctions
+- [src-8bff2031cfbf-c01](taygetans.md#src-8bff2031cfbf-c01) — Taygetans
+- [src-0cb068df4dc2-c06](suzy-class-starships.md#src-0cb068df4dc2-c06) — Suzy-class starships
+- [src-c5120a65216b-c01](taygetans.md#src-c5120a65216b-c01) — Taygetans
+- [src-c5120a65216b-c02](taygetans.md#src-c5120a65216b-c02) — Taygetans
+- [src-c5120a65216b-c05](galactic-federation.md#src-c5120a65216b-c05) — Galactic Federation
+- [src-21d1a70ddcdd-c04](consciousness-metaphysics.md#src-21d1a70ddcdd-c04) — Consciousness and metaphysics
+- [src-21d1a70ddcdd-c05](economics.md#src-21d1a70ddcdd-c05) — Economics and resources
+- [src-aa6b810026d1-c02](dimensional-mirroring.md#src-aa6b810026d1-c02) — Dimensional mirroring
+- [src-f720e13266de-c04](galactic-federation.md#src-f720e13266de-c04) — Galactic Federation
+- [src-aa29b86974f4-c01](galactic-federation.md#src-aa29b86974f4-c01) — Galactic Federation
+- [src-a91c2e17d4b8-c03](galactic-federation.md#src-a91c2e17d4b8-c03) — Galactic Federation
+- [src-df9f65c0c57e-c02](extraterrestrial-contact.md#src-df9f65c0c57e-c02) — Extraterrestrial contact and disclosure
+- [src-9f732504c39c-c01](galactic-federation.md#src-9f732504c39c-c01) — Galactic Federation
+- [src-dcb6d4751c4b-c01](astral-entities.md#src-dcb6d4751c4b-c01) — Astral entities
+- [src-264d82b182bc-c01](astral-entities.md#src-264d82b182bc-c01) — Astral entities
+- [src-d14132fc678e-c02](atlantis-lemuria.md#src-d14132fc678e-c02) — Atlantis and Lemuria
+- [src-66545aa0b17c-c01](extraterrestrial-contact.md#src-66545aa0b17c-c01) — Extraterrestrial contact and disclosure
+- [src-4b785d394c48-c01](memory-veil.md#src-4b785d394c48-c01) — Memory Veil
+- [src-188c293a9d24-c01](extraterrestrial-contact.md#src-188c293a9d24-c01) — Extraterrestrial contact and disclosure
+- [src-188c293a9d24-c02](galactic-federation.md#src-188c293a9d24-c02) — Galactic Federation
+- [src-087e0abdd6c2-c02](memory-veil.md#src-087e0abdd6c2-c02) — Memory Veil
+- [src-af6d9052a9bc-c01](galactic-federation.md#src-af6d9052a9bc-c01) — Galactic Federation
+- [src-0c1133da59d5-c03](collective-timeline-influence.md#src-0c1133da59d5-c03) — Collective timeline influence
+- [src-0b85eb2e2485-c01](false-alien-invasion.md#src-0b85eb2e2485-c01) — False alien invasion scenarios
+- [src-1f23f0a67470-c01](galactic-federation.md#src-1f23f0a67470-c01) — Galactic Federation
+- [src-1f23f0a67470-c02](false-alien-invasion.md#src-1f23f0a67470-c02) — False alien invasion scenarios
+- [src-27c6cbbb1fd4-c03](reptilians.md#src-27c6cbbb1fd4-c03) — Reptilians
 
 ## Review flags
 
@@ -4226,9 +4589,15 @@ Source: [Que esta pasando en Maui, Hawai? Porque los Fuegos? Charla con Athena S
 - Australian-traffic-purpose-unknown
 - COVID-and-vaccine-claims-omitted
 - Claims about alien craft, agencies, and political agendas are attributed speculation.
+- Claims about astral surveillance, starseed identification, and hidden population-control agendas are attributed to Mari.
+- Claims about audio frequencies, music effects, and astral entities are attributed to Mari Swaruu.
 - Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
+- Claims about consciousness-based mirrors and quantum computers are attributed to Yazhi.
 - Claims about contemporary institutions or external events reflect the speaker’s interpretation.
+- Claims about enlightenment, Earth’s Matrix, and Buddha are attributed to Yazhi and not independently established.
 - Claims about hidden councils and planetary bases are attributed to Mari Swaruu.
+- Claims about intelligence agencies and controlled opposition are attributed to Gosia and quoted speakers, not independently established.
+- Claims about media control and reality formation are attributed to Mari Swaruu.
 - Claims about secret societies, media manipulation, and resets are attributed to Mari Swaruu.
 - Claims about soul-body separation, telepathy, particle observation, and ancient history are attributed statements, not independently established facts.
 - Claims about the 2022 war and alleged false flags are attributed to Swaruu X (Athena); her account is not independently evidenced in the transcript.
@@ -4246,6 +4615,7 @@ Source: [Que esta pasando en Maui, Hawai? Porque los Fuegos? Charla con Athena S
 - Federation alternately described as Earth controller and nonultimate authority.
 - Federation and New Age claims are Mari’s allegations and interpretations
 - Federation-involvement-in-Earth-politics-varies-across-source-claims
+- Fleet schedules are dated forecasts; the fireball identification is attributed to CIC rather than independent confirmation.
 - Geopolitical analysis includes explicitly labeled speculation and predictions.
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
 - High-impact claims about nuclear energy, radiation, and historical sabotage are attributed to Anéeka; the transcript provides no independent evidence.
@@ -4255,11 +4625,15 @@ Source: [Que esta pasando en Maui, Hawai? Porque los Fuegos? Charla con Athena S
 - Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
 - Leader-contact claim is attributed to Asket in this transcript.
 - Maitre\_relationship\_with\_Reptilians
+- Mari's earthquake-as-offering theory is explicitly speculative and unverified.
 - Metaphysical and political claims are attributed to Mari Swaruu.
+- Metaphysical and political interpretations are attributed to Yazhi.
+- Metaphysical claims about religion and entities are attributed to Mari Swaruu.
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - PCR and vaccine medical claims omitted.
 - Political and military claims are attributed to the report and its sources.
 - Political authority claims are Anéeka’s account of extraterrestrial relations.
+- Political claims about hidden control and historical manipulation are attributed to Mari Swaruu.
 - Proposed intervention remains conditional and internally qualified
 - QAnon-and-COVID-claims-omitted
 - Related Spanish and English articles cover overlapping material but have different scopes; translation equivalence is unconfirmed.
@@ -4269,16 +4643,36 @@ Source: [Que esta pasando en Maui, Hawai? Porque los Fuegos? Charla con Athena S
 - Resource-seeking distinction is level-dependent in Anéeka’s account
 - Substantial thematic overlap with src-bad1e627f547; this separate Spanish transcript has distinct provenance.
 - The CIA and New Age infiltration statements are attributed allegations by the speakers.
+- The account of Australian meetings and the alleged attendee is unverified within the transcript.
 - The alleged CIA organization is explicitly called speculation and unsupported by precise evidence in the interview.
 - The article contains conspiracy narratives about health policy and institutions; these are not included as factual claims.
 - The article presents an unverifiable extraterrestrial political-control narrative; claims are retained as attributed lore.
 - The article promotes a conspiratorial political framework and extraterrestrial governance; claims are retained as attributed lore.
 - The discussion presents competing views on whether nonhuman influence counts as invasion.
 - The document also contains a separate 2021 Aneeka conversation; claims here are attributed only to the named speakers.
+- The introductory lesson advocates suspicion of institutions; its allegations are framed as prompts for questioning rather than substantiated evidence.
+- The lesson advances unverified extraterrestrial claims and presents an idealized account of alien societies.
+- The narrator explicitly calls her historical-reset theory speculative and says she has no proof; preserve this qualification.
+- The political account is Mari's narrative and includes claims about infiltration, propaganda, and Federation control; preserve attribution.
+- The political and news-related claims are Mari's interpretations and allegations; preserve attribution and speculative modality.
 - The report makes contested geopolitical allegations; claims are recorded as attributed statements, not verified facts.
+- The source advances unsupported conspiracy claims about a staged alien event and global control; this is recorded only as an attributed hypothetical.
+- The source frames spiritual and conspiratorial claims as opinion and entertainment; they are unverified.
+- The source gives an unverified account of extraterrestrial traffic and alleged Australian facilities.
+- The source presents unverified extraterrestrial and conspiratorial claims as the speaker’s perspective.
 - The source’s allegations about the Maui disaster and named agencies are unverified and are recorded only as the speaker’s claims.
+- The speaker explicitly says she has no proof and frames her claims as a perspective, not established history.
+- The speaker's historical and reincarnation accounts are her claims, not independently corroborated.
+- The transcript advances conspiratorial and extraterrestrial claims as reported; they are not independently verified.
+- The transcript advances unverified claims of hidden control and infiltration; these are attributed to Athena.
+- The transcript contains extensive allegations about Cinna and DUFES; preserve attribution and do not treat accusations as established facts.
 - The two exchanges differ on the number of Federation bases on Pluto: p0003 says at least three, while p0009 describes one large base as the only physical feature; the discrepancy is unresolved.
+- The video advances paranormal and secret-program claims without independent verification.
+- The video explicitly frames its extraterrestrial and immersion-technology claims as entertainment; they are unverified.
+- The video presents unverified conspiratorial claims and explicitly frames them as the speaker’s interpretation.
+- The video presents unverified paranormal and intelligence claims as entertainment.
 - These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
+- This dialogue presents spiritual and conspiratorial perspectives as reported claims; it is not independently verified.
 - Time-bound 2021 prediction; no outcome asserted.
 - Yazhi acknowledges some individuals may work in humanity’s favor but portrays White Hat organizations as part of the same structure.
 - Yazhi distinguishes individuals who may work for the public from organizations she says are part of the same power structure.
@@ -4543,6 +4937,7 @@ Source: [Que esta pasando en Maui, Hawai? Porque los Fuegos? Charla con Athena S
 - security-claims-attributed
 - segmentation-diff
 - soulless-people-claim
+- source advances unsupported conspiracy claims about hidden elites, secret space travel, and subterranean portal networks
 - source distinguishes historical nonexistence in this timeline from a belief-generated egregore
 - source frames vaccine-related mass death as a hypothetical soul-level exit while explicitly opposing genocide; avoid treating it as endorsed policy
 - source makes disputed wartime claims based on an asserted brief observation; not independently verified

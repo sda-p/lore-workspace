@@ -1,0 +1,91 @@
+{
+  "source_id": "src-156e62aff826",
+  "snapshot_sha256": "e37f56d571486abd76cb7512501d2ddf3ff3ba6da8bfde9481bbf0b3b595530b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-156e62aff826-c01",
+      "assertion": "Mari reports an Etorthan delegation arrived on December 31, 2023, to audit Federation activity around Earth.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-156e62aff826-c02",
+      "assertion": "Mari and the Urmah describe Etorthans as cold and untrustworthy, citing alleged past manipulations and broken promises.",
+      "speaker": "Mari Swa, relaying Urmah views",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0020"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans",
+        "urmah",
+        "orion-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-156e62aff826-c03",
+      "assertion": "Alenym declined Etorthan meetings, citing alleged covert telepathic influence; Mari says attendance was limited to invited representatives.",
+      "speaker": "Alenym and Mari Swa",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans",
+        "telepathic-channeling",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-156e62aff826-c04",
+      "assertion": "Mari speculated that a January 1, 2024 earthquake in Japan might have been an offering to returning Etorthans.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She explicitly said they could not know this for certain."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Mari's earthquake-as-offering theory is explicitly speculative and unverified."
+  ],
+  "coverage_gaps": [
+    "the alleged earthquake-generating technology and other geopolitical claims"
+  ]
+}

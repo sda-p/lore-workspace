@@ -62,7 +62,20 @@ Source: [EL YETI ES REAL Y EXISTE - EL MISTERIO DEL YETI -SASQUATCH - BIGFOOT - 
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-72bb3badacf6-c02
+
+Swaruu (9) says Sasquatch use hidden underground passages and may attack humans as habitat loss limits food. She says several varieties exist.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Pie Grande/Sasquatch - El Incidente del Paso Dyatlov - Swaruu de Erra y Aneeka de Temmer](https://swaruu.org/transcripts/pie-grande-sasquatch-el-incidente-del-paso-dyatlov-swaruu-de-erra-y-aneeka-de-temmer) (2023-11-01; es); passages p0044, p0046, p0047. [Structured record](../../records/src-72bb3badacf6.json).
+
+## Claims filed under other topics
+
+- [src-72bb3badacf6-c01](bigfoot-sasquatch.md#src-72bb3badacf6-c01) — Bigfoot, Sasquatch and Yeti
+
 ## Review flags
 
+- The source contains contradictory explanations of the Dyatlov deaths: Swaruu (9) alleges a Yeti released by Reptilians (p0008), while Anéeka later favors a human tribal attack (p0013,p0021).
 - dyatlov-claim-reversed-in-later-anéeka-account
 - translation-counterpart-src-0a2dec346e2d-expanded-later-account

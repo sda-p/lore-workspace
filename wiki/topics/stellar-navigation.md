@@ -1564,6 +1564,56 @@ Source: [Navegación Estelar, Conceptos Básicos](https://swaruu.org/transcripts
 
 Related topics: [Frequency-map navigation](frequency-map-navigation.md).
 
+### src-68aff81d2865-c03
+
+Mari says advanced time navigation uses gravity-frequency maps to chart mass and object relations within a contained system.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Principios básicos para el auténtico Viaje en el Tiempo, Segunda Parte](https://swaruu.org/transcripts/principios-basicos-para-el-autentico-viaje-en-el-tiempo-segunda-parte) (2024-02-06; es); passages p0024, p0027. [Structured record](../../records/src-68aff81d2865.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-2827f10aa2f1-c01
+
+Gosia argues stellar-navigation lessons also illustrate manifestation: matching one’s vibration to a destination parallels a ship matching its frequency.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: ["Temas Tecnológicos no son Prácticos\!" - Porque No Estoy de Acuerdo y porque Son Importantes](https://swaruu.org/transcripts/temas-tecnologicos-no-son-practicos-porque-no-estoy-de-acuerdo-y-porque-son-importantes) (2024-02-15; es); passages p0005, p0006, p0007. [Structured record](../../records/src-2827f10aa2f1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2827f10aa2f1-c03
+
+Gosia says sharing technical knowledge may help future specialists develop technologies for wider human benefit.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: ["Temas Tecnológicos no son Prácticos\!" - Porque No Estoy de Acuerdo y porque Son Importantes](https://swaruu.org/transcripts/temas-tecnologicos-no-son-practicos-porque-no-estoy-de-acuerdo-y-porque-son-importantes) (2024-02-15; es); passages p0018, p0023, p0024, p0020, p0021, p0022. [Structured record](../../records/src-2827f10aa2f1.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-a7f0d8917568-c02
+
+Mari says interstellar ships use assigned corridors and arrival protocols, comparable to terrestrial air routes.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sobre las Naves Estelares, por qué muchas parecen tan humanas y la Tierra Aislada](https://swaruu.org/transcripts/sobre-las-naves-estelares-por-que-muchas-parecen-tan-humanas-y-la-tierra-aislada) (2024-01-23; es); passages p0011. [Structured record](../../records/src-a7f0d8917568.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-c87798fe694b-c05
+
+Mari says small Federation ships can enter and leave Earth’s atmosphere directly from hyperspace.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mari Swaruu - El Directo - Recopilación de Preguntas y Respuestas](https://swaruu.org/transcripts/mari-swaruu-el-directo-recopilacion-de-preguntas-y-respuestas) (2023-10-24; es); passages p0102, p0103. [Structured record](../../records/src-c87798fe694b.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-62f745a4f503-c03](consciousness-metaphysics.md#src-62f745a4f503-c03) — Consciousness and metaphysics
@@ -1684,15 +1734,26 @@ Related topics: [Frequency-map navigation](frequency-map-navigation.md).
 - [src-c8d611b2d82a-c03](cyndriel.md#src-c8d611b2d82a-c03) — Cyndriel
 - [src-97c055d470ab-c03](hanare-scimitar-fighters.md#src-97c055d470ab-c03) — Hanáre / Scimitar fighters
 - [src-46f3bf392b0e-c02](solar-portal-transit.md#src-46f3bf392b0e-c02) — Solar portal transit
+- [src-c3fbe6d57df9-c02](timeline-branching.md#src-c3fbe6d57df9-c02) — Timeline branching
+- [src-7e2d3128e0af-c03](suzy-class-starships.md#src-7e2d3128e0af-c03) — Suzy-class starships
+- [src-424eb87288db-c01](frequency-map-navigation.md#src-424eb87288db-c01) — Frequency-map navigation
+- [src-988926b6011b-c03](nazca-spaceport.md#src-988926b6011b-c03) — Nazca spaceport
+- [src-9bfba65b62f5-c02](galactic-federation.md#src-9bfba65b62f5-c02) — Galactic Federation
 
 ## Review flags
 
 - A separate interjection by Yazhi attributes Tiahuanaco to Anunnaki/Sumerians; this record keeps Anéeka’s claims distinct.
 - Accounts-in-this-source-give-conflicting-date-estimates-for-the-last-ice-age
+- All claims are attributed to the speaker and reflect her account.
 - All spacecraft specifications and operational claims are attributed to Athena.
 - Anéeka explicitly distinguishes “gravity holes” from black holes.
 - Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights
+- Claims about Federation restrictions and shipboard authority are reported dialogue from a speculative source.
+- Claims about extraterrestrial populations and Earth’s isolation are attributed to Mari Swaruu.
+- Claims about time, gravity, and navigation are attributed to Mari Swaruu.
+- Claims in this essay are Gosia’s commentary about technical education and Taygetan material.
 - Consciousness-based manifestation and hyperspace are presented as the speakers’ model; the source says manifestation is not effortless or automatic
+- Cosmological and navigation claims are attributed to Mari Swaruu.
 - English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
 - Federation-policy\_claims\_attributed
 - Federation-sanctions\_reported

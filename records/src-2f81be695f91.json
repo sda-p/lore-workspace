@@ -1,0 +1,36 @@
+{
+  "source_id": "src-2f81be695f91",
+  "snapshot_sha256": "5435bcd2db50d2ef799640684a7ba18a02479d003c5d874edc55cbdc8f06d718",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2f81be695f91-c01",
+      "assertion": "Mari’s astral model says sleep reduces sensory filtering, while a person’s thoughts and frequency shape dream experience; she claims lower-astral entities seek compatible sleeping people and fear concentrates attention.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "astral-travel",
+      "topics": [
+        "astral-travel",
+        "astral-entities"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She presents this as her interpretation of astral encounters."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source attributes sleep paralysis and sleep apnea partly to entities; avoid presenting these medical claims as verified"
+  ],
+  "coverage_gaps": [
+    "sleep-paralysis and nighttime-visit claims",
+    "reported entity forms and folklore"
+  ]
+}

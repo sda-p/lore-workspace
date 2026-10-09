@@ -94,17 +94,40 @@ Source: [Minitemas con Gosia - Información Extraterrestre - Divulgacion Taygete
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-21d1a70ddcdd-c06
+
+Mari claims Antarctica hosts planetary control and ports to the Federation.
+
+Attributed to **Mari Swa (narrator)**; speculative; extraction confidence: high.
+
+Source: [¿Deberías preocuparte por las noticias?](https://swaruu.org/transcripts/deberias-preocuparte-por-las-noticias) (2024-10-01; es); passages p0022. [Structured record](../../records/src-21d1a70ddcdd.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-65adcbdf271b-c01
+
+Yazhi claims three Arks: in Nevada's S-4, an underground Russian Antarctic Vostok base, and aboard Sadicleya.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Mini-Mini Temas - Rapidas Preguntas y Respuestas (Yazhi y Athena Swaruu)](https://swaruu.org/transcripts/mini-mini-temas-rapidas-preguntas-y-respuestas-yazhi-y-athena-swaruu) (2024-11-20; es); passages p0004. [Structured record](../../records/src-65adcbdf271b.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-de22732f48f1-c03](atlantis-lemuria.md#src-de22732f48f1-c03) — Atlantis and Lemuria
 - [src-ea66ccbb5872-c02](viera.md#src-ea66ccbb5872-c02) — Viera
+- [src-34c344a6ae16-c01](etorthans.md#src-34c344a6ae16-c01) — Etorthans
 
 ## Review flags
 
 - Antarctica and Cabal allegations are attributed to Dhor Káal’él and are not independently evidenced in the transcript.
 - QAnon-and-COVID-claims-omitted
+- The political and news-related claims are Mari's interpretations and allegations; preserve attribution and speculative modality.
 - antarctic-base-conspiracy-claims
 - conspiracy-claims-attributed
 - covid-and-vaccine-claims-omitted
 - hidden-inner-earth-entrance-claim
 - near-duplicate-of-src-876a8c6154df
+- source chronology: title dates update 31 Jan 2024; p0004 says Etorthan arrived 31 Dec 2024 before meetings on 27–28 Jan 2024

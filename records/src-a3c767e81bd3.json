@@ -1,0 +1,26 @@
+{
+  "source_id": "src-a3c767e81bd3",
+  "snapshot_sha256": "b235ae7351cb3e32a43ee2dd2e3a42957ba2b8b136abe473acc45b2502cd9a1d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a3c767e81bd3-c01",
+      "assertion": "Gosia’s manifestation model holds that outcomes reflect deep subconscious and unconscious beliefs as well as conscious intentions; conflicting patterns can impede what a person consciously wants.",
+      "speaker": "Gosia",
+      "paragraph_ids": ["p0012", "p0013", "p0014", "p0017", "p0018", "p0021"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "perceptual-density"],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "The source frames this as a metaphysical account of manifestation, not an established psychological mechanism."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source presents unsupported claims about manifestation and subconscious causation; these are recorded as an attributed model."
+  ],
+  "coverage_gaps": [
+    "the source’s discussion of practical action and focused intention",
+    "the source’s advice about shadow work and integrating past experiences"
+  ]
+}

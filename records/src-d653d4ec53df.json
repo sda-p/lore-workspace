@@ -1,0 +1,52 @@
+{
+  "source_id": "src-d653d4ec53df",
+  "snapshot_sha256": "eb061ff2ab1d511580f090b28acd52906308d58cb3bc5f33485d50d1bb6aebbe",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d653d4ec53df-c01",
+      "assertion": "Yazhi says people collectively created the corrupt Federation, with some incarnating to experience it and others to repair it; she frames it as a mirror requiring individual shadow work.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008",
+        "p0014",
+        "p0018"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the reflection differs by person and cannot be resolved for someone else."
+    },
+    {
+      "id": "src-d653d4ec53df-c02",
+      "assertion": "Yazhi distinguishes a corrupt lower Federation from a non-corrupt Federation in higher planes, where the lower one is viewed as part of incarnate experience.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the corrupt Federation receives most attention."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Yazhi’s stated need to be heard",
+    "her speculation about boredom in higher planes"
+  ]
+}

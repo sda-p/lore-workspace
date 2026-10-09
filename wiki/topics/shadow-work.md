@@ -112,6 +112,16 @@ Source: [DUENDES ADAS SIRENAS DRAGONES - PROTEGIENDO TU ENERGÍA CONTRA INFLUENC
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-48d158152f65-c02
+
+Za'el advises examining one's feelings, leaving harmful people when possible, and rebuilding inner strength when circumstances cannot change. He prioritizes personal wellbeing over forcing others to change.
+
+Attributed to **Za'el**; asserted; extraction confidence: high.
+
+Source: [¿Puede alguien hacerte compatible con Eventos Negativos?](https://swaruu.org/transcripts/puede-alguien-hacerte-compatible-con-eventos-negativos) (2023-12-06; es); passages p0011, p0013, p0014, p0016, p0017, p0018. [Structured record](../../records/src-48d158152f65.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-359fd1aab210-c03](individual-ascension.md#src-359fd1aab210-c03) — Individual ascension

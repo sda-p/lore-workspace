@@ -1,0 +1,58 @@
+{
+  "source_id": "src-013f3b7ef0b7",
+  "snapshot_sha256": "69b0c6249c4faba4b5626f5a24ac4da77ad2e14a2498722b5369e372d69acec9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-013f3b7ef0b7-c01",
+      "assertion": "Athena describes Taygetan crystal-core zero-point reactors as 12 nested toroidal layers of synthetic quartz particles, with AI-controlled gravity and frequency generators regulating output through density and rotation.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0015",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "crystal-core-zero-point-reactors",
+      "topics": [
+        "crystal-core-zero-point-reactors",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says reactor size varies by vessel and function."
+    },
+    {
+      "id": "src-013f3b7ef0b7-c02",
+      "assertion": "The article describes plasma turbines with counter-rotating layers; newer versions use AI-controlled polymorphic metal to create rotation without moving parts and can generate thrust or a vessel-wrapping field.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0032",
+        "p0035",
+        "p0042",
+        "p0043",
+        "p0047",
+        "p0050",
+        "p0054"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "crystal-core-zero-point-reactors",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The plasma-jet mode produces thrust; the wrapped-field mode enables frequency jumps."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "reactor room and control panels",
+    "gravitational maneuvering units",
+    "reactor output and sizes"
+  ]
+}

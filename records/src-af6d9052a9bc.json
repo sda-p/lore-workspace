@@ -1,0 +1,68 @@
+{
+  "source_id": "src-af6d9052a9bc",
+  "snapshot_sha256": "cec8664d1a9e2efacced38014f51ee3f1cf22d4197c4eeaa816d6814dfb809fb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-af6d9052a9bc-c01",
+      "assertion": "Mari describes a higher Galactic Federation layer as controlling lower levels, including regressive factions, and alleges it manipulates species toward an exploitative agenda.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is Mari’s account."
+    },
+    {
+      "id": "src-af6d9052a9bc-c02",
+      "assertion": "Mari says existential realms arise from shared perception and similar ideas; higher-vibration beings can perceive lower realms, while lower beings cannot perceive higher ones.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "galactic-consciousness"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af6d9052a9bc-c03",
+      "assertion": "Mari portrays high-vibration beings as manifesting entire realms and characters through thought, then incarnating in those creations for experience.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "galactic-consciousness",
+      "topics": [
+        "galactic-consciousness",
+        "soul-loop-reincarnation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other metaphysical claims about duality, Source, time, and reality omitted"
+  ]
+}

@@ -3656,6 +3656,148 @@ Source: [REVELACIONES DE UNA MUJER EXTRATERRESTRE DE TAYGETA - Aneeka de Temmer]
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-c59b5aacbe03-c01
+
+Mari says she cannot identify the Peruvian mummies; their condition and available online data leave authenticity uncertain, though she considers forgery likely. She says they may be real or fabricated.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Momias Peruanas en los Medios, nunca hay pruebas suficientes sobre extraterrestres](https://swaruu.org/transcripts/momias-peruanas-en-los-medios-nunca-hay-pruebas-suficientes-sobre-extraterrestres) (2023-09-26; es); passages p0008, p0010, p0012, p0021, p0027. [Structured record](../../records/src-c59b5aacbe03.json).
+
+### src-c59b5aacbe03-c03
+
+Mari claims the Lloyd Pye “Starchild” skull shows nonhuman anatomy and DNA, while acknowledging that her interpretation relies on her group’s records.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Momias Peruanas en los Medios, nunca hay pruebas suficientes sobre extraterrestres](https://swaruu.org/transcripts/momias-peruanas-en-los-medios-nunca-hay-pruebas-suficientes-sobre-extraterrestres) (2023-09-26; es); passages p0017, p0019. [Structured record](../../records/src-c59b5aacbe03.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-dc11ccfaa156-c01
+
+Mari Swa uses alien for species harmful to human-Lyrians and extraterrestrial for people born off Earth, humanlike or not. These are her preferred distinctions, not universal definitions.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Sobre Aliens, Extraterrestres y Cepillos de Dientes](https://swaruu.org/transcripts/sobre-aliens-extraterrestres-y-cepillos-de-dientes) (2024-03-03; es); passages p0002, p0003. [Structured record](../../records/src-dc11ccfaa156.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-dc11ccfaa156-c02
+
+Mari says off-world human-Lyrian peoples use familiar tools such as toothbrushes and wheels alongside advanced technology. She says advanced devices do not always replace simple tools.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Sobre Aliens, Extraterrestres y Cepillos de Dientes](https://swaruu.org/transcripts/sobre-aliens-extraterrestres-y-cepillos-de-dientes) (2024-03-03; es); passages p0022, p0023, p0024. [Structured record](../../records/src-dc11ccfaa156.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-9111b6efe5ee-c01
+
+Mari says criminal dissidents may flee holistic societies in starships and establish settlements that raid nearby worlds and vessels.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Civilizaciones Disidentes, Separatistas y Piratas Espaciales](https://swaruu.org/transcripts/civilizaciones-disidentes-separatistas-y-piratas-espaciales) (2023-11-17; es); passages p0018, p0019, p0021, p0022, p0023, p0024. [Structured record](../../records/src-9111b6efe5ee.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-9111b6efe5ee-c03
+
+Mari argues morality depends on individual actions and interests, not species; any lineage can include good or harmful people.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Civilizaciones Disidentes, Separatistas y Piratas Espaciales](https://swaruu.org/transcripts/civilizaciones-disidentes-separatistas-y-piratas-espaciales) (2023-11-17; es); passages p0015, p0016, p0017. [Structured record](../../records/src-9111b6efe5ee.json).
+
+Related topics: [Reptilians](reptilians.md), [Taygetans](taygetans.md).
+
+### src-1be7c951727d-c01
+
+Gosia says the universe has intelligent life, including humanoid and nonhumanoid species with varied appearances and customs.
+
+Attributed to **Gosia (lesson narrator)**; asserted; extraction confidence: high.
+
+Source: [CLASE 006 - ¿Estamos solos en el Universo? ¿Estan ocultando la verdad?](https://swaruu.org/transcripts/clase-006-estamos-solos-en-el-universo-estan-ocultando-la-verdad) (2025-05-18; es); passages p0021, p0022, p0025. [Structured record](../../records/src-1be7c951727d.json).
+
+### src-1be7c951727d-c03
+
+Gosia says Earth humans are kept in an isolation narrative despite extraterrestrial visits over millennia.
+
+Attributed to **Gosia (lesson narrator)**; asserted; extraction confidence: high.
+
+Source: [CLASE 006 - ¿Estamos solos en el Universo? ¿Estan ocultando la verdad?](https://swaruu.org/transcripts/clase-006-estamos-solos-en-el-universo-estan-ocultando-la-verdad) (2025-05-18; es); passages p0015, p0025. [Structured record](../../records/src-1be7c951727d.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-1be7c951727d-c04
+
+Gosia interprets ancient deities and elongated-skull traditions as possible memories or imitations of extraterrestrial visitors.
+
+Attributed to **Gosia (lesson narrator)**; speculative; extraction confidence: high.
+
+Source: [CLASE 006 - ¿Estamos solos en el Universo? ¿Estan ocultando la verdad?](https://swaruu.org/transcripts/clase-006-estamos-solos-en-el-universo-estan-ocultando-la-verdad) (2025-05-18; es); passages p0026, p0027. [Structured record](../../records/src-1be7c951727d.json).
+
+### src-f2ce50705052-c04
+
+Swaruu (9) says morality depends on individuals, not species; she cites positive Draconians and negative Taygetans.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Antiguo Egipto (3) - Meritaten, Exodus, Escocia, Cabal - Swaruu de Erra](https://swaruu.org/transcripts/antiguo-egipto-3-meritaten-exodus-escocia-cabal-swaruu-de-erra) (2025-02-10; es); passages p0032, p0033. [Structured record](../../records/src-f2ce50705052.json).
+
+Related topics: [Taygetans](taygetans.md), [Reptilians](reptilians.md).
+
+### src-76114790928e-c02
+
+Mari concludes extraterrestrials are also interdimensional, with degree shaped by cultural isolation and differing perceptions. She says the Federation helps synchronize member perceptions.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Extraterrestre o Interdimensional](https://swaruu.org/transcripts/extraterrestre-o-interdimensional) (2024-10-18; es); passages p0014, p0016, p0017, p0018. [Structured record](../../records/src-76114790928e.json).
+
+Related topics: [Perceptual density](perceptual-density.md), [Galactic Federation](galactic-federation.md).
+
+### src-76114790928e-c04
+
+Mari claims life is common across the universe, including isolated intelligent species with distinct social and perceptual realities.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Extraterrestre o Interdimensional](https://swaruu.org/transcripts/extraterrestre-o-interdimensional) (2024-10-18; es); passages p0014, p0015, p0016. [Structured record](../../records/src-76114790928e.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-4ac5bfb36d51-c03
+
+Anéeka says human-like physical forms occur widely across the galaxy, with many intermediate forms between humanlike and nonhuman races.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Razas Extraterrestres y los Humanos - Intercambios Culturales en Sociedades Estelares](https://swaruu.org/transcripts/razas-extraterrestres-y-los-humanos-intercambios-culturales-en-sociedades-estelares) (2024-11-28; es); passages p0007, p0008. [Structured record](../../records/src-4ac5bfb36d51.json).
+
+Related topics: [Lyrians](lyrians.md).
+
+### src-61375db7ccbc-c01
+
+Gosia says humanoid extraterrestrials are common and many could pass unnoticed among humans, while differing species range from very similar to physically unfamiliar.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [CLASE 007 - Gente Extraterrestre que se Parece a Nosotros \| Divulgación ET 2025](https://swaruu.org/transcripts/clase-007-gente-extraterrestre-que-se-parece-a-nosotros-divulgacion-et-2025) (2025-06-02; es); passages p0003, p0005. [Structured record](../../records/src-61375db7ccbc.json).
+
+### src-6651f8ddc19a-c01
+
+Yazhi says she was biologically eight and not the same species as Taygetans.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Sophia Swaruu (Yazhi) - Problemas con la Edad (PARTE 1)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-sophia-swaruu-yazhi-problemas-con-la-edad-parte-1) (2026-03-22; es); passages p0061, p0135. [Structured record](../../records/src-6651f8ddc19a.json).
+
+Related topics: [Swaruunians](swaruunians.md).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c03](galactic-federation.md#src-239a41640463-c03) — Galactic Federation
@@ -3918,6 +4060,20 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-b4532dd6ab33-c04](starseed-guides.md#src-b4532dd6ab33-c04) — Starseed guides
 - [src-8582fea5414c-c04](galactic-federation.md#src-8582fea5414c-c04) — Galactic Federation
 - [src-c504ffb5de14-c04](artificial-portals.md#src-c504ffb5de14-c04) — Artificial portals
+- [src-9111b6efe5ee-c04](galactic-federation.md#src-9111b6efe5ee-c04) — Galactic Federation
+- [src-bc06a6f6252f-c02](urmah.md#src-bc06a6f6252f-c02) — Urmah
+- [src-88b1b2aa8184-c01](urmah.md#src-88b1b2aa8184-c01) — Urmah
+- [src-321671be4604-c02](solatians.md#src-321671be4604-c02) — Solatians
+- [src-1be7c951727d-c02](earth-cabal.md#src-1be7c951727d-c02) — Earth Cabal and power structures
+- [src-1fea626a42d3-c01](elohi.md#src-1fea626a42d3-c01) — Elohi
+- [src-13a3aaa8e506-c01](urmah.md#src-13a3aaa8e506-c01) — Urmah
+- [src-04cc258b5444-c02](galactic-federation.md#src-04cc258b5444-c02) — Galactic Federation
+- [src-5fb1a6c15757-c01](spatium-lupi.md#src-5fb1a6c15757-c01) — Spatium Lupi
+- [src-a47faa48bd71-c02](alcyone-council.md#src-a47faa48bd71-c02) — Alcyone Council
+- [src-54a6b17189d3-c03](lyrians.md#src-54a6b17189d3-c03) — Lyrians
+- [src-4ac5bfb36d51-c01](starseeds.md#src-4ac5bfb36d51-c01) — Starseeds
+- [src-61375db7ccbc-c02](lyrians.md#src-61375db7ccbc-c02) — Lyrians
+- [src-b76386ff7cd8-c03](galactic-federation.md#src-b76386ff7cd8-c03) — Galactic Federation
 
 ## Review flags
 
@@ -3928,10 +4084,14 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Anéeka says Reptilian exploitation is partial, not a complete account of Earth events.
 - Australian-traffic-purpose-unknown
 - Billy\_Meier\_photo\_authenticity\_uncertain
+- Claims about Solatians, telepathic projection, and starseed intervention are attributed to Mari and not independently established.
+- Claims about Urmah, ancient Egypt, extraterrestrial influence, and human origins are attributed to Mari and are unverified.
 - Claims about soul-body separation, telepathy, particle observation, and ancient history are attributed statements, not independently established facts.
+- Claims about species, diplomacy, and telepathic influence are attributed to Arishah and not independently established.
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
 - Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
 - Contains extraordinary extraterrestrial and historical claims; attribute to speakers, not verified history.
+- Cosmological and consciousness claims are attributed to Mari.
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
 - Federation and New Age claims are Mari’s allegations and interpretations
 - Federation-as-controller claim conflicts with mentor framing within transcript
@@ -3940,6 +4100,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Higher-level free-will explanation is challenged by Gosia
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - Maitre\_relationship\_with\_Reptilians
+- Mari reports a personal medical experience; do not generalize it beyond her account.
 - Meteor-intervention and Earth-consciousness claims are source-attributed.
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Political authority claims are Anéeka’s account of extraterrestrial relations.
@@ -3948,12 +4109,18 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Resource motives and fear-feeding are speaker-attributed metaphysical claims
 - Resource-seeking distinction is level-dependent in Anéeka’s account
 - Species summaries are broad and based on accounts attributed to orbital sources
+- Specimen authenticity and alleged scientific findings are attributed claims, not independently verified.
 - Statements about ancient warfare, archaeology, and electoral representation are attributed to Anéeka.
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - The CIA and New Age infiltration statements are attributed allegations by the speakers.
+- The account presents unverified extraterrestrial species and alternative-history claims.
 - The cloning and genetic-control statements are Swaruu’s claims.
+- The source makes contested political allegations, including reported harm to delegates and claims about Federation propaganda.
+- The speaker's historical and reincarnation accounts are her claims, not independently corroborated.
+- The transcript gives several speculative ancient-history identifications; preserve speaker-specific attribution and uncertainty.
 - These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
 - Weapon and defense capabilities are source-attributed technical claims
+- Yazhi's account of the pod outcome conflicts with Alenym's observation of her apparent age; the transcript does not resolve this.
 - abduction-motive-varies
 - abduction-mutilation-claims
 - agency\_and\_noninterference

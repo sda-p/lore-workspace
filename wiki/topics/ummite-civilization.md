@@ -22,6 +22,7 @@ Related topics: [Taygetans](taygetans.md).
 
 - [src-d5c29da42755-c03](alien-species.md#src-d5c29da42755-c03) — Alien species and distinctions
 - [src-bfae5ca72b24-c05](alien-species.md#src-bfae5ca72b24-c05) — Alien species and distinctions
+- [src-b76386ff7cd8-c03](galactic-federation.md#src-b76386ff7cd8-c03) — Galactic Federation
 
 ## Review flags
 

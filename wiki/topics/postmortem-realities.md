@@ -1536,6 +1536,56 @@ Source: [El lado Astral, el mundo Físico y su Matrix, lo que los hace y lo que 
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-a0e7e195133c-c03
+
+Mari says ghosts are commonly accepted in Taygeta and its lower astral is peaceful, so the new crew did not fear paranormal activity.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [4 Nuevos Miembros de la Tripulación a Bordo, Parte 2, Fuerte Choque Cultural](https://swaruu.org/transcripts/4-nuevos-miembros-de-la-tripulacion-a-bordo-parte-2-fuerte-choque-cultural) (2023-11-13; es); passages p0028, p0029. [Structured record](../../records/src-a0e7e195133c.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-ce9740898436-c03
+
+Mari says people carry identity and values after death; low-vibration souls remain in self-limited realms.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Sobre Almas y Entidades, la Vida y la Muerte desde el punto de vista del Espíritu](https://swaruu.org/transcripts/sobre-almas-y-entidades-la-vida-y-la-muerte-desde-el-punto-de-vista-del-espiritu) (2024-05-17; es); passages p0011, p0012, p0013. [Structured record](../../records/src-ce9740898436.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-ce9740898436-c04
+
+Mari says high-vibration souls expand beyond embodied ego, then may remain astral or reincarnate. Identity expands rather than disappears.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Sobre Almas y Entidades, la Vida y la Muerte desde el punto de vista del Espíritu](https://swaruu.org/transcripts/sobre-almas-y-entidades-la-vida-y-la-muerte-desde-el-punto-de-vista-del-espiritu) (2024-05-17; es); passages p0014, p0015, p0016, p0019, p0020. [Structured record](../../records/src-ce9740898436.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-792197c0df60-c01
+
+Mari Swa says the astral body reflects an individual's self-image and strongest attachments; identifying only with a biological body can keep souls in material realms and lead to repeated, uncontrolled reincarnation. She describes astral experience as subjective and shaped by each person's self-concept.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Guerreros Astrales, Segunda Parte](https://swaruu.org/transcripts/guerreros-astrales-segunda-parte) (2024-10-04; es); passages p0010, p0011, p0012. [Structured record](../../records/src-792197c0df60.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-792197c0df60-c02
+
+Mari Swa says astral realms are co-manifested by their inhabitants and shaped by their beliefs, values, and vibration, producing different heavens or hells for different souls. In her account, no single astral realm necessarily applies to everyone.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Guerreros Astrales, Segunda Parte](https://swaruu.org/transcripts/guerreros-astrales-segunda-parte) (2024-10-04; es); passages p0013, p0014, p0020, p0021, p0022, p0023. [Structured record](../../records/src-792197c0df60.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-331beeab2088-c01](consciousness-metaphysics.md#src-331beeab2088-c01) — Consciousness and metaphysics
@@ -1583,17 +1633,23 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-39a9c48cca4f-c01](astral-entities.md#src-39a9c48cca4f-c01) — Astral entities
 - [src-0c4c4d1e9b67-c02](archons-and-demons.md#src-0c4c4d1e9b67-c02) — Archons and demons
 - [src-d834e6dbdec7-c01](consciousness-metaphysics.md#src-d834e6dbdec7-c01) — Consciousness and metaphysics
+- [src-ecffdc685a7f-c03](reincarnation-cycles.md#src-ecffdc685a7f-c03) — Reincarnation and karmic cycles
+- [src-8736a59bfcab-c01](consciousness-metaphysics.md#src-8736a59bfcab-c01) — Consciousness and metaphysics
+- [src-8736a59bfcab-c02](memory-veil.md#src-8736a59bfcab-c02) — Memory Veil
 
 ## Review flags
 
+- Afterlife and religious claims are attributed to Mari.
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
 - Contradictory descriptions may be valid from different perspectives.
 - English source src-efce96683138 closely translates the full Spanish article; no substantive additions found.
 - Federation-arguments\_reported
 - Mari Swaruu distinguishes physical pain, which she says ends, from psychological pain that may persist after death.
 - Mari Swaruu presents different possible outcomes after death as depending on the individual’s perception and outlook.
+- Reincarnation and afterlife claims are attributed to Mari; she acknowledges differing interpretations.
 - Reincarnation is explicitly an assumed premise; psychic account is reported, while ethical critique is Mari’s
 - The author presents the memory-location and disease examples as metaphysical claims.
+- The source presents metaphysical claims about astral realms, reincarnation, and postmortem destinations.
 - The transcript makes spiritual claims about death and reincarnation; they are attributed to Za’el and not verified.
 - These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
 - Vaccine causation and medical claims omitted.

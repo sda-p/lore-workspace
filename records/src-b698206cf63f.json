@@ -1,0 +1,35 @@
+{
+  "source_id": "src-b698206cf63f",
+  "snapshot_sha256": "60e2056a0656343f78b866ec6399aec59ad271b9ebc0482e4684004be7844aec",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b698206cf63f-c01",
+      "assertion": "Mari Swaruu alleges a surge in low-astral activity after the April 8, 2024 eclipse, which she says ship sensors and screened online reports indicated, including frequency hotspots where astral and material ranges overlap.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0011",
+        "p0013",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She acknowledges most online content is false and says videos alone prove nothing; the report is framed as entertainment."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source presents unverifiable paranormal claims and conspiratorial explanations of current events."
+  ],
+  "coverage_gaps": [
+    "The video also attributes portal openings and paranormal danger to alleged rituals and gives advice about purported spirits."
+  ]
+}

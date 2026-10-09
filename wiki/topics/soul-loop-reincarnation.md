@@ -158,6 +158,46 @@ Source: [Extracciones y sus problemas. Parte 3](https://swaruu.org/transcripts/e
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-4603aaa764e8-c02
+
+Mari Swaruu says Keta and Beth were successive lives of the same soul, repeating a maternal role. She describes this as a harder repetition of the same family pattern.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Un ejemplo perfecto de cómo un Alma se Apega Fuertemente a su Vida Pasada, una historia real](https://swaruu.org/transcripts/un-ejemplo-perfecto-de-como-un-alma-se-apega-fuertemente-a-su-vida-pasada-una-historia-real) (2023-10-20; es); passages p0054, p0055, p0060. [Structured record](../../records/src-4603aaa764e8.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-b310ed9c99a3-c01
+
+CIC says Swaruu 2–9 were reincarnation loops with memory; the loop ended after Swaruu 9.
+
+Attributed to **CIC team**; asserted; extraction confidence: high.
+
+Source: [Más sobre Genética, Swaruuneanas y Otras Cosas, Video de Reacción (Actualizado)](https://swaruu.org/transcripts/mas-sobre-genetica-swaruuneanas-y-otras-cosas-video-de-reaccion-actualizado) (2024-08-09; es); passages p0003, p0004. [Structured record](../../records/src-b310ed9c99a3.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-4b785d394c48-c02
+
+Mari says societies that remember past lives may be calmer but tend toward social and technological stasis until new threats spur development. She cites Taygetan starship development as an example.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Cómo es Recordar Vidas Pasadas](https://swaruu.org/transcripts/como-es-recordar-vidas-pasadas) (2024-08-04; es); passages p0016, p0017, p0018, p0020, p0021. [Structured record](../../records/src-4b785d394c48.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-4b785d394c48-c03
+
+Mari says past-life memories vary, can shape present values and personality, and may be set aside when someone chooses a new identity. She describes this as her own choice.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Cómo es Recordar Vidas Pasadas](https://swaruu.org/transcripts/como-es-recordar-vidas-pasadas) (2024-08-04; es); passages p0023, p0025, p0029, p0030. [Structured record](../../records/src-4b785d394c48.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-24baeece96cc-c03](astral-entities.md#src-24baeece96cc-c03) — Astral entities
@@ -167,6 +207,10 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-06cd5c8d1a9d-c03](consciousness-metaphysics.md#src-06cd5c8d1a9d-c03) — Consciousness and metaphysics
 - [src-06cd5c8d1a9d-c04](consciousness-metaphysics.md#src-06cd5c8d1a9d-c04) — Consciousness and metaphysics
 - [src-06cd5c8d1a9d-c05](consciousness-metaphysics.md#src-06cd5c8d1a9d-c05) — Consciousness and metaphysics
+- [src-01e4c14aa99c-c01](consciousness-metaphysics.md#src-01e4c14aa99c-c01) — Consciousness and metaphysics
+- [src-af6d9052a9bc-c03](galactic-consciousness.md#src-af6d9052a9bc-c03) — Galactic consciousness
+- [src-bf20b9538884-c02](galactic-consciousness.md#src-bf20b9538884-c02) — Galactic consciousness
+- [src-35d30319a131-c03](starseeds.md#src-35d30319a131-c03) — Starseeds
 
 ## Review flags
 
@@ -176,4 +220,6 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Mari Swaruu presents different possible outcomes after death as depending on the individual’s perception and outlook.
 - Past-life memories are claims reported by Mari, not independently verified.
 - Swaruu 9 describes frequency-controlled containers while Athena rejects literal soul traps; their different framings should remain unresolved
+- The narrator distinguishes her metaphysical account from Earth science and says it lacks the evidence conventionally required; preserve attribution.
+- The source says names were changed; the identity claims are the narrator's account of private crew cases.
 - Za’el calls her account a personal view and says she is open to changing it.

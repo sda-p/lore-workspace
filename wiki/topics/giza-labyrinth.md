@@ -28,8 +28,13 @@ Source: [LA RAZA NEGRA Y LAS FOTOS QUE NO DEBERIAN EXISTIR DE LA ESFINGE DE GIZA
 
 Related topics: [Great Pyramid of Giza](great-pyramid-of-giza.md).
 
+## Claims filed under other topics
+
+- [src-88b1b2aa8184-c02](urmah.md#src-88b1b2aa8184-c02) — Urmah
+
 ## Review flags
 
+- Claims about Urmah, ancient Egypt, extraterrestrial influence, and human origins are attributed to Mari and are unverified.
 - Racial and archaeological claims are attributed to Yazhi and are not established findings.
 - conflicting-pyramid-dates
 - giza-base-account

@@ -168,6 +168,74 @@ Source: [ASTROLOGÍA Y LA TIERRA PLANA CONTACTO EXTRATERRESTRE](https://swaruu.o
 
 Related topics: [Alien species and distinctions](alien-species.md), [Astral entities](astral-entities.md).
 
+### src-75b74d0d8734-c03
+
+Mari reports claims that the Cabal may activate CERN as a portal to exploit the eclipse-thinned barrier between the lower astral and living world. She presents the activation as alleged.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Eclipse, 8 de Abril, 2024](https://swaruu.org/transcripts/eclipse-8-de-abril-2024) (2024-04-05; es); passages p0023. [Structured record](../../records/src-75b74d0d8734.json).
+
+### src-f9552f88d23a-c01
+
+Anéeka says tractor-beam portals target a room by mapping its location and frequency; each shipboard unit is a three-meter sphere using several gigawatts. She says opening one creates a detectable magnetic-energy node.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Portales - Conversaciones con Aneeka de Temmer y el Directo de Aneeka con Robert](https://swaruu.org/transcripts/portales-conversaciones-con-aneeka-de-temmer-y-el-directo-de-aneeka-con-robert) (2024-04-20; es); passages p0004, p0008, p0012, p0014, p0020. [Structured record](../../records/src-f9552f88d23a.json).
+
+Related topics: [Tractor beams](tractor-beams.md).
+
+### src-f9552f88d23a-c02
+
+Anéeka describes portal machinery as a computer-controlled electromagnetic toroid that shifts matter to a destination frequency. A complete room-to-room bridge uses about 150 gigawatts.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Portales - Conversaciones con Aneeka de Temmer y el Directo de Aneeka con Robert](https://swaruu.org/transcripts/portales-conversaciones-con-aneeka-de-temmer-y-el-directo-de-aneeka-con-robert) (2024-04-20; es); passages p0032, p0036, p0040, p0089. [Structured record](../../records/src-f9552f88d23a.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-e50e737a17f6-c03
+
+Mari says time travel can use a starship or an artificial portal; portal transit may be one-way without a return portal.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Principios básicos para el auténtico Viaje en el Tiempo, Naves Espaciales, Tercera Parte](https://swaruu.org/transcripts/principios-basicos-para-el-autentico-viaje-en-el-tiempo-naves-espaciales-tercera-parte) (2024-02-09; es); passages p0021, p0022. [Structured record](../../records/src-e50e737a17f6.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-e65d20a8cc55-c02
+
+Mari describes artificial portals as electromagnetic toroidal devices that alter an entrant's frequency to match a destination. She says greater destination differences or object mass require more energy.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Portales Artificiales](https://swaruu.org/transcripts/portales-artificiales) (2024-04-14; es); passages p0009, p0011, p0012, p0013, p0014. [Structured record](../../records/src-e65d20a8cc55.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-e65d20a8cc55-c03
+
+Mari says portals and starships can reach other existential realms, though cross-realm travel has limitations.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Portales Artificiales](https://swaruu.org/transcripts/portales-artificiales) (2024-04-14; es); passages p0017, p0018, p0019. [Structured record](../../records/src-e65d20a8cc55.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-e65d20a8cc55-c04
+
+Mari alleges some particle-physics facilities and ring-shaped structures host or test portals between the lower astral and material realms. This is her allegation, not independently established.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Portales Artificiales](https://swaruu.org/transcripts/portales-artificiales) (2024-04-14; es); passages p0021, p0022, p0023. [Structured record](../../records/src-e65d20a8cc55.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
 ## Claims filed under other topics
 
 - [src-a67fb92e8975-c04](starship-systems.md#src-a67fb92e8975-c04) — Starship systems
@@ -175,16 +243,20 @@ Related topics: [Alien species and distinctions](alien-species.md), [Astral enti
 - [src-a32bbe4fc74a-c05](van-allen-belts.md#src-a32bbe4fc74a-c05) — Van Allen belts
 - [src-e10b7b1c1712-c02](pyramid-network.md#src-e10b7b1c1712-c02) — Pyramid energy and portal network
 - [src-c8d611b2d82a-c03](cyndriel.md#src-c8d611b2d82a-c03) — Cyndriel
+- [src-c3be419397ba-c02](deep-underground-military-bases.md#src-c3be419397ba-c02) — Deep underground military bases
 
 ## Review flags
 
 - A separate interjection by Yazhi attributes Tiahuanaco to Anunnaki/Sumerians; this record keeps Anéeka’s claims distinct.
+- Claims about particle accelerators as portals and entities crossing from the lower astral are attributed to Mari and not independently substantiated.
 - Claims about the Iraq invasion and alleged portal transport rely on speaker assertion and cited witnesses.
 - Eye of Horus interpretation is attributed to Swaruu 9.
+- Time-navigation and physics claims are attributed to Mari.
 - Yazhi distinguishes her portal-technology claim, which does not require alignment, from alignment used in rituals.
 - lore-claims-attributed
 - portal-count-unverified
 - pyramid engineering, power generation, and Sphinx chronology claims are attributed and unverified
 - satellite, spaceflight, lunar-base, and galactic-wave claims are attributed and unverified
+- source advances unsupported conspiracy claims about hidden elites, secret space travel, and subterranean portal networks
 - translation-counterpart: src-bfb4094468eb; close full translation; English p0075-p0079 adds detail about carved stone markers and remote portal control
 - witness-account

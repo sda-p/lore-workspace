@@ -62,7 +62,45 @@ Source: [Mascotas en Taygeta - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts
 
 Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
 
+### src-7507aaf9433f-c04
+
+Moghyay are feathered, wingless, warm-blooded Temmer fruit-eaters, pets but wild crop pests.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [Noticias espaciales, 25 de mayo de 2024, Naves, Pájaros Moghyay, Meteorito sobre España, mi YouTube](https://swaruu.org/transcripts/noticias-espaciales-25-de-mayo-de-2024-naves-pajaros-moghyay-meteorito-sobre-espana-mi-youtube) (2024-05-26; es); passages p0022, p0023. [Structured record](../../records/src-7507aaf9433f.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-8cfcc037b641-c01
+
+Mari describes moghyay as cat-sized, wingless, four-limbed, fruit-eating, warm-bodied animals native to some Temmer islands.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias espaciales, número 25, 3 de Junio del 2024, Moghyays, Alenym indispuesta, Mari Swa](https://swaruu.org/transcripts/noticias-espaciales-numero-25-3-de-junio-del-2024-moghyays-alenym-indispuesta-mari-swa) (2024-06-04; es); passages p0003, p0004, p0005, p0006. [Structured record](../../records/src-8cfcc037b641.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-fdacc4ddb847-c01
+
+Mari reports hurricane damage and delayed repairs in Toleka City, then says 120 moghyay were captured aboard and returned to Temmer after becoming a nuisance.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales, Número 31, 11 de Julio 2024, Huracán en Taygeta, Chat GPT y otras cosas](https://swaruu.org/transcripts/noticias-espaciales-numero-31-11-de-julio-2024-huracan-en-taygeta-chat-gpt-y-otras-cosas) (2024-07-12; es); passages p0003, p0005, p0006, p0009. [Structured record](../../records/src-fdacc4ddb847.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+## Claims filed under other topics
+
+- [src-21a91506e065-c02](genetic-weapons.md#src-21a91506e065-c02) — Genetic weapons
+- [src-e58c27053b29-c02](genetic-weapons.md#src-e58c27053b29-c02) — Genetic weapons
+
 ## Review flags
 
+- Fleet schedules are dated forecasts; the fireball identification is attributed to CIC rather than independent confirmation.
+- The account of the genetic weapon and its intended exposure route is attributed to Yazhi as investigators' belief, not established independently.
+- The alleged attack remains speculation in Mari's account.
 - pathogen-claim\_attributed
 - species-description\_attributed

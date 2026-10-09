@@ -698,6 +698,86 @@ Source: [Extracciones y sus problemas. Parte 1](https://swaruu.org/transcripts/e
 
 Related topics: [Galactic Federation](galactic-federation.md), [Alien abduction practices](alien-abduction-practices.md).
 
+### src-9fe31867478a-c01
+
+Mari says the Federation’s First Directive restricts her group to written communication using Earth-level technology.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Comentarios Importantes y varios otros temas, miren para comprender todo mejor](https://swaruu.org/transcripts/comentarios-importantes-y-varios-otros-temas-miren-para-comprender-todo-mejor) (2023-10-18; es); passages p0006, p0009, p0010. [Structured record](../../records/src-9fe31867478a.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-3c6d31174c4d-c02
+
+Yazhi says the project aims to influence culture without promoting extraterrestrial contact or advanced technology, under First Directive limits. She says these participants’ influence adds to that of incarnated starseeds.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NAVE EXTRATERRESTRE TAYGETEANA PLEYADIANA EN ORBITA DE LA TIERRA - YAZHI - ALCYONE](https://swaruu.org/transcripts/nave-extraterrestre-taygeteana-pleyadiana-en-orbita-de-la-tierra-yazhi-alcyone) (2024-05-08; es); passages p0030, p0038, p0042. [Structured record](../../records/src-3c6d31174c4d.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-970412680838-c02
+
+Mari says Federation rules, including the Prime Directive, and Earth governments would restrict direct, practical disclosure of advanced technology.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Tecnología y por qué no puedo compartir más detalles](https://swaruu.org/transcripts/tecnologia-y-por-que-no-puedo-compartir-mas-detalles) (2024-03-26; es); passages p0014. [Structured record](../../records/src-970412680838.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-6b8c0befd4ce-c03
+
+Yazhi says sharing advanced technology would violate the Prime Directive; she describes the project as a new way to influence Earth’s Matrix from within. She says the effects add up but are less effective than incarnating as a human starseed.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Taygeteanos en las Redes Sociales - Llegada de Nave Alcyone - Yazhi Swaruu](https://swaruu.org/transcripts/taygeteanos-en-las-redes-sociales-llegada-de-nave-alcyone-yazhi-swaruu) (2024-05-08; es); passages p0030, p0042, p0044, p0046. [Structured record](../../records/src-6b8c0befd4ce.json).
+
+Related topics: [Taygetans](taygetans.md), [Planetary Matrix resets](planetary-matrix-resets.md).
+
+### src-8bff2031cfbf-c04
+
+Anéeka says DUFES publication violated the Prime Directive; holographic computers could not transfer directly to digital systems.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra y Eventos Oscuros en 2019 - Relevante para Hoy?](https://swaruu.org/transcripts/swaruu-de-erra-y-eventos-oscuros-en-2019-relevante-para-hoy) (2025-07-25; es); passages p0098, p0099, p0100. [Structured record](../../records/src-8bff2031cfbf.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-53866cce2150-c04
+
+Mari says agents avoid confrontation and the Federation bars introducing technology beyond Earth's level.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Proyecto Segundo Contacto, Comentarios Extra](https://swaruu.org/transcripts/proyecto-segundo-contacto-comentarios-extra) (2024-05-21; es); passages p0016. [Structured record](../../records/src-53866cce2150.json).
+
+Related topics: [Project Second Contact](project-second-contact.md).
+
+### src-fb27b0048890-c02
+
+Mari says Federation authorization required Earth-made digital communications and that Taygetan participants would conceal their extraterrestrial identities. She says private one-to-one contact was discouraged.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Proyecto Segundo Contacto y Protocolos](https://swaruu.org/transcripts/proyecto-segundo-contacto-y-protocolos) (2024-05-19; es); passages p0021, p0022, p0023, p0024, p0026. [Structured record](../../records/src-fb27b0048890.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-058d0ecab214-c01
+
+Anéeka says she received a muon-written message using Federation codes that ordered her to stop revealing secrets, accusing her of violating the Prime Directive. She says the message threatened consequences but specified no sanction.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Federacion Galactica y Matrix Fuera de la Tierra - Conversacion con Aneeka - Mujer Extraterrestre](https://swaruu.org/transcripts/federacion-galactica-y-matrix-fuera-de-la-tierra-conversacion-con-aneeka-mujer-extraterrestre) (2025-11-11; es); passages p0012, p0014, p0018. [Structured record](../../records/src-058d0ecab214.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c04](galactic-federation.md#src-a5811312e55c-c04) — Galactic Federation
@@ -743,16 +823,37 @@ Related topics: [Galactic Federation](galactic-federation.md), [Alien abduction 
 - [src-f98eceaf4634-c03](starseeds.md#src-f98eceaf4634-c03) — Starseeds
 - [src-24baeece96cc-c02](galactic-federation.md#src-24baeece96cc-c02) — Galactic Federation
 - [src-9987cea5f9c3-c01](galactic-federation.md#src-9987cea5f9c3-c01) — Galactic Federation
+- [src-e199916654ef-c02](starship-systems.md#src-e199916654ef-c02) — Starship systems
+- [src-f21197da8edc-c01](galactic-federation.md#src-f21197da8edc-c01) — Galactic Federation
+- [src-bba74bf888bc-c02](galactic-federation.md#src-bba74bf888bc-c02) — Galactic Federation
+- [src-459adec9f429-c03](nonhuman-surveillance-drones.md#src-459adec9f429-c03) — Nonhuman surveillance drones
+- [src-bbcda30708c9-c03](galactic-federation.md#src-bbcda30708c9-c03) — Galactic Federation
+- [src-53866cce2150-c01](project-second-contact.md#src-53866cce2150-c01) — Project Second Contact
+- [src-8af1bf1e59b0-c02](galactic-federation.md#src-8af1bf1e59b0-c02) — Galactic Federation
+- [src-fa079be7128e-c02](galactic-federation.md#src-fa079be7128e-c02) — Galactic Federation
+- [src-0b2675478503-c01](galactic-federation.md#src-0b2675478503-c01) — Galactic Federation
+- [src-034d05cf853e-c01](ancient-egypt.md#src-034d05cf853e-c01) — Ancient Egypt
 
 ## Review flags
 
 - 3D containment rationale shifts across speakers and passages
 - AI\_capability\_claims\_unverified
 - Alenym poisoning and Federation culpability are Mari’s allegations; the representative’s initial response notes prior Taygetan opposition
+- Claims about Federation policy and Taygetan circumstances are attributed to Mari Swaruu.
+- Claims about a Taygetean social-media project are attributed to Yazhi and not independently established.
+- Claims about astral surveillance, starseed identification, and hidden population-control agendas are attributed to Mari.
 - Federation policies and Earth-intervention allegations are reported by Mari Swaruu, not independently verified.
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - Leader-contact claim is attributed to Asket in this transcript.
+- Project details are attributed to Yazhi and described as still developing.
+- The Federation's stated rationale is relayed by Mari from Gori'el's account of the conference; it is not endorsed as fact.
 - The first-person extraterrestrial identity and contact-policy claims are preserved as speaker claims.
+- The source consists of unverified claims about extraterrestrial traffic and a Federation travel blockade.
+- The source describes an unverified alleged extraterrestrial social media operation.
+- The source includes unverified conspiratorial and medical claims alongside metaphysical discussion.
+- The source is a dialogue presenting unverifiable claims of Federation communications and intervention on Earth.
+- The transcript contains extensive allegations about Cinna and DUFES; preserve attribution and do not treat accusations as established facts.
+- This source includes unverified claims about weather manipulation, extraterrestrial diplomacy, and public political events.
 - Yazhi-interview-report
 - account attributes extraterrestrial intervention programs and starseed mechanisms to Yazhi; claims are unverified
 - agency\_and\_noninterference

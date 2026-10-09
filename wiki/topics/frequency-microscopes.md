@@ -26,6 +26,16 @@ Source: [Swaruu de Erra-Navegacion Estelar 2 (Gravedad, Rayos Tractor, Creacion 
 
 Related topics: [Starship systems](starship-systems.md), [Holographic computers](holographic-computers.md).
 
+### src-65adcbdf271b-c02
+
+Yazhi says their microscopes map molecules by frequency, like scanners that read objects for computer replication.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Mini-Mini Temas - Rapidas Preguntas y Respuestas (Yazhi y Athena Swaruu)](https://swaruu.org/transcripts/mini-mini-temas-rapidas-preguntas-y-respuestas-yazhi-y-athena-swaruu) (2024-11-20; es); passages p0006. [Structured record](../../records/src-65adcbdf271b.json).
+
+Related topics: [Replicators](replicators.md).
+
 ## Review flags
 
 - These are attributed dialogue claims; terminology for Hyades varies by convention

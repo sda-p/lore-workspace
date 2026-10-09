@@ -1,0 +1,89 @@
+{
+  "source_id": "src-10384d9b6430",
+  "snapshot_sha256": "a5ab91009127e76a7daaa87b0ad2c1968e93baafc3a19919b1298b2522eccc19",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-10384d9b6430-c01",
+      "assertion": "Mari says the Federation views Earth as a school where souls learn through experience and hardship.",
+      "speaker": "Mari Swa, reporting the Federation's stated view",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "individual-ascension"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-10384d9b6430-c02",
+      "assertion": "Mari says distant guidance may help humanity build an independent society, while total intervention could hinder long-term learning.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "individual-ascension"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-10384d9b6430-c03",
+      "assertion": "Mari says mutual aid is central to holistic societies, but members also learn self-reliance through practical experience.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "individual-ascension"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-10384d9b6430-c04",
+      "assertion": "Mari questions how much suffering can ethically be allowed during humanity's learning process.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0032",
+        "p0033",
+        "p0035"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She calls Federation methods questionable and says individual suffering is unacceptable."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The Federation's rationale is reported by Mari; she questions its ethics and does not endorse all its conduct."
+  ],
+  "coverage_gaps": [
+    "Mari's allegation of a Cabal–Federation hierarchy and her claim that some media suffering is staged"
+  ]
+}

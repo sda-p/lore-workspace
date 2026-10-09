@@ -1,0 +1,47 @@
+{
+  "source_id": "src-3536182c3fc0",
+  "snapshot_sha256": "5dafae2ba50b7f200ac5e0d90f08211289fe68d944741903040ab6054d77750e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3536182c3fc0-c01",
+      "assertion": "Mari says her Taygetan CIC team assists with channel work and shares selected audience messages, while comments remain closed and she avoids reading them directly.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "taygetan-cic",
+      "topics": [
+        "taygetan-cic",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the team filters messages to protect her from harmful incoming content."
+    },
+    {
+      "id": "src-3536182c3fc0-c02",
+      "assertion": "Mari says the Federation forbids her from using her real voice in videos.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetan-cic"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says she hopes to use it in the future."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "channel publication schedule and bilingual workflow"
+  ]
+}

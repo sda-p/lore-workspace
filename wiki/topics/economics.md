@@ -796,6 +796,104 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 
 Source: [LA ESCASEZ DEL AGUA EL NEGOCIO OCULTO - Athena Swaruu](https://swaruu.org/transcripts/la-escasez-del-agua-el-negocio-oculto-athena-swaruu) (2023-05-18; es); passages p0005, p0007. [Structured record](../../records/src-13154e3227fd.json).
 
+### src-5d854683ebbf-c01
+
+Mari says resource-poor breakaway micro-civilizations may raid vulnerable settlements and slow-moving ships in lower material densities.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Piratas Espaciales y Civilizaciones Disidentes, Parte 2, Participación de la Federación Galáctica](https://swaruu.org/transcripts/piratas-espaciales-y-civilizaciones-disidentes-parte-2-participacion-de-la-federacion-galactica) (2023-11-19; es); passages p0022, p0023, p0024. [Structured record](../../records/src-5d854683ebbf.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-9fe31867478a-c02
+
+Mari says Taygetans come from a moneyless society but pay for food and supplies on Earth because taking or replicating goods would violate their ethics.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Comentarios Importantes y varios otros temas, miren para comprender todo mejor](https://swaruu.org/transcripts/comentarios-importantes-y-varios-otros-temas-miren-para-comprender-todo-mejor) (2023-10-18; es); passages p0014, p0017, p0025, p0026. [Structured record](../../records/src-9fe31867478a.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-a0e7e195133c-c02
+
+Mari says Taygetans tailor clothes and find mass production and money unfamiliar; the new crew was shocked by Earth poverty.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [4 Nuevos Miembros de la Tripulación a Bordo, Parte 2, Fuerte Choque Cultural](https://swaruu.org/transcripts/4-nuevos-miembros-de-la-tripulacion-a-bordo-parte-2-fuerte-choque-cultural) (2023-11-13; es); passages p0030, p0031, p0032. [Structured record](../../records/src-a0e7e195133c.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-21d1a70ddcdd-c05
+
+Mari urges direct aid, alleging large government-backed organizations divert resources.
+
+Attributed to **Mari Swa (narrator)**; speculative; extraction confidence: high.
+
+Source: [¿Deberías preocuparte por las noticias?](https://swaruu.org/transcripts/deberias-preocuparte-por-las-noticias) (2024-10-01; es); passages p0025, p0026. [Structured record](../../records/src-21d1a70ddcdd.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-e58c27053b29-c04
+
+Mari describes barter exchanging Temmer citrus surplus for Maya grains, cotton, and seeds. She presents surplus exchange without money as a holistic-society practice.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias espaciales, número 26, 6 de Junio del 2024, Alenym, Marco Político, Mari Swa Reina Activa](https://swaruu.org/transcripts/noticias-espaciales-numero-26-6-de-junio-del-2024-alenym-marco-politico-mari-swa-reina-activa) (2024-06-07; es); passages p0015, p0016, p0017, p0018. [Structured record](../../records/src-e58c27053b29.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-aa29b86974f4-c02
+
+Athena says authorities can constrain productive regions through inflation, restrictions, or other economic interventions. She argues markets do not operate independently of higher-level control.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica y Dinero - Comentarios de Athena Swaruu](https://swaruu.org/transcripts/federacion-galactica-y-dinero-comentarios-de-athena-swaruu) (2024-11-16; es); passages p0010, p0012, p0013. [Structured record](../../records/src-aa29b86974f4.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-b9d71dd88442-c01
+
+Gosia says her English channel stayed unmonetized for five years; later she shared half its revenue with Athena and Yazhi for two years. She states the aid had no conditions and did not obligate them to continue sharing.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Robert y Gosia - Dinero, Fama, y Verdaderas Intenciones](https://swaruu.org/transcripts/robert-y-gosia-dinero-fama-y-verdaderas-intenciones) (2025-07-31; es); passages p0010, p0011, p0012. [Structured record](../../records/src-b9d71dd88442.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-b9d71dd88442-c02
+
+Gosia says videos and transcripts remained free, with no paid courses or merchandise, to share information publicly. She says they considered books to preserve the material.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Robert y Gosia - Dinero, Fama, y Verdaderas Intenciones](https://swaruu.org/transcripts/robert-y-gosia-dinero-fama-y-verdaderas-intenciones) (2025-07-31; es); passages p0043. [Structured record](../../records/src-b9d71dd88442.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-b9d71dd88442-c03
+
+Robert declined shirts bearing their names or faces, preferring promotion of their channels and website.
+
+Attributed to **Robert, quoted by Dani and relayed by Gosia**; reported; extraction confidence: high.
+
+Source: [Robert y Gosia - Dinero, Fama, y Verdaderas Intenciones](https://swaruu.org/transcripts/robert-y-gosia-dinero-fama-y-verdaderas-intenciones) (2025-07-31; es); passages p0051. [Structured record](../../records/src-b9d71dd88442.json).
+
+### src-fbcfb08500c9-c03
+
+Mari says Earth-based money is needed to support her and a roughly 30-person crew, including food and equipment unavailable aboard ship.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 43. Mucha Actividad Grises de Orion, Yazhi, Naves, Críticos ET, mi YouTube](https://swaruu.org/transcripts/noticias-espaciales-43-mucha-actividad-grises-de-orion-yazhi-naves-criticos-et-mi-youtube) (2024-09-22; es); passages p0028, p0029, p0030. [Structured record](../../records/src-fbcfb08500c9.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-4c109f1e384a-c01](holistic-society.md#src-4c109f1e384a-c01) — Holistic society
@@ -871,9 +969,22 @@ Source: [LA ESCASEZ DEL AGUA EL NEGOCIO OCULTO - Athena Swaruu](https://swaruu.o
 - [src-45654a10b21a-c04](holistic-society.md#src-45654a10b21a-c04) — Holistic society
 - [src-8582fea5414c-c03](galactic-federation.md#src-8582fea5414c-c03) — Galactic Federation
 - [src-13154e3227fd-c03](terrestrial-science.md#src-13154e3227fd-c03) — Terrestrial science
+- [src-9fe31867478a-c03](galactic-federation.md#src-9fe31867478a-c03) — Galactic Federation
+- [src-ec5ca3fe11f7-c02](holistic-society.md#src-ec5ca3fe11f7-c02) — Holistic society
+- [src-b4a8487b5217-c02](saturn-bases.md#src-b4a8487b5217-c02) — Saturnian orbital bases
+- [src-df8e53d808b9-c02](taygetan-ecosystems.md#src-df8e53d808b9-c02) — Taygetan ecosystems
+- [src-df8e53d808b9-c03](galactic-federation.md#src-df8e53d808b9-c03) — Galactic Federation
+- [src-f21197da8edc-c03](galactic-federation.md#src-f21197da8edc-c03) — Galactic Federation
+- [src-aa29b86974f4-c01](galactic-federation.md#src-aa29b86974f4-c01) — Galactic Federation
+- [src-dd2e93895cc4-c02](taygetans.md#src-dd2e93895cc4-c02) — Taygetans
+- [src-cd5071fd4bb0-c01](urmah-federation.md#src-cd5071fd4bb0-c01) — Urmah Federation
 
 ## Review flags
 
+- Allegations of political abuse and sabotage are attributed to Mari and are unverified.
+- Claims about Federation hierarchy and Saturn environments are attributed to Anéeka.
+- Claims about Federation policy and Taygetan circumstances are attributed to Mari Swaruu.
+- Claims about Taygetan society are attributed to Mari Swaruu.
 - Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Contains disputed environmental, market, vehicle safety, and government-control claims; attribute to Yazhi, not established findings.
@@ -889,9 +1000,14 @@ Source: [LA ESCASEZ DEL AGUA EL NEGOCIO OCULTO - Athena Swaruu](https://swaruu.o
 - Reptilian claims about a public figure are attributed to Yazhi and not independently verified.
 - Resource motives and fear-feeding are speaker-attributed metaphysical claims
 - Resource-seeking distinction is level-dependent in Anéeka’s account
+- The account is a first-person narrative published as entertainment, including unverified allegations around Alenym's attack.
 - The alleged CIA organization is explicitly called speculation and unsupported by precise evidence in the interview.
+- The alleged attack remains speculation in Mari's account.
 - The author’s claims about starseeds and social economic control are unverified and attributed.
+- The political and news-related claims are Mari's interpretations and allegations; preserve attribution and speculative modality.
+- The transcript advances unverified claims of hidden control and infiltration; these are attributed to Athena.
 - These are Mari Swaruu’s autobiographical and extraterrestrial claims, not independently verified.
+- This is a first-person report about an extraterrestrial alliance and its alleged treaty terms.
 - Yazhi proposes nonhuman tutoring, then says people should not wait for outside help.
 - approximate-age-estimate
 - attack-theory\_speculative

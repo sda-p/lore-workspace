@@ -1,0 +1,65 @@
+{
+  "source_id": "src-93c7ee25f685",
+  "snapshot_sha256": "b21bf3889ab0aaaefa2dfaa22294dfb37957468804b668577bf70c780f1825b6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-93c7ee25f685-c01",
+      "assertion": "Mari says past-life experiences shape personality, values, preferences, and gender identity; she describes Lyrian space cultures as largely composed of souls who remember those lives.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "lyrians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-93c7ee25f685-c02",
+      "assertion": "Mari claims advanced Lyrian souls generally incarnate in bodies matching their established sexual preferences, while Earth offers homosexual experience to souls who seek it.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0020"
+      ],
+      "primary_topic": "lyrians",
+      "topics": [
+        "lyrians",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-93c7ee25f685-c03",
+      "assertion": "Mari alleges Earth controllers weaponize minority-rights causes to weaken family and gender-role structures and reduce population.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her allegation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other claims about Earth gender politics, population, and personal identity omitted"
+  ]
+}

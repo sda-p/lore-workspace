@@ -146,6 +146,16 @@ Source: [PUMA PUNKU ANTIGUA BASE ESTELAR Y SUS PORTALES ESTELARES - Aneeka de Te
 
 Related topics: [Black holes](black-holes.md), [Starship systems](starship-systems.md).
 
+### src-75b74d0d8734-c01
+
+Mari says solar eclipses raise planetary frequency as solar energy overrides lunar modulation, thinning the Matrix and allowing easier astral crossing. She recommends meditation or other positive activity during an eclipse.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Eclipse, 8 de Abril, 2024](https://swaruu.org/transcripts/eclipse-8-de-abril-2024) (2024-04-05; es); passages p0013, p0014, p0015, p0016, p0017, p0018. [Structured record](../../records/src-75b74d0d8734.json).
+
+Related topics: [Sunspot portals](sunspot-portals.md), [Perceptual density](perceptual-density.md).
+
 ## Claims filed under other topics
 
 - [src-df0b18054ec1-c02](ancient-egypt.md#src-df0b18054ec1-c02) — Ancient Egypt

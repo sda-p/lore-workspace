@@ -12,7 +12,7 @@ A source-linked research wiki for designing an original conspiracy-themed grand 
 - [Possible overlapping versions](reports/near-duplicate-candidates.json)
 - [Worker instructions](AGENTS.md)
 
-The pilot contains 20 transcript records, including two candidate English/Spanish pairs. Collection continues through successive cohorts; the current reviewed totals and remaining inventory are recorded in the progress report. Records capture compact core claims rather than every detail.
+The pilot contains 20 transcript records, including two candidate English/Spanish pairs. The initial collection is complete: all 2,207 inventoried source records have passed independent semantic review, with no outstanding sources. The progress report records the final totals and cohort corrections. Records capture compact core claims rather than every detail.
 
 Successive cohorts are recorded under `work/cohorts/`, with immutable worker and review assignments under `work/batches/<cohort-id>/`. Four Luna extractors and two independent Luna reviewers process each cohort. Only reviewed records appear in the generated wiki. JSON records are drafts until their ledger status is `reviewed`. Exact snapshot duplicates can be skipped; translations and revisions require content comparison. Confirmed identical bodies with different titles are marked separately in the inventory; those metadata variants remain available as source records. Passage-overlap candidates alone do not authorize skipping. See `scripts/continuous.py` and the progress report for resume commands.
 

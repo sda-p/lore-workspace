@@ -105,12 +105,14 @@ Related topics: [Frequency-map navigation](frequency-map-navigation.md), [Tempor
 - [src-d0de3dcb86df-c01](frequency-map-navigation.md#src-d0de3dcb86df-c01) — Frequency-map navigation
 - [src-d0de3dcb86df-c03](frequency-map-navigation.md#src-d0de3dcb86df-c03) — Frequency-map navigation
 - [src-d0de3dcb86df-c05](frequency-map-navigation.md#src-d0de3dcb86df-c05) — Frequency-map navigation
+- [src-f2ce50705052-c02](ancient-egypt.md#src-f2ce50705052-c02) — Ancient Egypt
 
 ## Review flags
 
 - Claims about Tartaria and nuclear tests are attributed to Athena and presented as speculation; the transcript provides no independent evidence.
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - Historical chronology and the reported overlap are source claims; exact dating remains uncertain
+- The speaker's historical and reincarnation accounts are her claims, not independently corroborated.
 - contested\_historical\_claims
 - cross-timeline-travel-restriction
 - death-account:medical-cause-and-ether-dissolution

@@ -136,6 +136,40 @@ Source: [LA DESINTEGRACIÓN DE LA MATRIX EL DESPERTAR DE LA MATRIX](https://swar
 
 Related topics: [Starseeds](starseeds.md), [Taygetans](taygetans.md).
 
+### src-89492330f9ab-c01
+
+Gosia says her first written contact with Swaruu de Erra began on December 17, 2017, after an intermediary introduced Robert and then her. She says Swaruu was aboard Toleka near Earth.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Divulgacion Extraterrestre Taygeteana (Swaruu) - Nuestro Contacto - Camino Hasta Ahora](https://swaruu.org/transcripts/divulgacion-extraterrestre-taygeteana-swaruu-nuestro-contacto-camino-hasta-ahora) (2024-02-04; es); passages p0019, p0020, p0021. [Structured record](../../records/src-89492330f9ab.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-89492330f9ab-c02
+
+Gosia says they began sharing contact conversations in 2018 through Robert’s and her YouTube channels. They decided the information should be shared with the world.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Divulgacion Extraterrestre Taygeteana (Swaruu) - Nuestro Contacto - Camino Hasta Ahora](https://swaruu.org/transcripts/divulgacion-extraterrestre-taygeteana-swaruu-nuestro-contacto-camino-hasta-ahora) (2024-02-04; es); passages p0022, p0024. [Structured record](../../records/src-89492330f9ab.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-eb08c7b1f2c6-c01
+
+Yazhi describes a planned, unilateral Taygetan effort to place emissaries in media to seed positive ideas; she distinguishes it from the Federation’s official First Contact project and says the First Directive still applies. She says it remained a plan and the prospective crew was not yet prepared.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Charla con Yazhi sobre las noticias de Mari (Comunicación Extraterrestre)](https://swaruu.org/transcripts/charla-con-yazhi-sobre-las-noticias-de-mari-comunicacion-extraterrestre) (2024-04-13; es); passages p0005, p0007, p0009, p0011, p0014, p0015. [Structured record](../../records/src-eb08c7b1f2c6.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+## Claims filed under other topics
+
+- [src-eb08c7b1f2c6-c02](starship-systems.md#src-eb08c7b1f2c6-c02) — Starship systems
+
 ## Review flags
 
 - Federation policies and Earth-intervention allegations are reported by Mari Swaruu, not independently verified.

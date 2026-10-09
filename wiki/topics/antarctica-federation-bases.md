@@ -34,6 +34,14 @@ Source: [Antártida, 01 - mi informe actual](https://swaruu.org/transcripts/anta
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+## Claims filed under other topics
+
+- [src-c3be419397ba-c02](deep-underground-military-bases.md#src-c3be419397ba-c02) — Deep underground military bases
+- [src-4653f0e2c815-c01](orion-council.md#src-4653f0e2c815-c01) — Orion Council
+- [src-4653f0e2c815-c02](alfrata.md#src-4653f0e2c815-c02) — Alfrata (Phaeton)
+
 ## Review flags
 
+- Antarctic activity and diplomatic claims are reported by Mari and not independently verified.
+- source advances unsupported conspiracy claims about hidden elites, secret space travel, and subterranean portal networks
 - unverified-polar-infrastructure-account

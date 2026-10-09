@@ -56,6 +56,16 @@ Source: [Yazhi Swaruu y los Asuntos del Pasado Humano - Influencias Perceptuales
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md), [Moon and terrestrial Matrix](moon-matrix.md).
 
+### src-4ac5bfb36d51-c02
+
+Anéeka identifies Druidic culture as a major Taygetan influence on Earth and says Urmah influence appears in ancient Egyptian, Sumerian, Roman, and Greek architecture.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Razas Extraterrestres y los Humanos - Intercambios Culturales en Sociedades Estelares](https://swaruu.org/transcripts/razas-extraterrestres-y-los-humanos-intercambios-culturales-en-sociedades-estelares) (2024-11-28; es); passages p0018, p0020. [Structured record](../../records/src-4ac5bfb36d51.json).
+
+Related topics: [Urmah](urmah.md).
+
 ## Claims filed under other topics
 
 - [src-113e831d374d-c01](merlin-and-arthur.md#src-113e831d374d-c01) — Merlin and King Arthur

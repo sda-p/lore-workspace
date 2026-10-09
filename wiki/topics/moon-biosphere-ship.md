@@ -274,6 +274,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-b0eb8093b751-c03](tiamat.md#src-b0eb8093b751-c03) — Tiamat
 - [src-906e32a9d0d6-c04](moon-matrix.md#src-906e32a9d0d6-c04) — Moon and terrestrial Matrix
 - [src-f138a70a4ff8-c02](galactic-federation.md#src-f138a70a4ff8-c02) — Galactic Federation
+- [src-b76386ff7cd8-c02](andromedans.md#src-b76386ff7cd8-c02) — Andromedans
 
 ## Review flags
 

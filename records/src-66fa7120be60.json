@@ -1,0 +1,89 @@
+{
+  "source_id": "src-66fa7120be60",
+  "snapshot_sha256": "c8df146ab74930a954c3cfa4c690fd1aec33dc683d23c9826bc3c0d0ad1a1326",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-66fa7120be60-c01",
+      "assertion": "Mari says Engans are the Pleiades' most populous people, guard M45, and have a king limited by a high council.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "engan-people",
+      "topics": [
+        "engan-people",
+        "alcyone-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-66fa7120be60-c02",
+      "assertion": "Mari places Engans on three planets orbiting Electra, named Engan, Valhalla, and Asgard, which she calls superhabitable.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "engan-people",
+      "topics": [
+        "engan-people",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-66fa7120be60-c03",
+      "assertion": "Mari claims Engans and Taygetans influenced ancient cultures through technology and ideas later reflected in mythology.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0017"
+      ],
+      "primary_topic": "engan-people",
+      "topics": [
+        "engan-people",
+        "ancient-egypt"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-66fa7120be60-c04",
+      "assertion": "Mari says Alcyone represents Engans near Earth, though civilian ships visit to monitor starseeds.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0025"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "engan-people",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Historical claims about Engan influence on Earth are Mari's account, not independently established."
+  ],
+  "coverage_gaps": [
+    "Engan social similarities with Urmah and Taygeta and their claimed Scandinavian influence"
+  ]
+}

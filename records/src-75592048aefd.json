@@ -1,0 +1,67 @@
+{
+  "source_id": "src-75592048aefd",
+  "snapshot_sha256": "33945c7b3b8110e23bb3fc5039fbecfb391305f4fe4de3fa266786be91a36fa8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-75592048aefd-c01",
+      "assertion": "Mari speculates that historical floods and the 2024 Valencia disaster may involve weaponized weather, and claims a nearby antenna-equipped ship was connected to the flooding.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "weather-control",
+      "topics": [
+        "weather-control"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "These are her claims and speculation."
+    },
+    {
+      "id": "src-75592048aefd-c02",
+      "assertion": "Mari says Toleka residents approved proposals for bridges, hospitals, library, data center, space museum, and cadet facilities, rejecting a bridge that would disturb a pygmy-duck nesting area.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-75592048aefd-c03",
+      "assertion": "Mari says she used total-immersion technology to enter Toleka City and plans a solo return using a frequency suppressor to evade detection by residents’ special glasses.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Her political commentary and other trip details omitted"
+  ]
+}

@@ -142,6 +142,26 @@ Source: [Extracciones y sus problemas. Parte 1](https://swaruu.org/transcripts/e
 
 Related topics: [Antarctica](antarctica.md), [Galactic Federation](galactic-federation.md).
 
+### src-2cbb8e402073-c01
+
+Anéeka describes Viera as an Andromedan biosphere ship with separate terrestrial and marine habitats, hidden behind the Moon. She says the craft is designed to use the Moon as cover.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Vida Interestelar 10 - A Bordo de Viera - Dentro de una nave de la Federación Galáctica](https://swaruu.org/transcripts/vida-interestelar-10-a-bordo-de-viera-dentro-de-una-nave-de-la-federacion-galactica) (2025-06-09; es); passages p0003, p0005, p0018, p0031. [Structured record](../../records/src-2cbb8e402073.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-2cbb8e402073-c02
+
+Anéeka says Viera’s terrestrial biome uses artificial lighting, rain, and airflow systems to simulate planetary conditions. Yazhi later describes the roof’s simulated sky and weather mechanisms.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Vida Interestelar 10 - A Bordo de Viera - Dentro de una nave de la Federación Galáctica](https://swaruu.org/transcripts/vida-interestelar-10-a-bordo-de-viera-dentro-de-una-nave-de-la-federacion-galactica) (2025-06-09; es); passages p0038, p0039, p0041, p0075. [Structured record](../../records/src-2cbb8e402073.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-45558fcded2a-c01](galactic-federation.md#src-45558fcded2a-c01) — Galactic Federation
@@ -151,12 +171,21 @@ Related topics: [Antarctica](antarctica.md), [Galactic Federation](galactic-fede
 - [src-3ab615820cb8-c02](galactic-federation.md#src-3ab615820cb8-c02) — Galactic Federation
 - [src-33c7243bf8a8-c03](galactic-federation.md#src-33c7243bf8a8-c03) — Galactic Federation
 - [src-e29710d91597-c01](higher-federation-councils.md#src-e29710d91597-c01) — Higher Federation councils
+- [src-36d1c2cc2b42-c01](galactic-federation.md#src-36d1c2cc2b42-c01) — Galactic Federation
+- [src-44dc8e3179b9-c01](galactic-federation.md#src-44dc8e3179b9-c01) — Galactic Federation
+- [src-3694da810026-c02](galactic-federation.md#src-3694da810026-c02) — Galactic Federation
+- [src-2cbb8e402073-c03](galactic-federation.md#src-2cbb8e402073-c03) — Galactic Federation
+- [src-b76386ff7cd8-c02](andromedans.md#src-b76386ff7cd8-c02) — Andromedans
 
 ## Review flags
 
+- Claims about Federation funding and Mari’s succession are attributed to Mari or the Taygetean CIC.
 - Claims about soul-body separation, telepathy, particle observation, and ancient history are attributed statements, not independently established facts.
 - Federation-arguments\_reported
 - Species summaries are broad and based on accounts attributed to orbital sources
+- The interview offers unverified claims about extraterrestrial spacecraft and locations.
+- The transcript presents Gosia’s extraterrestrial and political claims as reported information; they are not independently verified.
+- This is a time-specific 2023 account of interstellar factions and operations, attributed to Mari Swaruu.
 - broad-exopolitical-allegations
 - federation-role-variation
 - first-directive-policy-description

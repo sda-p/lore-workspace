@@ -1,0 +1,36 @@
+{
+  "source_id": "src-dd2e93895cc4",
+  "snapshot_sha256": "23afa48d08010e0487b243d5526a7e9f205c2c98ef8bbcc3acf0e03d9afee15e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-dd2e93895cc4-c01",
+      "assertion": "Mari Swa says Taygetan succession is non-hereditary: candidates must qualify under High Council rules, and Alenym sought a successor with Earth experience before nominating Mari.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0006", "p0007", "p0008", "p0014"],
+      "primary_topic": "taygetans",
+      "topics": ["taygetans"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says Alenym's nomination preceded her own unexpected accession after Alenym's attack."
+    },
+    {
+      "id": "src-dd2e93895cc4-c02",
+      "assertion": "Mari Swa describes Taygetan monarchs as responsible for caring for society and solving problems; she says her own queenship leaves her with ordinary chores and dependence on Earth supplies.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0021", "p0023", "p0025", "p0026"],
+      "primary_topic": "taygetans",
+      "topics": ["taygetans", "economics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says her biology makes her ill from most Taygetan food."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The account is a first-person narrative published as entertainment, including unverified allegations around Alenym's attack."
+  ],
+  "coverage_gaps": [
+    "The video also recounts Alenym's alliance with Urmah, Mari's unexpected accession, and her workload balancing governance with YouTube."
+  ]
+}

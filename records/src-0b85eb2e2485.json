@@ -1,0 +1,36 @@
+{
+  "source_id": "src-0b85eb2e2485",
+  "snapshot_sha256": "c5533dae79ef5ed0c9618a896e1197af99ca82f6beef6b8ba7cc4bb3aca4f31d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0b85eb2e2485-c01",
+      "assertion": "Gosia presents as a speculative scenario that controllers might stage a benevolent alien encounter to channel public hopes into a centralized global order, rather than a military invasion.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0005",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0046"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She presents this as one of several possible scenarios, with views and plans differing across factions and races."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source advances unsupported conspiracy claims about a staged alien event and global control; this is recorded only as an attributed hypothetical."
+  ],
+  "coverage_gaps": [
+    "the separate claim that a hostile invasion would be less likely",
+    "the source’s recommendations for public response and its Polish political analogy"
+  ]
+}

@@ -26,7 +26,12 @@ Source: [Temas del Cuerpo - Peculiaridades - Mujeres Extraterrestres Responden P
 
 Related topics: [Astral entities](astral-entities.md).
 
+## Claims filed under other topics
+
+- [src-bf51bc11a750-c02](vampires.md#src-bf51bc11a750-c02) — Vampires
+
 ## Review flags
 
 - Biological, medical, and paranormal claims are attributed to the named speakers and are not established facts.
+- Supernatural claims are attributed to the speakers and are not independently substantiated.
 - conspiratorial-war-history-claims

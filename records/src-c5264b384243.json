@@ -1,0 +1,75 @@
+{
+  "source_id": "src-c5264b384243",
+  "snapshot_sha256": "c6ae8b9e24669c4759bb145e437de9c9efbc893c08c95f3325114683a3f60c94",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c5264b384243-c01",
+      "assertion": "Athena says frequent Gray activity around Earth prompted daily CAPs; the Federation views it as normal under closer Orion Council relations, which Alcyone and Urmah dispute.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "high-greys",
+      "topics": [
+        "high-greys",
+        "orion-council",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c5264b384243-c02",
+      "assertion": "Athena says CAPs monitor Earth for Alenym and Alcyone, gathering information and supposedly deterring bad events within altitude limits.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0028",
+        "p0024",
+        "p0030",
+        "p0032",
+        "p0034"
+      ],
+      "primary_topic": "combat-doctrine",
+      "topics": [
+        "combat-doctrine",
+        "alcyone-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the deterrent effect is uncertain regarding human militaries."
+    },
+    {
+      "id": "src-c5264b384243-c03",
+      "assertion": "Athena says Asterope awaits human communications gear; Saska-1 refits it and Vigilant Eagle, while crews stay separate under Toleka command.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems",
+        "toleka-class"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about Gray activity, patrols, and Taygetean ships are attributed to Athena and not independently established."
+  ],
+  "coverage_gaps": [
+    "the claimed Black Knight losses and missing pilots",
+    "the radio categories monitored by the CIC"
+  ]
+}

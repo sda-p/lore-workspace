@@ -196,11 +196,18 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-65e909f41f9a-c01](memory-veil.md#src-65e909f41f9a-c01) — Memory Veil
 - [src-5b4daa64f189-c04](memory-veil.md#src-5b4daa64f189-c04) — Memory Veil
 - [src-5e5e29eb902e-c02](consciousness-metaphysics.md#src-5e5e29eb902e-c02) — Consciousness and metaphysics
+- [src-8ee420a4a174-c01](akashic-records.md#src-8ee420a4a174-c01) — Akashic records
+- [src-e65d20a8cc55-c01](natural-portals.md#src-e65d20a8cc55-c01) — Natural and artificial portals
+- [src-aa6b810026d1-c03](holographic-computers.md#src-aa6b810026d1-c03) — Holographic computers
+- [src-61c94d4f2880-c03](muon-gravity-communications.md#src-61c94d4f2880-c03) — Muon-triggered gravity communications
 
 ## Review flags
 
 - Anéeka distinguishes her perspective on awakening from Yazhi’s expanded account.
+- Claims about consciousness-based mirrors and quantum computers are attributed to Yazhi.
+- Claims about particle accelerators as portals and entities crossing from the lower astral are attributed to Mari and not independently substantiated.
 - Ether, gravity, and matter model is presented as Anéeka’s account, not independently measured.
+- Technical descriptions and faster-than-light mechanism are attributed to the speakers.
 - The transcript combines Swaruu 9, Yazhi, and Athena passages; claims retain speaker distinctions
 - Time model rejects fixed linear time; do not reconcile with other accounts.
 - Yazhi distinguishes antimatter, which she describes as physical and recognized by star civilizations, from human dark-matter terminology.

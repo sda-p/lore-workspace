@@ -1,6 +1,6 @@
 {
   "status": "partial-not-approval",
-  "checkpointed_at": "2026-10-09T05:27:43+00:00",
+  "checkpointed_at": "2026-10-09T05:38:33+00:00",
   "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
   "review_state": {
     "batch_id": "continuous-020",
@@ -49,7 +49,40 @@
       "src-e1e3be8acdea",
       "src-e481b6dfc969",
       "src-b0c08f43e491",
-      "src-d80b36b16b30"
+      "src-d80b36b16b30",
+      "src-482f728a3fc7",
+      "src-e255ad18cc7a",
+      "src-8cf2c3cf5f7d",
+      "src-93c7ee25f685",
+      "src-0b2675478503",
+      "src-66545aa0b17c",
+      "src-7fb46b450576",
+      "src-5e04f41106fc",
+      "src-6661d9036d1b",
+      "src-9c0214c3066b",
+      "src-4610a94abf7f",
+      "src-63d593149f78",
+      "src-599770c5705f",
+      "src-87c8ba600ace",
+      "src-a4780c0314e5",
+      "src-d2a6e9392c87",
+      "src-4fb5deaadb02",
+      "src-5a1acd491e56",
+      "src-28eb435d6e7c",
+      "src-b698206cf63f",
+      "src-034d05cf853e",
+      "src-41de776754e0",
+      "src-a64514faa926",
+      "src-dd2e93895cc4",
+      "src-fd103e70c1ae",
+      "src-5fb1a6c15757",
+      "src-0cb796fc06ef",
+      "src-4e79a5644fae",
+      "src-5c5800b9d436",
+      "src-cd5071fd4bb0",
+      "src-d4fd0344343b",
+      "src-792197c0df60",
+      "src-850149c4446e"
     ],
     "corrections": [
       {
@@ -89,6 +122,19 @@
         "action": "Added the passage specifying that private communication is strongly discouraged.",
         "paragraph_ids": [
           "p0026"
+        ]
+      },
+      {
+        "source_id": "src-a64514faa926",
+        "claim_id": "src-a64514faa926-c03",
+        "problem": "The claim describes combat air patrol policy, but its primary topic was astral-military-units, which concerns astral operations.",
+        "action": "Reclassified the claim under combat-doctrine, preserving the Alcyone Council and Federation topics.",
+        "paragraph_ids": [
+          "p0028",
+          "p0030",
+          "p0032",
+          "p0034",
+          "p0036"
         ]
       }
     ],
@@ -138,6 +184,39 @@
     "src-e1e3be8acdea": "24ee8d8957e31a8937eb499b47504d1b119db443d821ba96f1d5f0f933ca79d6",
     "src-e481b6dfc969": "6ab2c638b7ee543dc958a75c0d45984de22a87ef018a42fb1480b7e1a72b1e73",
     "src-b0c08f43e491": "b651e331abdb05aa0f9379d1d0a07b9abadfba6d8d4e4d5913bbf9d0bbec030a",
-    "src-d80b36b16b30": "acf99411fa475863291c5e093f38744cf415458d2807e5cd05f42a3c5335ea6a"
+    "src-d80b36b16b30": "acf99411fa475863291c5e093f38744cf415458d2807e5cd05f42a3c5335ea6a",
+    "src-482f728a3fc7": "2097f41f548d9835e2b083d4aa8947ccf9099a6d0fa430ac53ff779910e9d2fc",
+    "src-e255ad18cc7a": "3742cf22df4242e42152f5c5d2b758c079a71a612f73dba3fa9b863e09a43080",
+    "src-8cf2c3cf5f7d": "1aee036476b855dd5f5dea133fc4851fda62ff9c39af608355bf965f392fe2f7",
+    "src-93c7ee25f685": "a0fce38ced0514edab71716cb472abcf94acdb2d5f294c9d316f3855f84db966",
+    "src-0b2675478503": "41955376815b941f12efb81bf918f698884f8848fed458dc2449e29cf23c2064",
+    "src-66545aa0b17c": "82760b2fbaa81fc5ecd365ffad8a18593dfae010f303ddbde107624bb5ab3530",
+    "src-7fb46b450576": "382f4b6024decdffa630289d5a997812a0b1a2159418698d13a4964d7b17fa09",
+    "src-5e04f41106fc": "6a3aaea4d3d4e9be76a75610982ca1218bfdba96cfc9e4e7298e19dc1d4fa49f",
+    "src-6661d9036d1b": "1d1f6fd601df3f4fd880870ec3076b26819c2e04aff32a4579b921fd67cea5f3",
+    "src-9c0214c3066b": "1ab5391d7dfebc1ff84b4133ab6b834a8213732345a03a599452df512a0595e5",
+    "src-4610a94abf7f": "a712390776278b33bc538ab7878b2673c1eac1c42b6bb6771bb7ab51dd00bda5",
+    "src-63d593149f78": "d5ad8165a3c29116abef78a0b6d2a5fc34f988a871262dfd2a7cbd2524625746",
+    "src-599770c5705f": "1a31e8667f9a502f49bb762b2e5da2c1a0b04d425c975af30c4337fee36f6c56",
+    "src-87c8ba600ace": "3727cc0dd97ff146c6042d983a3db01215ed85d15842626675825d7e0e391408",
+    "src-a4780c0314e5": "5387559a27b2e4ff6bd101aaf0d55a0bbfae5722da1ae042fb03cd195a6db18f",
+    "src-d2a6e9392c87": "1439b052780cabf2726bcfbb3232abc20ec0a25ad3db44c0ca3966167eea5940",
+    "src-4fb5deaadb02": "8f465011d95f6fd668de9fcb56a5e6d28ae9b2182eb58e150d8ab757ba75c2b1",
+    "src-5a1acd491e56": "ff7e6e6fbaf4a7f527b7865ef95a56dfd449f705be322f0a651f9d3733664311",
+    "src-28eb435d6e7c": "3ed290081dfefae2fe0bf6fbca630616cd1a22a7422ec58354495ad376d60e9b",
+    "src-b698206cf63f": "efba418a264a1ef4d3db9d372e46ecc895e172cba7ce6758d7066fe54574ee66",
+    "src-034d05cf853e": "26e4754993cb8b4a9a42039c974ac64f6960c775978db0682e40ee3fd1000be4",
+    "src-41de776754e0": "03f1519efb32859c73bcb1e490f4dd367e894ec6cb89855880de6f512f9ef321",
+    "src-a64514faa926": "9edf6dbc31ae746248c569c3ca3effd90d085b5a77a20f34a07a00b524efd07b",
+    "src-dd2e93895cc4": "080a6ca0f92a589b480a26971c233adfd0381d5d748425c7d792dfc8f8335886",
+    "src-fd103e70c1ae": "f836c6ff7938a312d96dda07b28b111404dab6e1456b0e4485e7ed8a5981753d",
+    "src-5fb1a6c15757": "5dec8cfa086e201691a995aa6a0767cda18d6cb8d9b54384099b3f463004899c",
+    "src-0cb796fc06ef": "30bb53d2884038fd0cfed7471f2b78bdd857ab5f0e9b5623606091b3957a0f81",
+    "src-4e79a5644fae": "7a84c4c0d47524c7bbe7078dfe7b5f53b794da2942333978f1fbdc9462e4bf95",
+    "src-5c5800b9d436": "e2841e196bac43806309a3c6fbabea3ff072b74dfb253cfaaa2a9f794c92ecab",
+    "src-cd5071fd4bb0": "f53e54c71cfa3f613babf47d893856985fba6ade8bfdd3ee079ca73da66c0e00",
+    "src-d4fd0344343b": "fc2ac4e157c88903e055bb249beb599ae98e2a70452075b74438fc4c46d059c6",
+    "src-792197c0df60": "83cc648fcb2007d23a5e6047955e53c404d5ae326f418dc370af767df27aec37",
+    "src-850149c4446e": "eac3b92f7f713ba176d7bac7e3ba75415010a4b4e75d34d3148651f49ce2c82e"
   }
 }

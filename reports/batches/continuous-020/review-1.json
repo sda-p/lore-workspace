@@ -1,0 +1,141 @@
+{
+  "batch_id": "continuous-020",
+  "reviewer": 1,
+  "reviewed_source_ids": [
+    "src-0035cf935a87",
+    "src-4dbc0136de84",
+    "src-8bff2031cfbf",
+    "src-87c6a18876e9",
+    "src-fdd736de175d",
+    "src-ffe78a37d0f5",
+    "src-c5120a65216b",
+    "src-3694da810026",
+    "src-13a3aaa8e506",
+    "src-2a68d29853b0",
+    "src-9ddbc83ba873",
+    "src-df9f65c0c57e",
+    "src-6e7da028d2f1",
+    "src-ec2a31d0bdb9",
+    "src-b3b68817ea60",
+    "src-184076248eae",
+    "src-282d57f0ae79",
+    "src-345c62ef62b3",
+    "src-b0f527e60507",
+    "src-988926b6011b",
+    "src-9f732504c39c",
+    "src-01e4c14aa99c",
+    "src-1c4bd7958c2e",
+    "src-61375db7ccbc",
+    "src-8124b6b5da72",
+    "src-81bb400febf3",
+    "src-ce9740898436",
+    "src-dcb6d4751c4b",
+    "src-fb27b0048890",
+    "src-188c293a9d24",
+    "src-264d82b182bc",
+    "src-61c94d4f2880",
+    "src-8af1bf1e59b0",
+    "src-beec8fc2e8bd",
+    "src-e58c27053b29",
+    "src-1bea1cb4c06c",
+    "src-8cfcc037b641",
+    "src-aa29b86974f4",
+    "src-b353e2ebdf6f",
+    "src-9fb3397b48c0",
+    "src-e1e3be8acdea",
+    "src-e481b6dfc969",
+    "src-b0c08f43e491",
+    "src-d80b36b16b30",
+    "src-482f728a3fc7",
+    "src-e255ad18cc7a",
+    "src-8cf2c3cf5f7d",
+    "src-93c7ee25f685",
+    "src-0b2675478503",
+    "src-66545aa0b17c",
+    "src-7fb46b450576",
+    "src-5e04f41106fc",
+    "src-6661d9036d1b",
+    "src-9c0214c3066b",
+    "src-4610a94abf7f",
+    "src-63d593149f78",
+    "src-599770c5705f",
+    "src-87c8ba600ace",
+    "src-a4780c0314e5",
+    "src-d2a6e9392c87",
+    "src-4fb5deaadb02",
+    "src-5a1acd491e56",
+    "src-28eb435d6e7c",
+    "src-b698206cf63f",
+    "src-034d05cf853e",
+    "src-41de776754e0",
+    "src-a64514faa926",
+    "src-dd2e93895cc4",
+    "src-fd103e70c1ae",
+    "src-5fb1a6c15757",
+    "src-0cb796fc06ef",
+    "src-4e79a5644fae",
+    "src-5c5800b9d436",
+    "src-cd5071fd4bb0",
+    "src-d4fd0344343b",
+    "src-792197c0df60",
+    "src-850149c4446e",
+    "src-bc176370b242",
+    "src-8c2d0a81fbc4",
+    "src-54a6b17189d3"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-ffe78a37d0f5",
+      "claim_id": "src-ffe78a37d0f5-c02",
+      "problem": "The claim states agency infiltration in the narrator’s voice as an assertion, while the source labels it as Space Academy’s belief.",
+      "action": "Attributed the belief to Space Academy and changed modality to reported.",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0020"
+      ]
+    },
+    {
+      "source_id": "src-df9f65c0c57e",
+      "claim_id": "src-df9f65c0c57e-c02",
+      "problem": "The qualifier that manipulation can disrupt a person’s life plan was not supported by the claim’s citations.",
+      "action": "Added Mari’s paragraph describing victims being diverted from their life plan.",
+      "paragraph_ids": [
+        "p0031"
+      ]
+    },
+    {
+      "source_id": "src-81bb400febf3",
+      "claim_id": "src-81bb400febf3-c02",
+      "problem": "The account’s indoctrination and suppression of Lyrian language detail was not fully evidenced by the cited passages.",
+      "action": "Added the passages describing educational indoctrination and suppression of Lyrian traditions.",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ]
+    },
+    {
+      "source_id": "src-fb27b0048890",
+      "claim_id": "src-fb27b0048890-c02",
+      "problem": "The Federation communication-rule claim omitted its source passage on private one-to-one communication.",
+      "action": "Added the passage specifying that private communication is strongly discouraged.",
+      "paragraph_ids": [
+        "p0026"
+      ]
+    },
+    {
+      "source_id": "src-a64514faa926",
+      "claim_id": "src-a64514faa926-c03",
+      "problem": "The claim describes combat air patrol policy, but its primary topic was astral-military-units, which concerns astral operations.",
+      "action": "Reclassified the claim under combat-doctrine, preserving the Alcyone Council and Federation topics.",
+      "paragraph_ids": [
+        "p0028",
+        "p0030",
+        "p0032",
+        "p0034",
+        "p0036"
+      ]
+    }
+  ],
+  "unresolved": []
+}

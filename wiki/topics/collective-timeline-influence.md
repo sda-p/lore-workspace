@@ -226,6 +226,96 @@ Source: [Campos Telepáticos y tus Egregores y Miedos.](https://swaruu.org/trans
 
 Related topics: [Timeline branching](timeline-branching.md).
 
+### src-44116d038dec-c03
+
+Mari says collective public action can redirect Earth’s future, while aligned starseeds share a collective unconscious that supports a more positive timeline. She says starseeds are supported by their off-world families.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 16, Tierra se mueve hacia una Línea de Tiempo Positiva., 6 de Marzo de 2024](https://swaruu.org/transcripts/noticias-espaciales-16-tierra-se-mueve-hacia-una-linea-de-tiempo-positiva-6-de-marzo-de-2024) (2024-03-08; es); passages p0008, p0010, p0017, p0018, p0019. [Structured record](../../records/src-44116d038dec.json).
+
+Related topics: [Starseeds](starseeds.md), [Original Matrix](original-matrix.md).
+
+### src-012423a73157-c02
+
+Athena says strong positive souls can shape shared experience beyond their numbers, while Earth’s timelines are fragmented and its future remains uncertain. She says people experience realities aligned with their vibration.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: ["Agenda" Positiva - Parte 1 - Conversación con Athena Swaruu (Contacto Extraterrestre)](https://swaruu.org/transcripts/agenda-positiva-parte-1-conversacion-con-athena-swaruu-contacto-extraterrestre) (2023-12-27; es); passages p0018, p0020, p0022, p0026, p0028. [Structured record](../../records/src-012423a73157.json).
+
+Related topics: [Timeline branching](timeline-branching.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d653d4ec53df-c01
+
+Yazhi says people collectively created the corrupt Federation, with some incarnating to experience it and others to repair it; she frames it as a mirror requiring individual shadow work. She says the reflection differs by person and cannot be resolved for someone else.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Porque Somos Compatibles con Observar la Federación Corrupta? Yazhi Swaruu](https://swaruu.org/transcripts/porque-somos-compatibles-con-observar-la-federacion-corrupta-yazhi-swaruu) (2023-12-10; es); passages p0004, p0006, p0008, p0014, p0018. [Structured record](../../records/src-d653d4ec53df.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-71a373d209fe-c03
+
+Yazhi says humans collectively choose Earth’s dynamic; individual change can shift collective timelines, and helping is a chosen role.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra y Yazhi Swaruu - Conversaciones Metafísicas](https://swaruu.org/transcripts/swaruu-de-erra-y-yazhi-swaruu-conversaciones-metafisicas) (2023-10-13; es); passages p0051, p0059, p0061, p0062, p0063, p0067. [Structured record](../../records/src-71a373d209fe.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-88b24c836599-c01
+
+Yazhi says she influences starseeds toward a harmonious timeline; the Federation rates her danger 10/10.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Sophia (Yazhi) Swaruu - Nuevas Conversaciones (PARTE 3)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-nuevas-conversaciones-parte-3) (2024-09-10; es); passages p0038, p0040. [Structured record](../../records/src-88b24c836599.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-7e2d3128e0af-c06
+
+Athena says Hourglass jumps alter travelers’ timelines; collective influence reaches nontravelers.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 6B - Naves de Caza Avanzadas de Taygeta (Pleyades) - Yazhi y Athena Swaruu](https://swaruu.org/transcripts/vida-interestelar-6b-naves-de-caza-avanzadas-de-taygeta-pleyades-yazhi-y-athena-swaruu) (2024-07-25; es); passages p0056, p0057. [Structured record](../../records/src-7e2d3128e0af.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-24efda7f42eb-c03
+
+Yazhi argues ideas can influence others indirectly, while the speakers acknowledge they cannot measure the project's impact. She describes influence as a possible chain reaction, not a demonstrated outcome.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Porque Continuo? - Yazhi Swaruu](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-porque-continuo-yazhi-swaruu) (2026-04-08; es); passages p0085, p0088, p0090, p0091. [Structured record](../../records/src-24efda7f42eb.json).
+
+Related topics: [Project Second Contact](project-second-contact.md).
+
+### src-0c1133da59d5-c01
+
+Gosia says shared assumptions and inherited memories link humans through a collective unconscious, shaping perceived reality and manifestation.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [El poder de tu Mente: Conciencia y Responsabilidad Colectiva (PARTE 3) - CLASE 015](https://swaruu.org/transcripts/el-poder-de-tu-mente-conciencia-y-responsabilidad-colectiva-parte-3-clase-015) (2026-06-18; es); passages p0006, p0008. [Structured record](../../records/src-0c1133da59d5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-0c1133da59d5-c03
+
+Gosia alleges negative rulers manipulate mass beliefs through limiting ideas, fear, conflict, and directed attention to sustain their preferred timeline.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [El poder de tu Mente: Conciencia y Responsabilidad Colectiva (PARTE 3) - CLASE 015](https://swaruu.org/transcripts/el-poder-de-tu-mente-conciencia-y-responsabilidad-colectiva-parte-3-clase-015) (2026-06-18; es); passages p0011, p0013. [Structured record](../../records/src-0c1133da59d5.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Electromagnetic influence on perception](electromagnetic-mind-influence.md).
+
 ## Claims filed under other topics
 
 - [src-775d18ade5d9-c04](timeline-branching.md#src-775d18ade5d9-c04) — Timeline branching
@@ -249,6 +339,11 @@ Related topics: [Timeline branching](timeline-branching.md).
 - [src-5bb94203be11-c02](starseeds.md#src-5bb94203be11-c02) — Starseeds
 - [src-3b1c05f31acd-c03](starseeds.md#src-3b1c05f31acd-c03) — Starseeds
 - [src-792d96d276c2-c02](consciousness-metaphysics.md#src-792d96d276c2-c02) — Consciousness and metaphysics
+- [src-f5e242746230-c01](matrix-generated-persons.md#src-f5e242746230-c01) — Matrix-generated persons
+- [src-1e3db31a154c-c03](individual-ascension.md#src-1e3db31a154c-c03) — Individual ascension
+- [src-53866cce2150-c03](project-second-contact.md#src-53866cce2150-c03) — Project Second Contact
+- [src-0c1133da59d5-c02](consciousness-metaphysics.md#src-0c1133da59d5-c02) — Consciousness and metaphysics
+- [src-0c1133da59d5-c04](consciousness-metaphysics.md#src-0c1133da59d5-c04) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -256,9 +351,11 @@ Related topics: [Timeline branching](timeline-branching.md).
 - Consciousness-based manifestation and hyperspace are presented as the speakers’ model; the source says manifestation is not effortless or automatic
 - Different-models-of-time-and-density-are-explicitly-contrasted
 - Earth’s purpose is explicitly undetermined.
+- Metaphysical claims about identity, duality, collective timelines, and astral experience reflect the speakers’ views.
 - Numerical influence estimates and the measurement interpretation are attributed to Alahi.
 - Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
 - The author presents telepathy and thought-form manifestation as factual; these claims remain attributed.
+- This transcript compiles personal conversations across 2020–2022; claims reflect individual speakers' views and motives.
 - ascension-model-attributed
 - claims about fabricated histories and public events are attributed lore, not independently substantiated
 - consciousness-claims
@@ -271,6 +368,7 @@ Related topics: [Timeline branching](timeline-branching.md).
 - numerical influence comparisons are illustrative, not fixed ratios
 - psychological memory-rewriting discussion could be confused with clinical guidance
 - scenario-outcomes-and-intervention-threshold
+- source presents unverifiable claims about fabricated histories, insertions, and Matrix-generated records
 - temporal-lore-attributed
 - timeline-model-varies-from-linear-view
 - translation-counterpart:none-identified

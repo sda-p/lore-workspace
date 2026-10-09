@@ -1,0 +1,68 @@
+{
+  "source_id": "src-f6679288cfba",
+  "snapshot_sha256": "fb845437113d0090e995e63e047461cdad27ca13af150d482f4bdc79952b1121",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f6679288cfba-c01",
+      "assertion": "Athena says spiritual growth need not involve suffering after reaching a certain level, though others may need extensive hardship.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f6679288cfba-c02",
+      "assertion": "Athena says planetary ascension is relative to each observer, especially positive starseeds, and linked to improved collective life and vibration.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "individual-ascension",
+      "topics": [
+        "individual-ascension",
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f6679288cfba-c03",
+      "assertion": "Athena says souls experience worlds matching their vibration; strong positive souls may manifest shared realities, but starseed futures remain uncertain amid fragmented timelines.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0022",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Her account of limiting exposure to distressing news and isolated experiential worlds."
+  ]
+}

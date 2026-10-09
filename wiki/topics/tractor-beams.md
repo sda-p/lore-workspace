@@ -176,6 +176,36 @@ Source: [Tornado y Fabrica Pfizer - Que Paso Realmente? Athena Swaruu Informa](h
 
 Related topics: [Urmah](urmah.md), [Starship systems](starship-systems.md).
 
+### src-4dbc0136de84-c03
+
+Yazhi says she uses a tractor beam and computer interface to restore pantry contents from an earlier time, not replicate food.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Sophia (Yazhi) Swaruu - Primeros Años de Yazhi en Toleka (PARTE 1)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-primeros-anos-de-yazhi-en-toleka-parte-1) (2024-08-23; es); passages p0075, p0081, p0083, p0085. [Structured record](../../records/src-4dbc0136de84.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-8afe7430b1fb-c03
+
+A 2.6-meter tractor-beam receiver handles objects or people; Suzy carries two medical pods.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 6A - Naves de Caza Avanzadas de Taygeta (Pleyades) - Yazhi y Athena Swaruu](https://swaruu.org/transcripts/vida-interestelar-6a-naves-de-caza-avanzadas-de-taygeta-pleyades-yazhi-y-athena-swaruu) (2024-07-18; es); passages p0029, p0030. [Structured record](../../records/src-8afe7430b1fb.json).
+
+Related topics: [Suzy-class starships](suzy-class-starships.md).
+
+### src-fedf11ef16ee-c03
+
+Yazhi says Toleka's tractor beam inserts aircraft into the atmosphere without lowering the ship; deployment requires operating range, direction, and line of sight. She says Federation rules discourage Toleka from descending visibly.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 12 – OVNIs Disfrazados de Aeronaves Humanas y Mas](https://swaruu.org/transcripts/vida-interestelar-12-ovnis-disfrazados-de-aeronaves-humanas-y-mas) (2026-01-25; es); passages p0039, p0041, p0043, p0045, p0047. [Structured record](../../records/src-fedf11ef16ee.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-cb6267c7760f-c04](starship-systems.md#src-cb6267c7760f-c04) — Starship systems
@@ -186,12 +216,16 @@ Related topics: [Urmah](urmah.md), [Starship systems](starship-systems.md).
 - [src-e15992dcfa52-c03](crop-circles.md#src-e15992dcfa52-c03) — Crop circles
 - [src-a02207051534-c05](nazca-spaceport.md#src-a02207051534-c05) — Nazca spaceport
 - [src-fd0bbccdb853-c03](temporal-skipping.md#src-fd0bbccdb853-c03) — Temporal skipping
+- [src-f9552f88d23a-c01](artificial-portals.md#src-f9552f88d23a-c01) — Artificial portals
+- [src-88b24c836599-c04](timeline-branching.md#src-88b24c836599-c04) — Timeline branching
+- [src-424eb87288db-c03](timeline-branching.md#src-424eb87288db-c03) — Timeline branching
 
 ## Review flags
 
 - Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems
 - Reptilian identity claim is an allegation by the speaker.
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
+- The crew's initial descriptions of anomalies and Yazhi's own tractor-beam explanation are distinct attributions.
 - earthly-cern-portal-claim-not-included
 - extraordinary-ability-claims
 - medical\_claims

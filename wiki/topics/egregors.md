@@ -610,6 +610,44 @@ Source: [DESCLASIFICACIONES Y DESINFORMACIÓN AGENDA DETRÁS DE LA DIVULGACIÓN 
 
 Related topics: [Archons and demons](archons-and-demons.md), [Tulpas](tulpas.md).
 
+### src-2a68d29853b0-c01
+
+Athena says collective human and Lyrian thoughts and fear manifest dark egregors, which gain attention when people focus on them.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Alta Frecuencia y Malos Eventos - Athena y Yazhi Swaruu](https://swaruu.org/transcripts/alta-frecuencia-y-malos-eventos-athena-y-yazhi-swaruu) (2024-06-07; es); passages p0006, p0008, p0010, p0012. [Structured record](../../records/src-2a68d29853b0.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1a481912cd2c-c02
+
+Mari describes Earth’s lower astral as a mirror of collective unconsciousness, where fear-fed egregors reinforce fear and chaos.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Pensamientos Sobre el Astral. Parte 2](https://swaruu.org/transcripts/pensamientos-sobre-el-astral-parte-2) (2024-09-17; es); passages p0019, p0021, p0022, p0023. [Structured record](../../records/src-1a481912cd2c.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
+### src-35d30319a131-c01
+
+Yazhi describes tulpas as ideas or interpretations that become real through shared perception, and says people and emotions are also idea-forms. Her account.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL MIEDO - TULPA - YAZHI SWARUU](https://swaruu.org/transcripts/el-miedo-tulpa-yazhi-swaruu) (2024-10-13; es); passages p0003, p0004, p0005, p0007, p0011. [Structured record](../../records/src-35d30319a131.json).
+
+Related topics: [Galactic consciousness](galactic-consciousness.md).
+
+### src-35d30319a131-c02
+
+Yazhi says fear concentrates attention and energy on what is feared, making it rapidly manifest within the fearful person’s perception.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL MIEDO - TULPA - YAZHI SWARUU](https://swaruu.org/transcripts/el-miedo-tulpa-yazhi-swaruu) (2024-10-13; es); passages p0012, p0013. [Structured record](../../records/src-35d30319a131.json).
+
 ## Claims filed under other topics
 
 - [src-331beeab2088-c03](postmortem-realities.md#src-331beeab2088-c03) — Postmortem realities
@@ -644,16 +682,31 @@ Related topics: [Archons and demons](archons-and-demons.md), [Tulpas](tulpas.md)
 - [src-64deed76c0cf-c03](interdimensional-parasites.md#src-64deed76c0cf-c03) — Interdimensional parasites
 - [src-39a9c48cca4f-c01](astral-entities.md#src-39a9c48cca4f-c01) — Astral entities
 - [src-39a9c48cca4f-c02](consciousness-metaphysics.md#src-39a9c48cca4f-c02) — Consciousness and metaphysics
+- [src-4343942e522e-c02](consciousness-metaphysics.md#src-4343942e522e-c02) — Consciousness and metaphysics
+- [src-f4f832e0b846-c01](astral-entities.md#src-f4f832e0b846-c01) — Astral entities
+- [src-bf51bc11a750-c01](vampires.md#src-bf51bc11a750-c01) — Vampires
+- [src-bbcda30708c9-c02](galactic-federation.md#src-bbcda30708c9-c02) — Galactic Federation
+- [src-afdc7253ce04-c03](telepathic-channeling.md#src-afdc7253ce04-c03) — Telepathic channeling
+- [src-ce9740898436-c02](consciousness-metaphysics.md#src-ce9740898436-c02) — Consciousness and metaphysics
+- [src-4dcd4b4bbb3e-c02](interdimensional-parasites.md#src-4dcd4b4bbb3e-c02) — Interdimensional parasites
+- [src-9c0214c3066b-c02](astral-entities.md#src-9c0214c3066b-c02) — Astral entities
+- [src-35d30319a131-c03](starseeds.md#src-35d30319a131-c03) — Starseeds
 
 ## Review flags
 
+- Afterlife and religious claims are attributed to Mari.
 - Anéeka says Reptilian exploitation is partial, not a complete account of Earth events.
+- Claims about astral entities, telepathy, and manifestation are attributed to Mari.
 - Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
+- Claims about surveillance spirits, astral influence, and alcohol are attributed to Mari and not independently substantiated.
 - Resource motives and fear-feeding are speaker-attributed metaphysical claims
 - Source also contains unextracted real-world political and health claims.
+- Supernatural claims are attributed to the speakers and are not independently substantiated.
+- The Federation's stated rationale is relayed by Mari from Gori'el's account of the conference; it is not endorsed as fact.
 - The author presents telepathy and thought-form manifestation as factual; these claims remain attributed.
 - The author presents the memory-location and disease examples as metaphysical claims.
 - The source explicitly separates the spiritual higher Federation from the physical Galactic Federation.
+- The transcript discusses metaphysical explanations and illustrative invasion anecdotes; preserve attribution and avoid presenting them as established facts.
 - These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
 - These are Yazhi’s metaphysical claims; tulpa “reality” and cross-density transfer are framed within her model
 - Transcript combines several speakers and dates; claims preserve speaker attribution

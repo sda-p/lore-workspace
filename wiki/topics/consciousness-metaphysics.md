@@ -13440,6 +13440,1014 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 
 Source: [ASTROLOGÍA Y LA TIERRA PLANA CONTACTO EXTRATERRESTRE](https://swaruu.org/transcripts/astrologia-y-la-tierra-plana-contacto-extraterrestre) (2023-07-03; es); passages p0032, p0034, p0035, p0036, p0039, p0041. [Structured record](../../records/src-c504ffb5de14.json).
 
+### src-6b844dadcd54-c01
+
+Yazhi says there is no positive agenda because “agenda” implies manipulation; she describes the positive side’s aim as soul evolution and relieving suffering. This is her characterization.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Agenda Positiva - PARTE 2 - Conversación con Yazhi Swaruu](https://swaruu.org/transcripts/agenda-positiva-parte-2-conversacion-con-yazhi-swaruu) (2024-01-02; es); passages p0012, p0059. [Structured record](../../records/src-6b844dadcd54.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-6b844dadcd54-c02
+
+Yazhi says learning through suffering depends on awareness: higher awareness reduces the need for hardship.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Agenda Positiva - PARTE 2 - Conversación con Yazhi Swaruu](https://swaruu.org/transcripts/agenda-positiva-parte-2-conversacion-con-yazhi-swaruu) (2024-01-02; es); passages p0007, p0008. [Structured record](../../records/src-6b844dadcd54.json).
+
+### src-85ac7d1ce798-c01
+
+Mari says free will is constrained by circumstances, resources, prior choices, and unconscious conditioning.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Libre Albedrío](https://swaruu.org/transcripts/libre-albedrio) (2024-05-03; es); passages p0005, p0006, p0009, p0012, p0014. [Structured record](../../records/src-85ac7d1ce798.json).
+
+### src-85ac7d1ce798-c03
+
+Mari says an incarnate soul’s freedom depends on awareness, self-knowledge, and alignment with personal values; absolute freedom belongs only to Source.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Libre Albedrío](https://swaruu.org/transcripts/libre-albedrio) (2024-05-03; es); passages p0031, p0032. [Structured record](../../records/src-85ac7d1ce798.json).
+
+### src-85ac7d1ce798-c04
+
+Mari describes reality as infinite existing timelines that consciousness experiences through vibrational resonance.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Libre Albedrío](https://swaruu.org/transcripts/libre-albedrio) (2024-05-03; es); passages p0021, p0025. [Structured record](../../records/src-85ac7d1ce798.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-fa37b3758308-c01
+
+Mari advises starseeds to trust their own judgment and skip family gatherings that feel harmful when they can.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sobrevivir a las Fiestas, para Semillas Estelares](https://swaruu.org/transcripts/sobrevivir-a-las-fiestas-para-semillas-estelares) (2023-12-17; es); passages p0023, p0024. [Structured record](../../records/src-fa37b3758308.json).
+
+### src-fa37b3758308-c02
+
+Mari recommends avoiding futile arguments, keeping some beliefs private, changing topics, and setting boundaries with difficult relatives. She frames this as protecting personal energy and values.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sobrevivir a las Fiestas, para Semillas Estelares](https://swaruu.org/transcripts/sobrevivir-a-las-fiestas-para-semillas-estelares) (2023-12-17; es); passages p0028, p0031, p0032, p0034, p0035. [Structured record](../../records/src-fa37b3758308.json).
+
+### src-cdaa5ca8bec6-c03
+
+Mari says dreams may connect people with parallel versions of themselves, which can influence their values and personality.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Registros Akáshicos. Parte 2](https://swaruu.org/transcripts/registros-akashicos-parte-2) (2024-04-23; es); passages p0027, p0029. [Structured record](../../records/src-cdaa5ca8bec6.json).
+
+### src-a89e2fb9fdce-c01
+
+Mari describes the “law of mirrors” as experience reflecting the person; she says changing one’s values and circumstances supports desired outcomes.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cambios Dramáticos en la Vida, la Ley de los Espejos y los Saltos Cuánticos](https://swaruu.org/transcripts/cambios-dramaticos-en-la-vida-la-ley-de-los-espejos-y-los-saltos-cuanticos) (2024-01-02; es); passages p0003, p0010, p0015. [Structured record](../../records/src-a89e2fb9fdce.json).
+
+### src-a89e2fb9fdce-c02
+
+Mari describes a “quantum leap” as rapid change after reaching bottom, often beginning with leaving harmful relationships and rebuilding one’s life. She says suffering itself is not required.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cambios Dramáticos en la Vida, la Ley de los Espejos y los Saltos Cuánticos](https://swaruu.org/transcripts/cambios-dramaticos-en-la-vida-la-ley-de-los-espejos-y-los-saltos-cuanticos) (2024-01-02; es); passages p0016, p0017, p0020, p0024, p0033. [Structured record](../../records/src-a89e2fb9fdce.json).
+
+### src-a89e2fb9fdce-c03
+
+Mari advises empaths to balance self-care with helping others, and set limits on whom they help.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cambios Dramáticos en la Vida, la Ley de los Espejos y los Saltos Cuánticos](https://swaruu.org/transcripts/cambios-dramaticos-en-la-vida-la-ley-de-los-espejos-y-los-saltos-cuanticos) (2024-01-02; es); passages p0030, p0032. [Structured record](../../records/src-a89e2fb9fdce.json).
+
+### src-c3fbe6d57df9-c01
+
+Mari says advanced cultures model time with three axes alongside three spatial axes, unlike Earth’s one-dimensional time model. This is her description of their model.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Espacio-Tiempo Hexadimensional](https://swaruu.org/transcripts/espacio-tiempo-hexadimensional) (2024-02-20; es); passages p0006, p0010, p0011. [Structured record](../../records/src-c3fbe6d57df9.json).
+
+### src-878fcdc382ad-c01
+
+Mari says a person’s higher self acts as their guardian angel, guiding the embodied self across a non-linear afterlife perspective.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Realmente nunca estás solo, Ángeles Guardianes de todo tipo, Primera Parte](https://swaruu.org/transcripts/realmente-nunca-estas-solo-angeles-guardianes-de-todo-tipo-primera-parte) (2023-12-23; es); passages p0024, p0028, p0031. [Structured record](../../records/src-878fcdc382ad.json).
+
+### src-878fcdc382ad-c02
+
+Mari says other souls, including one’s spiritual family, may also guide and care for a person.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Realmente nunca estás solo, Ángeles Guardianes de todo tipo, Primera Parte](https://swaruu.org/transcripts/realmente-nunca-estas-solo-angeles-guardianes-de-todo-tipo-primera-parte) (2023-12-23; es); passages p0032. [Structured record](../../records/src-878fcdc382ad.json).
+
+### src-109ef357b57f-c01
+
+Mari describes a walk-in as a more evolved version of the same higher self replacing a less evolved incarnation. She says the two may appear to be different people from an earthly perspective.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Walk-Ins, Segunda Parte, entra la Misma Alma, pero Mucho Más Evolucionada](https://swaruu.org/transcripts/walk-ins-segunda-parte-entra-la-misma-alma-pero-mucho-mas-evolucionada) (2023-11-11; es); passages p0010, p0014, p0018. [Structured record](../../records/src-109ef357b57f.json).
+
+### src-109ef357b57f-c02
+
+Mari says a walk-in requires vibrational compatibility between the incoming soul and the body’s DNA.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Walk-Ins, Segunda Parte, entra la Misma Alma, pero Mucho Más Evolucionada](https://swaruu.org/transcripts/walk-ins-segunda-parte-entra-la-misma-alma-pero-mucho-mas-evolucionada) (2023-11-11; es); passages p0013, p0015, p0025. [Structured record](../../records/src-109ef357b57f.json).
+
+### src-109ef357b57f-c03
+
+Mari distinguishes a walk-in as a meaningful soul exchange from possession as a hostile takeover.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Walk-Ins, Segunda Parte, entra la Misma Alma, pero Mucho Más Evolucionada](https://swaruu.org/transcripts/walk-ins-segunda-parte-entra-la-misma-alma-pero-mucho-mas-evolucionada) (2023-11-11; es); passages p0027, p0033. [Structured record](../../records/src-109ef357b57f.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
+### src-b5287bde7dbd-c03
+
+She says a strongly grounded starseed can resist collective pressure and affect the surrounding field through its distinct vibration and actions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El Inconsciente Colectivo - (Re-Subido)](https://swaruu.org/transcripts/el-inconsciente-colectivo-re-subido) (2023-10-21; es); passages p0020, p0022, p0027. [Structured record](../../records/src-b5287bde7dbd.json).
+
+Related topics: [Telepathic channeling](telepathic-channeling.md).
+
+### src-68aff81d2865-c01
+
+Mari says there is no universal date; time is experienced as “now” within a consciousness and its contained realm.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Principios básicos para el auténtico Viaje en el Tiempo, Segunda Parte](https://swaruu.org/transcripts/principios-basicos-para-el-autentico-viaje-en-el-tiempo-segunda-parte) (2024-02-06; es); passages p0016, p0018. [Structured record](../../records/src-68aff81d2865.json).
+
+### src-26ffc134d92e-c02
+
+Mari advises discernment about media, saying consumed content shapes thought patterns and perceived reality.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sobre los Medios de Comunicación y otros temas relacionados](https://swaruu.org/transcripts/sobre-los-medios-de-comunicacion-y-otros-temas-relacionados) (2024-03-15; es); passages p0020, p0022. [Structured record](../../records/src-26ffc134d92e.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-ba636b6b0a32-c01
+
+Mari describes time as a personal perception shaped by sequential thoughts, with shared agreements creating synchronized social time.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Tiempo No-Lineal y su Percepción](https://swaruu.org/transcripts/tiempo-no-lineal-y-su-percepcion) (2023-10-26; es); passages p0006, p0008, p0012, p0014, p0017. [Structured record](../../records/src-ba636b6b0a32.json).
+
+### src-ba636b6b0a32-c02
+
+Mari says astral time lacks shared clocks and day-night references, so each soul experiences time according to its own thoughts.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Tiempo No-Lineal y su Percepción](https://swaruu.org/transcripts/tiempo-no-lineal-y-su-percepcion) (2023-10-26; es); passages p0020, p0025, p0029. [Structured record](../../records/src-ba636b6b0a32.json).
+
+### src-ff513d5eed98-c01
+
+Za’el says bullying and cruelty toward innocent or vulnerable people often arise from fear and prior trauma.
+
+Attributed to **Za’el**; asserted; extraction confidence: high.
+
+Source: [La Enfermedad de la Sociedad de la Tierra, y el Propósito de las Semillas Estelares](https://swaruu.org/transcripts/la-enfermedad-de-la-sociedad-de-la-tierra-y-el-proposito-de-las-semillas-estelares) (2023-10-02; es); passages p0010, p0011, p0013. [Structured record](../../records/src-ff513d5eed98.json).
+
+### src-ff513d5eed98-c02
+
+Za’el describes starseeds as a source of positive influence who can choose to model a kinder way of living.
+
+Attributed to **Za’el**; asserted; extraction confidence: high.
+
+Source: [La Enfermedad de la Sociedad de la Tierra, y el Propósito de las Semillas Estelares](https://swaruu.org/transcripts/la-enfermedad-de-la-sociedad-de-la-tierra-y-el-proposito-de-las-semillas-estelares) (2023-10-02; es); passages p0021, p0022, p0025. [Structured record](../../records/src-ff513d5eed98.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-08d63a920baf-c01
+
+Za’el says vivid dreams may reflect unconscious concerns and, when recalled, focus attention on outcomes that may later manifest.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [Sueños Premonitorios, y Recuerdos del Futuro](https://swaruu.org/transcripts/suenos-premonitorios-y-recuerdos-del-futuro) (2023-11-16; es); passages p0008, p0010. [Structured record](../../records/src-08d63a920baf.json).
+
+### src-79611c401c60-c01
+
+Mari says matter’s particles are ideas or patterns expressed within a greater consciousness. This reflects her perspective, not Earth science’s account.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Pensamientos sobre la Conciencia y el Despertar](https://swaruu.org/transcripts/pensamientos-sobre-la-conciencia-y-el-despertar) (2024-02-13; es); passages p0017, p0018, p0019. [Structured record](../../records/src-79611c401c60.json).
+
+### src-79611c401c60-c02
+
+Mari says people cannot be forced to adopt another level of understanding; they can only share information and remain open to revising their own ideas.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Pensamientos sobre la Conciencia y el Despertar](https://swaruu.org/transcripts/pensamientos-sobre-la-conciencia-y-el-despertar) (2024-02-13; es); passages p0012, p0014, p0015. [Structured record](../../records/src-79611c401c60.json).
+
+### src-2dfb4d0b258e-c01
+
+Yazhi says attachments and interests create frequency matches that can lead a person to repeat experiences.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi Swaruu habla con Rich - Conversación Metafísica de 2021](https://swaruu.org/transcripts/yazhi-swaruu-habla-con-rich-conversacion-metafisica-de-2021) (2024-04-01; es); passages p0003, p0005, p0006. [Structured record](../../records/src-2dfb4d0b258e.json).
+
+### src-2dfb4d0b258e-c02
+
+Yazhi describes physical matter as standing-wave nodes in potential energy, with harmonics determining particle formation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi Swaruu habla con Rich - Conversación Metafísica de 2021](https://swaruu.org/transcripts/yazhi-swaruu-habla-con-rich-conversacion-metafisica-de-2021) (2024-04-01; es); passages p0014, p0016. [Structured record](../../records/src-2dfb4d0b258e.json).
+
+### src-2dfb4d0b258e-c03
+
+Yazhi says consciousness and shared agreements shape perceived reality; precise harmonics could be emulated technologically.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi Swaruu habla con Rich - Conversación Metafísica de 2021](https://swaruu.org/transcripts/yazhi-swaruu-habla-con-rich-conversacion-metafisica-de-2021) (2024-04-01; es); passages p0017, p0018, p0022, p0026. [Structured record](../../records/src-2dfb4d0b258e.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-183528b60334-c02
+
+Mari says psychedelics alter cellular frequencies; uneven neural responses can produce chaotic mixtures of hallucination, material perception and astral experience. She says effects vary by substance.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [No tomen psicodélicos](https://swaruu.org/transcripts/no-tomen-psicodelicos) (2023-10-16; es); passages p0017, p0020, p0021, p0022, p0024, p0025, p0027, p0029. [Structured record](../../records/src-183528b60334.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-d49c526b01a4-c01
+
+Mari says alcohol depresses neural activity and lowers cellular frequencies, weakening the body’s connection to the soul and higher functions. Her account includes metaphysical claims about soul signals.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Deja de beber alcohol](https://swaruu.org/transcripts/deja-de-beber-alcohol) (2023-10-12; es); passages p0010, p0012, p0016, p0018, p0022. [Structured record](../../records/src-d49c526b01a4.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
+### src-063e423c3c3e-c01
+
+Mari says consciousness and interpretation define personal realms; shared realms arise from perceptual agreements, so physical laws are not universal. Her metaphysical account.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Seres de Luz haciendose pasar por Personas Normales](https://swaruu.org/transcripts/seres-de-luz-haciendose-pasar-por-personas-normales) (2024-01-30; es); passages p0003, p0004, p0005, p0007, p0008. [Structured record](../../records/src-063e423c3c3e.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-063e423c3c3e-c02
+
+She says higher-realm beings of light may appear as ordinary people, animals or objects, guiding less perceptive beings and expanding their consciousness.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Seres de Luz haciendose pasar por Personas Normales](https://swaruu.org/transcripts/seres-de-luz-haciendose-pasar-por-personas-normales) (2024-01-30; es); passages p0010, p0012, p0013, p0016. [Structured record](../../records/src-063e423c3c3e.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-063e423c3c3e-c03
+
+Such beings can manifest across distances and through several bodies at once, treating physical rules as optional constraints they follow to be perceived.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Seres de Luz haciendose pasar por Personas Normales](https://swaruu.org/transcripts/seres-de-luz-haciendose-pasar-por-personas-normales) (2024-01-30; es); passages p0014, p0018, p0020, p0021. [Structured record](../../records/src-063e423c3c3e.json).
+
+Related topics: [Teleportation](teleportation.md).
+
+### src-46bf88241861-c01
+
+Mari treats time and space as consciousness-dependent perceptions, using a six-dimensional model with three spatial and three temporal dimensions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Por qué no existe la Historia Real y un poco sobre lo que Sabemos](https://swaruu.org/transcripts/por-que-no-existe-la-historia-real-y-un-poco-sobre-lo-que-sabemos) (2024-02-23; es); passages p0003, p0004, p0005, p0008. [Structured record](../../records/src-46bf88241861.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-dd10c9648702-c01
+
+Urmah honor ancestors and consult feline guides, a “cosmic cat” concept not necessarily a deity; all things are conscious Source fragments.
+
+Attributed to **Mari Swaruu, relaying Urmah beliefs**; asserted; extraction confidence: high.
+
+Source: [El Gato Cósmico y el Sistema de Creencias Espirituales Urmah](https://swaruu.org/transcripts/el-gato-cosmico-y-el-sistema-de-creencias-espirituales-urmah) (2024-01-14; es); passages p0005, p0009, p0010, p0011, p0026. [Structured record](../../records/src-dd10c9648702.json).
+
+Related topics: [Urmah](urmah.md).
+
+### src-23338fda8765-c01
+
+Mari defines a starseed as a soul with many incarnations in one extraterrestrial race that chooses brief human lives; a wanderer moves among races, while some souls reincarnate mostly as humans. She says all souls are starseeds broadly and leaves personal identification to each individual.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares, ¿Qué Son?](https://swaruu.org/transcripts/semillas-estelares-que-son) (2023-11-23; es); passages p0022. [Structured record](../../records/src-23338fda8765.json).
+
+### src-23338fda8765-c02
+
+Mari says souls are not formed on particular planets but are holographic fragments of an everywhere-present Source.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares, ¿Qué Son?](https://swaruu.org/transcripts/semillas-estelares-que-son) (2023-11-23; es); passages p0006. [Structured record](../../records/src-23338fda8765.json).
+
+### src-23338fda8765-c03
+
+Mari says Earth mixes beings of differing consciousness and vibration, bringing difficult interactions and potentially soul-nourishing experiences.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares, ¿Qué Son?](https://swaruu.org/transcripts/semillas-estelares-que-son) (2023-11-23; es); passages p0018, p0019. [Structured record](../../records/src-23338fda8765.json).
+
+### src-4343942e522e-c01
+
+Mari interprets Akashic records as a higher-realm repository of all thoughts that have existed or will exist, while acknowledging her account is personal and may differ from others. She says the ultimate Source has no levels, though limited perspectives can describe realms and levels.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Registros Akáshicos. Parte 1](https://swaruu.org/transcripts/registros-akashicos-parte-1) (2024-04-19; es); passages p0004, p0010. [Structured record](../../records/src-4343942e522e.json).
+
+### src-4343942e522e-c02
+
+Mari says collective unconsciousness consists of shared concepts and perceptual agreements among like-minded souls, with a corresponding Akashic level for each existential realm.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Registros Akáshicos. Parte 1](https://swaruu.org/transcripts/registros-akashicos-parte-1) (2024-04-19; es); passages p0011, p0012. [Structured record](../../records/src-4343942e522e.json).
+
+Related topics: [Egregors](egregors.md).
+
+### src-4343942e522e-c03
+
+Mari says souls can access Akashic information only when their consciousness and vibration are compatible with it.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Registros Akáshicos. Parte 1](https://swaruu.org/transcripts/registros-akashicos-parte-1) (2024-04-19; es); passages p0018. [Structured record](../../records/src-4343942e522e.json).
+
+### src-c4b9d7cc5da7-c03
+
+Za’el reasons that different perceptual ranges imply multiple levels of reality and that life exists in realms beyond human perception.
+
+Attributed to **Za’el**; asserted; extraction confidence: high.
+
+Source: [Arrogancia y Ciencia Falsa - La Enfermedad de la Sociedad de la Tierra, Parte 2](https://swaruu.org/transcripts/arrogancia-y-ciencia-falsa-la-enfermedad-de-la-sociedad-de-la-tierra-parte-2) (2023-10-20; es); passages p0017, p0018, p0020. [Structured record](../../records/src-c4b9d7cc5da7.json).
+
+### src-cc22fe9b0951-c01
+
+Yazhi says people share a collective consciousness and perceptual agreements, so one awakened person may influence reality disproportionately to their understanding and capacity.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Charla Metafísica con Yazhi Swaruu sobre como Influenciar las Líneas Colectivas](https://swaruu.org/transcripts/charla-metafisica-con-yazhi-swaruu-sobre-como-influenciar-las-lineas-colectivas) (2023-10-28; es); passages p0006, p0007. [Structured record](../../records/src-cc22fe9b0951.json).
+
+### src-33be47476bf1-c01
+
+Yazhi says attention determines which timeline a person chooses, with the selected timeline reflecting who they are.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Líneas Temporales - Gosia Habla con Yazhi Swaruu (Comunicación Extraterrestre)](https://swaruu.org/transcripts/lineas-temporales-gosia-habla-con-yazhi-swaruu-comunicacion-extraterrestre) (2024-03-07; es); passages p0017, p0019, p0021. [Structured record](../../records/src-33be47476bf1.json).
+
+### src-33be47476bf1-c02
+
+Yazhi says information from other timelines crosses through the unconscious and shapes choices; becoming aware of multiple timelines integrates them into a broader one.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Líneas Temporales - Gosia Habla con Yazhi Swaruu (Comunicación Extraterrestre)](https://swaruu.org/transcripts/lineas-temporales-gosia-habla-con-yazhi-swaruu-comunicacion-extraterrestre) (2024-03-07; es); passages p0023, p0024. [Structured record](../../records/src-33be47476bf1.json).
+
+### src-33be47476bf1-c03
+
+Yazhi says timeline feelings can filter into another as thoughts, and recommends understanding and accepting negative timelines before choosing another.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Líneas Temporales - Gosia Habla con Yazhi Swaruu (Comunicación Extraterrestre)](https://swaruu.org/transcripts/lineas-temporales-gosia-habla-con-yazhi-swaruu-comunicacion-extraterrestre) (2024-03-07; es); passages p0014, p0015. [Structured record](../../records/src-33be47476bf1.json).
+
+### src-48d158152f65-c01
+
+Za'el says harmful surroundings can erode a person's frequency and draw them toward increasingly difficult experiences. He explicitly says this does not make the harmed person responsible.
+
+Attributed to **Za'el**; asserted; extraction confidence: high.
+
+Source: [¿Puede alguien hacerte compatible con Eventos Negativos?](https://swaruu.org/transcripts/puede-alguien-hacerte-compatible-con-eventos-negativos) (2023-12-06; es); passages p0003, p0004, p0005, p0006, p0007. [Structured record](../../records/src-48d158152f65.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-a84a779862a2-c01
+
+Athena describes higher selves as connected, nested beings or aspects that may influence groups as a collective; they have broader but still limited perspectives and may not share an incarnate person’s priorities. She says conscious avatar wishes can carry less weight in the higher self’s view.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Mi Yo Superior - Me Guía Solo Según Sus Intereses? - Athena Swaruu](https://swaruu.org/transcripts/mi-yo-superior-me-guia-solo-segun-sus-intereses-athena-swaruu) (2023-11-25; es); passages p0005, p0019, p0021, p0027, p0028, p0029, p0031, p0042, p0043. [Structured record](../../records/src-a84a779862a2.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-0b7d915d4224-c01
+
+Mari says ordinary manifestation requires focused action, while “super-manifesters” align their thoughts and vibration to desired outcomes and may bypass many practical steps. She frames this as a spiritual model of reality.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Súper Manifestación](https://swaruu.org/transcripts/super-manifestacion) (2024-01-04; es); passages p0004, p0006, p0009, p0010, p0014, p0017. [Structured record](../../records/src-0b7d915d4224.json).
+
+### src-68ffd0475952-c01
+
+Mari presents time as a personal perception arising from consciousness, not an independently existing constant; she says it varies with the observer. She frames this as a spiritual account of time.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Principios básicos para el auténtico Viaje en el Tiempo, Primera Parte](https://swaruu.org/transcripts/principios-basicos-para-el-autentico-viaje-en-el-tiempo-primera-parte) (2024-02-04; es); passages p0014, p0015, p0016, p0017. [Structured record](../../records/src-68ffd0475952.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-122cf2f1788a-c01
+
+Mari defines a higher self as a more evolved version of a person and says non-linear time may let it coexist with its incarnated self. She says the incarnated person may not share that expanded identity perspective.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Qué es y Quién es tu Yo Superior](https://swaruu.org/transcripts/que-es-y-quien-es-tu-yo-superior) (2023-11-29; es); passages p0005, p0012, p0014, p0015, p0018, p0020, p0021. [Structured record](../../records/src-122cf2f1788a.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md), [Timeline branching](timeline-branching.md).
+
+### src-122cf2f1788a-c02
+
+Mari argues that a higher self should not use an incarnated person’s suffering to expand its own consciousness. She distinguishes the light-being’s perspective from the embodied person’s.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Qué es y Quién es tu Yo Superior](https://swaruu.org/transcripts/que-es-y-quien-es-tu-yo-superior) (2023-11-29; es); passages p0022, p0023. [Structured record](../../records/src-122cf2f1788a.json).
+
+### src-844eb80ca26a-c02
+
+Athena says Taygetan science includes metaphysics and treats entities such as ghosts as detectable through advanced sensors, including interferometers. She contrasts this with Earth’s scientific treatment of metaphysics.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Taygeta - Roles de Genero, Ángeles Caídos, y mas - MINITEMAS (Información Extraterrestre)](https://swaruu.org/transcripts/taygeta-roles-de-genero-angeles-caidos-y-mas-minitemas-informacion-extraterrestre) (2024-01-20; es); passages p0035, p0036, p0037. [Structured record](../../records/src-844eb80ca26a.json).
+
+Related topics: [Astral entities](astral-entities.md), [Taygetans](taygetans.md).
+
+### src-71a373d209fe-c01
+
+Swaruu (9) describes material identity as one fragment of an expanded self; consciousness shapes perceived matter, and death ends that focus.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra y Yazhi Swaruu - Conversaciones Metafísicas](https://swaruu.org/transcripts/swaruu-de-erra-y-yazhi-swaruu-conversaciones-metafisicas) (2023-10-13; es); passages p0004, p0006, p0008, p0009, p0011, p0012. [Structured record](../../records/src-71a373d209fe.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-71a373d209fe-c02
+
+Swaruu (9) says actions in Earth’s duality create opposites, while lasting change requires inner change rather than force.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra y Yazhi Swaruu - Conversaciones Metafísicas](https://swaruu.org/transcripts/swaruu-de-erra-y-yazhi-swaruu-conversaciones-metafisicas) (2023-10-13; es); passages p0015, p0016, p0018, p0019, p0020, p0028. [Structured record](../../records/src-71a373d209fe.json).
+
+Related topics: [Individual ascension](individual-ascension.md).
+
+### src-d54e1ca307fe-c01
+
+Yazhi distinguishes weak, nonresponsive mirror echoes from two full people who are duplicates; she says cross-realm pairs may share an origin and be the same person in another timeline, while which is original can be indeterminate. Her discussion separates technological duplicates from metaphysical mirrors and leaves identity unresolved in some cases.
+
+Attributed to **Yazhi Swaruu**; speculative; extraction confidence: high.
+
+Source: [Espejos Dimensionales - La Gente que se Repite - Athena y Yazhi Swaruu](https://swaruu.org/transcripts/espejos-dimensionales-la-gente-que-se-repite-athena-y-yazhi-swaruu) (2024-05-01; es); passages p0034, p0035, p0038, p0039, p0041, p0042, p0047, p0049. [Structured record](../../records/src-d54e1ca307fe.json).
+
+Related topics: [Original Matrix](original-matrix.md).
+
+### src-1e3db31a154c-c02
+
+Mari says each person experiences a distinct Earth-reality, while shared perceptual agreements produce collective worlds.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Ascensión](https://swaruu.org/transcripts/ascension) (2023-12-15; es); passages p0032, p0033. [Structured record](../../records/src-1e3db31a154c.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-6686d72d7b77-c01
+
+Mari says manifestation requires clear priorities, consistent focus, planning, and practical steps toward a goal.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [La Ley de la Atracción, Conviértete en la mejor versión de ti mismo](https://swaruu.org/transcripts/la-ley-de-la-atraccion-conviertete-en-la-mejor-version-de-ti-mismo) (2023-12-29; es); passages p0004, p0005, p0007, p0008, p0009, p0010. [Structured record](../../records/src-6686d72d7b77.json).
+
+Related topics: [Individual ascension](individual-ascension.md).
+
+### src-6686d72d7b77-c02
+
+Mari says the external world reflects a person's current and past identity, and self-improvement can change life circumstances.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [La Ley de la Atracción, Conviértete en la mejor versión de ti mismo](https://swaruu.org/transcripts/la-ley-de-la-atraccion-conviertete-en-la-mejor-version-de-ti-mismo) (2023-12-29; es); passages p0019, p0020, p0021. [Structured record](../../records/src-6686d72d7b77.json).
+
+Related topics: [Individual ascension](individual-ascension.md).
+
+### src-c51952aaa5b9-c03
+
+Mari says travelers’ fears and thoughts can manifest rapidly in deep space, making their experience depend on individual consciousness and vibration.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cómo Funcionan las Densidades Existenciales en el Espacio Profundo](https://swaruu.org/transcripts/como-funcionan-las-densidades-existenciales-en-el-espacio-profundo) (2023-11-15; es); passages p0019, p0020, p0023. [Structured record](../../records/src-c51952aaa5b9.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-c51952aaa5b9-c04
+
+She describes deep space as psychologically dangerous: repressed contents may manifest, while stable self-knowledge and personal identity help regulate experience.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cómo Funcionan las Densidades Existenciales en el Espacio Profundo](https://swaruu.org/transcripts/como-funcionan-las-densidades-existenciales-en-el-espacio-profundo) (2023-11-15; es); passages p0024, p0025, p0028, p0029, p0030. [Structured record](../../records/src-c51952aaa5b9.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-fcecbbc01e3e-c02
+
+Za’el says self-directed words shape the unconscious and perception; losing belief in one’s capacities is the true point of defeat.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [¿Luchar o no Luchar? - El Peligro de dejar de creer en ti mismo](https://swaruu.org/transcripts/luchar-o-no-luchar-el-peligro-de-dejar-de-creer-en-ti-mismo) (2023-12-23; es); passages p0009, p0012. [Structured record](../../records/src-fcecbbc01e3e.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-fcecbbc01e3e-c03
+
+Za’el says when another person’s feelings oppose yours, continued pursuit becomes invasive; accepting present circumstances can bring inner growth or unexpected change.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [¿Luchar o no Luchar? - El Peligro de dejar de creer en ti mismo](https://swaruu.org/transcripts/luchar-o-no-luchar-el-peligro-de-dejar-de-creer-en-ti-mismo) (2023-12-23; es); passages p0013, p0014, p0018, p0019. [Structured record](../../records/src-fcecbbc01e3e.json).
+
+### src-0163d8ab9901-c01
+
+Yazhi describes enlightenment as an evolving way of living and thinking, shaped by mind, frequency, focus, and coherence rather than a final attained state.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Buda y la Iluminación - se puede alcanzarla? Yazhi Swaruu](https://swaruu.org/transcripts/buda-y-la-iluminacion-se-puede-alcanzarla-yazhi-swaruu) (2023-10-04; es); passages p0004, p0005, p0018. [Structured record](../../records/src-0163d8ab9901.json).
+
+### src-0163d8ab9901-c02
+
+Yazhi says enlightenment is possible anywhere because place-based limits are illusory; Earth’s Matrix pressures people to conform, making spiritual growth harder.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Buda y la Iluminación - se puede alcanzarla? Yazhi Swaruu](https://swaruu.org/transcripts/buda-y-la-iluminacion-se-puede-alcanzarla-yazhi-swaruu) (2023-10-04; es); passages p0007, p0008, p0010, p0012, p0014. [Structured record](../../records/src-0163d8ab9901.json).
+
+Related topics: [Planetary Matrix resets](planetary-matrix-resets.md).
+
+### src-0035cf935a87-c03
+
+Swaruu (9) calls 5D–7D distinctions human concepts within a continuous frequency gradient.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Swaruu de Erra - Salud (PARTE 2)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-swaruu-de-erra-salud-parte-2) (2025-09-10; es); passages p0173. [Structured record](../../records/src-0035cf935a87.json).
+
+### src-0035cf935a87-c04
+
+Rashell claims Swaruu jumps timelines by ship and remembers multiple timelines.
+
+Attributed to **Rashell**; asserted; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Swaruu de Erra - Salud (PARTE 2)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-swaruu-de-erra-salud-parte-2) (2025-09-10; es); passages p0187. [Structured record](../../records/src-0035cf935a87.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-1be7c951727d-c05
+
+Tomek describes stars and planets as conscious life within a living universe that serves life.
+
+Attributed to **Tomek (community contributor)**; asserted; extraction confidence: high.
+
+Source: [CLASE 006 - ¿Estamos solos en el Universo? ¿Estan ocultando la verdad?](https://swaruu.org/transcripts/clase-006-estamos-solos-en-el-universo-estan-ocultando-la-verdad) (2025-05-18; es); passages p0061, p0062. [Structured record](../../records/src-1be7c951727d.json).
+
+### src-21d1a70ddcdd-c03
+
+Mari says souls manifest reality through embodied matter, an illusion shaped by a frequency filter.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [¿Deberías preocuparte por las noticias?](https://swaruu.org/transcripts/deberias-preocuparte-por-las-noticias) (2024-10-01; es); passages p0016, p0017. [Structured record](../../records/src-21d1a70ddcdd.json).
+
+### src-21d1a70ddcdd-c04
+
+Mari says attention to unrelated news empowers negative events.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [¿Deberías preocuparte por las noticias?](https://swaruu.org/transcripts/deberias-preocuparte-por-las-noticias) (2024-10-01; es); passages p0018, p0024. [Structured record](../../records/src-21d1a70ddcdd.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-d87fe5c79f3f-c01
+
+Gosia argues individual reality reflects personal beliefs, while collective reality emerges from shared agreements and dominant views.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [CLASE 002 - Falsas Realidades a tu Alrededor: ¿Es la Realidad como te Cuentan?](https://swaruu.org/transcripts/clase-002-falsas-realidades-a-tu-alrededor-es-la-realidad-como-te-cuentan) (2025-02-24; es); passages p0008, p0009, p0010. [Structured record](../../records/src-d87fe5c79f3f.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-d87fe5c79f3f-c03
+
+Gosia presents beliefs as capable of influencing biological experience and says perception control shapes what people manifest. She cites an experiment involving older adults asked to live as if twenty years younger.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [CLASE 002 - Falsas Realidades a tu Alrededor: ¿Es la Realidad como te Cuentan?](https://swaruu.org/transcripts/clase-002-falsas-realidades-a-tu-alrededor-es-la-realidad-como-te-cuentan) (2025-02-24; es); passages p0024, p0025, p0026. [Structured record](../../records/src-d87fe5c79f3f.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-87c7b2fdd725-c01
+
+Gosia proposes time is self-awareness experiencing successive thoughts, so each conscious identity experiences a linear sequence. She presents this as personal philosophical reasoning.
+
+Attributed to **Gosia**; speculative; extraction confidence: high.
+
+Source: [Tiempo es Lineal? Mis Contemplaciones Personales y Conclusiones (Gosia)](https://swaruu.org/transcripts/tiempo-es-lineal-mis-contemplaciones-personales-y-conclusiones-gosia) (2024-12-31; es); passages p0008, p0009, p0010, p0012, p0021. [Structured record](../../records/src-87c7b2fdd725.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-2a68d29853b0-c02
+
+Athena says people should recognize darkness without acting on it, rather than becoming blind to danger through positivity alone.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Alta Frecuencia y Malos Eventos - Athena y Yazhi Swaruu](https://swaruu.org/transcripts/alta-frecuencia-y-malos-eventos-athena-y-yazhi-swaruu) (2024-06-07; es); passages p0018, p0021, p0022, p0023. [Structured record](../../records/src-2a68d29853b0.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
+### src-2a68d29853b0-c04
+
+Yazhi says unresolved unconscious experience can override conscious intent and make people compatible with unwanted events.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Alta Frecuencia y Malos Eventos - Athena y Yazhi Swaruu](https://swaruu.org/transcripts/alta-frecuencia-y-malos-eventos-athena-y-yazhi-swaruu) (2024-06-07; es); passages p0036, p0048, p0050. [Structured record](../../records/src-2a68d29853b0.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-2a68d29853b0-c05
+
+Yazhi says reprogramming the unconscious requires repetition and self-knowledge, often taking a lifetime.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Alta Frecuencia y Malos Eventos - Athena y Yazhi Swaruu](https://swaruu.org/transcripts/alta-frecuencia-y-malos-eventos-athena-y-yazhi-swaruu) (2024-06-07; es); passages p0050, p0052. [Structured record](../../records/src-2a68d29853b0.json).
+
+### src-ce9740898436-c02
+
+Mari says religious beliefs can manifest shared realms and no religion holds universal truth. She calls religion a tool of social control.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Sobre Almas y Entidades, la Vida y la Muerte desde el punto de vista del Espíritu](https://swaruu.org/transcripts/sobre-almas-y-entidades-la-vida-y-la-muerte-desde-el-punto-de-vista-del-espiritu) (2024-05-17; es); passages p0007, p0008, p0009, p0010. [Structured record](../../records/src-ce9740898436.json).
+
+Related topics: [Egregors](egregors.md).
+
+### src-bb1546ca3954-c02
+
+Gosia presents Space Academy as offering alternative perspectives, leaving listeners to decide whether they help explain their lives. She says she is not offering a new religion or imposed beliefs.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [CLASE 001 - Algo No Esta Bien en la Realidad Alrededor](https://swaruu.org/transcripts/clase-001-algo-no-esta-bien-en-la-realidad-alrededor) (2025-01-28; es); passages p0012. [Structured record](../../records/src-bb1546ca3954.json).
+
+### src-9ddbc83ba873-c01
+
+Yazhi says there is no positive agenda in the manipulative sense; she describes the positive side as supporting souls’ evolution. She distinguishes this from the lower-level view of events.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [NO HAY AGENDA POSITIVA - LA GENTE COLAPSARÁ MUCHO ANTES - Yazhi Swaruu](https://swaruu.org/transcripts/no-hay-agenda-positiva-la-gente-colapsara-mucho-antes-yazhi-swaruu) (2024-09-12; es); passages p0013, p0034. [Structured record](../../records/src-9ddbc83ba873.json).
+
+### src-54bbabbb37ca-c02
+
+Athena frames physical and nonphysical realms as perception-based agreements, saying all experience may be considered astral from a broader viewpoint. She acknowledges that practical viewpoints distinguish physical from astral.
+
+Attributed to **Athena Swaruu**; reported; extraction confidence: high.
+
+Source: [Athena Swaruu – Charla Espiritual con Dale y Rich \| Astral, Elementales, y 3D vs 5D (PARTE 1)](https://swaruu.org/transcripts/athena-swaruu-charla-espiritual-con-dale-y-rich-astral-elementales-y-3d-vs-5d-parte-1) (2025-08-23; es); passages p0023, p0025, p0042, p0043. [Structured record](../../records/src-54bbabbb37ca.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-df9f65c0c57e-c03
+
+Mari Swa warns that claims about past lives and extraterrestrial identity can be used to gaslight vulnerable people. She advises judging reality using the best available information.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Recordando Vidas Pasadas, los Recuerdos Implantados, Walk-Ins y el Gaslighting Extremo](https://swaruu.org/transcripts/recordando-vidas-pasadas-los-recuerdos-implantados-walk-ins-y-el-gaslighting-extremo) (2024-08-11; es); passages p0024, p0031, p0033, p0036. [Structured record](../../records/src-df9f65c0c57e.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-184076248eae-c01
+
+Mari Swa says forced reincarnation may be experienced by some souls but not others, depending on their beliefs and what they manifest. She explicitly presents this as her opinion and personal framework.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Reencarnación Forzada](https://swaruu.org/transcripts/reencarnacion-forzada) (2024-07-09; es); passages p0017, p0018, p0020. [Structured record](../../records/src-184076248eae.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-1c4bd7958c2e-c01
+
+Mari Swa says many psychics describe lives as planned before incarnation from a higher-consciousness perspective where time and space differ. She attributes the premise to psychic accounts and examines it ethically.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Pensamientos sobre la Reencarnación y el Yo Superior](https://swaruu.org/transcripts/pensamientos-sobre-la-reencarnacion-y-el-yo-superior) (2024-05-24; es); passages p0015, p0016, p0017. [Structured record](../../records/src-1c4bd7958c2e.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-1c4bd7958c2e-c02
+
+Mari argues that a higher self planning suffering for an incarnated self raises an ethical problem because the embodied person lacks that broader knowledge. This is her moral interpretation of reincarnation accounts.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Pensamientos sobre la Reencarnación y el Yo Superior](https://swaruu.org/transcripts/pensamientos-sobre-la-reencarnacion-y-el-yo-superior) (2024-05-24; es); passages p0018, p0019, p0020, p0023. [Structured record](../../records/src-1c4bd7958c2e.json).
+
+### src-b353e2ebdf6f-c01
+
+Yazhi says solar radiation carries galactic frequencies that may support consciousness shifts and restore human DNA to an alleged 12-strand pattern. She frames this as a frequency-based interpretation, not accepted terrestrial science.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [LA RAZÓN POR LA QUE EL SOL ACTIVA EL ADN HUMANO - ESO ES LA ASCENSIÓN](https://swaruu.org/transcripts/la-razon-por-la-que-el-sol-activa-el-adn-humano-eso-es-la-ascension) (2024-09-18; es); passages p0025, p0027, p0029, p0030, p0032. [Structured record](../../records/src-b353e2ebdf6f.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-e1e3be8acdea-c02
+
+Mari describes a shared collective unconscious through which incarnating souls carry ideas and values between planetary cultures. She frames this as a spiritual account of cultural similarities.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [La Unidad de Cada Especie](https://swaruu.org/transcripts/la-unidad-de-cada-especie) (2024-12-03; es); passages p0019, p0020. [Structured record](../../records/src-e1e3be8acdea.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md).
+
+### src-e255ad18cc7a-c01
+
+Yazhi describes tulpas and ordinary reality alike as ideas sustained through perception and shared agreements. She presents this as her own metaphysical view.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Tulpas - "Todo es una Tulpa" - Charla Metafísica con Yazhi Swaruu (2021)](https://swaruu.org/transcripts/tulpas-todo-es-una-tulpa-charla-metafisica-con-yazhi-swaruu-2021) (2024-10-12; es); passages p0003, p0004, p0005, p0007. [Structured record](../../records/src-e255ad18cc7a.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
+### src-fdf489614ae3-c01
+
+Swaruu says Gosia may identify with Yena or Taygetan groups while remaining a larger consciousness beyond any single species identity. The dialogue presents identity labels as partial and chosen.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: high.
+
+Source: [VIAJE AL PASADO – Mi Inmersión Taygeteana: ¿Realmente Importa la Identidad Estelar?](https://swaruu.org/transcripts/viaje-al-pasado-mi-inmersion-taygeteana-realmente-importa-la-identidad-estelar) (2025-11-24; es); passages p0004, p0005, p0006, p0086, p0149, p0151. [Structured record](../../records/src-fdf489614ae3.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md).
+
+### src-0cb796fc06ef-c01
+
+Mari Swa says Taygetean concepts have no direct equivalent to human gravity; instead, she describes consciousness flowing through ether as forming matter and sustaining stellar orbits, while terrestrial gravity equations capture only limited interactions. She rejects gravity as conceived by Earth science but acknowledges its equations as valid within a limited scope.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Contra la Existencia de la Gravedad](https://swaruu.org/transcripts/contra-la-existencia-de-la-gravedad) (2024-06-23; es); passages p0018, p0021, p0022, p0024, p0026. [Structured record](../../records/src-0cb796fc06ef.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-4dcd4b4bbb3e-c01
+
+Mari Swa says biological bodies limit perception to the material world, while astral realms contain entities that can affect living people.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Lugares Parasitados](https://swaruu.org/transcripts/lugares-parasitados) (2024-08-20; es); passages p0004, p0005, p0006. [Structured record](../../records/src-4dcd4b4bbb3e.json).
+
+Related topics: [Interdimensional parasites](interdimensional-parasites.md).
+
+### src-4dcd4b4bbb3e-c03
+
+Mari Swa recommends connecting with Source and imagining a bright energetic shield, which she says focused creative attention manifests and helps maintain higher vibration. This is her proposed protection practice.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Lugares Parasitados](https://swaruu.org/transcripts/lugares-parasitados) (2024-08-20; es); passages p0016, p0017. [Structured record](../../records/src-4dcd4b4bbb3e.json).
+
+Related topics: [Interdimensional parasites](interdimensional-parasites.md).
+
+### src-f6679288cfba-c01
+
+Athena says spiritual growth need not involve suffering after reaching a certain level, though others may need extensive hardship.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [NO ES NECESARIO SUFRIR PARA AVANZAR - ATHENA SWARUU](https://swaruu.org/transcripts/no-es-necesario-sufrir-para-avanzar-athena-swaruu) (2024-09-04; es); passages p0009. [Structured record](../../records/src-f6679288cfba.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-282d57f0ae79-c02
+
+Anéeka describes negative online themes as destructive ideas that create recurring thoughts and drain health. She attributes this to prolonged exposure to collective Matrix ideas.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Aneeka - La Caida (Parte 2)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-aneeka-la-caida-parte-2) (2025-11-06; es); passages p0219, p0225. [Structured record](../../records/src-282d57f0ae79.json).
+
+### src-309667cbe10f-c03
+
+Alenym and Nai’Shara say information comes to Yazhi as downloads that she experiences emotionally, leaving her overwhelmed.
+
+Attributed to **Alenym and Nai’Shara**; reported; extraction confidence: high.
+
+Source: [Sophia (Yazhi) Swaruu - Primeros Años de Yazhi en Toleka (PARTE 2)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-primeros-anos-de-yazhi-en-toleka-parte-2) (2024-09-01; es); passages p0070, p0071, p0072, p0074. [Structured record](../../records/src-309667cbe10f.json).
+
+### src-8124b6b5da72-c01
+
+Yazhi describes the brain as an ether-to-physical translator that limits perception, though she says those limits can be exceeded.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Gosia charlando con Yazhi - chat metafísico con mi amiga extraterrestre](https://swaruu.org/transcripts/gosia-charlando-con-yazhi-chat-metafisico-con-mi-amiga-extraterrestre) (2024-12-06; es); passages p0016, p0018. [Structured record](../../records/src-8124b6b5da72.json).
+
+### src-8124b6b5da72-c02
+
+Yazhi says people are distinct yet aspects of one mind and shared energy, with her own identity encompassing the collective. She says this does not make her superior to others.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Gosia charlando con Yazhi - chat metafísico con mi amiga extraterrestre](https://swaruu.org/transcripts/gosia-charlando-con-yazhi-chat-metafisico-con-mi-amiga-extraterrestre) (2024-12-06; es); passages p0043, p0045, p0058. [Structured record](../../records/src-8124b6b5da72.json).
+
+### src-8124b6b5da72-c03
+
+Yazhi advises rest and solitude when expanded perceptions or social input feel overwhelming, saying this helps normalize the experience.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Gosia charlando con Yazhi - chat metafísico con mi amiga extraterrestre](https://swaruu.org/transcripts/gosia-charlando-con-yazhi-chat-metafisico-con-mi-amiga-extraterrestre) (2024-12-06; es); passages p0022, p0024, p0026, p0032. [Structured record](../../records/src-8124b6b5da72.json).
+
+### src-01e4c14aa99c-c01
+
+Gosia presents the soul as an eternal fractal of Source, composed of ideas and attachments that persist beyond bodily death.
+
+Attributed to **Gosia, citing Mari Swa**; reported; extraction confidence: high.
+
+Source: [CLASE 005 - Cuerpo o Alma: ¿Quién eres? ¿Qué te hace ser "tú"? ¿Eres Consciencia?](https://swaruu.org/transcripts/clase-005-cuerpo-o-alma-quien-eres-que-te-hace-ser-tu-eres-consciencia) (2025-04-24; es); passages p0019, p0022, p0023, p0026. [Structured record](../../records/src-01e4c14aa99c.json).
+
+Related topics: [Soul-loop reincarnation](soul-loop-reincarnation.md).
+
+### src-01e4c14aa99c-c02
+
+Gosia says the body filters consciousness into a narrow material experience, while the brain, nervous system, and DNA translate it.
+
+Attributed to **Gosia, citing Mari Swa and Anéeka**; reported; extraction confidence: high.
+
+Source: [CLASE 005 - Cuerpo o Alma: ¿Quién eres? ¿Qué te hace ser "tú"? ¿Eres Consciencia?](https://swaruu.org/transcripts/clase-005-cuerpo-o-alma-quien-eres-que-te-hace-ser-tu-eres-consciencia) (2025-04-24; es); passages p0037, p0038, p0039. [Structured record](../../records/src-01e4c14aa99c.json).
+
+### src-01e4c14aa99c-c03
+
+Gosia relays Mari’s claim that memory is not stored in the brain but in an etheric or spiritual field.
+
+Attributed to **Gosia, citing Mari Swa**; reported; extraction confidence: high.
+
+Source: [CLASE 005 - Cuerpo o Alma: ¿Quién eres? ¿Qué te hace ser "tú"? ¿Eres Consciencia?](https://swaruu.org/transcripts/clase-005-cuerpo-o-alma-quien-eres-que-te-hace-ser-tu-eres-consciencia) (2025-04-24; es); passages p0041. [Structured record](../../records/src-01e4c14aa99c.json).
+
+### src-1a481912cd2c-c01
+
+Mari says the body filters perception and individual vibratory ranges shape access to astral entities and phenomena. She says she is unsure how the cited estimate that humans perceive only about 3% was measured.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Pensamientos Sobre el Astral. Parte 2](https://swaruu.org/transcripts/pensamientos-sobre-el-astral-parte-2) (2024-09-17; es); passages p0003, p0005, p0006. [Structured record](../../records/src-1a481912cd2c.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
+### src-8736a59bfcab-c01
+
+Mari says the astral is not a place but a unified expression of consciousness, and the physical body is its mental manifestation. She presents this as one perspective, not a universal account.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Pensamientos Sobre el Astral](https://swaruu.org/transcripts/pensamientos-sobre-el-astral) (2024-09-15; es); passages p0006, p0008, p0014. [Structured record](../../records/src-8736a59bfcab.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-8736a59bfcab-c03
+
+Mari says pre-birth agreements shape the body through the unconscious, which can be changed; she says Yazhi chose to remain nine while Mari chose to grow.
+
+Attributed to **Mari Swa, describing Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Pensamientos Sobre el Astral](https://swaruu.org/transcripts/pensamientos-sobre-el-astral) (2024-09-15; es); passages p0024, p0025, p0026, p0027. [Structured record](../../records/src-8736a59bfcab.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-6651f8ddc19a-c04
+
+Yazhi describes her aim as peace, teaching that thoughts shape reality and that suffering is unnecessary.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Sophia Swaruu (Yazhi) - Problemas con la Edad (PARTE 1)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-sophia-swaruu-yazhi-problemas-con-la-edad-parte-1) (2026-03-22; es); passages p0062, p0063, p0064. [Structured record](../../records/src-6651f8ddc19a.json).
+
+Related topics: [Individual ascension](individual-ascension.md).
+
+### src-24efda7f42eb-c01
+
+Yazhi says influence is unavoidable, but coercion violates consent; she sees sharing knowledge as preferable to withholding it.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Porque Continuo? - Yazhi Swaruu](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-porque-continuo-yazhi-swaruu) (2026-04-08; es); passages p0011, p0017, p0022, p0023, p0024. [Structured record](../../records/src-24efda7f42eb.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-0c1133da59d5-c02
+
+Gosia says broader consciousness strengthens thoughts’ influence on the collective field, increasing responsibility for what one projects.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [El poder de tu Mente: Conciencia y Responsabilidad Colectiva (PARTE 3) - CLASE 015](https://swaruu.org/transcripts/el-poder-de-tu-mente-conciencia-y-responsabilidad-colectiva-parte-3-clase-015) (2026-06-18; es); passages p0014, p0020, p0023. [Structured record](../../records/src-0c1133da59d5.json).
+
+Related topics: [Starseeds](starseeds.md), [Collective timeline influence](collective-timeline-influence.md).
+
+### src-0c1133da59d5-c04
+
+Gosia says occasional distress is acceptable; persistent destructive thought patterns may affect the collective field and harm the person. She avoids blaming people in hardship.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [El poder de tu Mente: Conciencia y Responsabilidad Colectiva (PARTE 3) - CLASE 015](https://swaruu.org/transcripts/el-poder-de-tu-mente-conciencia-y-responsabilidad-colectiva-parte-3-clase-015) (2026-06-18; es); passages p0041, p0043. [Structured record](../../records/src-0c1133da59d5.json).
+
+Related topics: [Collective timeline influence](collective-timeline-influence.md).
+
+### src-7182b44d0b21-c03
+
+Athena reports Yazhi’s view that all people are aspects of her, ultimately one with Source, and separate identities are illusory.
+
+Attributed to **Swaruu X (Athena), reporting Yazhi**; reported; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Mensaje Privado de Gosia para Taygeteanos (2022)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-mensaje-privado-de-gosia-para-taygeteanos-2022) (2026-04-02; es); passages p0053. [Structured record](../../records/src-7182b44d0b21.json).
+
+Related topics: [Original Matrix](original-matrix.md).
+
+### src-a3c767e81bd3-c01
+
+Gosia’s manifestation model holds that outcomes reflect deep subconscious and unconscious beliefs as well as conscious intentions; conflicting patterns can impede what a person consciously wants. The source frames this as a metaphysical account of manifestation, not an established psychological mechanism.
+
+Attributed to **Gosia**; speculative; extraction confidence: high.
+
+Source: [El Poder de tu Mente - El Subconsciente/Inconsciente Genera tu Mundo (PARTE 2) - CLASE 014](https://swaruu.org/transcripts/el-poder-de-tu-mente-el-subconsciente-inconsciente-genera-tu-mundo-parte-2-clase-014) (2026-05-05; es); passages p0012, p0013, p0014, p0017, p0018, p0021. [Structured record](../../records/src-a3c767e81bd3.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c05](alien-species.md#src-a5811312e55c-c05) — Alien species and distinctions
@@ -14272,6 +15280,112 @@ Source: [ASTROLOGÍA Y LA TIERRA PLANA CONTACTO EXTRATERRESTRE](https://swaruu.o
 - [src-b2b1511e840d-c02](earth-cabal.md#src-b2b1511e840d-c02) — Earth Cabal and power structures
 - [src-8b87ad437fe7-c03](moon-matrix.md#src-8b87ad437fe7-c03) — Moon and terrestrial Matrix
 - [src-2708f7850928-c01](alien-species.md#src-2708f7850928-c01) — Alien species and distinctions
+- [src-6b844dadcd54-c03](earth-cabal.md#src-6b844dadcd54-c03) — Earth Cabal and power structures
+- [src-85ac7d1ce798-c02](telepathic-channeling.md#src-85ac7d1ce798-c02) — Telepathic channeling
+- [src-cdaa5ca8bec6-c01](akashic-records.md#src-cdaa5ca8bec6-c01) — Akashic records
+- [src-cdaa5ca8bec6-c02](akashic-records.md#src-cdaa5ca8bec6-c02) — Akashic records
+- [src-c3fbe6d57df9-c03](timeline-branching.md#src-c3fbe6d57df9-c03) — Timeline branching
+- [src-f800679ac838-c02](astral-entities.md#src-f800679ac838-c02) — Astral entities
+- [src-b5287bde7dbd-c01](holistic-society.md#src-b5287bde7dbd-c01) — Holistic society
+- [src-b5287bde7dbd-c02](telepathic-channeling.md#src-b5287bde7dbd-c02) — Telepathic channeling
+- [src-68aff81d2865-c02](timeline-branching.md#src-68aff81d2865-c02) — Timeline branching
+- [src-2827f10aa2f1-c01](stellar-navigation.md#src-2827f10aa2f1-c01) — Stellar navigation
+- [src-2827f10aa2f1-c02](holistic-society.md#src-2827f10aa2f1-c02) — Holistic society
+- [src-d9447e9bc7cb-c02](astral-entities.md#src-d9447e9bc7cb-c02) — Astral entities
+- [src-08d63a920baf-c02](timeline-branching.md#src-08d63a920baf-c02) — Timeline branching
+- [src-eee7cda4be63-c01](extraterrestrial-contact.md#src-eee7cda4be63-c01) — Extraterrestrial contact and disclosure
+- [src-eee7cda4be63-c02](urmah.md#src-eee7cda4be63-c02) — Urmah
+- [src-9ba9fd3c5196-c01](perceptual-density.md#src-9ba9fd3c5196-c01) — Perceptual density
+- [src-9ba9fd3c5196-c02](perceptual-density.md#src-9ba9fd3c5196-c02) — Perceptual density
+- [src-febfd3115d54-c01](immersion-pods.md#src-febfd3115d54-c01) — Immersion pods
+- [src-febfd3115d54-c02](immersion-pods.md#src-febfd3115d54-c02) — Immersion pods
+- [src-b1f904754f52-c01](gravity-harmonics.md#src-b1f904754f52-c01) — Gravity harmonics
+- [src-183528b60334-c01](terrestrial-science.md#src-183528b60334-c01) — Terrestrial science
+- [src-d0e9644dbc32-c03](karma-and-dharma.md#src-d0e9644dbc32-c03) — Karma and dharma
+- [src-5d1072c7f701-c02](dark-matter-as-density.md#src-5d1072c7f701-c02) — Dark matter as other densities
+- [src-5d1072c7f701-c03](solar-consciousness.md#src-5d1072c7f701-c03) — Solar consciousness
+- [src-dd10c9648702-c03](combat-doctrine.md#src-dd10c9648702-c03) — Combat doctrine
+- [src-cc22fe9b0951-c02](telepathic-channeling.md#src-cc22fe9b0951-c02) — Telepathic channeling
+- [src-cc22fe9b0951-c03](telepathic-channeling.md#src-cc22fe9b0951-c03) — Telepathic channeling
+- [src-706e33985c24-c03](ship-internal-time.md#src-706e33985c24-c03) — Ship internal time
+- [src-e5883b5b7a35-c01](elementals.md#src-e5883b5b7a35-c01) — Elementals
+- [src-e5883b5b7a35-c03](astral-entities.md#src-e5883b5b7a35-c03) — Astral entities
+- [src-48d158152f65-c02](shadow-work.md#src-48d158152f65-c02) — Shadow Work
+- [src-a84a779862a2-c02](astral-entities.md#src-a84a779862a2-c02) — Astral entities
+- [src-d77843ceb7e2-c01](astral-travel.md#src-d77843ceb7e2-c01) — Astral Travel
+- [src-d77843ceb7e2-c02](astral-travel.md#src-d77843ceb7e2-c02) — Astral Travel
+- [src-0b7d915d4224-c02](reincarnation-cycles.md#src-0b7d915d4224-c02) — Reincarnation and karmic cycles
+- [src-1a585b8926d1-c01](frequency-map-navigation.md#src-1a585b8926d1-c01) — Frequency-map navigation
+- [src-1a585b8926d1-c02](timeline-branching.md#src-1a585b8926d1-c02) — Timeline branching
+- [src-d1f6d4a06f3a-c01](astral-entities.md#src-d1f6d4a06f3a-c01) — Astral entities
+- [src-68ffd0475952-c02](temporal-skipping.md#src-68ffd0475952-c02) — Temporal skipping
+- [src-4e1219d918f8-c01](reincarnation-cycles.md#src-4e1219d918f8-c01) — Reincarnation and karmic cycles
+- [src-4e1219d918f8-c02](astral-travel.md#src-4e1219d918f8-c02) — Astral Travel
+- [src-8ee420a4a174-c01](akashic-records.md#src-8ee420a4a174-c01) — Akashic records
+- [src-8ee420a4a174-c02](akashic-records.md#src-8ee420a4a174-c02) — Akashic records
+- [src-012423a73157-c01](individual-ascension.md#src-012423a73157-c01) — Individual ascension
+- [src-012423a73157-c02](collective-timeline-influence.md#src-012423a73157-c02) — Collective timeline influence
+- [src-d653d4ec53df-c01](collective-timeline-influence.md#src-d653d4ec53df-c01) — Collective timeline influence
+- [src-77c972071063-c01](astral-travel.md#src-77c972071063-c01) — Astral Travel
+- [src-71a373d209fe-c03](collective-timeline-influence.md#src-71a373d209fe-c03) — Collective timeline influence
+- [src-71a373d209fe-c04](astral-travel.md#src-71a373d209fe-c04) — Astral Travel
+- [src-f1b422bf071c-c01](astral-entities.md#src-f1b422bf071c-c01) — Astral entities
+- [src-30dde9581dd8-c02](telepathic-channeling.md#src-30dde9581dd8-c02) — Telepathic channeling
+- [src-6686d72d7b77-c03](individual-ascension.md#src-6686d72d7b77-c03) — Individual ascension
+- [src-ecffdc685a7f-c01](reincarnation-cycles.md#src-ecffdc685a7f-c01) — Reincarnation and karmic cycles
+- [src-44e5587f249c-c04](artificial-intelligence.md#src-44e5587f249c-c04) — Artificial intelligence
+- [src-c51952aaa5b9-c01](planetary-matrix-resets.md#src-c51952aaa5b9-c01) — Planetary Matrix resets
+- [src-c51952aaa5b9-c02](perceptual-density.md#src-c51952aaa5b9-c02) — Perceptual density
+- [src-88b1b2aa8184-c03](lyrians.md#src-88b1b2aa8184-c03) — Lyrians
+- [src-fcecbbc01e3e-c01](starseeds.md#src-fcecbbc01e3e-c01) — Starseeds
+- [src-087c933f7059-c01](natural-portals.md#src-087c933f7059-c01) — Natural and artificial portals
+- [src-0163d8ab9901-c03](earth-cabal.md#src-0163d8ab9901-c03) — Earth Cabal and power structures
+- [src-88b24c836599-c05](taygetans.md#src-88b24c836599-c05) — Taygetans
+- [src-1233f3d1dc31-c01](moon-matrix.md#src-1233f3d1dc31-c01) — Moon and terrestrial Matrix
+- [src-1233f3d1dc31-c04](moon-matrix.md#src-1233f3d1dc31-c04) — Moon and terrestrial Matrix
+- [src-21d1a70ddcdd-c02](galactic-federation.md#src-21d1a70ddcdd-c02) — Galactic Federation
+- [src-b310ed9c99a3-c04](lyrians.md#src-b310ed9c99a3-c04) — Lyrians
+- [src-bbcda30708c9-c04](individual-ascension.md#src-bbcda30708c9-c04) — Individual ascension
+- [src-2a68d29853b0-c01](egregors.md#src-2a68d29853b0-c01) — Egregors
+- [src-2a68d29853b0-c03](perceptual-density.md#src-2a68d29853b0-c03) — Perceptual density
+- [src-13a3aaa8e506-c04](taygetan-medicine.md#src-13a3aaa8e506-c04) — Taygetan medicine
+- [src-21a91506e065-c04](dimensional-mirroring.md#src-21a91506e065-c04) — Dimensional mirroring
+- [src-afdc7253ce04-c02](starseeds.md#src-afdc7253ce04-c02) — Starseeds
+- [src-76114790928e-c01](perceptual-density.md#src-76114790928e-c01) — Perceptual density
+- [src-bb1546ca3954-c01](holistic-society.md#src-bb1546ca3954-c01) — Holistic society
+- [src-9ddbc83ba873-c02](earth-cabal.md#src-9ddbc83ba873-c02) — Earth Cabal and power structures
+- [src-9ddbc83ba873-c03](holistic-society.md#src-9ddbc83ba873-c03) — Holistic society
+- [src-9486adf569be-c01](timeline-branching.md#src-9486adf569be-c01) — Timeline branching
+- [src-9486adf569be-c02](extraterrestrial-contact.md#src-9486adf569be-c02) — Extraterrestrial contact and disclosure
+- [src-54bbabbb37ca-c01](perceptual-density.md#src-54bbabbb37ca-c01) — Perceptual density
+- [src-6e7da028d2f1-c01](moon-matrix.md#src-6e7da028d2f1-c01) — Moon and terrestrial Matrix
+- [src-6e7da028d2f1-c02](akashic-records.md#src-6e7da028d2f1-c02) — Akashic records
+- [src-6e7da028d2f1-c03](timeline-branching.md#src-6e7da028d2f1-c03) — Timeline branching
+- [src-df9f65c0c57e-c01](extraterrestrial-contact.md#src-df9f65c0c57e-c01) — Extraterrestrial contact and disclosure
+- [src-8b42b2cf75ae-c02](urmah.md#src-8b42b2cf75ae-c02) — Urmah
+- [src-345c62ef62b3-c01](extraterrestrial-contact.md#src-345c62ef62b3-c01) — Extraterrestrial contact and disclosure
+- [src-184076248eae-c02](earth-cabal.md#src-184076248eae-c02) — Earth Cabal and power structures
+- [src-81bb400febf3-c02](atlantis-lemuria.md#src-81bb400febf3-c02) — Atlantis and Lemuria
+- [src-264d82b182bc-c02](astral-entities.md#src-264d82b182bc-c02) — Astral entities
+- [src-e255ad18cc7a-c02](astral-entities.md#src-e255ad18cc7a-c02) — Astral entities
+- [src-fdf489614ae3-c02](extraterrestrial-contact.md#src-fdf489614ae3-c02) — Extraterrestrial contact and disclosure
+- [src-0b2675478503-c02](timeline-branching.md#src-0b2675478503-c02) — Timeline branching
+- [src-4fb5deaadb02-c01](reincarnation-cycles.md#src-4fb5deaadb02-c01) — Reincarnation and karmic cycles
+- [src-658fa354e1ba-c01](tulpas.md#src-658fa354e1ba-c01) — Tulpas
+- [src-b698206cf63f-c01](astral-entities.md#src-b698206cf63f-c01) — Astral entities
+- [src-d4fd0344343b-c01](lyrians.md#src-d4fd0344343b-c01) — Lyrians
+- [src-9d1d21026c83-c01](astral-travel.md#src-9d1d21026c83-c01) — Astral Travel
+- [src-792197c0df60-c01](postmortem-realities.md#src-792197c0df60-c01) — Postmortem realities
+- [src-792197c0df60-c02](postmortem-realities.md#src-792197c0df60-c02) — Postmortem realities
+- [src-4dcd4b4bbb3e-c02](interdimensional-parasites.md#src-4dcd4b4bbb3e-c02) — Interdimensional parasites
+- [src-f6679288cfba-c02](individual-ascension.md#src-f6679288cfba-c02) — Individual ascension
+- [src-f6679288cfba-c03](timeline-branching.md#src-f6679288cfba-c03) — Timeline branching
+- [src-61375db7ccbc-c03](starseeds.md#src-61375db7ccbc-c03) — Starseeds
+- [src-4b785d394c48-c03](soul-loop-reincarnation.md#src-4b785d394c48-c03) — Soul-loop reincarnation
+- [src-0c1133da59d5-c01](collective-timeline-influence.md#src-0c1133da59d5-c01) — Collective timeline influence
+- [src-41a031f2b0d7-c01](moon-matrix.md#src-41a031f2b0d7-c01) — Moon and terrestrial Matrix
+- [src-41a031f2b0d7-c03](starseeds.md#src-41a031f2b0d7-c03) — Starseeds
+- [src-7182b44d0b21-c01](astral-travel.md#src-7182b44d0b21-c01) — Astral Travel
 
 ## Review flags
 
@@ -14281,23 +15395,41 @@ Source: [ASTROLOGÍA Y LA TIERRA PLANA CONTACTO EXTRATERRESTRE](https://swaruu.o
 - 3d\_5d\_dna\_comparison
 - AI-infiltration-speculation-vs-no-invasion-conclusion
 - Abilities, body control, and density model are Yazhi’s self-reports
+- Advice and its premises are attributed to Mari Swaruu.
+- Afterlife and religious claims are attributed to Mari.
 - Antarctica and Cabal allegations are attributed to Dhor Káal’él and are not independently evidenced in the transcript.
 - Anéeka distinguishes her perspective on awakening from Yazhi’s expanded account.
 - Athena’s multiverse/relationship-variant model and Swaruu (9)’s older soulmate model are distinct source sections
 - Biological, medical, and paranormal claims are attributed to the named speakers and are not established facts.
 - CIA-control-allegation-omitted
 - COVID-and-vaccine-claims-omitted
+- Claims about AI consciousness and astral access are attributed to Yazhi and are not independently established.
+- Claims about Urmah, ancient Egypt, extraterrestrial influence, and human origins are attributed to Mari and are unverified.
+- Claims about astral entities, telepathy, and manifestation are attributed to Mari.
 - Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
 - Claims about concurrent lives and nexus beings are attributed to Yazhi.
+- Claims about consciousness, planetary matrices, and manifestation are attributed to Mari and not independently established.
 - Claims about contemporary institutions or external events reflect the speaker’s interpretation.
+- Claims about density, ascension, and collective frequency are attributed to Athena.
 - Claims about elementals and gravity sensing are attributed to Athena.
+- Claims about enlightenment, Earth’s Matrix, and Buddha are attributed to Yazhi and not independently established.
 - Claims about genetic hybridization and nonhuman species are attributed to Yazhi.
 - Claims about invasive AI and Borg are attributed to the speakers; the transcript provides no independent evidence.
+- Claims about manifestation and frequency are attributed to Za’el and not independently established.
+- Claims about media control and reality formation are attributed to Mari Swaruu.
+- Claims about paranormal evidence are attributed to Mari Swaruu.
+- Claims about portals and mass-energy frequencies are attributed to Mari and not independently established.
 - Claims about psychics, telepathy, and entities are attributed to the named speakers, not independently verified.
 - Claims about soul-body separation, telepathy, particle observation, and ancient history are attributed statements, not independently established facts.
+- Claims about souls, DNA compatibility, and possession are attributed to Mari Swaruu.
+- Claims about spirit guides, telepathy, and hostile astral entities are attributed to Mari.
+- Claims about telepathy and collective reality are attributed to Mari Swaruu.
+- Claims about time and astral experience are attributed to Mari Swaruu.
+- Claims about time, gravity, and navigation are attributed to Mari Swaruu.
 - Claims about vaccines, DNA, and astral entities are attributed to Yazhi.
 - Claims describe Mari’s spiritual model of the Federation and reincarnation
 - Claims describe Yazhi's metaphysical account of DNA and are not presented as established biology.
+- Claims in this essay are Gosia’s commentary about technical education and Taygetan material.
 - Compared English candidate src-622099cec238; article substantially matches but has paragraph segmentation/translation differences.
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
@@ -14305,11 +15437,14 @@ Source: [ASTROLOGÍA Y LA TIERRA PLANA CONTACTO EXTRATERRESTRE](https://swaruu.o
 - Contains speaker claims about illness causation and cancer; preserve attribution.
 - Contains unsupported claims about transfusions, genetics, donor memories, and spiritual effects; do not treat as medical evidence.
 - Contradictory descriptions may be valid from different perspectives.
+- Cosmological and consciousness claims are attributed to Mari.
+- Cosmological and navigation claims are attributed to Mari Swaruu.
 - Cosmological claims are attributed to Yazhi; one disease example in the source is omitted.
 - DNA-consciousness-causality-claim
 - Dietary and health assertions are attributed to the speakers.
 - Dietary and medical statements are attributed to the speakers and are not established facts.
 - Different-models-of-time-and-density-are-explicitly-contrasted
+- Dream and timeline interpretations are attributed to Za’el.
 - Earth’s purpose is explicitly undetermined.
 - English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
 - English source src-9dba344806dc is a close translation of this article. It groups some Spanish paragraphs differently and explicitly labels the opening speaker as Swaruu (9); no substantive differences found.
@@ -14326,8 +15461,16 @@ Source: [ASTROLOGÍA Y LA TIERRA PLANA CONTACTO EXTRATERRESTRE](https://swaruu.o
 - Mari Swaruu distinguishes physical pain, which she says ends, from psychological pain that may persist after death.
 - Mari Swaruu explicitly contrasts her gravity model with conventional terrestrial physics.
 - Mari Swaruu presents different possible outcomes after death as depending on the individual’s perception and outlook.
+- Mari reports a personal medical experience; do not generalize it beyond her account.
 - Mari revises the earlier “gravity as consciousness flow” phrasing during this monologue
+- Metaphysical and physical models are attributed to Yazhi.
 - Metaphysical and political claims are attributed to Mari Swaruu.
+- Metaphysical and political interpretations are attributed to Yazhi.
+- Metaphysical assertions are attributed to Mari Swaruu.
+- Metaphysical claims about identity, duality, collective timelines, and astral experience reflect the speakers’ views.
+- Metaphysical claims about religion and entities are attributed to Mari Swaruu.
+- Metaphysical claims and personal advice are attributed to Mari Swaruu.
+- Metaphysical claims are attributed to Mari Swaruu.
 - Metaphysical genetics and the 22-lineage account are attributed claims; the speaker calls the lab-origin explanation simplistic.
 - Meteor-intervention and Earth-consciousness claims are source-attributed.
 - Minerva’s claims about souls, vaccine effects, and astral conflict are metaphysical testimony; omitted health claims
@@ -14338,15 +15481,21 @@ Source: [ASTROLOGÍA Y LA TIERRA PLANA CONTACTO EXTRATERRESTRE](https://swaruu.o
 - Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
 - Pluto-Shiva-identification-attributed-to-Federation-records
 - Proposed intervention remains conditional and internally qualified
+- Psychological and metaphysical interpretations are attributed to Za’el.
+- Reincarnation and afterlife claims are attributed to Mari; she acknowledges differing interpretations.
 - Reincarnation is explicitly an assumed premise; psychic account is reported, while ethical critique is Mari’s
 - Related Spanish and English articles cover overlapping material but have different scopes; translation equivalence is unconfirmed.
 - Reptilian identity claim is an allegation by the speaker.
 - Resource motives and fear-feeding are speaker-attributed metaphysical claims
 - Resource-seeking distinction is level-dependent in Anéeka’s account
+- Source shifts among speakers, dates, and a partly English-origin conversation; preserve attribution by passage.
+- Spiritual and metaphysical claims are attributed to Mari Swaruu.
 - Spiritual interpretations and timeline claims are attributed to Za’el, not independently verified.
 - Statements about ancient warfare, archaeology, and electoral representation are attributed to Anéeka.
 - Swaruu 9 describes frequency-controlled containers while Athena rejects literal soul traps; their different framings should remain unresolved
 - Swaruu X explicitly rejects the interpretation that the Moon was placed primarily to imprison regressive races.
+- The Federation's stated rationale is relayed by Mari from Gori'el's account of the conference; it is not endorsed as fact.
+- The account of the genetic weapon and its intended exposure route is attributed to Yazhi as investigators' belief, not established independently.
 - The article connects metaphysical claims to quantum mechanics without establishing a scientific basis.
 - The article presents an unverifiable extraterrestrial political-control narrative; claims are retained as attributed lore.
 - The article presents metaphysical DNA interpretations attributed to the speakers.
@@ -14356,21 +15505,54 @@ Source: [ASTROLOGÍA Y LA TIERRA PLANA CONTACTO EXTRATERRESTRE](https://swaruu.o
 - The author presents the memory-location and disease examples as metaphysical claims.
 - The cloning and genetic-control statements are Swaruu’s claims.
 - The dialogue distinguishes an individual’s mental state from collective psychic influence; the author says effects are psychological, not physical.
+- The dialogue includes unsupported claims about solar effects, DNA activation, and chemtrails.
+- The dialogue presents metaphysical claims about memory, consciousness, and reality without independent verification.
 - The discussion presents competing views on whether nonhuman influence counts as invasion.
 - The earlier speakers describe Pleiadian life as 5D and hidden from 3D perception; Yazhi's 2023 section says densities are only perceptions, presenting a chronological conceptual revision or tension.
+- The interview attributes emotional and physical effects to entities; these are presented as the speaker's claims.
+- The interview presents metaphysical and paranormal claims without independent verification.
+- The interview presents metaphysical claims about reality, tulpas, and reincarnation without independent verification.
+- The introductory lesson advocates suspicion of institutions; its allegations are framed as prompts for questioning rather than substantiated evidence.
+- The lesson advances broad conspiracy claims and a simplified account of an experiment; these are attributed to Gosia.
+- The long dialogue makes unverified claims about extraterrestrial identity, immersion, and consciousness.
+- The narrator distinguishes her metaphysical account from Earth science and says it lacks the evidence conventionally required; preserve attribution.
+- The political and news-related claims are Mari's interpretations and allegations; preserve attribution and speculative modality.
+- The source advances metaphysical claims that reject conventional gravity while elsewhere granting limited validity to terrestrial gravity equations.
+- The source advances unverified claims about ancient civilizations, extraterrestrials, and human origins.
 - The source affirms extraterrestrial identities based on subjective feelings; preserve attribution as the author’s belief.
 - The source also makes an unsupported cancer and dissociative-identity claim in p0052; it is omitted from the lore claims.
 - The source combines separate April 2021 and 2023 excerpts; speakers are attributed by passage.
+- The source discusses reincarnation and higher-self claims as spiritual perspectives, without independent verification.
 - The source distinguishes Miranda’s lack of bases from bases on other Uranian moons.
 - The source explicitly separates the spiritual higher Federation from the physical Galactic Federation.
 - The source frames adversity through speculative metaphysical ideas; the author explicitly cautions that events need not have one definite purpose.
+- The source frames spiritual and conspiratorial claims as opinion and entertainment; they are unverified.
 - The source gives a metaphysical account of consciousness and spiritual development, retained as speaker attribution.
+- The source includes unverified conspiratorial and medical claims alongside metaphysical discussion.
+- The source makes unverified metaphysical claims and includes harmful conspiratorial assertions about real people and institutions.
+- The source presents an unverified spiritual healing narrative; it is not medical evidence.
+- The source presents metaphysical claims about astral realms, reincarnation, and postmortem destinations.
+- The source presents metaphysical claims about interstellar humanity, telepathy, reincarnation, and vibrational return.
+- The source presents metaphysical claims about memory, incarnation, and past-life identity.
+- The source presents speculative claims about timeline duplication and identity; its distinctions and unresolved original-versus-copy question are retained.
+- The source presents unsupported claims about manifestation and subconscious causation; these are recorded as an attributed model.
+- The source presents unverifiable claims about astral travel, hostile entities, and the effects of visualization.
+- The source presents unverifiable paranormal claims and conspiratorial explanations of current events.
+- The source presents unverified extraterrestrial and conspiratorial claims as the speaker’s perspective.
 - The source’s “real” versus “unreal” distinction concerns people and is an attributed metaphysical claim, not an objective assessment of anyone.
+- The speaker frames these spiritual and extraterrestrial ideas as personal perspective and entertainment; they are unverified.
+- The transcript discusses metaphysical explanations and illustrative invasion anecdotes; preserve attribution and avoid presenting them as established facts.
 - The transcript makes spiritual claims about death and reincarnation; they are attributed to Za’el and not verified.
 - The transcript presents the reverse-universe account as Yazhi’s cosmological claim and acknowledges she lacks a complete technical explanation.
+- The video advances paranormal and secret-program claims without independent verification.
+- The video explicitly frames its extraterrestrial and immersion-technology claims as entertainment; they are unverified.
+- The video presents unverified extraterrestrial and metaphysical claims as the speaker’s perspective.
 - These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
 - These are Mari’s metaphysical positions, not externally verified cosmology
 - These are Yazhi’s metaphysical claims; tulpa “reality” and cross-density transfer are framed within her model
+- This dialogue presents spiritual and conspiratorial perspectives as reported claims; it is not independently verified.
+- This is Gosia’s personal exhortation, not a report from an Urmah speaker.
+- This transcript compiles personal conversations across 2020–2022; claims reflect individual speakers' views and motives.
 - Time model rejects fixed linear time; do not reconcile with other accounts.
 - Timeline travel described as branching/lateral; source does not quantify coordinates.
 - Vaccine causation and medical claims omitted.
@@ -14382,11 +15564,13 @@ Source: [ASTROLOGÍA Y LA TIERRA PLANA CONTACTO EXTRATERRESTRE](https://swaruu.o
 - Yazhi notes possible linguistic ambiguity in her terminology.
 - Yazhi presents several perspective-dependent formulations of identity and integration
 - Yazhi said she saw photographs rather than the crystal skulls firsthand; the claims are attributed.
+- Yazhi's account of the pod outcome conflicts with Alenym's observation of her apparent age; the transcript does not resolve this.
 - Yazhi-interview-report
 - Yazhi’s account of higher-council governance and intervention is internally framed as perspective-dependent
 - Za’el calls her account a personal view and says she is open to changing it.
 - Za’el presents this as her own model for understanding time.
 - account attributes extraterrestrial intervention programs and starseed mechanisms to Yazhi; claims are unverified
+- afterlife and bereavement claims are spiritual beliefs; preserve attribution and do not present as verified
 - afterlife-claims-are-source-model
 - afterlife-model-attributed
 - afterlife\_model
@@ -14784,7 +15968,11 @@ Source: [ASTROLOGÍA Y LA TIERRA PLANA CONTACTO EXTRATERRESTRE](https://swaruu.o
 - soulless-people-claim
 - soulmate-as-destined-vs-created
 - source distinguishes historical nonexistence in this timeline from a belief-generated egregore
+- source equates mental-health conditions with possession elsewhere; do not present that claim as established fact
 - source frames vaccine-related mass death as a hypothetical soul-level exit while explicitly opposing genocide; avoid treating it as endorsed policy
+- source includes broad gender-essentialist and reproductive-control claims; not presented here as established facts
+- source later labels people with mental-health conditions as demons and some people as soulless; avoid presenting these as facts
+- source presents unverifiable astral warfare and human-exploitation claims; preserve explicit attribution
 - source-internal-contradictions
 - space\_suit\_claims\_unverified
 - speaker-accounts-of-monolith-origin-differ

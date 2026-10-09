@@ -1,0 +1,36 @@
+{
+  "source_id": "src-5fb1a6c15757",
+  "snapshot_sha256": "883d2f15be8a71019afa60f382cdaaeff9da4f6ae183ade25fa1ec735307a41f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5fb1a6c15757-c01",
+      "assertion": "Ari describes the Spatium Lupi as a federation of advanced canine cultures whose main species are space wolves, with home planets near Enif and a presence around Procyon and Gomeisa.",
+      "speaker": "Ari",
+      "paragraph_ids": ["p0021", "p0022", "p0023", "p0024", "p0025"],
+      "primary_topic": "spatium-lupi",
+      "topics": ["spatium-lupi", "alien-species"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Mari says she translated Ari's response."
+    },
+    {
+      "id": "src-5fb1a6c15757-c02",
+      "assertion": "Ari says the Lupi opposed the Galactic Federation's plan for a controlled Earth Matrix and forgetting veil, favoring spiritual guidance to help souls return after earthly lives; he links this dispute to their expulsion.",
+      "speaker": "Ari",
+      "paragraph_ids": ["p0027", "p0028", "p0029"],
+      "primary_topic": "spatium-lupi",
+      "topics": ["spatium-lupi", "galactic-federation", "moon-matrix"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Mari presents this as an answer from Ari, translated by her."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The account presents unverified extraterrestrial species and alternative-history claims."
+  ],
+  "coverage_gaps": [
+    "The video also attributes a role guiding the dead to Anubis and describes the Lupi as Urmah allies in wars against Reptilian expansion."
+  ]
+}

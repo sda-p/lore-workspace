@@ -3020,6 +3020,518 @@ Source: [Federación Galáctica - Porque Taygeta no sabia antes de lo que es?](h
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-bc90a28d3260-c04
+
+Athena says Taygeta’s effort to leave the Federation has stalled because Alcyone membership makes separation difficult.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu - Recopilación de Todas las Preguntas Respondidas en el Directo (CON LA SORPRESA)](https://swaruu.org/transcripts/athena-swaruu-recopilacion-de-todas-las-preguntas-respondidas-en-el-directo-con-la-sorpresa) (2023-12-19; es); passages p0116, p0117. [Structured record](../../records/src-bc90a28d3260.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Alcyone Council](alcyone-council.md).
+
+### src-3515c1d5e5af-c02
+
+Mari says Taygetans adopted birthday celebrations from Earth and hold parties aboard Toleka with food, music, and gifts.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 17, y los Cumpleaños. 22 de marzo de 2024](https://swaruu.org/transcripts/noticias-espaciales-17-y-los-cumpleanos-22-de-marzo-de-2024) (2024-03-24; es); passages p0012, p0013, p0016. [Structured record](../../records/src-3515c1d5e5af.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-ec5ca3fe11f7-c01
+
+Mari says Taygetan society spans four planets around Taygeta plus Cyndriel, a colony orbiting Aldebaran.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad en Taygeta. Estructura](https://swaruu.org/transcripts/sociedad-en-taygeta-estructura) (2023-10-02; es); passages p0004, p0010. [Structured record](../../records/src-ec5ca3fe11f7.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-c87798fe694b-c01
+
+Mari says Taygetans ally with M45 species and the Urmah Avyon council; other alliances are Federation-promoted cooperation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mari Swaruu - El Directo - Recopilación de Preguntas y Respuestas](https://swaruu.org/transcripts/mari-swaruu-el-directo-recopilacion-de-preguntas-y-respuestas) (2023-10-24; es); passages p0091, p0092. [Structured record](../../records/src-c87798fe694b.json).
+
+Related topics: [Urmah](urmah.md), [Galactic Federation](galactic-federation.md).
+
+### src-a0e7e195133c-c01
+
+Mari describes four combat pilots from Erra and Temmer with no Earth contact or human languages, culturally distinct from Earth-influenced Toleka crew.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [4 Nuevos Miembros de la Tripulación a Bordo, Parte 2, Fuerte Choque Cultural](https://swaruu.org/transcripts/4-nuevos-miembros-de-la-tripulacion-a-bordo-parte-2-fuerte-choque-cultural) (2023-11-13; es); passages p0008, p0013, p0014, p0015, p0016. [Structured record](../../records/src-a0e7e195133c.json).
+
+Related topics: [Taygetan language](taygetan-language.md).
+
+### src-6b645b07c265-c02
+
+Mari says Asterope and Alcyone are assigned fleet defense and a long-term social-media mission, with trained crew posing as starseeds to raise planetary consciousness. She says about 3,000 Taygetan applicants were waitlisted after failing to qualify.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 20. 14 de Abril 2024. Asterope, Primera presentación en vivo de Mari Swa](https://swaruu.org/transcripts/noticias-espaciales-20-14-de-abril-2024-asterope-primera-presentacion-en-vivo-de-mari-swa) (2024-04-16; es); passages p0008, p0009, p0010, p0012. [Structured record](../../records/src-6b645b07c265.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-844eb80ca26a-c01
+
+Yazhi describes Taygetan gender roles as distinct but complementary, with women concentrated in engineering design and men also handling physical construction. She presents this as a generalization about Taygetan social patterns.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Taygeta - Roles de Genero, Ángeles Caídos, y mas - MINITEMAS (Información Extraterrestre)](https://swaruu.org/transcripts/taygeta-roles-de-genero-angeles-caidos-y-mas-minitemas-informacion-extraterrestre) (2024-01-20; es); passages p0025, p0027, p0028, p0029, p0030. [Structured record](../../records/src-844eb80ca26a.json).
+
+### src-0ff7154b791e-c01
+
+Mari says Taygeta has a near-even gender ratio, with women exceeding men by at most 10%; she attributes the difference to older women living longer. She contrasts this with older claims of a large female majority.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [¿Hay pocos hombres en Taygeta?](https://swaruu.org/transcripts/hay-pocos-hombres-en-taygeta) (2023-10-22; es); passages p0003, p0017, p0026. [Structured record](../../records/src-0ff7154b791e.json).
+
+### src-0ff7154b791e-c02
+
+Mari describes Taygetan men and women as equal partners with distinct gender roles, while both may pursue any social role, including science or politics. She notes Taygeta has a queen and says this does not exclude either gender.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [¿Hay pocos hombres en Taygeta?](https://swaruu.org/transcripts/hay-pocos-hombres-en-taygeta) (2023-10-22; es); passages p0015, p0016, p0018, p0019, p0020. [Structured record](../../records/src-0ff7154b791e.json).
+
+### src-701161a49196-c01
+
+Mari says Taygetans have followed vegan diets for generations and developed enzymes that help them digest plant foods. She presents this as a species-specific adaptation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El Problema de la Comida y la Dieta en la Tierra](https://swaruu.org/transcripts/el-problema-de-la-comida-y-la-dieta-en-la-tierra) (2024-04-21; es); passages p0034. [Structured record](../../records/src-701161a49196.json).
+
+### src-9d22c8ed0ce3-c01
+
+Mari says four newly graduated pilots from Erra and Temmer joined Toleka; none had visited Earth. Alenym assigned them fighter-interceptor roles.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales: 4 Nuevas Personas Llegando a la Nave. Primera parte](https://swaruu.org/transcripts/noticias-espaciales-4-nuevas-personas-llegando-a-la-nave-primera-parte) (2023-11-07; es); passages p0004, p0007, p0008, p0009, p0011, p0015. [Structured record](../../records/src-9d22c8ed0ce3.json).
+
+Related topics: [Combat doctrine](combat-doctrine.md).
+
+### src-4e95fb5ac87a-c03
+
+Mari lists five Taygetean ships around Earth: Vigilant Eagle escorts Toleka, Saska 1 repairs ships, Alcyone and Asterope handle social media and defense, and Toleka commands.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Noticias espaciales 22, 4 de Mayo de 2024, Alcyone llegando, Pilotos de Caballero Negro, Mi Youtube](https://swaruu.org/transcripts/noticias-espaciales-22-4-de-mayo-de-2024-alcyone-llegando-pilotos-de-caballero-negro-mi-youtube) (2024-05-05; es); passages p0016. [Structured record](../../records/src-4e95fb5ac87a.json).
+
+Related topics: [Toleka-class starships](toleka-class.md), [Alcyone Council](alcyone-council.md).
+
+### src-44dc8e3179b9-c02
+
+Mari says her Taygetean CIC team helps translate, edit, produce, and publish her videos, while she handles English audio and channel management.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Primer Aniversario de éste canal, Swaruu Oficial. Muchas Gracias](https://swaruu.org/transcripts/primer-aniversario-de-este-canal-swaruu-oficial-muchas-gracias) (2023-12-13; es); passages p0007, p0008. [Structured record](../../records/src-44dc8e3179b9.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-44dc8e3179b9-c03
+
+The Taygetean CIC says Alenym considers Mari her successor; Mari has begun intensive study and added responsibility for the crew’s needs. The team’s message links channel support to crew supplies and safety.
+
+Attributed to **Taygetean CIC**; reported; extraction confidence: high.
+
+Source: [Primer Aniversario de éste canal, Swaruu Oficial. Muchas Gracias](https://swaruu.org/transcripts/primer-aniversario-de-este-canal-swaruu-oficial-muchas-gracias) (2023-12-13; es); passages p0021, p0022, p0023. [Structured record](../../records/src-44dc8e3179b9.json).
+
+Related topics: [Alcyone Council](alcyone-council.md).
+
+### src-6b8c0befd4ce-c01
+
+Yazhi says Taygetean social-media participants will remain unidentified, embedding ideas and values to guide society positively rather than initiate extraterrestrial contact.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Taygeteanos en las Redes Sociales - Llegada de Nave Alcyone - Yazhi Swaruu](https://swaruu.org/transcripts/taygeteanos-en-las-redes-sociales-llegada-de-nave-alcyone-yazhi-swaruu) (2024-05-08; es); passages p0022, p0026, p0028, p0038. [Structured record](../../records/src-6b8c0befd4ce.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-6b8c0befd4ce-c02
+
+Yazhi says participants may post across platforms and countries, but must train themselves to avoid revealing their knowledge or identity.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Taygeteanos en las Redes Sociales - Llegada de Nave Alcyone - Yazhi Swaruu](https://swaruu.org/transcripts/taygeteanos-en-las-redes-sociales-llegada-de-nave-alcyone-yazhi-swaruu) (2024-05-08; es); passages p0032, p0034, p0036, p0040. [Structured record](../../records/src-6b8c0befd4ce.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-c5264b384243-c03
+
+Athena says Asterope awaits human communications gear; Saska-1 refits it and Vigilant Eagle, while crews stay separate under Toleka command.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Como esta Athena Swaruu? Misiones de Vuelo, Asterope, y los Grises](https://swaruu.org/transcripts/como-esta-athena-swaruu-misiones-de-vuelo-asterope-y-los-grises) (2024-04-25; es); passages p0012, p0014, p0016, p0018. [Structured record](../../records/src-c5264b384243.json).
+
+Related topics: [Starship systems](starship-systems.md), [Toleka-class starships](toleka-class.md).
+
+### src-0035cf935a87-c01
+
+Rashell says Taygetan emotions manifest physically faster and links this to Swaruu’s heart and eye problems.
+
+Attributed to **Rashell**; asserted; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Swaruu de Erra - Salud (PARTE 2)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-swaruu-de-erra-salud-parte-2) (2025-09-10; es); passages p0003, p0004, p0013. [Structured record](../../records/src-0035cf935a87.json).
+
+### src-0035cf935a87-c05
+
+Khila says two Hashmallim units and four fighter ships arrived to protect and assess Swaruu.
+
+Attributed to **Khila**; asserted; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Swaruu de Erra - Salud (PARTE 2)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-swaruu-de-erra-salud-parte-2) (2025-09-10; es); passages p0241, p0242. [Structured record](../../records/src-0035cf935a87.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-0035cf935a87-c06
+
+Swaruu (9) says Alenym cannot leave her ship while a threat endangers her life.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Swaruu de Erra - Salud (PARTE 2)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-swaruu-de-erra-salud-parte-2) (2025-09-10; es); passages p0230. [Structured record](../../records/src-0035cf935a87.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-8bff2031cfbf-c01
+
+Swaruu (9) accuses Cinna of monopolizing Taygetan-human contact and manipulating council members via the Federation.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra y Eventos Oscuros en 2019 - Relevante para Hoy?](https://swaruu.org/transcripts/swaruu-de-erra-y-eventos-oscuros-en-2019-relevante-para-hoy) (2025-07-25; es); passages p0021, p0024, p0072, p0086. [Structured record](../../records/src-8bff2031cfbf.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-8bff2031cfbf-c02
+
+Swaruu (9) describes DUFES as a human-extraterrestrial mediation group, alleging covert control and extortion aims.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra y Eventos Oscuros en 2019 - Relevante para Hoy?](https://swaruu.org/transcripts/swaruu-de-erra-y-eventos-oscuros-en-2019-relevante-para-hoy) (2025-07-25; es); passages p0074, p0075. [Structured record](../../records/src-8bff2031cfbf.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-8bff2031cfbf-c03
+
+Swaruu (9) says DUFES collapsed March 21, 2019; Asket resigned and Swaruu assumed fleet command that day, coincidentally. She denies a causal link.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra y Eventos Oscuros en 2019 - Relevante para Hoy?](https://swaruu.org/transcripts/swaruu-de-erra-y-eventos-oscuros-en-2019-relevante-para-hoy) (2025-07-25; es); passages p0076, p0078. [Structured record](../../records/src-8bff2031cfbf.json).
+
+### src-8bff2031cfbf-c05
+
+Swaruu says she resumed contact after gaining authority to open ship computers; Asket previously led.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra y Eventos Oscuros en 2019 - Relevante para Hoy?](https://swaruu.org/transcripts/swaruu-de-erra-y-eventos-oscuros-en-2019-relevante-para-hoy) (2025-07-25; es); passages p0108, p0109. [Structured record](../../records/src-8bff2031cfbf.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-88b24c836599-c05
+
+Yazhi says she mentally controls her body and remains nine, retaining a connection to Source.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Sophia (Yazhi) Swaruu - Nuevas Conversaciones (PARTE 3)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-nuevas-conversaciones-parte-3) (2024-09-10; es); passages p0099, p0101. [Structured record](../../records/src-88b24c836599.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-fdd736de175d-c04
+
+Mari's two Shinonim guards followed her disguised as civilians and later collected her in a Taygetan armored vehicle.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [Mi Viaje Encubierta a Témmer, Taygeta](https://swaruu.org/transcripts/mi-viaje-encubierta-a-temmer-taygeta) (2024-10-25; es); passages p0007, p0029, p0031. [Structured record](../../records/src-fdd736de175d.json).
+
+### src-c5120a65216b-c01
+
+Mari says High Council crowned Alenym to block a Cabal-backed puppet-queen takeover.
+
+Attributed to **Mari Swa (narrator)**; reported; extraction confidence: high.
+
+Source: [Cómo es ser Princesa Reina Taygeteana y Youtuber. Parte 1, Reina Alenym](https://swaruu.org/transcripts/como-es-ser-princesa-reina-taygeteana-y-youtuber-parte-1-reina-alenym) (2024-07-16; es); passages p0005, p0007, p0008. [Structured record](../../records/src-c5120a65216b.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-c5120a65216b-c02
+
+Alenym reversed Cabal propaganda and later stayed aboard Toleka for security.
+
+Attributed to **Mari Swa (narrator)**; reported; extraction confidence: high.
+
+Source: [Cómo es ser Princesa Reina Taygeteana y Youtuber. Parte 1, Reina Alenym](https://swaruu.org/transcripts/como-es-ser-princesa-reina-taygeteana-y-youtuber-parte-1-reina-alenym) (2024-07-16; es); passages p0009, p0019. [Structured record](../../records/src-c5120a65216b.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Toleka-class starships](toleka-class.md).
+
+### src-c5120a65216b-c04
+
+She sought a successor, fearing her removal could end Taygetan outreach and undo allies’ awareness.
+
+Attributed to **Mari Swa (narrator)**; reported; extraction confidence: high.
+
+Source: [Cómo es ser Princesa Reina Taygeteana y Youtuber. Parte 1, Reina Alenym](https://swaruu.org/transcripts/como-es-ser-princesa-reina-taygeteana-y-youtuber-parte-1-reina-alenym) (2024-07-16; es); passages p0021, p0022. [Structured record](../../records/src-c5120a65216b.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-21a91506e065-c01
+
+Yazhi says Mari became 72nd princess-queen while Alenym remained 71st and senior. Alenym would mentor her.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi Swaruu en Directo en Ingles - Traducido al Español](https://swaruu.org/transcripts/yazhi-swaruu-en-directo-en-ingles-traducido-al-espanol) (2024-06-13; es); passages p0003, p0007, p0009, p0010. [Structured record](../../records/src-21a91506e065.json).
+
+### src-21a91506e065-c03
+
+Yazhi says separate ships would preserve one queen if the other's ship were attacked. Nai'shara stayed with Alenym.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi Swaruu en Directo en Ingles - Traducido al Español](https://swaruu.org/transcripts/yazhi-swaruu-en-directo-en-ingles-traducido-al-espanol) (2024-06-13; es); passages p0049, p0050, p0052. [Structured record](../../records/src-21a91506e065.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-e58c27053b29-c03
+
+Mari says security rules separate the queens across ships; Alenym's illness made Mari assume active duties. Advisers supported Mari's development.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias espaciales, número 26, 6 de Junio del 2024, Alenym, Marco Político, Mari Swa Reina Activa](https://swaruu.org/transcripts/noticias-espaciales-numero-26-6-de-junio-del-2024-alenym-marco-politico-mari-swa-reina-activa) (2024-06-07; es); passages p0012, p0013, p0014. [Structured record](../../records/src-e58c27053b29.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-d8c144de6128-c01
+
+Mari Swa reports that a hurricane damaged more than 100 buildings in Toleka and destroyed 54 homes, with deaths and injuries across Temmer. These figures are reported in her account, which says the storm appeared natural.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales, Número 30, 1 de Julio 2024, ?️ Huracán en Taygeta, Secuelas](https://swaruu.org/transcripts/noticias-espaciales-numero-30-1-de-julio-2024-huracan-en-taygeta-secuelas) (2024-07-02; es); passages p0008, p0037, p0038, p0036. [Structured record](../../records/src-d8c144de6128.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-be1186902ee6-c01
+
+Mari Swa says she dissolved the Swaruunian legal category, arguing its cited genetic traits occur among Taygetans and Lyrians.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Taygeta Noticias Espaciales, 34, 05 de Agosto 2024, Swaruuneanas nunca más, Mala F.G. Reuniones](https://swaruu.org/transcripts/taygeta-noticias-espaciales-34-05-de-agosto-2024-swaruuneanas-nunca-mas-mala-f-g-reuniones) (2024-08-06; es); passages p0003, p0006, p0007, p0013. [Structured record](../../records/src-be1186902ee6.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md).
+
+### src-8af1bf1e59b0-c03
+
+Mari says the Taygetan High Council told her Alenym had abdicated, making Mari the new queen.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales, Número 32, 18 de Julio 2024, Beryl, Zanahoria, Reporte Gori'el-2.Nave Nueva](https://swaruu.org/transcripts/noticias-espaciales-numero-32-18-de-julio-2024-beryl-zanahoria-reporte-gori-el-2-nave-nueva) (2024-07-19; es); passages p0030, p0031. [Structured record](../../records/src-8af1bf1e59b0.json).
+
+### src-9fb3397b48c0-c01
+
+Mari Swa says Taygetan queens are chosen to represent and serve their people, rather than inheriting a hereditary status. She contrasts this with her view of earthly royalty.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales, Número 27, 9 de Junio 2024, Reyes y Reinas, Alenym, Mari Swa Reina Activa](https://swaruu.org/transcripts/noticias-espaciales-numero-27-9-de-junio-2024-reyes-y-reinas-alenym-mari-swa-reina-activa) (2024-06-11; es); passages p0007, p0008, p0009. [Structured record](../../records/src-9fb3397b48c0.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-9fb3397b48c0-c02
+
+Mari says Alenym was treated for an alleged genetic weapon and that Mari temporarily assumed Taygetan leadership during her recovery. The source attributes the weapon diagnosis to the ship’s surgeon.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales, Número 27, 9 de Junio 2024, Reyes y Reinas, Alenym, Mari Swa Reina Activa](https://swaruu.org/transcripts/noticias-espaciales-numero-27-9-de-junio-2024-reyes-y-reinas-alenym-mari-swa-reina-activa) (2024-06-11; es); passages p0012, p0015, p0016, p0017, p0021. [Structured record](../../records/src-9fb3397b48c0.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-058d0ecab214-c02
+
+Anéeka says Taygetans belong to the Federation coalition and describes herself as an invader on Earth, arguing that humans should decide how to live without her direction. She frames this as a realization about a purported liberation mission.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Federacion Galactica y Matrix Fuera de la Tierra - Conversacion con Aneeka - Mujer Extraterrestre](https://swaruu.org/transcripts/federacion-galactica-y-matrix-fuera-de-la-tierra-conversacion-con-aneeka-mujer-extraterrestre) (2025-11-11; es); passages p0047, p0049. [Structured record](../../records/src-058d0ecab214.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-dd2e93895cc4-c01
+
+Mari Swa says Taygetan succession is non-hereditary: candidates must qualify under High Council rules, and Alenym sought a successor with Earth experience before nominating Mari. She says Alenym's nomination preceded her own unexpected accession after Alenym's attack.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Cómo es ser La Reina de Taygeta y una YouTuber. Parte 2, Mi experiencia](https://swaruu.org/transcripts/como-es-ser-la-reina-de-taygeta-y-una-youtuber-parte-2-mi-experiencia) (2024-07-21; es); passages p0006, p0007, p0008, p0014. [Structured record](../../records/src-dd2e93895cc4.json).
+
+### src-dd2e93895cc4-c02
+
+Mari Swa describes Taygetan monarchs as responsible for caring for society and solving problems; she says her own queenship leaves her with ordinary chores and dependence on Earth supplies. She says her biology makes her ill from most Taygetan food.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Cómo es ser La Reina de Taygeta y una YouTuber. Parte 2, Mi experiencia](https://swaruu.org/transcripts/como-es-ser-la-reina-de-taygeta-y-una-youtuber-parte-2-mi-experiencia) (2024-07-21; es); passages p0021, p0023, p0025, p0026. [Structured record](../../records/src-dd2e93895cc4.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-fd103e70c1ae-c01
+
+Mari Swa recounts that a four-person Taygetan Hashmallim team went to Earth for food and banking; when UFO watchers occupied the planned extraction site, they diverted to a secondary site where a camouflaged support ship picked them up. She presents this as a 2024 anecdote; the team also reported an unexplained scream at the fallback site.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Anécdotas de Step Down 02. Oficina-Banco, Suministros, Difícil Regreso a Casa](https://swaruu.org/transcripts/anecdotas-de-step-down-02-oficina-banco-suministros-dificil-regreso-a-casa) (2024-09-10; es); passages p0008, p0020, p0023, p0024, p0025, p0029, p0030. [Structured record](../../records/src-fd103e70c1ae.json).
+
+Related topics: [Combat doctrine](combat-doctrine.md), [Starship systems](starship-systems.md).
+
+### src-a47faa48bd71-c03
+
+Mari Swa says new Taygetan ship Big E arrived in low Earth orbit to escort Sadicleya; at least 14 ships, including Aldebaran and Hyades-class vessels, were under construction on Temmer. Cyndriel neared completion.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 45, Consejo de Alcyone, Federación Galáctica, Nuevas Naves, Situación Actual](https://swaruu.org/transcripts/noticias-espaciales-45-consejo-de-alcyone-federacion-galactica-nuevas-naves-situacion-actual) (2024-10-13; es); passages p0013, p0014. [Structured record](../../records/src-a47faa48bd71.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-8cfcc037b641-c03
+
+Mari says she represented ill Queen Alenym at an agricultural treaty signing with Mollusc Maya representatives, her first official government appearance as heir.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias espaciales, número 25, 3 de Junio del 2024, Moghyays, Alenym indispuesta, Mari Swa](https://swaruu.org/transcripts/noticias-espaciales-numero-25-3-de-junio-del-2024-moghyays-alenym-indispuesta-mari-swa) (2024-06-04; es); passages p0015, p0023, p0025, p0026. [Structured record](../../records/src-8cfcc037b641.json).
+
+### src-e1ec78bd0f7c-c03
+
+Mari says 22 crew were hospitalized, Sadicleya was declared inoperable, command passed to Gori’el, and Alcyone forces extracted her.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 53, Informe de Eventos 01](https://swaruu.org/transcripts/noticias-espaciales-53-informe-de-eventos-01) (2024-12-10; es); passages p0019, p0021, p0023, p0027. [Structured record](../../records/src-e1ec78bd0f7c.json).
+
+Related topics: [Astral military units](astral-military-units.md).
+
+### src-437b17835fc7-c01
+
+Mari says years immersed in Earth culture gave some Toleka crew more human needs, including Earth food and social interaction; she cannot digest many Taygetan plants and sugars.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Misión Taygeteana de Suministros a la Tierra](https://swaruu.org/transcripts/mision-taygeteana-de-suministros-a-la-tierra) (2024-05-31; es); passages p0005, p0006, p0007. [Structured record](../../records/src-437b17835fc7.json).
+
+### src-437b17835fc7-c03
+
+Mari says returned vehicles and supplies are inspected and cleaned to prevent introducing seeds, spores, or animals aboard; she cites a spider and frog found on ships.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Misión Taygeteana de Suministros a la Tierra](https://swaruu.org/transcripts/mision-taygeteana-de-suministros-a-la-tierra) (2024-05-31; es); passages p0031, p0032, p0033. [Structured record](../../records/src-437b17835fc7.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-1b4c9e87af9a-c01
+
+Mari says she was born aboard a starship in deep space and, under interstellar law, belongs to the Taygetan society associated with that vessel. According to her account.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Yo soy Mari Swa](https://swaruu.org/transcripts/yo-soy-mari-swa) (2024-07-26; es); passages p0004. [Structured record](../../records/src-1b4c9e87af9a.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-1b4c9e87af9a-c02
+
+Mari distinguishes her mother Athena Julia from Athena Elizabeth as a variant across timelines and dimensions, and says she became separated from her mother at age thirteen. According to Mari.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Yo soy Mari Swa](https://swaruu.org/transcripts/yo-soy-mari-swa) (2024-07-26; es); passages p0005, p0006. [Structured record](../../records/src-1b4c9e87af9a.json).
+
+### src-1b4c9e87af9a-c03
+
+Mari identifies herself as Queen Mari Swa I and says she adopted Swa to distinguish her leadership and identity from earlier Swaruu figures.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Yo soy Mari Swa](https://swaruu.org/transcripts/yo-soy-mari-swa) (2024-07-26; es); passages p0021, p0022, p0023. [Structured record](../../records/src-1b4c9e87af9a.json).
+
+### src-63d593149f78-c03
+
+Mari says she requested an investigation, transparency, an end to Federation actions on Earth, and lifted communication restrictions; Taygetans strengthened security. She links this to the alleged attack.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Taygeta Noticias Espaciales, 37, Actualización de la Federación Galáctica, exopolítica taygeteana](https://swaruu.org/transcripts/taygeta-noticias-espaciales-37-actualizacion-de-la-federacion-galactica-exopolitica-taygeteana) (2024-08-25; es); passages p0016, p0019, p0020, p0021. [Structured record](../../records/src-63d593149f78.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-a4780c0314e5-c02
+
+Mari says she chose recurring dry-pod treatment over a two-month wet-pod restoration because she would not leave her Taygetan queen duties.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 46, Mi salud, Carta Abierta a los Taygeteanos, Cómo Escribo. Situación actual](https://swaruu.org/transcripts/noticias-espaciales-46-mi-salud-carta-abierta-a-los-taygeteanos-como-escribo-situacion-actual) (2024-10-15; es); passages p0017, p0019, p0021. [Structured record](../../records/src-a4780c0314e5.json).
+
+Related topics: [Medical regeneration pods](medical-pods.md).
+
+### src-75592048aefd-c02
+
+Mari says Toleka residents approved proposals for bridges, hospitals, library, data center, space museum, and cadet facilities, rejecting a bridge that would disturb a pygmy-duck nesting area.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 50. Inundaciones en España, Zanahoria, Nuevos proyectos en Temmer](https://swaruu.org/transcripts/noticias-espaciales-50-inundaciones-en-espana-zanahoria-nuevos-proyectos-en-temmer) (2024-11-10; es); passages p0017, p0018. [Structured record](../../records/src-75592048aefd.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-b76386ff7cd8-c01
+
+Mari Swa says the Pleiades have eleven civilizations; Taygetans occupy four planets and are Lyrian-humanlike Federation members.
+
+Attributed to **Mari Swa**; reported; extraction confidence: medium.
+
+Source: [¿Quiénes Están Involucrados con la Tierra? Una Guía de las Razas Extraterrestres - CLASE 017](https://swaruu.org/transcripts/quienes-estan-involucrados-con-la-tierra-una-guia-de-las-razas-extraterrestres-clase-017) (2026-08-11; es); passages p0012, p0014, p0017. [Structured record](../../records/src-b76386ff7cd8.json).
+
+Related topics: [Lyrians](lyrians.md), [Alcyone Council](alcyone-council.md).
+
+### src-9bfba65b62f5-c01
+
+Yazhi says Alenym has no jurisdiction over her actions because she is from another race and only a guest aboard a Taygetan ship. This is Yazhi’s stated position during a disagreement over whether the disclosure project should continue.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Yazhi y Gosia - Dudas de Gosia (PARTE 2)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-yazhi-y-gosia-dudas-de-gosia-parte-2) (2026-03-30; es); passages p0102. [Structured record](../../records/src-9bfba65b62f5.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-7d64347f0d71-c04](prime-directive.md#src-7d64347f0d71-c04) — Prime Directive
@@ -3329,22 +3841,115 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-45654a10b21a-c03](holistic-society.md#src-45654a10b21a-c03) — Holistic society
 - [src-8582fea5414c-c03](galactic-federation.md#src-8582fea5414c-c03) — Galactic Federation
 - [src-2708f7850928-c03](atlantis-lemuria.md#src-2708f7850928-c03) — Atlantis and Lemuria
+- [src-bc90a28d3260-c02](urmah.md#src-bc90a28d3260-c02) — Urmah
+- [src-9fe31867478a-c02](economics.md#src-9fe31867478a-c02) — Economics and resources
+- [src-878fcdc382ad-c03](starship-systems.md#src-878fcdc382ad-c03) — Starship systems
+- [src-36d1c2cc2b42-c03](urmah.md#src-36d1c2cc2b42-c03) — Urmah
+- [src-a7f0d8917568-c01](starship-systems.md#src-a7f0d8917568-c01) — Starship systems
+- [src-a7f0d8917568-c03](extraterrestrial-contact.md#src-a7f0d8917568-c03) — Extraterrestrial contact and disclosure
+- [src-4974a0149f11-c03](urmah-federation.md#src-4974a0149f11-c03) — Urmah Federation
+- [src-d81d9e71f2ef-c01](ship-internal-time.md#src-d81d9e71f2ef-c01) — Ship internal time
+- [src-7979e44104d7-c03](urmah-federation.md#src-7979e44104d7-c03) — Urmah Federation
+- [src-98a32eb0aec0-c02](galactic-federation.md#src-98a32eb0aec0-c02) — Galactic Federation
+- [src-98a32eb0aec0-c03](galactic-federation.md#src-98a32eb0aec0-c03) — Galactic Federation
+- [src-89492330f9ab-c01](taygetan-first-contact-project.md#src-89492330f9ab-c01) — Taygetan First Contact Project
+- [src-4603aaa764e8-c01](reincarnation-cycles.md#src-4603aaa764e8-c01) — Reincarnation and karmic cycles
+- [src-706e33985c24-c01](ship-internal-time.md#src-706e33985c24-c01) — Ship internal time
+- [src-881f2f6deaf1-c01](lyran-expansion.md#src-881f2f6deaf1-c01) — Lyran expansion
+- [src-881f2f6deaf1-c02](taygetan-ecosystems.md#src-881f2f6deaf1-c02) — Taygetan ecosystems
+- [src-881f2f6deaf1-c03](taygetan-wireless-power-grid.md#src-881f2f6deaf1-c03) — Taygetan wireless power grid
+- [src-9a0544accb20-c01](procyon.md#src-9a0544accb20-c01) — Planet Procyon
+- [src-844eb80ca26a-c02](consciousness-metaphysics.md#src-844eb80ca26a-c02) — Consciousness and metaphysics
+- [src-3536182c3fc0-c01](taygetan-cic.md#src-3536182c3fc0-c01) — Taygetan CIC
+- [src-9d22c8ed0ce3-c03](combat-doctrine.md#src-9d22c8ed0ce3-c03) — Combat doctrine
+- [src-9111b6efe5ee-c03](alien-species.md#src-9111b6efe5ee-c03) — Alien species and distinctions
+- [src-4e95fb5ac87a-c01](alcyone-council.md#src-4e95fb5ac87a-c01) — Alcyone Council
+- [src-44dc8e3179b9-c01](galactic-federation.md#src-44dc8e3179b9-c01) — Galactic Federation
+- [src-4653f0e2c815-c03](etorthans.md#src-4653f0e2c815-c03) — Etorthans
+- [src-6b8c0befd4ce-c03](prime-directive.md#src-6b8c0befd4ce-c03) — Prime Directive
+- [src-0035cf935a87-c02](starship-systems.md#src-0035cf935a87-c02) — Starship systems
+- [src-4dbc0136de84-c02](teleportation.md#src-4dbc0136de84-c02) — Teleportation
+- [src-4dbc0136de84-c04](timeline-branching.md#src-4dbc0136de84-c04) — Timeline branching
+- [src-7e2d3128e0af-c05](suzy-class-starships.md#src-7e2d3128e0af-c05) — Suzy-class starships
+- [src-c5120a65216b-c06](earth-cabal.md#src-c5120a65216b-c06) — Earth Cabal and power structures
+- [src-bf96c32410fe-c01](project-second-contact.md#src-bf96c32410fe-c01) — Project Second Contact
+- [src-a608ed423baf-c01](combat-doctrine.md#src-a608ed423baf-c01) — Combat doctrine
+- [src-a608ed423baf-c03](starship-systems.md#src-a608ed423baf-c03) — Starship systems
+- [src-f2ce50705052-c04](alien-species.md#src-f2ce50705052-c04) — Alien species and distinctions
+- [src-53866cce2150-c02](project-second-contact.md#src-53866cce2150-c02) — Project Second Contact
+- [src-1bea1cb4c06c-c01](ancient-egypt.md#src-1bea1cb4c06c-c01) — Ancient Egypt
+- [src-1bea1cb4c06c-c03](ancient-egypt.md#src-1bea1cb4c06c-c03) — Ancient Egypt
+- [src-d8c144de6128-c02](holistic-society.md#src-d8c144de6128-c02) — Holistic society
+- [src-d8c144de6128-c03](weather-control.md#src-d8c144de6128-c03) — Weather control systems
+- [src-b3b68817ea60-c01](galactic-federation.md#src-b3b68817ea60-c01) — Galactic Federation
+- [src-b3b68817ea60-c02](starship-systems.md#src-b3b68817ea60-c02) — Starship systems
+- [src-be1186902ee6-c02](galactic-federation.md#src-be1186902ee6-c02) — Galactic Federation
+- [src-be1186902ee6-c03](galactic-federation.md#src-be1186902ee6-c03) — Galactic Federation
+- [src-b0f527e60507-c02](galactic-federation.md#src-b0f527e60507-c02) — Galactic Federation
+- [src-fb27b0048890-c01](extraterrestrial-contact.md#src-fb27b0048890-c01) — Extraterrestrial contact and disclosure
+- [src-8af1bf1e59b0-c01](weather-control.md#src-8af1bf1e59b0-c01) — Weather control systems
+- [src-beec8fc2e8bd-c02](starship-systems.md#src-beec8fc2e8bd-c02) — Starship systems
+- [src-d80b36b16b30-c01](galactic-federation.md#src-d80b36b16b30-c01) — Galactic Federation
+- [src-482f728a3fc7-c02](starship-systems.md#src-482f728a3fc7-c02) — Starship systems
+- [src-d2a6e9392c87-c02](galactic-federation.md#src-d2a6e9392c87-c02) — Galactic Federation
+- [src-5c5800b9d436-c01](alcyone-council.md#src-5c5800b9d436-c01) — Alcyone Council
+- [src-5c5800b9d436-c02](reincarnation-cycles.md#src-5c5800b9d436-c02) — Reincarnation and karmic cycles
+- [src-5ca9faa9c682-c01](combat-doctrine.md#src-5ca9faa9c682-c01) — Combat doctrine
+- [src-5ca9faa9c682-c02](urmah-federation.md#src-5ca9faa9c682-c02) — Urmah Federation
+- [src-850149c4446e-c01](suzy-class-starships.md#src-850149c4446e-c01) — Suzy-class starships
+- [src-16146808b4e9-c02](toleka-class.md#src-16146808b4e9-c02) — Toleka-class starships
+- [src-8c2d0a81fbc4-c01](starseeds.md#src-8c2d0a81fbc4-c01) — Starseeds
+- [src-8c2d0a81fbc4-c02](starseeds.md#src-8c2d0a81fbc4-c02) — Starseeds
+- [src-a431c798e8b4-c02](atlantis-lemuria.md#src-a431c798e8b4-c02) — Atlantis and Lemuria
+- [src-424eb87288db-c03](timeline-branching.md#src-424eb87288db-c03) — Timeline branching
+- [src-65adcbdf271b-c01](antarctica.md#src-65adcbdf271b-c01) — Antarctica
+- [src-54a6b17189d3-c03](lyrians.md#src-54a6b17189d3-c03) — Lyrians
+- [src-282d57f0ae79-c01](extraterrestrial-contact.md#src-282d57f0ae79-c01) — Extraterrestrial contact and disclosure
+- [src-4b785d394c48-c02](soul-loop-reincarnation.md#src-4b785d394c48-c02) — Soul-loop reincarnation
+- [src-fbcfb08500c9-c02](toleka-class.md#src-fbcfb08500c9-c02) — Toleka-class starships
+- [src-fbcfb08500c9-c03](economics.md#src-fbcfb08500c9-c03) — Economics and resources
+- [src-6496ca50abb5-c03](taygetan-medicine.md#src-6496ca50abb5-c03) — Taygetan medicine
+- [src-8cfcc037b641-c02](muonic-gravitational-communications.md#src-8cfcc037b641-c02) — Muonic gravitational communications
+- [src-6661d9036d1b-c03](holographic-computers.md#src-6661d9036d1b-c03) — Holographic computers
+- [src-fdacc4ddb847-c01](moghyay.md#src-fdacc4ddb847-c01) — Moghyay
+- [src-fdacc4ddb847-c02](galactic-federation.md#src-fdacc4ddb847-c02) — Galactic Federation
+- [src-63d593149f78-c02](saturn-bases.md#src-63d593149f78-c02) — Saturnian orbital bases
+- [src-75592048aefd-c03](total-immersion-simulations.md#src-75592048aefd-c03) — Total-immersion simulations
+- [src-5a1acd491e56-c03](starship-systems.md#src-5a1acd491e56-c03) — Starship systems
+- [src-28eb435d6e7c-c01](taygetan-medicine.md#src-28eb435d6e7c-c01) — Taygetan medicine
+- [src-28eb435d6e7c-c02](astral-entities.md#src-28eb435d6e7c-c02) — Astral entities
+- [src-fedf11ef16ee-c01](aircraft-mimicry.md#src-fedf11ef16ee-c01) — Aircraft Mimicry
+- [src-7182b44d0b21-c02](extraterrestrial-contact.md#src-7182b44d0b21-c02) — Extraterrestrial contact and disclosure
+- [src-3593b46bea4f-c01](galactic-consciousness.md#src-3593b46bea4f-c01) — Galactic consciousness
 
 ## Review flags
 
 - 3d-vs-higher-density-wishes
 - Alenym-attack-culprit-unknown
 - Alenym-retirement-not-decided
+- All claims are attributed to the speaker and reflect her account.
+- Antarctic activity and diplomatic claims are reported by Mari and not independently verified.
 - Anéeka says Andromedans dominate councils but denies formal rulership.
 - Athena-interview-original-English
 - Australian-traffic-purpose-unknown
+- Avyon is described as Vega’s second planet in p0003, but p0004 calls it the first.
+- Claims about Federation funding and Mari’s succession are attributed to Mari or the Taygetean CIC.
+- Claims about Federation policy and Taygetan circumstances are attributed to Mari Swaruu.
+- Claims about Federation restrictions and shipboard authority are reported dialogue from a speculative source.
+- Claims about Gray activity, patrols, and Taygetean ships are attributed to Athena and not independently established.
+- Claims about Taygetan society are attributed to Mari Swaruu.
+- Claims about Taygetean ships, fleet operations, and pilot custody are attributed to Mari or cited command statements.
+- Claims about a Taygetean social-media project are attributed to Yazhi and not independently established.
 - Claims about contemporary institutions or external events reflect the speaker’s interpretation.
+- Claims about extraterrestrial populations and Earth’s isolation are attributed to Mari Swaruu.
+- Claims describe the speaker’s account of interstellar politics and are not independently verified.
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
 - Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
 - Contains extraordinary extraterrestrial and historical claims; attribute to speakers, not verified history.
+- Contradictory Federation and Urmah accounts of Etorthan history and alignment.
 - Cyndriel time-difference mechanism remains unknown.
 - DNA-consciousness-causality-claim
 - Extraterrestrial identity claims are Mari Swaruu’s perspective and are not independently verified.
@@ -3363,15 +3968,47 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
 - Senetre-diagnosed-weapon-route-suspected
 - Snapshot is English but marked originally in Spanish; no paired Spanish candidate is assigned
+- Source shifts among speakers, dates, and a partly English-origin conversation; preserve attribution by passage.
+- Space-traffic and engineering claims are attributed to Mari Swaruu.
 - Species summaries are broad and based on accounts attributed to orbital sources
+- Spiritual and metaphysical claims are attributed to Mari Swaruu.
 - Statements about ancient warfare, archaeology, and electoral representation are attributed to Anéeka.
+- The Federation audit is a past forecast reported in a November 2023 transcript.
 - The account is Mari’s report; it describes a near-escalation without further reported consequences
+- The account is a first-person narrative published as entertainment, including unverified allegations around Alenym's attack.
+- The account of the genetic weapon and its intended exposure route is attributed to Yazhi as investigators' belief, not established independently.
+- The alleged attack remains speculation in Mari's account.
 - The article promotes a conspiratorial political framework and extraterrestrial governance; claims are retained as attributed lore.
 - The author explicitly invited readers to treat the content as fiction or entertainment.
 - The cloning and genetic-control statements are Swaruu’s claims.
+- The conversation presents unverified claims about extraterrestrial projects and spacecraft technology.
+- The crew's initial descriptions of anomalies and Yazhi's own tractor-beam explanation are distinct attributions.
 - The discussion presents competing views on whether nonhuman influence counts as invasion.
 - The earlier speakers describe Pleiadian life as 5D and hidden from 3D perception; Yazhi's 2023 section says densities are only perceptions, presenting a chronological conceptual revision or tension.
 - The first-person extraterrestrial identity and contact-policy claims are preserved as speaker claims.
+- The political account is Mari's narrative and includes claims about infiltration, propaganda, and Federation control; preserve attribution.
+- The source describes alleged surveillance by extraterrestrial crews and a retaliatory prank involving cameras in private spaces.
+- The source describes an unverified alleged extraterrestrial social media operation.
+- The source describes unverified extraterrestrial diplomatic and military activity.
+- The source gives an unverified account of extraterrestrial traffic and alleged Australian facilities.
+- The source gives an unverified first-person account of spacecraft performance and history.
+- The source is a dialogue presenting unverifiable claims of Federation communications and intervention on Earth.
+- The source is a first-person anecdote framed as entertainment and includes an unexplained paranormal report.
+- The source is a multi-topic interview and presents unverifiable political and reincarnation claims.
+- The source is an unverified first-person account framed as entertainment.
+- The source makes unverified medical and extraterrestrial claims.
+- The source opens by framing its content as entertainment and presents disputed geopolitical allegations as first-person testimony.
+- The source presents unverified allegations about extraterrestrial diplomacy and a targeted pathogen.
+- The source says names were changed; the identity claims are the narrator's account of private crew cases.
+- The speaker's historical and reincarnation accounts are her claims, not independently corroborated.
+- The transcript contains extensive allegations about Cinna and DUFES; preserve attribution and do not treat accusations as established facts.
+- The video advances unverified claims about an assassination attempt, extraterrestrial actors, and alleged pathogen development.
+- This brief compilation presents speculative historical identifications without identifying an individual speaker; claims are attributed to the source compilation.
+- This is a first-person anecdote presented as entertainment; the apparent threat resolves as a false alarm.
+- This is a first-person, unverifiable account of an alleged armed confrontation in Earth orbit.
+- This is a time-specific 2023 account of interstellar factions and operations, attributed to Mari Swaruu.
+- This is an unverified extraterrestrial political and military account, explicitly framed as entertainment.
+- This source includes unverified claims about weather manipulation, extraterrestrial diplomacy, and public political events.
 - abduction-motive-varies
 - account attributes extraterrestrial intervention programs and starseed mechanisms to Yazhi; claims are unverified
 - afterlife-claims-are-source-model
@@ -3554,8 +4191,11 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - solar-and-black-hole-portal-model
 - solar-system-history-attributed
 - soul-and-density-doctrine-attributed
+- source contains contested medical and dietary claims; these are not extracted as health advice
+- source includes broad gender-essentialist and reproductive-control claims; not presented here as established facts
 - source includes conflicting publication and event dates; claims retain stated dates
 - source makes unverified claims about extraterrestrial warfare and Federation involvement
+- source revises earlier claims about Taygetan gender ratios and social roles; compare against prior sources
 - source-speaker-shift-dhor-to-yazhi
 - speaker-attribution-swaruu-x-athena
 - speaker-shift-cic-to-mari

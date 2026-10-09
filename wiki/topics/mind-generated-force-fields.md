@@ -18,6 +18,16 @@ Source: [24 CROMOSOMAS - SUPER PODERES - SEMILLAS ESTELARES \*\*SIN VIDEO\*\*](h
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-d1946d4d6179-c03
+
+Dhor Káal’el says a Hashmallim shield is a concealed toroidal force field that surrounds the warrior and makes them appear invulnerable.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Hashmallim - Unidades Especiales Militares de Taygeta (Pléyades) - Arcángeles en Acción](https://swaruu.org/transcripts/hashmallim-unidades-especiales-militares-de-taygeta-pleyades-arcangeles-en-accion) (2024-04-14; es); passages p0023. [Structured record](../../records/src-d1946d4d6179.json).
+
+Related topics: [Hashmallim](hashmallim.md).
+
 ## Review flags
 
 - contested-chromosome-and-ability-claims

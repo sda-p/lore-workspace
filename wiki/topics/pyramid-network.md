@@ -88,8 +88,23 @@ Source: [EL TEMPLO DE KARNAK TECNOLOGÍA DE PORTALES ESTELARES ANTIGUOS - Athena
 
 Related topics: [Ancient Egypt](ancient-egypt.md).
 
+### src-599770c5705f-c01
+
+Athena says Egyptian and Mesoamerican pyramids reflected their builders but shared a planetary energy-network role; regular sacrifices characterized Mesoamerica, not Egypt. Her account.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Antiguo Egipto (5) - Misterios Egipcios - Preguntas (Athena Swaruu)](https://swaruu.org/transcripts/antiguo-egipto-5-misterios-egipcios-preguntas-athena-swaruu) (2025-03-18; es); passages p0035, p0036, p0038, p0039. [Structured record](../../records/src-599770c5705f.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md), [Atlantis and Lemuria](atlantis-lemuria.md).
+
+## Claims filed under other topics
+
+- [src-1bea1cb4c06c-c02](ancient-egypt.md#src-1bea1cb4c06c-c02) — Ancient Egypt
+
 ## Review flags
 
+- This brief compilation presents speculative historical identifications without identifying an individual speaker; claims are attributed to the source compilation.
 - ancient-history-reinterpretation
 - conflicting-pyramid-dates
 - giza-base-account

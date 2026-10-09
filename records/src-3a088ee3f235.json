@@ -1,0 +1,34 @@
+{
+  "source_id": "src-3a088ee3f235",
+  "snapshot_sha256": "d11aba15a209e09ba2c712e1abb09222df5e821abb35b270a6aa67831e5c6efe",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3a088ee3f235-c01",
+      "assertion": "Mari describes holistic societies as self-governed rather than state-run, with widespread ethical maturity, broad access to leadership, and an abundance mindset that reduces scarcity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She contrasts this model with socialism, which she describes as centrally governed."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source contains extensive conspiracy and discriminatory claims, excluded from this extraction"
+  ],
+  "coverage_gaps": [
+    "Earth power-structure claims and proposed mechanisms of social control"
+  ]
+}

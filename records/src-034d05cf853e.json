@@ -1,0 +1,73 @@
+{
+  "source_id": "src-034d05cf853e",
+  "snapshot_sha256": "fc0d7bbb96b6e37177cd659a7d9028d8850e8eb3295204d8b244d2e51229d9e8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-034d05cf853e-c01",
+      "assertion": "Swaruu 9 and Dhor describe post-Tiamat Egypt as an interstellar Federation port where star races guided Lyrian natives; they say the First Directive did not apply.",
+      "speaker": "Swaruu 9; Dhor Káal’el",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0015",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-034d05cf853e-c02",
+      "assertion": "Dhor says Egypt’s interstellar era declined as Reptilian influence grew around Akhenaton and Nefertiti, driving other star races away.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0022",
+        "p0024",
+        "p0026",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-034d05cf853e-c03",
+      "assertion": "Swaruu 9 says ancient people viewed star visitors as gods because of their technology, and myths exaggerated them; she identifies Horus as a spacecraft.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0035",
+        "p0037",
+        "p0039"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She links it to Ishtar and Osiris."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Pyramid electricity, Egyptian social order, and Tiamat aftermath details omitted"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_id": "src-7fb46b450576",
+  "snapshot_sha256": "166b72d79587c1d975239d93ac5b0114b4aef9763f7314ce8431be538bb11bef",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7fb46b450576-c01",
+      "assertion": "Anéeka describes a proposed plan to introduce free energy and a council-based holistic society on Earth, but says the Federation rejected it.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0092", "p0096", "p0097"],
+      "primary_topic": "holistic-society",
+      "topics": ["holistic-society", "galactic-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the proposal was intended as diplomatic pressure and had not been implemented."
+    },
+    {
+      "id": "src-7fb46b450576-c02",
+      "assertion": "Swaruu and Gosia urge Anéeka to limit unscheduled contacts, saying constant attention and troll monitoring were exhausting her.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": ["p0008", "p0010", "p0042", "p0044", "p0058"],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": ["extraterrestrial-contact"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "They recommend scheduled meetings and clearer availability boundaries."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The transcript includes unverified claims about extraterrestrial governance, diplomacy, and technology."
+  ],
+  "coverage_gaps": [
+    "Other sections discuss identity, social dynamics, and alleged anomalies affecting Anéeka’s perception."
+  ]
+}

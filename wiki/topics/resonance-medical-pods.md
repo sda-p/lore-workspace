@@ -54,6 +54,16 @@ Attributed to **Yazhi Swaruu**; reported; extraction confidence: high.
 
 Source: [Pods Medicos y Camas Medicas - Yazhi habla con Dale Harder sobre su diseño](https://swaruu.org/transcripts/pods-medicos-y-camas-medicas-yazhi-habla-con-dale-harder-sobre-su-diseno) (2023-01-05; es); passages p0045, p0047. [Structured record](../../records/src-22af298b0f43.json).
 
+### src-6496ca50abb5-c02
+
+Mari says Senetre proposed a dry medical pod with holographic organ regeneration, followed if needed by stem cells; early results were insufficient. She says effects and their duration remained uncertain.
+
+Attributed to **Mari Swa, relaying Senetre**; reported; extraction confidence: high.
+
+Source: [No estoy bien](https://swaruu.org/transcripts/no-estoy-bien) (2024-10-06; es); passages p0014, p0015, p0024. [Structured record](../../records/src-6496ca50abb5.json).
+
+Related topics: [Taygetan medicine](taygetan-medicine.md).
+
 ## Review flags
 
 - The transcript includes unverified claims about cancer, disease causation, and healing technology; they are attributed to speakers and are not medical evidence.

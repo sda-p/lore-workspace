@@ -553,6 +553,11 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-0eee68ce5b31-c01](consciousness-metaphysics.md#src-0eee68ce5b31-c01) — Consciousness and metaphysics
 - [src-3e51d50bca48-c01](consciousness-metaphysics.md#src-3e51d50bca48-c01) — Consciousness and metaphysics
 - [src-06cd5c8d1a9d-c01](consciousness-metaphysics.md#src-06cd5c8d1a9d-c01) — Consciousness and metaphysics
+- [src-44116d038dec-c03](collective-timeline-influence.md#src-44116d038dec-c03) — Collective timeline influence
+- [src-f5e242746230-c02](matrix-generated-persons.md#src-f5e242746230-c02) — Matrix-generated persons
+- [src-d653d4ec53df-c02](galactic-federation.md#src-d653d4ec53df-c02) — Galactic Federation
+- [src-d54e1ca307fe-c01](consciousness-metaphysics.md#src-d54e1ca307fe-c01) — Consciousness and metaphysics
+- [src-7182b44d0b21-c03](consciousness-metaphysics.md#src-7182b44d0b21-c03) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -562,6 +567,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Mari Swaruu explicitly contrasts her gravity model with conventional terrestrial physics.
 - Metaphysical and political claims are attributed to Mari Swaruu.
 - Snapshot is English but marked originally in Spanish; no paired Spanish candidate is assigned
+- The source presents speculative claims about timeline duplication and identity; its distinctions and unresolved original-versus-copy question are retained.
 - The source’s “real” versus “unreal” distinction concerns people and is an attributed metaphysical claim, not an objective assessment of anyone.
 - Yazhi frames these cosmological claims as perspective-dependent, not imposed absolute facts
 - Yazhi presents several perspective-dependent formulations of identity and integration
@@ -600,6 +606,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - quantum-mechanics-reinterpretation
 - quoted-speaker-attribution:NaiShara-quotes-Yazhi
 - source frames vaccine-related mass death as a hypothetical soul-level exit while explicitly opposing genocide; avoid treating it as endorsed policy
+- source presents unverifiable claims about fabricated histories, insertions, and Matrix-generated records
 - speaker-perspective-model
 - speaker-shift-in-source
 - species-origin-model-attributed

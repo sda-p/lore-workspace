@@ -1,0 +1,72 @@
+{
+  "source_id": "src-6661d9036d1b",
+  "snapshot_sha256": "084e69db17d98b3c40bd05ef6a254cc9df4eab1b449aca1865f3686e6d264423",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6661d9036d1b-c01",
+      "assertion": "Mari describes total-immersion communication as highly realistic virtual reality used for remote presence, shared entertainment, training, and education, controlled through thought-computer, verbal, and tactile interfaces.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0008",
+        "p0010",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says it can closely resemble reality."
+    },
+    {
+      "id": "src-6661d9036d1b-c02",
+      "assertion": "Mari says the system supports virtual design and testing of ships, materials, and industrial products, with virtual models guiding production of physical objects.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6661d9036d1b-c03",
+      "assertion": "Mari says Taygeta limits computer use to protect human creativity and craft, and warns immersive virtual lives can displace real life through overuse.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Military, environmental, replication, and other applications omitted"
+  ]
+}

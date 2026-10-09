@@ -1,0 +1,52 @@
+{
+  "source_id": "src-4e79a5644fae",
+  "snapshot_sha256": "54bbb4d62d392968351ad3c3e100d959301507665a9fd077153be91666dda243",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4e79a5644fae-c01",
+      "assertion": "Dhor says Rag disabled the Scimitar’s shields during an electric snowstorm to avoid glowing near military sensors; lightning struck the craft.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0031",
+        "p0037"
+      ],
+      "primary_topic": "scimitar-class-craft",
+      "topics": [
+        "scimitar-class-craft",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Yazhi later confirms shields were off to avoid detection."
+    },
+    {
+      "id": "src-4e79a5644fae-c02",
+      "assertion": "Dhor says lightning entered through a non-polymorphic antenna, damaged communications and cut muon contact; superconducting cables carried excess charge to engine plasma, but damaged circuits needed replacement.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0033"
+      ],
+      "primary_topic": "scimitar-class-craft",
+      "topics": [
+        "scimitar-class-craft",
+        "starship-systems",
+        "muonic-gravitational-communications"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The hull self-repaired, but antenna and electronics did not."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The incident and spacecraft systems are presented as unverified first-person testimony."
+  ],
+  "coverage_gaps": [
+    "The interview also describes the Scimitar's preparation, flight suits, storm navigation, and a later communications explanation from Yazhi."
+  ]
+}

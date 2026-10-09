@@ -1,0 +1,88 @@
+{
+  "source_id": "src-9d22c8ed0ce3",
+  "snapshot_sha256": "cf8a3943c3486f5589cc07e23347452cecbddfcc75437cf03de915a94e5514f0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9d22c8ed0ce3-c01",
+      "assertion": "Mari says four newly graduated pilots from Erra and Temmer joined Toleka; none had visited Earth.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0011",
+        "p0015"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "combat-doctrine"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Alenym assigned them fighter-interceptor roles."
+    },
+    {
+      "id": "src-9d22c8ed0ce3-c02",
+      "assertion": "Mari says Taygetan speech combines words and telepathy, preventing word-for-word human translation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language",
+        "telepathic-channeling"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She paraphrased the newcomers."
+    },
+    {
+      "id": "src-9d22c8ed0ce3-c03",
+      "assertion": "Alenym selected the pilots to guard Toleka and signal independence, not aggression.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "combat-doctrine",
+      "topics": [
+        "combat-doctrine",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9d22c8ed0ce3-c04",
+      "assertion": "Mari reported an Etorthan-led Federation audit of Earth-orbit groups planned for December 2023.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "It would review numbers, purposes, and activities."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The Federation audit is a past forecast reported in a November 2023 transcript."
+  ],
+  "coverage_gaps": [
+    "newcomers' reactions to human phones and their first planned human film"
+  ]
+}

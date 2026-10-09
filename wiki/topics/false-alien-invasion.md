@@ -440,6 +440,66 @@ Source: [Desclasificación extraterrestre, una advertencia](https://swaruu.org/t
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-3515c1d5e5af-c01
+
+Mari says increased UFO reports did not correspond to unusual spacecraft traffic; she suggests reporting or media filtering may explain the rise. She says no unusual traffic was found.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 17, y los Cumpleaños. 22 de marzo de 2024](https://swaruu.org/transcripts/noticias-espaciales-17-y-los-cumpleanos-22-de-marzo-de-2024) (2024-03-24; es); passages p0003, p0004, p0005. [Structured record](../../records/src-3515c1d5e5af.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-75b74d0d8734-c02
+
+Mari suspects eclipse warnings could provide cover for a false-flag exercise causing communication or power outages. She notes visitor surges could strain local services.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Eclipse, 8 de Abril, 2024](https://swaruu.org/transcripts/eclipse-8-de-abril-2024) (2024-04-05; es); passages p0006, p0009, p0010, p0011, p0012. [Structured record](../../records/src-75b74d0d8734.json).
+
+Related topics: [Engineered social unrest](engineered-social-unrest.md).
+
+### src-0430f50a8534-c01
+
+Mari Swa says she cannot know what 3I/ATLAS is and argues its public narrative matters more than the object; she speculates it could test reactions or normalize extraterrestrial ideas, possibly serving a staged-invasion agenda. She presents these as possibilities and says she cannot determine the object's nature.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [3I/Atlas - el Nuevo Cometa Interestelar Descubierto por la NASA — ¿Natural o Artificial?](https://swaruu.org/transcripts/3i-atlas-el-nuevo-cometa-interestelar-descubierto-por-la-nasa-natural-o-artificial) (2025-10-12; es); passages p0004, p0005, p0014, p0015, p0016, p0023. [Structured record](../../records/src-0430f50a8534.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-188c293a9d24-c03
+
+Gosia speculates official disclosure could shape a controlled narrative, including a possible false-alien-invasion agenda, and advises audiences to assess it cautiously. She says some increased openness could still prompt useful questions.
+
+Attributed to **Gosia**; speculative; extraction confidence: high.
+
+Source: [OVNIs - Audiencias en el Congreso (USA) - Divulgación Extraterrestre? Mi Opinion](https://swaruu.org/transcripts/ovnis-audiencias-en-el-congreso-usa-divulgacion-extraterrestre-mi-opinion) (2024-11-23; es); passages p0021, p0022, p0023, p0027. [Structured record](../../records/src-188c293a9d24.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-0b85eb2e2485-c01
+
+Gosia presents as a speculative scenario that controllers might stage a benevolent alien encounter to channel public hopes into a centralized global order, rather than a military invasion. She presents this as one of several possible scenarios, with views and plans differing across factions and races.
+
+Attributed to **Gosia**; speculative; extraction confidence: high.
+
+Source: [Divulgación OVNI y Proyecto Blue Beam: ¿Se Avecina una Falsa Invasión Extraterrestre? - CLASE 012](https://swaruu.org/transcripts/divulgacion-ovni-y-proyecto-blue-beam-se-avecina-una-falsa-invasion-extraterrestre-clase-012) (2026-03-08; es); passages p0005, p0026, p0027, p0028, p0046. [Structured record](../../records/src-0b85eb2e2485.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Earth Cabal and power structures](earth-cabal.md).
+
+### src-1f23f0a67470-c02
+
+Gosia argues official disclosure may serve ruling agendas, using controlled narratives, and could prepare the public for a staged alien invasion; she says key details remain uncertain. She presents this as a suspicion, not certainty.
+
+Attributed to **Gosia**; speculative; extraction confidence: high.
+
+Source: [Divulgación de OVNIs/FANI: ¿Verdad, operación psicológica o control de daños? — CLASE 011](https://swaruu.org/transcripts/divulgacion-de-ovnis-fani-verdad-operacion-psicologica-o-control-de-danos-clase-011) (2026-02-14; es); passages p0024, p0025, p0036, p0039, p0048, p0049, p0050. [Structured record](../../records/src-1f23f0a67470.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-19b9c2bb57a1-c04](earth-cabal.md#src-19b9c2bb57a1-c04) — Earth Cabal and power structures
@@ -459,6 +519,7 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-518eb9044e55-c03](galactic-federation.md#src-518eb9044e55-c03) — Galactic Federation
 - [src-7fecc6636778-c01](earth-cabal.md#src-7fecc6636778-c01) — Earth Cabal and power structures
 - [src-7fecc6636778-c04](galactic-federation.md#src-7fecc6636778-c04) — Galactic Federation
+- [src-53866cce2150-c03](project-second-contact.md#src-53866cce2150-c03) — Project Second Contact
 
 ## Review flags
 
@@ -466,7 +527,10 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - Claims about contemporary institutions or external events reflect the speaker’s interpretation.
 - Claims present the speakers’ allegations and forecasts, not independently established facts.
 - Invasion and government-control claims are attributed to Mari Swaruu.
+- Space-traffic and engineering claims are attributed to Mari Swaruu.
 - The document also contains a separate 2021 Aneeka conversation; claims here are attributed only to the named speakers.
+- The source advances unsupported conspiracy claims about a staged alien event and global control; this is recorded only as an attributed hypothetical.
+- The source explicitly says the speakers cannot determine the object's nature and includes speculation about staged alien scenarios.
 - The source presents unverified allegations about Steven Greer, CIA ties, and government operations.
 - conspiracy\_claims
 - disclosure-agenda-speculative

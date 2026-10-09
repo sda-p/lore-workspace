@@ -21,6 +21,7 @@ Related topics: [Terrestrial science](terrestrial-science.md).
 ## Claims filed under other topics
 
 - [src-a32bbe4fc74a-c01](nonhuman-surveillance-drones.md#src-a32bbe4fc74a-c01) — Nonhuman surveillance drones
+- [src-e2c0340ba4de-c01](muonic-gravitational-communications.md#src-e2c0340ba4de-c01) — Muonic gravitational communications
 
 ## Review flags
 

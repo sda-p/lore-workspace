@@ -1,0 +1,55 @@
+{
+  "source_id": "src-8ee420a4a174",
+  "snapshot_sha256": "d20bd5cf4a85d3ce7b55f0e505239d99444ea03a1d2fca92f4444809a209618f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8ee420a4a174-c01",
+      "assertion": "Swaruu (9) describes Akashic access as tuning to information in the Source or ether through frequency, rather than visiting a literal library.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0015"
+      ],
+      "primary_topic": "akashic-records",
+      "topics": [
+        "akashic-records",
+        "ether-field",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the library is one person’s interpretation of the information."
+    },
+    {
+      "id": "src-8ee420a4a174-c02",
+      "assertion": "Swaruu (9) says answers vary with the seeker’s frequency and beliefs; deep meditation and an emptied mind reduce distortion.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0007",
+        "p0010",
+        "p0012",
+        "p0014",
+        "p0021",
+        "p0029"
+      ],
+      "primary_topic": "akashic-records",
+      "topics": [
+        "akashic-records",
+        "consciousness-metaphysics",
+        "telepathic-channeling"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says shared answers may reflect shared perceptual agreements rather than absolute truth."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "meditation technique recommendations",
+    "access during multitasking"
+  ]
+}

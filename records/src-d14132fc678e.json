@@ -7,9 +7,17 @@
       "id": "src-d14132fc678e-c01",
       "assertion": "Mari Swa claims humans with similar genetics live on many other planets, naming Antarians, Centauri, Engan, Taygetans, and Maya.",
       "speaker": "Mari Swa",
-      "paragraph_ids": ["p0004", "p0012", "p0023"],
+      "paragraph_ids": [
+        "p0004",
+        "p0012",
+        "p0023",
+        "p0024"
+      ],
       "primary_topic": "lyran-expansion",
-      "topics": ["lyran-expansion", "extraterrestrial-contact"],
+      "topics": [
+        "lyran-expansion",
+        "extraterrestrial-contact"
+      ],
       "modality": "reported",
       "confidence": "high",
       "qualifiers": "She acknowledges she has no proof and presents this as her perspective."
@@ -18,9 +26,16 @@
       "id": "src-d14132fc678e-c02",
       "assertion": "Mari says at least six planetary resets erased advanced civilizations, after which surviving histories were reframed through imposed cosmologies.",
       "speaker": "Mari Swa",
-      "paragraph_ids": ["p0019", "p0020", "p0023"],
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0023"
+      ],
       "primary_topic": "atlantis-lemuria",
-      "topics": ["atlantis-lemuria", "earth-cabal"],
+      "topics": [
+        "atlantis-lemuria",
+        "earth-cabal"
+      ],
       "modality": "reported",
       "confidence": "high",
       "qualifiers": "She attributes this claim to her data and describes the documents as control narratives."

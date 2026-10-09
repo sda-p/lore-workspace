@@ -646,6 +646,26 @@ Source: [HIBRIDACIÓN EXTRATERRESTRE Y ADN TERRESTRE - Athena Swaruu](https://sw
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-b310ed9c99a3-c03
+
+Mari says DNA manifests consciousness and stores soul experience; complexity reflects experience, not species or superiority.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [Más sobre Genética, Swaruuneanas y Otras Cosas, Video de Reacción (Actualizado)](https://swaruu.org/transcripts/mas-sobre-genetica-swaruuneanas-y-otras-cosas-video-de-reaccion-actualizado) (2024-08-09; es); passages p0021, p0022, p0023, p0029. [Structured record](../../records/src-b310ed9c99a3.json).
+
+Related topics: [Crystalline DNA and proto-silicon biology](crystalline-dna.md).
+
+### src-b310ed9c99a3-c05
+
+Mari says radiation or genetic engineering can damage DNA, while high spirituality and consciousness can overwrite alterations.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [Más sobre Genética, Swaruuneanas y Otras Cosas, Video de Reacción (Actualizado)](https://swaruu.org/transcripts/mas-sobre-genetica-swaruuneanas-y-otras-cosas-video-de-reaccion-actualizado) (2024-08-09; es); passages p0027, p0033. [Structured record](../../records/src-b310ed9c99a3.json).
+
+Related topics: [Crystalline DNA and proto-silicon biology](crystalline-dna.md).
+
 ## Claims filed under other topics
 
 - [src-31e1b41b8c15-c01](consciousness-metaphysics.md#src-31e1b41b8c15-c01) — Consciousness and metaphysics
@@ -686,6 +706,10 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-97d1cf163a44-c05](moon-matrix.md#src-97d1cf163a44-c05) — Moon and terrestrial Matrix
 - [src-b48ede308895-c04](medical-pods.md#src-b48ede308895-c04) — Medical regeneration pods
 - [src-e48edb1223b1-c03](lyrians.md#src-e48edb1223b1-c03) — Lyrians
+- [src-936377231cd6-c03](reptilians.md#src-936377231cd6-c03) — Reptilians
+- [src-d49c526b01a4-c01](consciousness-metaphysics.md#src-d49c526b01a4-c01) — Consciousness and metaphysics
+- [src-5d1072c7f701-c03](solar-consciousness.md#src-5d1072c7f701-c03) — Solar consciousness
+- [src-b310ed9c99a3-c02](crystalline-dna.md#src-b310ed9c99a3-c02) — Crystalline DNA and proto-silicon biology
 
 ## Review flags
 
@@ -702,6 +726,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - The author presents the memory-location and disease examples as metaphysical claims.
 - The cloning and genetic-control statements are Swaruu’s claims.
 - The dialogue distinguishes an individual’s mental state from collective psychic influence; the author says effects are psychological, not physical.
+- The narrator distinguishes her metaphysical account from Earth science and says it lacks the evidence conventionally required; preserve attribution.
 - Van Allen belts both set a baseline and can be transcended; preserve distinction.
 - artificial-intelligence-attributed
 - attributed-medical-conspiracy-claims
@@ -724,6 +749,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - metaphysical-model
 - nonhuman-medical-claims-unverified
 - nonstandard-genetics-claims
+- p0007 gives contradictory Kingu–Usungal origin accounts.
 - same-language-near-duplicate-src-7872bc2f2c04
 - segmentation-diff
 - self-described-species-transition

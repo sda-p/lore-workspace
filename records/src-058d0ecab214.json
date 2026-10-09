@@ -1,0 +1,36 @@
+{
+  "source_id": "src-058d0ecab214",
+  "snapshot_sha256": "4d2e9d1e06d5ff8e516a7afcbbdcd8676cb314b824d4f8770dc8881f0b9d01bd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-058d0ecab214-c01",
+      "assertion": "Anéeka says she received a muon-written message using Federation codes that ordered her to stop revealing secrets, accusing her of violating the Prime Directive.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0012", "p0014", "p0018"],
+      "primary_topic": "prime-directive",
+      "topics": ["prime-directive", "galactic-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the message threatened consequences but specified no sanction."
+    },
+    {
+      "id": "src-058d0ecab214-c02",
+      "assertion": "Anéeka says Taygetans belong to the Federation coalition and describes herself as an invader on Earth, arguing that humans should decide how to live without her direction.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0047", "p0049"],
+      "primary_topic": "taygetans",
+      "topics": ["taygetans", "galactic-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She frames this as a realization about a purported liberation mission."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source is a dialogue presenting unverifiable claims of Federation communications and intervention on Earth."
+  ],
+  "coverage_gaps": [
+    "The conversation also discusses the Federation's alleged control structures, claims that all societies are constrained by rules, and Procyonian fauna."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_id": "src-66545aa0b17c",
+  "snapshot_sha256": "728623f0f1856a90d78f2b90be00c9539c566decffd6a2c0b15644396c64746c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-66545aa0b17c-c01",
+      "assertion": "Gosia argues that accepting extraterrestrial life would challenge Earth’s isolation narrative and could transform society over time.",
+      "speaker": "Gosia",
+      "paragraph_ids": ["p0005", "p0008", "p0010", "p0014", "p0031"],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": ["extraterrestrial-contact", "earth-cabal"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as the Space Academy’s perspective, not an immediate change."
+    },
+    {
+      "id": "src-66545aa0b17c-c02",
+      "assertion": "Gosia describes many spacefaring societies as using layered councils, shared resources, and less dependence on money or compulsory work.",
+      "speaker": "Gosia",
+      "paragraph_ids": ["p0021", "p0022", "p0023", "p0024"],
+      "primary_topic": "holistic-society",
+      "topics": ["holistic-society", "extraterrestrial-contact"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says such models would require human ethical and social readiness."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The lesson advances unverified extraterrestrial claims and presents an idealized account of alien societies."
+  ],
+  "coverage_gaps": [
+    "It also discusses human origins, technology, and collective transformation."
+  ]
+}

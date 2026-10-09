@@ -120,6 +120,16 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [Núcleo de la Tierra - es Nuestro Planeta Hueco? - Información Extraterrestre](https://swaruu.org/transcripts/nucleo-de-la-tierra-es-nuestro-planeta-hueco-informacion-extraterrestre) (2023-02-10; es); passages p0021, p0027, p0028. [Structured record](../../records/src-f994e07a2582.json).
 
+### src-936377231cd6-c02
+
+Mari says Kingu view the surface as a human resource farm and live in vast underground spaces and cities connected to human military bases.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Los Reptiloides y cómo ven la Tierra y a la Humanidad](https://swaruu.org/transcripts/los-reptiloides-y-como-ven-la-tierra-y-a-la-humanidad) (2024-03-17; es); passages p0012, p0017, p0018. [Structured record](../../records/src-936377231cd6.json).
+
+Related topics: [Kingu](kingu.md).
+
 ## Claims filed under other topics
 
 - [src-0a2dec346e2d-c01](bigfoot-sasquatch.md#src-0a2dec346e2d-c01) — Bigfoot, Sasquatch and Yeti
@@ -151,6 +161,7 @@ Source: [Núcleo de la Tierra - es Nuestro Planeta Hueco? - Información Extrate
 - federation-role-speaker-contrast
 - historical and technological interpretations are attributed to Athena
 - lore-claims-attributed-to-Aneeka
+- p0007 gives contradictory Kingu–Usungal origin accounts.
 - source-says-speaker-has-not-seen-regressive-groups
 - translated-originally-Spanish
 - triton-placement-attributed-to-andromedans

@@ -1,0 +1,36 @@
+{
+  "source_id": "src-4fb5deaadb02",
+  "snapshot_sha256": "1e5638685c797a434641b2d39214df63c4637832a3c0649a6867a2f22860ae62",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4fb5deaadb02-c01",
+      "assertion": "Yazhi says memory erasure can help someone reset and form a new identity, while remembering a prior life leaves part of that former self present.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0005", "p0011"],
+      "primary_topic": "reincarnation-cycles",
+      "topics": ["reincarnation-cycles", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She describes this as occurring across multiple timelines and incarnations."
+    },
+    {
+      "id": "src-4fb5deaadb02-c02",
+      "assertion": "Yazhi says she remembers a past life as an Urmah cat and links that memory to her group's affinity for cats and escort by Avyon Uno.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0063", "p0067", "p0069"],
+      "primary_topic": "urmah",
+      "topics": ["urmah", "reincarnation-cycles"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says most who remember this past-life connection do not discuss it much."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source presents metaphysical claims about memory, incarnation, and past-life identity."
+  ],
+  "coverage_gaps": [
+    "Other passages discuss consciousness as the basis of matter, teleportation and telekinesis, and Yazhi's account of nonphysical identity."
+  ]
+}

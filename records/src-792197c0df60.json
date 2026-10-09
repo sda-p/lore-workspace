@@ -1,0 +1,36 @@
+{
+  "source_id": "src-792197c0df60",
+  "snapshot_sha256": "4e9e36f18eb75d4b87abe1a925cdcd53f42db84f072ffbd6b6581f131829c801",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-792197c0df60-c01",
+      "assertion": "Mari Swa says the astral body reflects an individual's self-image and strongest attachments; identifying only with a biological body can keep souls in material realms and lead to repeated, uncontrolled reincarnation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0010", "p0011", "p0012"],
+      "primary_topic": "postmortem-realities",
+      "topics": ["postmortem-realities", "reincarnation-cycles", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She describes astral experience as subjective and shaped by each person's self-concept."
+    },
+    {
+      "id": "src-792197c0df60-c02",
+      "assertion": "Mari Swa says astral realms are co-manifested by their inhabitants and shaped by their beliefs, values, and vibration, producing different heavens or hells for different souls.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0013", "p0014", "p0020", "p0021", "p0022", "p0023"],
+      "primary_topic": "postmortem-realities",
+      "topics": ["postmortem-realities", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "In her account, no single astral realm necessarily applies to everyone."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source presents metaphysical claims about astral realms, reincarnation, and postmortem destinations."
+  ],
+  "coverage_gaps": [
+    "The video also discusses near-death experiences, religious expectations, and material wealth as a source of life experience."
+  ]
+}

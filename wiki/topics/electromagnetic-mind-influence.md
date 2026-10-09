@@ -38,6 +38,10 @@ Source: [Animales caminando en circulos - Porque? Información del equipo Tayget
 
 Related topics: [Aggressive telepathy](aggressive-telepathy.md).
 
+## Claims filed under other topics
+
+- [src-0c1133da59d5-c03](collective-timeline-influence.md#src-0c1133da59d5-c03) — Collective timeline influence
+
 ## Review flags
 
 - The article revises its initial speculation: it reports no direct evidence of animal-specific control.

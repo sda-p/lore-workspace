@@ -3380,6 +3380,512 @@ Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
 
 Source: [NAVE EXTRATERRESTRE ESTRELLADA EN EL MAR RAZAS EXTRATERRESTRES GRISES Y NAVE URMAH](https://swaruu.org/transcripts/nave-extraterrestre-estrellada-en-el-mar-razas-extraterrestres-grises-y-nave-urmah) (2023-09-13; es); passages p0016, p0025, p0027. [Structured record](../../records/src-e473d0c4d7a7.json).
 
+### src-ae18b4263cf9-c01
+
+Swaruu says a five-hour mission sought radar visibility while respecting US airspace. Six Taygetan ships took part.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 5C - Swaruu (9) y Yazhi y su Nave Suzy - Anécdotas](https://swaruu.org/transcripts/vida-interestelar-5c-swaruu-9-y-yazhi-y-su-nave-suzy-anecdotas) (2024-04-07; es); passages p0004, p0008, p0010, p0012, p0014, p0020. [Structured record](../../records/src-ae18b4263cf9.json).
+
+### src-ae18b4263cf9-c03
+
+Yazhi says Suzy’s polymorphic metal must be precision cast in zero gravity and cannot be replicated; a nose piece uses 1% of Toleka’s reserves.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 5C - Swaruu (9) y Yazhi y su Nave Suzy - Anécdotas](https://swaruu.org/transcripts/vida-interestelar-5c-swaruu-9-y-yazhi-y-su-nave-suzy-anecdotas) (2024-04-07; es); passages p0087, p0092, p0093, p0099, p0101. [Structured record](../../records/src-ae18b4263cf9.json).
+
+### src-e919f649c5d3-c01
+
+Anéeka says a ship’s four redundant artificial-gravity systems failed together, causing localized zero gravity; she reports repeated failures on one vessel.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Vida Interestelar 5A - Anécdotas de la Vida en la Nave Extraterrestre - Taygeta](https://swaruu.org/transcripts/vida-interestelar-5a-anecdotas-de-la-vida-en-la-nave-extraterrestre-taygeta) (2024-03-13; es); passages p0040, p0043, p0046. [Structured record](../../records/src-e919f649c5d3.json).
+
+### src-e919f649c5d3-c02
+
+Anéeka says an EVA team repaired a stress crack causing cabin decompression by layering polymorphic metal onto the hull. The repair took about six hours.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 5A - Anécdotas de la Vida en la Nave Extraterrestre - Taygeta](https://swaruu.org/transcripts/vida-interestelar-5a-anecdotas-de-la-vida-en-la-nave-extraterrestre-taygeta) (2024-03-13; es); passages p0069, p0071, p0076, p0085, p0095. [Structured record](../../records/src-e919f649c5d3.json).
+
+### src-e919f649c5d3-c03
+
+Anéeka says Toleka’s modular interior was refitted with pools and spas in place of unused cabins; sections can be swapped within hours or days.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 5A - Anécdotas de la Vida en la Nave Extraterrestre - Taygeta](https://swaruu.org/transcripts/vida-interestelar-5a-anecdotas-de-la-vida-en-la-nave-extraterrestre-taygeta) (2024-03-13; es); passages p0097, p0098, p0099. [Structured record](../../records/src-e919f649c5d3.json).
+
+### src-3515c1d5e5af-c03
+
+Mari says four of Toleka’s twelve engines required turbine-rotor replacement while the ship was in orbit. She says this had not previously been done on a ship that large in space.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 17, y los Cumpleaños. 22 de marzo de 2024](https://swaruu.org/transcripts/noticias-espaciales-17-y-los-cumpleanos-22-de-marzo-de-2024) (2024-03-24; es); passages p0026. [Structured record](../../records/src-3515c1d5e5af.json).
+
+### src-878fcdc382ad-c03
+
+Mari says a starseed’s off-world family may monitor and assist them using drones.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Realmente nunca estás solo, Ángeles Guardianes de todo tipo, Primera Parte](https://swaruu.org/transcripts/realmente-nunca-estas-solo-angeles-guardianes-de-todo-tipo-primera-parte) (2023-12-23; es); passages p0034. [Structured record](../../records/src-878fcdc382ad.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-a7f0d8917568-c01
+
+Mari says some extraterrestrial ships are unfamiliar while Lyrian human ships resemble advanced aircraft and may share familiar components.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sobre las Naves Estelares, por qué muchas parecen tan humanas y la Tierra Aislada](https://swaruu.org/transcripts/sobre-las-naves-estelares-por-que-muchas-parecen-tan-humanas-y-la-tierra-aislada) (2024-01-23; es); passages p0010, p0014, p0015. [Structured record](../../records/src-a7f0d8917568.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-03a767caa709-c01
+
+Mari describes Saska 1 as a supply and repair station with engineers, spare parts, replicators, and workshops.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 14, Actualización de la Federación, 15 de febrero de 2024](https://swaruu.org/transcripts/noticias-espaciales-14-actualizacion-de-la-federacion-15-de-febrero-de-2024) (2024-02-16; es); passages p0006, p0007. [Structured record](../../records/src-03a767caa709.json).
+
+### src-b77f8213e67a-c01
+
+Mari says the Toleka was undergoing repairs to its twelve engines with support from the Saska 1 service ship.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 15, Actualización de la Federación, 28 de febrero de 2024](https://swaruu.org/transcripts/noticias-espaciales-15-actualizacion-de-la-federacion-28-de-febrero-de-2024) (2024-03-01; es); passages p0008. [Structured record](../../records/src-b77f8213e67a.json).
+
+### src-e199916654ef-c01
+
+Mari describes Saska 1 and Toleka docking with gravity engines, a telescoping connector and clamps for supply transfer. She calls it delicate and unshielded.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Un Incidente Grave a bordo de la Nave Estelar Toleka](https://swaruu.org/transcripts/un-incidente-grave-a-bordo-de-la-nave-estelar-toleka) (2024-01-10; es); passages p0012, p0013, p0014, p0015. [Structured record](../../records/src-e199916654ef.json).
+
+Related topics: [Gravitic generators](gravitic-generators.md).
+
+### src-e199916654ef-c02
+
+A Scimitair jammed between the ships, lowering their orbit and preventing engine burns until they synchronized low-power burns. The ships risked violating the First Directive if seen from Earth.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Un Incidente Grave a bordo de la Nave Estelar Toleka](https://swaruu.org/transcripts/un-incidente-grave-a-bordo-de-la-nave-estelar-toleka) (2024-01-10; es); passages p0020, p0021, p0025, p0026, p0027, p0029. [Structured record](../../records/src-e199916654ef.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-e199916654ef-c03
+
+Releasing the fighter caused a blast that damaged Toleka’s hangar and life-support lines; exterior shields retained pressure, and Saska 1 aided repairs. Mari says no one was injured.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Un Incidente Grave a bordo de la Nave Estelar Toleka](https://swaruu.org/transcripts/un-incidente-grave-a-bordo-de-la-nave-estelar-toleka) (2024-01-10; es); passages p0030, p0031, p0032, p0033, p0037, p0038, p0040, p0041. [Structured record](../../records/src-e199916654ef.json).
+
+Related topics: [Harmonic shields](harmonic-shields.md).
+
+### src-07e941b6d7c6-c02
+
+Mari says Saska 1 crews replaced Toleka’s four engines and upgraded Vigilant Eagle with human communications equipment.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Noticias espaciales 18. 6 de abril de 2024, Eclipse, Naves, Reuniones, Yazhi y otras noticias](https://swaruu.org/transcripts/noticias-espaciales-18-6-de-abril-de-2024-eclipse-naves-reuniones-yazhi-y-otras-noticias) (2024-04-07; es); passages p0022, p0023. [Structured record](../../records/src-07e941b6d7c6.json).
+
+Related topics: [Suzy-class starships](suzy-class-starships.md).
+
+### src-88e9e60e1494-c01
+
+Mari describes Vigilant Eagle as a 320-m destroyer with two zero-point reactors, four counter-rotating plasma turbines and 25 crew, stationed to protect Toleka.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Actualización de la Federación Galáctica. 17 de Enero de 2024](https://swaruu.org/transcripts/actualizacion-de-la-federacion-galactica-17-de-enero-de-2024) (2024-01-19; es); passages p0005, p0006, p0007, p0008. [Structured record](../../records/src-88e9e60e1494.json).
+
+Related topics: [Crystal-core zero-point reactors](crystal-core-zero-point-reactors.md).
+
+### src-970412680838-c01
+
+Mari says Taygetan devices depend on specialized alloys, smart metals, and durable resins absent on Earth, making plans alone insufficient to reproduce them.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Tecnología y por qué no puedo compartir más detalles](https://swaruu.org/transcripts/tecnologia-y-por-que-no-puedo-compartir-mas-detalles) (2024-03-26; es); passages p0010. [Structured record](../../records/src-970412680838.json).
+
+### src-6b645b07c265-c01
+
+Mari says the Taygetan Alcyone-class battleship Asterope arrived near Earth on April 13, 2024, docking beside Toleka after a three-hour approach guided by Viera. She says large ships enter interplanetary space before approaching orbital traffic.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 20. 14 de Abril 2024. Asterope, Primera presentación en vivo de Mari Swa](https://swaruu.org/transcripts/noticias-espaciales-20-14-de-abril-2024-asterope-primera-presentacion-en-vivo-de-mari-swa) (2024-04-16; es); passages p0005, p0006, p0007. [Structured record](../../records/src-6b645b07c265.json).
+
+Related topics: [Toleka-class starships](toleka-class.md).
+
+### src-6b93fc9acdf1-c03
+
+Mari says high-energy radar pulses can disable disc-craft navigation sensors, while larger combat ships use multiple propulsion systems. She claims these pulses have caused crashes.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Sobre Platillos Voladores](https://swaruu.org/transcripts/sobre-platillos-voladores) (2024-03-29; es); passages p0019, p0020, p0021. [Structured record](../../records/src-6b93fc9acdf1.json).
+
+Related topics: [Disc-shaped shuttle craft](disc-shaped-shuttles.md).
+
+### src-eb08c7b1f2c6-c02
+
+Yazhi says Alcyone was intended for media outreach while Asterope’s role was ship security; each could carry about 475 people, subject to crew selection and mechanical checks. She says Asterope’s arrival was uncertain and Alcyone needed more preparations.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Charla con Yazhi sobre las noticias de Mari (Comunicación Extraterrestre)](https://swaruu.org/transcripts/charla-con-yazhi-sobre-las-noticias-de-mari-comunicacion-extraterrestre) (2024-04-13; es); passages p0031, p0032, p0033, p0035, p0037, p0038. [Structured record](../../records/src-eb08c7b1f2c6.json).
+
+Related topics: [Taygetan First Contact Project](taygetan-first-contact-project.md).
+
+### src-013f3b7ef0b7-c02
+
+The article describes plasma turbines with counter-rotating layers; newer versions use AI-controlled polymorphic metal to create rotation without moving parts and can generate thrust or a vessel-wrapping field. The plasma-jet mode produces thrust; the wrapped-field mode enables frequency jumps.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 4 - Ingeniería Extraterrestre - Reactores/Motores de Plasma (Taygeta - Pléyades)](https://swaruu.org/transcripts/vida-interestelar-4-ingenieria-extraterrestre-reactores-motores-de-plasma-taygeta-pleyades) (2023-11-09; es); passages p0029, p0030, p0032, p0035, p0042, p0043, p0047, p0050, p0054. [Structured record](../../records/src-013f3b7ef0b7.json).
+
+Related topics: [Crystal-core zero-point reactors](crystal-core-zero-point-reactors.md), [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-9111b6efe5ee-c02
+
+Mari describes high-temperature tunnelers that melt rock for subterranean bases and can hollow asteroids into concealed ships.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Civilizaciones Disidentes, Separatistas y Piratas Espaciales](https://swaruu.org/transcripts/civilizaciones-disidentes-separatistas-y-piratas-espaciales) (2023-11-17; es); passages p0025, p0026, p0027, p0028, p0029. [Structured record](../../records/src-9111b6efe5ee.json).
+
+Related topics: [Deep underground military bases](deep-underground-military-bases.md).
+
+### src-0035cf935a87-c02
+
+Rashell says a medical pod restores the body but not emotional causes without lifestyle changes.
+
+Attributed to **Rashell**; asserted; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Swaruu de Erra - Salud (PARTE 2)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-swaruu-de-erra-salud-parte-2) (2025-09-10; es); passages p0044. [Structured record](../../records/src-0035cf935a87.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-4dbc0136de84-c01
+
+Anéeka says Toleka was about 700,000 km from Earth and used muon communications.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Sophia (Yazhi) Swaruu - Primeros Años de Yazhi en Toleka (PARTE 1)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-primeros-anos-de-yazhi-en-toleka-parte-1) (2024-08-23; es); passages p0004. [Structured record](../../records/src-4dbc0136de84.json).
+
+### src-f929113f2b30-c01
+
+Mari says ships sort waste with AI, disintegrate refuse molecularly, and convert released heat to electricity.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [El Vertido de Basura que salió Terriblemente Mal](https://swaruu.org/transcripts/el-vertido-de-basura-que-salio-terriblemente-mal) (2024-09-27; es); passages p0003, p0004. [Structured record](../../records/src-f929113f2b30.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-f929113f2b30-c02
+
+Mari says ships cannot dissipate heat in vacuum, so they convert excess heat to electricity.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [El Vertido de Basura que salió Terriblemente Mal](https://swaruu.org/transcripts/el-vertido-de-basura-que-salio-terriblemente-mal) (2024-09-27; es); passages p0005, p0006. [Structured record](../../records/src-f929113f2b30.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-f929113f2b30-c03
+
+A literal order released four tonnes of waste into orbit; debris clung to ship shields for days.
+
+Attributed to **Mari Swa (narrator)**; reported; extraction confidence: high.
+
+Source: [El Vertido de Basura que salió Terriblemente Mal](https://swaruu.org/transcripts/el-vertido-de-basura-que-salio-terriblemente-mal) (2024-09-27; es); passages p0013, p0016, p0018, p0019. [Structured record](../../records/src-f929113f2b30.json).
+
+### src-0cb068df4dc2-c05
+
+Muon communications are encrypted; Suzy AI can correct course if pilots faint or sleep.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 6C - Naves de Caza Avanzadas de Taygeta (Pleyades) - Athena Swaruu](https://swaruu.org/transcripts/vida-interestelar-6c-naves-de-caza-avanzadas-de-taygeta-pleyades-athena-swaruu) (2024-07-30; es); passages p0064, p0066, p0065. [Structured record](../../records/src-0cb068df4dc2.json).
+
+Related topics: [Muonic galactic AI network](muonic-galactic-ai-network.md).
+
+### src-9b6c9c7ff268-c03
+
+Transparent hull sections retain its strength; layered energy shields protect against incoming objects.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 7 - Naves Estelares Taygeteanas (Pléyades) - Materiales y Construcción](https://swaruu.org/transcripts/vida-interestelar-7-naves-estelares-taygeteanas-pleyades-materiales-y-construccion) (2024-11-13; es); passages p0015, p0016, p0017. [Structured record](../../records/src-9b6c9c7ff268.json).
+
+### src-9b6c9c7ff268-c05
+
+Swaruu says ships self-repair but retain manual maintenance because diagnostic automation can fail.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 7 - Naves Estelares Taygeteanas (Pléyades) - Materiales y Construcción](https://swaruu.org/transcripts/vida-interestelar-7-naves-estelares-taygeteanas-pleyades-materiales-y-construccion) (2024-11-13; es); passages p0036, p0038. [Structured record](../../records/src-9b6c9c7ff268.json).
+
+Related topics: [Nanotechnology and implants](nanotechnology.md).
+
+### src-9b6c9c7ff268-c06
+
+Anéeka says Toleka takes up to five years and thousands of workers to build modularly with a nanodust hull.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 7 - Naves Estelares Taygeteanas (Pléyades) - Materiales y Construcción](https://swaruu.org/transcripts/vida-interestelar-7-naves-estelares-taygeteanas-pleyades-materiales-y-construccion) (2024-11-13; es); passages p0069, p0070, p0072. [Structured record](../../records/src-9b6c9c7ff268.json).
+
+Related topics: [Nanotechnology and implants](nanotechnology.md).
+
+### src-7507aaf9433f-c02
+
+Saska 1 aided Alcyone repairs after hyperspace strain broke engine mounts and cooling pipes.
+
+Attributed to **Mari Swa (narrator)**; reported; extraction confidence: high.
+
+Source: [Noticias espaciales, 25 de mayo de 2024, Naves, Pájaros Moghyay, Meteorito sobre España, mi YouTube](https://swaruu.org/transcripts/noticias-espaciales-25-de-mayo-de-2024-naves-pajaros-moghyay-meteorito-sobre-espana-mi-youtube) (2024-05-26; es); passages p0009, p0010, p0012. [Structured record](../../records/src-7507aaf9433f.json).
+
+### src-a608ed423baf-c02
+
+Mari attributes the Saska 1–Alcyone collision to untested replacement sensors and communication failures between civilian maintenance and military crews. She says Alcyone moved prematurely and its rear sensors had failed.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Militares Taygeteanos](https://swaruu.org/transcripts/militares-taygeteanos) (2024-12-08; es); passages p0019, p0022, p0023, p0025, p0026. [Structured record](../../records/src-a608ed423baf.json).
+
+Related topics: [Combat doctrine](combat-doctrine.md).
+
+### src-a608ed423baf-c03
+
+Mari says the civilian deep-space support ship Saska 1 had a close-knit crew of about 50 working with Taygetan military vessels.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Militares Taygeteanos](https://swaruu.org/transcripts/militares-taygeteanos) (2024-12-08; es); passages p0020, p0021. [Structured record](../../records/src-a608ed423baf.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-b3b68817ea60-c02
+
+Mari reports that the Toleka flagship would leave Earth orbit for repairs and that she would move her headquarters to Sadicleya. She attributes the move to Toleka’s age and recurring system problems.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales, Número 33, 29 de Julio 2024, Ataques vs Alenym y Zanahoria, Adiós Toleka](https://swaruu.org/transcripts/noticias-espaciales-numero-33-29-de-julio-2024-ataques-vs-alenym-y-zanahoria-adios-toleka) (2024-07-30; es); passages p0020, p0024, p0025, p0027. [Structured record](../../records/src-b3b68817ea60.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-beec8fc2e8bd-c02
+
+Yazhi describes Sadicleya’s humanoid android as an interface linked to the ship’s AI rather than an independent system. She says the crew had not yet activated it.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Charlando con Yazhi Swaruu - Septiembre 2024](https://swaruu.org/transcripts/charlando-con-yazhi-swaruu-septiembre-2024) (2024-09-28; es); passages p0024, p0075, p0093, p0094. [Structured record](../../records/src-beec8fc2e8bd.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-482f728a3fc7-c02
+
+Mari reports 14 starships under construction in Toleka and says she assigned a new Hyades-class destroyer to Earth orbit. She links the expansion to Taygetan security concerns.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 47, Mi Salud, Taygetanos Enfermos, Cosas de Reina en Temmer](https://swaruu.org/transcripts/noticias-espaciales-47-mi-salud-taygetanos-enfermos-cosas-de-reina-en-temmer) (2024-10-20; es); passages p0010, p0011. [Structured record](../../records/src-482f728a3fc7.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-8cf2c3cf5f7d-c01
+
+Anéeka describes a shipboard museum containing artifacts from Earth and several extraterrestrial cultures, including Urmah armor and Zeta controls. She says most objects are believed original.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [El Valor del Pasado en Civilizaciones Extraterrestres \| Museo Pleyadiano Taygeteano](https://swaruu.org/transcripts/el-valor-del-pasado-en-civilizaciones-extraterrestres-museo-pleyadiano-taygeteano) (2025-12-15; es); passages p0005, p0009, p0020, p0026, p0031. [Structured record](../../records/src-8cf2c3cf5f7d.json).
+
+Related topics: [Urmah](urmah.md).
+
+### src-e07ab2a092b3-c02
+
+Anéeka says investigating the ship is considered dangerous because accessways are damaged and an unknown organism may remain inside. The possible organism is speculative; she also cites debris and darkness.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Nave Antigua Lemuriana Abandonada - Aneeka de Temmer](https://swaruu.org/transcripts/nave-antigua-lemuriana-abandonada-aneeka-de-temmer) (2024-06-25; es); passages p0007, p0019, p0020, p0021. [Structured record](../../records/src-e07ab2a092b3.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
+### src-376885ee0493-c02
+
+Athena describes pyramids as atmospheric-energy reactors and says their narrow passages served maintenance rather than rituals. This is an unverified alternative-history and technology claim.
+
+Attributed to **Athena Swaruu**; reported; extraction confidence: high.
+
+Source: [Antiguo Egipto (6) - Misterios Egipcios - Preguntas (Athena Swaruu)](https://swaruu.org/transcripts/antiguo-egipto-6-misterios-egipcios-preguntas-athena-swaruu) (2025-03-24; es); passages p0009, p0011, p0095, p0097. [Structured record](../../records/src-376885ee0493.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
+
+### src-4610a94abf7f-c01
+
+Anéeka describes the ship's gravity as an electromagnetic-flow emulation generated at high frequency, rather than centrifugal force, and says it is set to 0.8g. This is her account of the ship's system, not independently verified physics.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Vida Interestelar 8 - Vida A bordo de la Nave Estelar - Aneeka de Temmer](https://swaruu.org/transcripts/vida-interestelar-8-vida-a-bordo-de-la-nave-estelar-aneeka-de-temmer) (2024-12-21; es); passages p0068, p0071. [Structured record](../../records/src-4610a94abf7f.json).
+
+### src-4610a94abf7f-c02
+
+Anéeka describes a ship-wide AI terminal network and maglev transport tubes with inertia cancellation, carrying crew between areas nearly two kilometers apart in seconds; she calls the vessel a small city. These are claims about the fictionalized/claimed Toleka vessel.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Vida Interestelar 8 - Vida A bordo de la Nave Estelar - Aneeka de Temmer](https://swaruu.org/transcripts/vida-interestelar-8-vida-a-bordo-de-la-nave-estelar-aneeka-de-temmer) (2024-12-21; es); passages p0088, p0090, p0092. [Structured record](../../records/src-4610a94abf7f.json).
+
+### src-beb2c96534c2-c02
+
+Mari Swaruu says Taygetan ship computers can infer pilot intent through a thought interface, check anticipated reactions before acting, and allow manual controls to override the system. She says pilots and new ships perform best after becoming familiar with one another.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Tecnología Informática Holográfica Cuántica de Taygeta](https://swaruu.org/transcripts/tecnologia-informatica-holografica-cuantica-de-taygeta) (2024-06-16; es); passages p0025, p0027, p0028, p0031, p0032. [Structured record](../../records/src-beb2c96534c2.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-bc176370b242-c01
+
+Mari Swa says Taygetan ships dock side by side through hangar doors and an extendable sealed platform; shields must share harmonics to merge during contact, and mismatched shields repel. Docking is effectively unshielded from both ships’ perspective.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 52. Choque de dos grandes naves espaciales Taygeteanas](https://swaruu.org/transcripts/noticias-espaciales-52-choque-de-dos-grandes-naves-espaciales-taygeteanas) (2024-11-19; es); passages p0007, p0008, p0009. [Structured record](../../records/src-bc176370b242.json).
+
+### src-bc176370b242-c02
+
+Mari Swa attributes an Alcyone-Saska collision to failed rear sensors and Alcyone’s premature turn; Saska’s reinforced bow damaged Alcyone’s rear superstructure, later replaced by modular sections. She reports no injuries or Saska damage.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 52. Choque de dos grandes naves espaciales Taygeteanas](https://swaruu.org/transcripts/noticias-espaciales-52-choque-de-dos-grandes-naves-espaciales-taygeteanas) (2024-11-19; es); passages p0003, p0014, p0015, p0016, p0017, p0018, p0021, p0022, p0023. [Structured record](../../records/src-bc176370b242.json).
+
+Related topics: [Toleka-class starships](toleka-class.md).
+
+### src-5e04f41106fc-c01
+
+Mari calls Sadicleya a Toleka-class Mark II deep-space yacht, larger than Mark I, with eight main and four maneuvering engines producing more power and stronger shields. She says its precise dimensions remain uncertain.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Nave Estelar Sadicleya](https://swaruu.org/transcripts/nave-estelar-sadicleya) (2024-08-02; es); passages p0009, p0011, p0015, p0016, p0018, p0019. [Structured record](../../records/src-5e04f41106fc.json).
+
+Related topics: [Harmonic shields](harmonic-shields.md).
+
+### src-5e04f41106fc-c02
+
+Mari says Sadicleya has village-like decks, parks, simulated horizons, weather, seasons, and beach facilities to support crew wellbeing on long missions.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Nave Estelar Sadicleya](https://swaruu.org/transcripts/nave-estelar-sadicleya) (2024-08-02; es); passages p0020, p0021, p0022, p0023, p0024. [Structured record](../../records/src-5e04f41106fc.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-5e04f41106fc-c03
+
+Mari says Sadicleya is her new flagship in low Earth orbit, escorted by four ships and intended for fewer than one hundred crew. Original Toleka crew remain aboard for now.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Nave Estelar Sadicleya](https://swaruu.org/transcripts/nave-estelar-sadicleya) (2024-08-02; es); passages p0025, p0027, p0028. [Structured record](../../records/src-5e04f41106fc.json).
+
+### src-5a1acd491e56-c02
+
+Mari describes Hyades as a 310-meter Taygetan light destroyer with four plasma-turbine engines, automation, self-repairing alloys, and holographic AI, but limited crew leisure space.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales, Número 28, 20 de Junio 2024, Alenym, nave nueva S.S. Hyades](https://swaruu.org/transcripts/noticias-espaciales-numero-28-20-de-junio-2024-alenym-nave-nueva-s-s-hyades) (2024-06-21; es); passages p0014, p0015, p0016, p0017. [Structured record](../../records/src-5a1acd491e56.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-5a1acd491e56-c03
+
+Mari says Hyades joined Toleka and Águila Vigilante in low Earth orbit as an escort, following an attack on Queen Alenym and Taygetan military escalation. This is her account.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales, Número 28, 20 de Junio 2024, Alenym, nave nueva S.S. Hyades](https://swaruu.org/transcripts/noticias-espaciales-numero-28-20-de-junio-2024-alenym-nave-nueva-s-s-hyades) (2024-06-21; es); passages p0009, p0010, p0013. [Structured record](../../records/src-5a1acd491e56.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-b3cba5b1ffc9-c02
+
+Anéeka describes layered shields and polymorphic-titanium hulls up to 90 centimeters thick. Critical areas reach two meters.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 13 (Parte 3) – Mas Preguntas Relacionadas con Naves Espaciales](https://swaruu.org/transcripts/vida-interestelar-13-parte-3-mas-preguntas-relacionadas-con-naves-espaciales) (2026-07-15; es); passages p0031, p0032. [Structured record](../../records/src-b3cba5b1ffc9.json).
+
+Related topics: [Harmonic shields](harmonic-shields.md).
+
+### src-b3cba5b1ffc9-c04
+
+Athena says craft design depends on function; Suzy ships often use skis despite antigravity.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 13 (Parte 3) – Mas Preguntas Relacionadas con Naves Espaciales](https://swaruu.org/transcripts/vida-interestelar-13-parte-3-mas-preguntas-relacionadas-con-naves-espaciales) (2026-07-15; es); passages p0041, p0042, p0103, p0104. [Structured record](../../records/src-b3cba5b1ffc9.json).
+
+Related topics: [Suzy-class starships](suzy-class-starships.md).
+
+### src-b3cba5b1ffc9-c05
+
+Swaruu (9) says ships can last millennia, but crew fatigue and isolation limit missions. Immersive simulations help.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 13 (Parte 3) – Mas Preguntas Relacionadas con Naves Espaciales](https://swaruu.org/transcripts/vida-interestelar-13-parte-3-mas-preguntas-relacionadas-con-naves-espaciales) (2026-07-15; es); passages p0114, p0115, p0116, p0117. [Structured record](../../records/src-b3cba5b1ffc9.json).
+
+Related topics: [Total-immersion simulations](total-immersion-simulations.md).
+
+### src-2f61745f8036-c03
+
+Athena says shuttles vary by task and use gravity cancellation; larger ships have living quarters.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 13 (Parte 1) – Varias Preguntas Relacionadas con Naves Espaciales](https://swaruu.org/transcripts/vida-interestelar-13-parte-1-varias-preguntas-relacionadas-con-naves-espaciales) (2026-05-11; es); passages p0031, p0032, p0033. [Structured record](../../records/src-2f61745f8036.json).
+
+Related topics: [Extraterrestrial step-downs](extraterrestrial-stepdowns.md).
+
+### src-71eee4d5cfe1-c03
+
+Gosia describes interstellar drives as changing a ship and crew’s frequency inside a toroidal bubble tuned to a destination, causing manifestation there rather than physical travel.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Poder de Tu Mente - La Realidad Comienza en la Conciencia (PARTE 1) - CLASE 013](https://swaruu.org/transcripts/poder-de-tu-mente-la-realidad-comienza-en-la-conciencia-parte-1-clase-013) (2026-04-23; es); passages p0056, p0057, p0058, p0059, p0063, p0064. [Structured record](../../records/src-71eee4d5cfe1.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md), [Galactic consciousness](galactic-consciousness.md).
+
 ## Claims filed under other topics
 
 - [src-167f70192bac-c06](alien-species.md#src-167f70192bac-c06) — Alien species and distinctions
@@ -3663,6 +4169,77 @@ Source: [NAVE EXTRATERRESTRE ESTRELLADA EN EL MAR RAZAS EXTRATERRESTRES GRISES Y
 - [src-a58e748ec5c5-c04](temporal-skipping.md#src-a58e748ec5c5-c04) — Temporal skipping
 - [src-46f3bf392b0e-c04](solar-portal-transit.md#src-46f3bf392b0e-c04) — Solar portal transit
 - [src-e473d0c4d7a7-c01](urmah.md#src-e473d0c4d7a7-c01) — Urmah
+- [src-ae18b4263cf9-c02](suzy-fighter-craft.md#src-ae18b4263cf9-c02) — Suzy fighter craft
+- [src-ae18b4263cf9-c04](suzy-fighter-craft.md#src-ae18b4263cf9-c04) — Suzy fighter craft
+- [src-5d854683ebbf-c03](galactic-federation.md#src-5d854683ebbf-c03) — Galactic Federation
+- [src-27320216da18-c03](galactic-federation.md#src-27320216da18-c03) — Galactic Federation
+- [src-68aff81d2865-c03](stellar-navigation.md#src-68aff81d2865-c03) — Stellar navigation
+- [src-ec5ca3fe11f7-c03](holistic-society.md#src-ec5ca3fe11f7-c03) — Holistic society
+- [src-a7f0d8917568-c02](stellar-navigation.md#src-a7f0d8917568-c02) — Stellar navigation
+- [src-b77f8213e67a-c02](suzy-fighter-craft.md#src-b77f8213e67a-c02) — Suzy fighter craft
+- [src-07e941b6d7c6-c03](alcyone-council.md#src-07e941b6d7c6-c03) — Alcyone Council
+- [src-848c84c2deeb-c02](ancient-egypt.md#src-848c84c2deeb-c02) — Ancient Egypt
+- [src-848c84c2deeb-c03](artificial-intelligence.md#src-848c84c2deeb-c03) — Artificial intelligence
+- [src-b0e222a75427-c01](nuclear-magnetic-engines.md#src-b0e222a75427-c01) — Nuclear-magnetic engines
+- [src-d81d9e71f2ef-c02](taygetan-cic.md#src-d81d9e71f2ef-c02) — Taygetan CIC
+- [src-e4d9d208cc31-c01](total-immersion-simulations.md#src-e4d9d208cc31-c01) — Total-immersion simulations
+- [src-dc11ccfaa156-c02](alien-species.md#src-dc11ccfaa156-c02) — Alien species and distinctions
+- [src-f8e3580ba35e-c01](centauri-l-class-fighters.md#src-f8e3580ba35e-c01) — Centauri L-class fighters
+- [src-6b93fc9acdf1-c01](disc-shaped-shuttles.md#src-6b93fc9acdf1-c01) — Disc-shaped shuttle craft
+- [src-6b93fc9acdf1-c02](frequency-map-navigation.md#src-6b93fc9acdf1-c02) — Frequency-map navigation
+- [src-1a585b8926d1-c01](frequency-map-navigation.md#src-1a585b8926d1-c01) — Frequency-map navigation
+- [src-013f3b7ef0b7-c01](crystal-core-zero-point-reactors.md#src-013f3b7ef0b7-c01) — Crystal-core zero-point reactors
+- [src-9111b6efe5ee-c01](alien-species.md#src-9111b6efe5ee-c01) — Alien species and distinctions
+- [src-e65d20a8cc55-c02](artificial-portals.md#src-e65d20a8cc55-c02) — Artificial portals
+- [src-4e95fb5ac87a-c02](alcyone-council.md#src-4e95fb5ac87a-c02) — Alcyone Council
+- [src-321671be4604-c04](solatians.md#src-321671be4604-c04) — Solatians
+- [src-c5264b384243-c03](taygetans.md#src-c5264b384243-c03) — Taygetans
+- [src-0035cf935a87-c04](consciousness-metaphysics.md#src-0035cf935a87-c04) — Consciousness and metaphysics
+- [src-0035cf935a87-c05](taygetans.md#src-0035cf935a87-c05) — Taygetans
+- [src-0035cf935a87-c06](taygetans.md#src-0035cf935a87-c06) — Taygetans
+- [src-8bff2031cfbf-c05](taygetans.md#src-8bff2031cfbf-c05) — Taygetans
+- [src-f929113f2b30-c04](galactic-federation.md#src-f929113f2b30-c04) — Galactic Federation
+- [src-7e2d3128e0af-c02](suzy-class-starships.md#src-7e2d3128e0af-c02) — Suzy-class starships
+- [src-0cb068df4dc2-c02](suzy-class-starships.md#src-0cb068df4dc2-c02) — Suzy-class starships
+- [src-0cb068df4dc2-c04](suzy-class-starships.md#src-0cb068df4dc2-c04) — Suzy-class starships
+- [src-9b6c9c7ff268-c01](nanotechnology.md#src-9b6c9c7ff268-c01) — Nanotechnology and implants
+- [src-9b6c9c7ff268-c02](nanotechnology.md#src-9b6c9c7ff268-c02) — Nanotechnology and implants
+- [src-9b6c9c7ff268-c04](energy-generation.md#src-9b6c9c7ff268-c04) — Energy generation technology
+- [src-7507aaf9433f-c01](project-second-contact.md#src-7507aaf9433f-c01) — Project Second Contact
+- [src-7507aaf9433f-c03](energy-generation.md#src-7507aaf9433f-c03) — Energy generation technology
+- [src-7507aaf9433f-c05](earth-cabal.md#src-7507aaf9433f-c05) — Earth Cabal and power structures
+- [src-bf96c32410fe-c02](taygetan-ecosystems.md#src-bf96c32410fe-c02) — Taygetan ecosystems
+- [src-21a91506e065-c03](taygetans.md#src-21a91506e065-c03) — Taygetans
+- [src-e58c27053b29-c03](taygetans.md#src-e58c27053b29-c03) — Taygetans
+- [src-61c94d4f2880-c04](total-immersion-simulations.md#src-61c94d4f2880-c04) — Total-immersion simulations
+- [src-f720e13266de-c01](taygetan-ecosystems.md#src-f720e13266de-c01) — Taygetan ecosystems
+- [src-1bea1cb4c06c-c03](ancient-egypt.md#src-1bea1cb4c06c-c03) — Ancient Egypt
+- [src-2cbb8e402073-c01](viera.md#src-2cbb8e402073-c01) — Viera
+- [src-2cbb8e402073-c02](viera.md#src-2cbb8e402073-c02) — Viera
+- [src-81bb400febf3-c01](atlantis-lemuria.md#src-81bb400febf3-c01) — Atlantis and Lemuria
+- [src-9fb3397b48c0-c02](taygetans.md#src-9fb3397b48c0-c02) — Taygetans
+- [src-8cf2c3cf5f7d-c02](extraterrestrial-contact.md#src-8cf2c3cf5f7d-c02) — Extraterrestrial contact and disclosure
+- [src-e07ab2a092b3-c01](atlantis-lemuria.md#src-e07ab2a092b3-c01) — Atlantis and Lemuria
+- [src-818ff317b4f9-c02](total-immersion-simulations.md#src-818ff317b4f9-c02) — Total-immersion simulations
+- [src-fd103e70c1ae-c01](taygetans.md#src-fd103e70c1ae-c01) — Taygetans
+- [src-4e79a5644fae-c01](scimitar-class-craft.md#src-4e79a5644fae-c01) — Scimitar-class craft
+- [src-4e79a5644fae-c02](scimitar-class-craft.md#src-4e79a5644fae-c02) — Scimitar-class craft
+- [src-0430f50a8534-c02](solar-system-objects.md#src-0430f50a8534-c02) — Distant Solar System Objects
+- [src-036cd2f853c6-c01](toleka-class.md#src-036cd2f853c6-c01) — Toleka-class starships
+- [src-16146808b4e9-c01](toleka-class.md#src-16146808b4e9-c01) — Toleka-class starships
+- [src-a47faa48bd71-c03](taygetans.md#src-a47faa48bd71-c03) — Taygetans
+- [src-437b17835fc7-c02](astral-military-units.md#src-437b17835fc7-c02) — Astral military units
+- [src-437b17835fc7-c03](taygetans.md#src-437b17835fc7-c03) — Taygetans
+- [src-1b4c9e87af9a-c01](taygetans.md#src-1b4c9e87af9a-c01) — Taygetans
+- [src-6661d9036d1b-c02](holographic-computers.md#src-6661d9036d1b-c02) — Holographic computers
+- [src-a64514faa926-c02](taygetan-cic.md#src-a64514faa926-c02) — Taygetan CIC
+- [src-b3cba5b1ffc9-c01](harmonic-shields.md#src-b3cba5b1ffc9-c01) — Harmonic shields
+- [src-b3cba5b1ffc9-c03](muonic-galactic-ai-network.md#src-b3cba5b1ffc9-c03) — Muonic galactic AI network
+- [src-2f61745f8036-c04](supraluminal-hyperdrive.md#src-2f61745f8036-c04) — Supraluminal frequency hyperdrive
+- [src-fedf11ef16ee-c02](aircraft-mimicry.md#src-fedf11ef16ee-c02) — Aircraft Mimicry
+- [src-fedf11ef16ee-c03](tractor-beams.md#src-fedf11ef16ee-c03) — Tractor beams
+- [src-6132d2375df6-c01](holographic-computers.md#src-6132d2375df6-c01) — Holographic computers
+- [src-6132d2375df6-c02](sentient-starship-ai.md#src-6132d2375df6-c02) — Sentient starship AI
 
 ## Review flags
 
@@ -3672,9 +4249,19 @@ Source: [NAVE EXTRATERRESTRE ESTRELLADA EN EL MAR RAZAS EXTRATERRESTRES GRISES Y
 - Alcohol claims and spiritual effects are Mari’s assertions; avoid generalizing to all Alfratans
 - Alenym-retirement-not-decided
 - All spacecraft specifications and operational claims are attributed to Athena.
+- Allegations of political abuse and sabotage are attributed to Mari and are unverified.
 - Athena-interview-original-English
 - Avyon-1 orbit and crew-size details omitted.
 - Billy\_Meier\_photo\_authenticity\_uncertain
+- Claims about Gray activity, patrols, and Taygetean ships are attributed to Athena and not independently established.
+- Claims about Solatians, telepathic projection, and starseed intervention are attributed to Mari and not independently established.
+- Claims about Taygetan society are attributed to Mari Swaruu.
+- Claims about Taygetean ships, fleet operations, and pilot custody are attributed to Mari or cited command statements.
+- Claims about arrival schedules, outages, and motives are attributed to Mari Swaruu.
+- Claims about extraterrestrial populations and Earth’s isolation are attributed to Mari Swaruu.
+- Claims about particle accelerators as portals and entities crossing from the lower astral are attributed to Mari and not independently substantiated.
+- Claims about ships and events are attributed to the named speaker.
+- Claims about time, gravity, and navigation are attributed to Mari Swaruu.
 - Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
@@ -3684,19 +4271,53 @@ Source: [NAVE EXTRATERRESTRE ESTRELLADA EN EL MAR RAZAS EXTRATERRESTRES GRISES Y
 - English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
 - English source src-9dba344806dc is a close translation of this article. It groups some Spanish paragraphs differently and explicitly labels the opening speaker as Swaruu (9); no substantive differences found.
 - Federation-infiltration\_theory
+- Fleet schedules are dated forecasts; the fireball identification is attributed to CIC rather than independent confirmation.
 - ISS-and-station-fabrication-allegation
 - Maitre\_relationship\_with\_Reptilians
 - Navigation and propulsion descriptions are attributed to Mari Swaruu, not independently verified.
 - No English counterpart found in the cached sources.
 - Nuclear policy account leaves Hiroshima/Nagasaki exception unresolved; reported intervention evidence is qualified.
 - One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
+- Operational details are attributed to Mari Swaruu and are time-specific.
 - Senetre-diagnosed-weapon-route-suspected
+- Ship incidents and technology are attributed to Anéeka.
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
+- Source shifts among speakers, dates, and a partly English-origin conversation; preserve attribution by passage.
+- Space-traffic and engineering claims are attributed to Mari Swaruu.
+- Spiritual and metaphysical claims are attributed to Mari Swaruu.
+- Statements about current faction activity are attributed to Mari Swaruu and are time-specific.
+- Technical descriptions and faster-than-light mechanism are attributed to the speakers.
 - Technology and energy claims are attributed to Mari Swaruu and are not independently verified.
+- The account of Australian meetings and the alleged attendee is unverified within the transcript.
+- The account of the genetic weapon and its intended exposure route is attributed to Yazhi as investigators' belief, not established independently.
+- The alleged attack remains speculation in Mari's account.
 - The alleged strike and factional attribution are unverified within the source
+- The conversation presents unverified claims about extraterrestrial projects and spacecraft technology.
+- The crew's initial descriptions of anomalies and Yazhi's own tractor-beam explanation are distinct attributions.
 - The dialogue distinguishes an individual’s mental state from collective psychic influence; the author says effects are psychological, not physical.
+- The discussion contains unverified claims about ancient Egypt, underground bases, and pyramid technology.
+- The disposal account and technical rules are Mari's narrated account; preserve this attribution.
+- The incident and spacecraft systems are presented as unverified first-person testimony.
+- The interview offers an unverified account of an ancient spacecraft and possible extraterrestrial life.
+- The interview offers unverified claims about extraterrestrial spacecraft and locations.
 - The ship’s layout and current equipment are described at different dates and may have changed.
+- The source advances unverified claims about ancient civilizations, extraterrestrials, and human origins.
+- The source begins by framing its claims as entertainment and describes unverified extraterrestrial computing technology.
+- The source describes unverified extraterrestrial diplomatic and military activity.
+- The source describes unverified technology and is explicitly framed as entertainment.
+- The source explicitly says the speakers cannot determine the object's nature and includes speculation about staged alien scenarios.
+- The source gives an unverified first-person account of spacecraft performance and history.
+- The source is a first-person anecdote framed as entertainment and includes an unexplained paranormal report.
+- The source is a first-person description of unverified spacecraft design.
+- The source is an unverified account of extraterrestrial shipboard life and artifact collections.
+- The source makes extraordinary claims about sentient spacecraft and temporal travel; all are recorded as attributed lore.
+- The source makes unverified medical and extraterrestrial claims.
+- The source presents unverified extraterrestrial spacecraft technology claims.
+- The transcript contains extensive allegations about Cinna and DUFES; preserve attribution and do not treat accusations as established facts.
 - The transcript presents the reverse-universe account as Yazhi’s cosmological claim and acknowledges she lacks a complete technical explanation.
+- The video advances unverified claims about an assassination attempt, extraterrestrial actors, and alleged pathogen development.
+- This brief compilation presents speculative historical identifications without identifying an individual speaker; claims are attributed to the source compilation.
+- This is a first-person account of a spacecraft accident and unverified shield and sensor technology.
 - Travel-time figures are speaker-provided examples and depend on vessel and route
 - Weapon and defense capabilities are source-attributed technical claims
 - Yazhi-interview-report

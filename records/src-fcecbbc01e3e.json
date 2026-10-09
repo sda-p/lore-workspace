@@ -1,0 +1,68 @@
+{
+  "source_id": "src-fcecbbc01e3e",
+  "snapshot_sha256": "8cc26c0d7c1f81d8f8db85033530d2a4a50b6e08f71b8f7654f4db0dbbdde2de",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fcecbbc01e3e-c01",
+      "assertion": "Za’el says conscious starseeds influence shared reality more strongly; sustained defeatism can lower their frequency and reinforce harsher experiences.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fcecbbc01e3e-c02",
+      "assertion": "Za’el says self-directed words shape the unconscious and perception; losing belief in one’s capacities is the true point of defeat.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0009",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fcecbbc01e3e-c03",
+      "assertion": "Za’el says when another person’s feelings oppose yours, continued pursuit becomes invasive; accepting present circumstances can bring inner growth or unexpected change.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about manifestation and frequency are attributed to Za’el and not independently established."
+  ],
+  "coverage_gaps": [
+    "the distinction between temporary withdrawal and surrender",
+    "the role of hope and emotional recovery"
+  ]
+}

@@ -31,6 +31,7 @@ Related topics: [Energy generation technology](energy-generation.md).
 ## Claims filed under other topics
 
 - [src-db2abd569bd8-c01](earth-cabal.md#src-db2abd569bd8-c01) — Earth Cabal and power structures
+- [src-fdd736de175d-c02](taygetan-wireless-power-grid.md#src-fdd736de175d-c02) — Taygetan wireless power grid
 
 ## Review flags
 

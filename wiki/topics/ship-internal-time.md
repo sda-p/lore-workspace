@@ -218,6 +218,66 @@ Source: [NAVES EXTRATERRESTRES PUEDEN ENVIAR MENSAJES DE LUZ EN FORMA DE DESTELL
 
 Related topics: [Suzy-class starships](suzy-class-starships.md).
 
+### src-d81d9e71f2ef-c01
+
+Mari says Taygetans do not use standard clocks or weekdays at home; Toleka uses Earth-server time for coordination, while crew follows personal rhythms.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Un día en la vida de Mari](https://swaruu.org/transcripts/un-dia-en-la-vida-de-mari) (2023-11-03; es); passages p0004, p0005. [Structured record](../../records/src-d81d9e71f2ef.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-706e33985c24-c01
+
+Anéeka says starfarers near Earth follow Earth's dominant time, while Taygetan clocks desynchronize and telepathy helps people coordinate. She says stellar positions provide another approximate reference.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Tiempo - Mezcla de Temas - Comunicación Extraterrestre (Taygeta - Pléyades)](https://swaruu.org/transcripts/tiempo-mezcla-de-temas-comunicacion-extraterrestre-taygeta-pleyades) (2024-02-21; es); passages p0004, p0005, p0007, p0009. [Structured record](../../records/src-706e33985c24.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-706e33985c24-c02
+
+Athena reports that one Temmer day now corresponds to nearly five Earth days, compared with 4.5:1 in 2019. She presents these ratios as localized and changing.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Tiempo - Mezcla de Temas - Comunicación Extraterrestre (Taygeta - Pléyades)](https://swaruu.org/transcripts/tiempo-mezcla-de-temas-comunicacion-extraterrestre-taygeta-pleyades) (2024-02-21; es); passages p0046, p0049. [Structured record](../../records/src-706e33985c24.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-706e33985c24-c03
+
+Yazhi says each planet's collective consciousness shapes its temporal flow and frequency, which can guide stellar navigation. She says changing consciousness changes experienced time.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Tiempo - Mezcla de Temas - Comunicación Extraterrestre (Taygeta - Pléyades)](https://swaruu.org/transcripts/tiempo-mezcla-de-temas-comunicacion-extraterrestre-taygeta-pleyades) (2024-02-21; es); passages p0067, p0068, p0069, p0070, p0075. [Structured record](../../records/src-706e33985c24.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f720e13266de-c02
+
+Mari reports a 25-minute Temmer visit took over two hours aboard Sadicleya. She attributes this to temporal drift.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 49, Nuevo Puerto Espacial, Más Sobre Australia, Mi Salud y Cumpleaños](https://swaruu.org/transcripts/noticias-espaciales-49-nuevo-puerto-espacial-mas-sobre-australia-mi-salud-y-cumpleanos) (2024-10-27; es); passages p0005. [Structured record](../../records/src-f720e13266de.json).
+
+Related topics: [Remote-presence technology](remote-presence-technology.md).
+
+### src-a4780c0314e5-c03
+
+Mari says Temmer time runs slower than Earth time at 4.6 to 1, delaying former Queen Alenym’s expected exit from a wet medical pod until around mid-2025 Earth time. Her estimate was made in October 2024.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 46, Mi salud, Carta Abierta a los Taygeteanos, Cómo Escribo. Situación actual](https://swaruu.org/transcripts/noticias-espaciales-46-mi-salud-carta-abierta-a-los-taygeteanos-como-escribo-situacion-actual) (2024-10-15; es); passages p0018. [Structured record](../../records/src-a4780c0314e5.json).
+
+Related topics: [Medical regeneration pods](medical-pods.md).
+
 ## Claims filed under other topics
 
 - [src-07494ef21f67-c02](cyndriel.md#src-07494ef21f67-c02) — Cyndriel
@@ -231,10 +291,14 @@ Related topics: [Suzy-class starships](suzy-class-starships.md).
 - [src-2b1192891e85-c03](natural-portals.md#src-2b1192891e85-c03) — Natural and artificial portals
 - [src-0f5047c8c5f2-c01](frequency-map-navigation.md#src-0f5047c8c5f2-c01) — Frequency-map navigation
 - [src-0f5047c8c5f2-c04](natural-portals.md#src-0f5047c8c5f2-c04) — Natural and artificial portals
+- [src-d81d9e71f2ef-c03](toleka-class.md#src-d81d9e71f2ef-c03) — Toleka-class starships
+- [src-e50e737a17f6-c01](frequency-map-navigation.md#src-e50e737a17f6-c01) — Frequency-map navigation
 
 ## Review flags
 
 - Figures and ship status are Mari’s account as of August 2024
+- The account of Australian meetings and the alleged attendee is unverified within the transcript.
+- Time-navigation and physics claims are attributed to Mari.
 - Travel-time figures are speaker-provided examples and depend on vessel and route
 - cyndriel-environment-claim
 - extraordinary-ability-claims

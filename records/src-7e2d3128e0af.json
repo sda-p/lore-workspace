@@ -5,7 +5,7 @@
   "claims": [
     {
       "id": "src-7e2d3128e0af-c01",
-      "assertion": "Athena says Suzy MK-3 is compact; MK-4 adds space and improved controls but keeps older engines.",
+      "assertion": "Athena describes compact MK-3 and roomier MK-4 with improved controls but older engines.",
       "speaker": "Swaruu X (Athena)",
       "paragraph_ids": [
         "p0006",
@@ -22,7 +22,7 @@
     },
     {
       "id": "src-7e2d3128e0af-c02",
-      "assertion": "MK-5 tested near-double-power engines; MK-6 is the fastest, most powerful Suzy model.",
+      "assertion": "MK-5 tested near-double power; MK-6 is fastest and most powerful.",
       "speaker": "Swaruu X (Athena)",
       "paragraph_ids": [
         "p0009",
@@ -41,7 +41,7 @@
     },
     {
       "id": "src-7e2d3128e0af-c03",
-      "assertion": "Athena says plasma flight may exceed half light-speed; jump mode shifts frequency, appearing instantaneous.",
+      "assertion": "Athena says plasma flight may exceed half light-speed; jump mode shifts frequency, seeming instantaneous.",
       "speaker": "Swaruu X (Athena)",
       "paragraph_ids": [
         "p0041",
@@ -76,7 +76,7 @@
     },
     {
       "id": "src-7e2d3128e0af-c05",
-      "assertion": "Athena says AI obeys pilots but protects Taygeta; a rogue MK-1 was destroyed.",
+      "assertion": "Suzy craft are programmed not to attack Taygeta; a rogue MK-1 pilot attacked it and was destroyed; AI follows pilot orders.",
       "speaker": "Swaruu X (Athena)",
       "paragraph_ids": [
         "p0031",
@@ -93,7 +93,7 @@
     },
     {
       "id": "src-7e2d3128e0af-c06",
-      "assertion": "Athena says Hourglass jumps alter travelers’ timelines; collective influence can affect nontravelers.",
+      "assertion": "Athena says Hourglass jumps alter travelers’ timelines; collective influence reaches nontravelers.",
       "speaker": "Swaruu X (Athena)",
       "paragraph_ids": [
         "p0056",

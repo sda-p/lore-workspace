@@ -136,6 +136,36 @@ Source: [Cómo llegó aquí Mari Swaruu. Mi llegada.](https://swaruu.org/transcr
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-ae18b4263cf9-c02
+
+Swaruu says Suzy variants share interchangeable parts, while the Block 3 version improves rear sensors and maneuvering over Block 1.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 5C - Swaruu (9) y Yazhi y su Nave Suzy - Anécdotas](https://swaruu.org/transcripts/vida-interestelar-5c-swaruu-9-y-yazhi-y-su-nave-suzy-anecdotas) (2024-04-07; es); passages p0067, p0071, p0076, p0077, p0070. [Structured record](../../records/src-ae18b4263cf9.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-ae18b4263cf9-c04
+
+Yazhi said she planned to release Suzy to a 13-year-old alternate Swaruu, though she was uncertain; a 2024 update says the ship is gone.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Vida Interestelar 5C - Swaruu (9) y Yazhi y su Nave Suzy - Anécdotas](https://swaruu.org/transcripts/vida-interestelar-5c-swaruu-9-y-yazhi-y-su-nave-suzy-anecdotas) (2024-04-07; es); passages p0103, p0105, p0127, p0129, p0134, p0135. [Structured record](../../records/src-ae18b4263cf9.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-b77f8213e67a-c02
+
+Mari says two new Super Suzy Mark 6 fighters arrived from Temmer to replace older craft; fleet vessels are being standardized for shared parts and maintenance.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 15, Actualización de la Federación, 28 de febrero de 2024](https://swaruu.org/transcripts/noticias-espaciales-15-actualizacion-de-la-federacion-28-de-febrero-de-2024) (2024-03-01; es); passages p0010, p0011. [Structured record](../../records/src-b77f8213e67a.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-e29461ec4748-c03](stellar-navigation.md#src-e29461ec4748-c03) — Stellar navigation
@@ -147,6 +177,8 @@ Related topics: [Starship systems](starship-systems.md).
 
 ## Review flags
 
+- Claims about ships and events are attributed to the named speaker.
+- Operational details are attributed to Mari Swaruu and are time-specific.
 - classified-details
 - personal-narrative-of-temporal-travel
 - time-travel-claims

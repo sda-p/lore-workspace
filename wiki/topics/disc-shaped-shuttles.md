@@ -116,16 +116,39 @@ Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
 
 Source: [Vida Interestelar 2 - Platillos Voladores - Información Extraterrestre](https://swaruu.org/transcripts/vida-interestelar-2-platillos-voladores-informacion-extraterrestre) (2023-04-14; es); passages p0050, p0058, p0060. [Structured record](../../records/src-7183e0787e25.json).
 
+### src-6b93fc9acdf1-c01
+
+Mari says disc craft use electromagnetic engines that can create an external plasma sheath; the disc shape helps distribute the field. She says powerful engines allow other hull shapes.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Sobre Platillos Voladores](https://swaruu.org/transcripts/sobre-platillos-voladores) (2024-03-29; es); passages p0010, p0011, p0012, p0013, p0024. [Structured record](../../records/src-6b93fc9acdf1.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-2f61745f8036-c01
+
+Yazhi says disc craft's magnetic engines create toroidal fields for frequency-shifted interstellar travel. Counterrotating turbines better power larger ships.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 13 (Parte 1) – Varias Preguntas Relacionadas con Naves Espaciales](https://swaruu.org/transcripts/vida-interestelar-13-parte-1-varias-preguntas-relacionadas-con-naves-espaciales) (2026-05-11; es); passages p0004, p0005, p0006. [Structured record](../../records/src-2f61745f8036.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
 ## Claims filed under other topics
 
 - [src-96581cc2ca29-c03](starship-systems.md#src-96581cc2ca29-c03) — Starship systems
 - [src-555d02ebcd4e-c05](solatians.md#src-555d02ebcd4e-c05) — Solatians
 - [src-fad1597372f1-c02](starship-systems.md#src-fad1597372f1-c02) — Starship systems
 - [src-7183e0787e25-c04](starship-systems.md#src-7183e0787e25-c04) — Starship systems
+- [src-6b93fc9acdf1-c03](starship-systems.md#src-6b93fc9acdf1-c03) — Starship systems
+- [src-321671be4604-c04](solatians.md#src-321671be4604-c04) — Solatians
 
 ## Review flags
 
 - Accounts come from different speakers and conversations; claims remain attributed to each speaker.
 - Billy\_Meier\_photo\_authenticity\_uncertain
+- Claims about Solatians, telepathic projection, and starseed intervention are attributed to Mari and not independently established.
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - approximate-age-estimate

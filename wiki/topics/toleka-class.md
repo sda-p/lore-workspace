@@ -278,6 +278,66 @@ Source: [Porqué Minecraft, Área de albercas y Jardín Central](https://swaruu.
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-d81d9e71f2ef-c03
+
+Mari describes Toleka as a small city orbiting Earth every three hours; the ship simulates night with blinds, dimmed lights and soft sounds. She says rapid day-night cycles conflict with crew biology.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Un día en la vida de Mari](https://swaruu.org/transcripts/un-dia-en-la-vida-de-mari) (2023-11-03; es); passages p0032, p0033. [Structured record](../../records/src-d81d9e71f2ef.json).
+
+Related topics: [Ship internal time](ship-internal-time.md).
+
+### src-036cd2f853c6-c01
+
+Mari Swa describes Sadicleya as a purpose-built Toleka-class Mark 2 yacht, 30% larger than Mark 1, with two indoor park decks containing a lake, beach, and model Taygetan and human towns under simulated climates. She describes these as leisure environments and a human-settlement training space.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Sadicleya Adentro](https://swaruu.org/transcripts/sadicleya-adentro) (2024-09-13; es); passages p0009, p0010, p0012, p0014, p0016, p0020, p0015. [Structured record](../../records/src-036cd2f853c6.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-036cd2f853c6-c02
+
+Mari Swa says Mark 2 adds improved pneumatic doors and shipwide wireless electricity and moves the main water tanks below after earlier leaks in Ritol and Toleka. She presents these as upgrades over Mark 1.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Sadicleya Adentro](https://swaruu.org/transcripts/sadicleya-adentro) (2024-09-13; es); passages p0021, p0022. [Structured record](../../records/src-036cd2f853c6.json).
+
+Related topics: [Taygetan wireless power grid](taygetan-wireless-power-grid.md).
+
+### src-16146808b4e9-c01
+
+Mari Swa says Toleka can jump 440 light-years in roughly seven hours at full power, but its current return to Temmer is slowed by aging engines. She says hyperspace transit is instantaneous; crew experience delay from the engines' frequency change.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Taygeta Noticias Espaciales, 35, 12 de Agosto 2024, Adiós Nave Toleka](https://swaruu.org/transcripts/taygeta-noticias-espaciales-35-12-de-agosto-2024-adios-nave-toleka) (2024-08-13; es); passages p0005, p0006, p0007. [Structured record](../../records/src-16146808b4e9.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-16146808b4e9-c02
+
+Mari Swa says Toleka was Taygeta's flagship for most of 90 years and involved in Taygetan Earth events through the 20th and 21st centuries; its fate could be repair, storage, memorialization, or scrapping. She says her instruction was to prioritize restoring the ship.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Taygeta Noticias Espaciales, 35, 12 de Agosto 2024, Adiós Nave Toleka](https://swaruu.org/transcripts/taygeta-noticias-espaciales-35-12-de-agosto-2024-adios-nave-toleka) (2024-08-13; es); passages p0013, p0016, p0017, p0018. [Structured record](../../records/src-16146808b4e9.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-fbcfb08500c9-c02
+
+Mari says about 500 Taygetan cadets and veterans planned to reinforce Earth orbit, but their Toleka-class ship failed tests and delayed arrival.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 43. Mucha Actividad Grises de Orion, Yazhi, Naves, Críticos ET, mi YouTube](https://swaruu.org/transcripts/noticias-espaciales-43-mucha-actividad-grises-de-orion-yazhi-naves-criticos-et-mi-youtube) (2024-09-22; es); passages p0011, p0012. [Structured record](../../records/src-fbcfb08500c9.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-e29461ec4748-c03](stellar-navigation.md#src-e29461ec4748-c03) — Stellar navigation
@@ -293,16 +353,27 @@ Related topics: [Starship systems](starship-systems.md).
 - [src-74cf1c7706e3-c04](ship-internal-time.md#src-74cf1c7706e3-c04) — Ship internal time
 - [src-2e44af6cf865-c03](taygetan-ecosystems.md#src-2e44af6cf865-c03) — Taygetan ecosystems
 - [src-5cc044e9f243-c02](taygetan-first-contact-project.md#src-5cc044e9f243-c02) — Taygetan First Contact Project
+- [src-6b645b07c265-c01](starship-systems.md#src-6b645b07c265-c01) — Starship systems
+- [src-4e95fb5ac87a-c03](taygetans.md#src-4e95fb5ac87a-c03) — Taygetans
+- [src-c5264b384243-c03](taygetans.md#src-c5264b384243-c03) — Taygetans
+- [src-c5120a65216b-c02](taygetans.md#src-c5120a65216b-c02) — Taygetans
+- [src-bc176370b242-c02](starship-systems.md#src-bc176370b242-c02) — Starship systems
 
 ## Review flags
 
 - AI-sentience-claims
 - Alenym-retirement-not-decided
+- Claims about Gray activity, patrols, and Taygetean ships are attributed to Athena and not independently established.
+- Claims about Taygetean ships, fleet operations, and pilot custody are attributed to Mari or cited command statements.
 - Federation-sanctions\_reported
 - Figures and ship status are Mari’s account as of August 2024
 - Past-life memories are claims reported by Mari, not independently verified.
 - The alleged strike and factional attribution are unverified within the source
+- The political account is Mari's narrative and includes claims about infiltration, propaganda, and Federation control; preserve attribution.
 - The ship’s layout and current equipment are described at different dates and may have changed.
+- The source gives an unverified first-person account of spacecraft performance and history.
+- The source is a first-person description of unverified spacecraft design.
+- This is a first-person account of a spacecraft accident and unverified shield and sensor technology.
 - Travel-time figures are speaker-provided examples and depend on vessel and route
 - cataclysm-history-attributed
 - conspiratorial-claims

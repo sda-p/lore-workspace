@@ -7,9 +7,17 @@
       "id": "src-8b42b2cf75ae-c01",
       "assertion": "Mari Swa attributes her worsening health partly to a possible astral attack and says King Ruhr invited her to an Urmah healing procedure.",
       "speaker": "Mari Swa",
-      "paragraph_ids": ["p0004", "p0005", "p0006", "p0007"],
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
       "primary_topic": "urmah",
-      "topics": ["urmah", "astral-entities"],
+      "topics": [
+        "urmah",
+        "astral-entities"
+      ],
       "modality": "reported",
       "confidence": "high",
       "qualifiers": "She frames the cause as a possibility; this installment does not report a medical diagnosis."
@@ -18,9 +26,19 @@
       "id": "src-8b42b2cf75ae-c02",
       "assertion": "Mari recounts that Urmah gathered around her, chanted and drummed, then produced a soothing collective purr that prompted intense crying.",
       "speaker": "Mari Swa",
-      "paragraph_ids": ["p0029", "p0031", "p0034", "p0036"],
+      "paragraph_ids": [
+        "p0029",
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0034",
+        "p0036"
+      ],
       "primary_topic": "urmah",
-      "topics": ["urmah", "consciousness-metaphysics"],
+      "topics": [
+        "urmah",
+        "consciousness-metaphysics"
+      ],
       "modality": "reported",
       "confidence": "high",
       "qualifiers": "This is her first-person account of the ceremony."

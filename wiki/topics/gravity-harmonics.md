@@ -296,6 +296,26 @@ Source: [CONTACTO EXTRATERRESTRE EL PODER DE LA CONSCIENCIA - Yazhi Swaruu](http
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-b1f904754f52-c01
+
+Swaruu (9) and Mari describe gravity as a consciousness-driven etheric flow that forms mass and matter, reversing the usual Earth-science causal account. Presented as their understanding.
+
+Attributed to **Swaruu (9); Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Gravedad - Preguntas - Conocimiento Extraterrestre - Yazhi y Athena Swaruu](https://swaruu.org/transcripts/gravedad-preguntas-conocimiento-extraterrestre-yazhi-y-athena-swaruu) (2024-03-27; es); passages p0002, p0003, p0004, p0005. [Structured record](../../records/src-b1f904754f52.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-b1f904754f52-c03
+
+Athena says gravitational frequencies are used mainly for telecommunications and propulsion, including common antigravity engines.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Gravedad - Preguntas - Conocimiento Extraterrestre - Yazhi y Athena Swaruu](https://swaruu.org/transcripts/gravedad-preguntas-conocimiento-extraterrestre-yazhi-y-athena-swaruu) (2024-03-27; es); passages p0066, p0067, p0068. [Structured record](../../records/src-b1f904754f52.json).
+
+Related topics: [Muonic gravitational communications](muonic-gravitational-communications.md).
+
 ## Claims filed under other topics
 
 - [src-30d632b02db6-c04](frequency-map-navigation.md#src-30d632b02db6-c04) — Frequency-map navigation
@@ -337,6 +357,8 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-8c823a56ddaf-c02](consciousness-metaphysics.md#src-8c823a56ddaf-c02) — Consciousness and metaphysics
 - [src-3535c43ff865-c03](consciousness-metaphysics.md#src-3535c43ff865-c03) — Consciousness and metaphysics
 - [src-b39d4a7a2cd4-c01](moon-biosphere-ship.md#src-b39d4a7a2cd4-c01) — The Moon as a biosphere ship
+- [src-e4d9d208cc31-c02](total-immersion-simulations.md#src-e4d9d208cc31-c02) — Total-immersion simulations
+- [src-0cb796fc06ef-c01](consciousness-metaphysics.md#src-0cb796fc06ef-c01) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -346,6 +368,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Ether, gravity, and matter model is presented as Anéeka’s account, not independently measured.
 - Mari Swaruu explicitly contrasts her gravity model with conventional terrestrial physics.
 - Mari revises the earlier “gravity as consciousness flow” phrasing during this monologue
+- The source advances metaphysical claims that reject conventional gravity while elsewhere granting limited validity to terrestrial gravity equations.
 - The transcript combines Swaruu 9, Yazhi, and Athena passages; claims retain speaker distinctions
 - The transcript contradicts established nuclear physics and history; claims are recorded as Yazhi’s assertions, not verified facts.
 - ancient-texts-as-racial-symbolism-attributed

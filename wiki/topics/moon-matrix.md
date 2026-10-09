@@ -2292,6 +2292,98 @@ Source: [¿Qué es un Ser Humano para ti?](https://swaruu.org/transcripts/que-es
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-1233f3d1dc31-c01
+
+Gosia defines Matrix as shared beliefs, perception agreements, and attachments that set group rules.
+
+Attributed to **Gosia (lesson narrator)**; asserted; extraction confidence: high.
+
+Source: [CLASE 003 - Que es la Matrix? Libera tu Mente - Tipos de Matrix](https://swaruu.org/transcripts/clase-003-que-es-la-matrix-libera-tu-mente-tipos-de-matrix) (2025-03-11; es); passages p0006. [Structured record](../../records/src-1233f3d1dc31.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1233f3d1dc31-c02
+
+She distinguishes physical-biological, social, and imposed false or limiting Matrix types.
+
+Attributed to **Gosia (lesson narrator)**; asserted; extraction confidence: high.
+
+Source: [CLASE 003 - Que es la Matrix? Libera tu Mente - Tipos de Matrix](https://swaruu.org/transcripts/clase-003-que-es-la-matrix-libera-tu-mente-tipos-de-matrix) (2025-03-11; es); passages p0007, p0010, p0016. [Structured record](../../records/src-1233f3d1dc31.json).
+
+### src-1233f3d1dc31-c04
+
+She says questioning assumptions and choosing beliefs resist imposed Matrix while personal perception remains necessary.
+
+Attributed to **Gosia (lesson narrator)**; asserted; extraction confidence: high.
+
+Source: [CLASE 003 - Que es la Matrix? Libera tu Mente - Tipos de Matrix](https://swaruu.org/transcripts/clase-003-que-es-la-matrix-libera-tu-mente-tipos-de-matrix) (2025-03-11; es); passages p0027, p0028, p0029. [Structured record](../../records/src-1233f3d1dc31.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ffe78a37d0f5-c01
+
+Gosia describes four awareness levels: mainstream conformity, doubt, alternative-authority following, and independent investigation.
+
+Attributed to **Gosia (lesson narrator)**; asserted; extraction confidence: high.
+
+Source: [CLASE 004 - Matrix en la Nueva Era - Niveles de Control](https://swaruu.org/transcripts/clase-004-matrix-en-la-nueva-era-niveles-de-control) (2025-03-27; es); passages p0008, p0009, p0010, p0011. [Structured record](../../records/src-ffe78a37d0f5.json).
+
+### src-ffe78a37d0f5-c04
+
+She says some New Age ideas overlap with Space Academy, but it rejects others.
+
+Attributed to **Gosia (lesson narrator)**; asserted; extraction confidence: high.
+
+Source: [CLASE 004 - Matrix en la Nueva Era - Niveles de Control](https://swaruu.org/transcripts/clase-004-matrix-en-la-nueva-era-niveles-de-control) (2025-03-27; es); passages p0029. [Structured record](../../records/src-ffe78a37d0f5.json).
+
+### src-ffe78a37d0f5-c05
+
+Gosia advises comparing sources and forming independent views because information control cannot be ruled out.
+
+Attributed to **Gosia (lesson narrator)**; asserted; extraction confidence: high.
+
+Source: [CLASE 004 - Matrix en la Nueva Era - Niveles de Control](https://swaruu.org/transcripts/clase-004-matrix-en-la-nueva-era-niveles-de-control) (2025-03-27; es); passages p0030, p0031. [Structured record](../../records/src-ffe78a37d0f5.json).
+
+### src-d87fe5c79f3f-c02
+
+Gosia claims governments, media, and other authorities shape collective beliefs to control populations and serve powerful interests. These are the lesson's claims, not independently substantiated evidence.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [CLASE 002 - Falsas Realidades a tu Alrededor: ¿Es la Realidad como te Cuentan?](https://swaruu.org/transcripts/clase-002-falsas-realidades-a-tu-alrededor-es-la-realidad-como-te-cuentan) (2025-02-24; es); passages p0012, p0015, p0016, p0026. [Structured record](../../records/src-d87fe5c79f3f.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-6e7da028d2f1-c01
+
+Yazhi says personal and collective perceptions create Matrix explanations for unfamiliar people or events, including memories and documents. She describes these as manifestations within differing levels of understanding.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Charla "Post-Espejos" - Conversación Metafísica con Yazhi Swaruu](https://swaruu.org/transcripts/charla-post-espejos-conversacion-metafisica-con-yazhi-swaruu) (2024-05-27; es); passages p0008, p0013, p0016, p0018. [Structured record](../../records/src-6e7da028d2f1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-65adcbdf271b-c04
+
+Athena says lunar phases are real sunlight reflections; the transparent lunar hologram overlays surface details on an almost featureless Moon.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Mini-Mini Temas - Rapidas Preguntas y Respuestas (Yazhi y Athena Swaruu)](https://swaruu.org/transcripts/mini-mini-temas-rapidas-preguntas-y-respuestas-yazhi-y-athena-swaruu) (2024-11-20; es); passages p0017, p0018. [Structured record](../../records/src-65adcbdf271b.json).
+
+Related topics: [Distant Solar System Objects](solar-system-objects.md).
+
+### src-41a031f2b0d7-c01
+
+Gosia interprets Matrix withdrawal as human autonomy: relying on oneself rather than external authorities for ultimate guidance, knowledge, and recognition. She warns that an external cleanup without autonomy could leave humans dependent again.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares y el Despertar – Error común al aceptar la Realidad Extraterrestre](https://swaruu.org/transcripts/semillas-estelares-y-el-despertar-error-comun-al-aceptar-la-realidad-extraterrestre) (2026-02-01; es); passages p0005, p0006, p0018. [Structured record](../../records/src-41a031f2b0d7.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c05](black-goo.md#src-d47faace954b-c05) — Black goo
@@ -2421,6 +2513,15 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-71cb5bec1f23-c02](matrix-energy-insertion.md#src-71cb5bec1f23-c02) — Matrix energy insertion
 - [src-71cb5bec1f23-c03](matrix-energy-insertion.md#src-71cb5bec1f23-c03) — Matrix energy insertion
 - [src-8b87ad437fe7-c02](consciousness-metaphysics.md#src-8b87ad437fe7-c02) — Consciousness and metaphysics
+- [src-65d76dd19e45-c02](earth-cabal.md#src-65d76dd19e45-c02) — Earth Cabal and power structures
+- [src-d7d4a197e542-c01](astral-entities.md#src-d7d4a197e542-c01) — Astral entities
+- [src-1233f3d1dc31-c03](earth-cabal.md#src-1233f3d1dc31-c03) — Earth Cabal and power structures
+- [src-1233f3d1dc31-c05](earth-cabal.md#src-1233f3d1dc31-c05) — Earth Cabal and power structures
+- [src-ffe78a37d0f5-c02](earth-cabal.md#src-ffe78a37d0f5-c02) — Earth Cabal and power structures
+- [src-ffe78a37d0f5-c03](earth-cabal.md#src-ffe78a37d0f5-c03) — Earth Cabal and power structures
+- [src-d87fe5c79f3f-c03](consciousness-metaphysics.md#src-d87fe5c79f3f-c03) — Consciousness and metaphysics
+- [src-bbcda30708c9-c03](galactic-federation.md#src-bbcda30708c9-c03) — Galactic Federation
+- [src-5fb1a6c15757-c02](spatium-lupi.md#src-5fb1a6c15757-c02) — Spatium Lupi
 
 ## Review flags
 
@@ -2428,6 +2529,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Anéeka distinguishes her perspective on awakening from Yazhi’s expanded account.
 - COVID-and-vaccine-claims-omitted
 - Claims about hidden Federation coordination and space programs are attributed to Anéeka and are not independently evidenced in the transcript.
+- Claims about intelligence agencies and controlled opposition are attributed to Gosia and quoted speakers, not independently established.
 - Claims about lunar construction, Van Allen radiation, and reproductive biology contradict established terrestrial science and are retained only as attributed lore.
 - Claims about vaccines, DNA, and astral entities are attributed to Yazhi.
 - Compared English candidate src-657d23bb2d0f; same article with paragraph splits and translation differences.
@@ -2446,9 +2548,14 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Mari Swaruu distinguishes physical pain, which she says ends, from psychological pain that may persist after death.
 - Metaphysical genetics and the 22-lineage account are attributed claims; the speaker calls the lab-origin explanation simplistic.
 - Pluto-Shiva-identification-attributed-to-Federation-records
+- Political claims about hidden control and historical manipulation are attributed to Mari Swaruu.
 - Swaruu X explicitly rejects the interpretation that the Moon was placed primarily to imprison regressive races.
+- The Federation's stated rationale is relayed by Mari from Gori'el's account of the conference; it is not endorsed as fact.
+- The account presents unverified extraterrestrial species and alternative-history claims.
 - The article repeatedly marks lunar reactor details as speculative or unknown and includes earlier conflicting accounts of computer manipulation.
+- The dialogue presents metaphysical claims about memory, consciousness, and reality without independent verification.
 - The document also contains a separate 2021 Aneeka conversation; claims here are attributed only to the named speakers.
+- The lesson advances broad conspiracy claims and a simplified account of an experiment; these are attributed to Gosia.
 - These are attributed dialogue claims; terminology for Hyades varies by convention
 - Transcript combines several speakers and dates; claims preserve speaker attribution
 - Yazhi acknowledges some individuals may work in humanity’s favor but portrays White Hat organizations as part of the same structure.
@@ -2573,6 +2680,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - sensitive\_claims
 - simulation-and-AI-claims
 - soul-model-metaphysical
+- source frames everyday relationships and setbacks as alleged supernatural monitoring; preserve explicit attribution
 - source makes unverified claims about extraterrestrial warfare and Federation involvement
 - speaker-attribution-inferred-from-transcript
 - speaker-label-ambiguity

@@ -8,7 +8,15 @@ These are source-specific assertions; disagreement is preserved rather than reso
 
 ## Collected claims
 
-Primary assertions are filed under the linked topics below.
+### src-a431c798e8b4-c03
+
+Yazhi describes Eden as an Atlantean human experiment in underground cities, around 15,000–12,500 years ago; she attributes ventilation to advanced construction and pressure-driven airflow. Dates are approximate.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Misterios de las Civilizaciones Antiguas - Conciencia y Orígenes Cósmicos P4b](https://swaruu.org/transcripts/misterios-de-las-civilizaciones-antiguas-conciencia-y-origenes-cosmicos-p4b) (2025-05-12; es); passages p0017, p0018, p0019, p0020, p0021. [Structured record](../../records/src-a431c798e8b4.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md), [Sphinx Underground Bases](sphinx-underground-bases.md).
 
 ## Claims filed under other topics
 

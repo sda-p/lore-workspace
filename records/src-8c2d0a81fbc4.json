@@ -1,0 +1,51 @@
+{
+  "source_id": "src-8c2d0a81fbc4",
+  "snapshot_sha256": "edeece379d3f28d90b679aa139a29402b471f8a94d383c26bc012f77c1425eb7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8c2d0a81fbc4-c01",
+      "assertion": "Athena says Yazhi replicated and hid about 600 webcams throughout the ship, including private rooms, after arguing that Taygetan drones surveilling starseeds was unethical; she framed this as a reciprocal lesson.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0041",
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Finding the hidden cameras took over a month."
+    },
+    {
+      "id": "src-8c2d0a81fbc4-c02",
+      "assertion": "Athena says Taygetans use drones to monitor people they worry about and claim not to watch through windows, or to do so only when needed for important research or safety.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0049",
+        "p0051"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her wording leaves the extent of window surveillance ambiguous."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source describes alleged surveillance by extraterrestrial crews and a retaliatory prank involving cameras in private spaces."
+  ],
+  "coverage_gaps": [
+    "Other passages discuss teleportation, a childhood injury, and unsafe horseplay in the hangar."
+  ]
+}

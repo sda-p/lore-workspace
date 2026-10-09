@@ -1,0 +1,36 @@
+{
+  "source_id": "src-482f728a3fc7",
+  "snapshot_sha256": "a049f2753c5578433679acfc9d59e7a4dc524064dc5b355cb44b7ada9d843cce",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-482f728a3fc7-c01",
+      "assertion": "Mari Swa says Antarians planned to join the Alcyone-Urmah treaty, expanding the group’s cooperation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0003"],
+      "primary_topic": "urmah",
+      "topics": ["urmah", "galactic-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The signing was scheduled for October 20, 2024, in her account."
+    },
+    {
+      "id": "src-482f728a3fc7-c02",
+      "assertion": "Mari reports 14 starships under construction in Toleka and says she assigned a new Hyades-class destroyer to Earth orbit.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0010", "p0011"],
+      "primary_topic": "starship-systems",
+      "topics": ["starship-systems", "taygetans"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She links the expansion to Taygetan security concerns."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source describes unverified extraterrestrial diplomatic and military activity."
+  ],
+  "coverage_gaps": [
+    "It also describes reported respiratory illness, shipyard expansion, and agriculture."
+  ]
+}

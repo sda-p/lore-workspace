@@ -58,6 +58,16 @@ Source: [Apegos e Infestaciones de Entidades Asrales, Parte 1](https://swaruu.or
 
 Related topics: [Egregors](egregors.md), [Astral entities](astral-entities.md).
 
+### src-4dcd4b4bbb3e-c02
+
+Mari Swa says low-astral entities attach to places and may react to visitors; she treats subtle emotional responses as possible signs of their influence. She says entities may not always perceive visitors either.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Lugares Parasitados](https://swaruu.org/transcripts/lugares-parasitados) (2024-08-20; es); passages p0010, p0013, p0014, p0018, p0019. [Structured record](../../records/src-4dcd4b4bbb3e.json).
+
+Related topics: [Egregors](egregors.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-e96e8067e205-c04](maternal-med-pods.md#src-e96e8067e205-c04) — Maternal medical pods
@@ -69,6 +79,12 @@ Related topics: [Egregors](egregors.md), [Astral entities](astral-entities.md).
 - [src-bfdd0f4cda51-c02](archons-and-demons.md#src-bfdd0f4cda51-c02) — Archons and demons
 - [src-65222f668774-c03](egregors.md#src-65222f668774-c03) — Egregors
 - [src-64deed76c0cf-c02](astral-entities.md#src-64deed76c0cf-c02) — Astral entities
+- [src-d49c526b01a4-c02](archons-and-demons.md#src-d49c526b01a4-c02) — Archons and demons
+- [src-a133017c5c8d-c03](ritual-symbolism-in-media.md#src-a133017c5c8d-c03) — Ritual symbolism in toys and media
+- [src-53b7b9229509-c02](tiamat.md#src-53b7b9229509-c02) — Tiamat
+- [src-4dcd4b4bbb3e-c01](consciousness-metaphysics.md#src-4dcd4b4bbb3e-c01) — Consciousness and metaphysics
+- [src-4dcd4b4bbb3e-c03](consciousness-metaphysics.md#src-4dcd4b4bbb3e-c03) — Consciousness and metaphysics
+- [src-7182b44d0b21-c01](astral-travel.md#src-7182b44d0b21-c01) — Astral Travel
 
 ## Review flags
 

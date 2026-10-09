@@ -136,6 +136,36 @@ Source: [Las extracciones y sus problemas. Parte 4, Kassia habla directamente a 
 
 Related topics: [Nexus souls](nexus-souls.md).
 
+### src-4b785d394c48-c01
+
+Mari says Earth’s “veil of forgetting” results from frequency incompatibility and claims controllers exploit it to manipulate people and historical memory.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Cómo es Recordar Vidas Pasadas](https://swaruu.org/transcripts/como-es-recordar-vidas-pasadas) (2024-08-04; es); passages p0007, p0008, p0009, p0011. [Structured record](../../records/src-4b785d394c48.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-087e0abdd6c2-c02
+
+Mari says digital information control is driving a civilizational reset, enabled by humanity’s supposed veil of forgetting and weakening historical memory. She dates a prior reset to 1750–1850.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Están Viviendo las últimas etapas de un Reinicio Cultural y Social Total](https://swaruu.org/transcripts/estan-viviendo-las-ultimas-etapas-de-un-reinicio-cultural-y-social-total) (2024-05-28; es); passages p0015, p0017, p0022. [Structured record](../../records/src-087e0abdd6c2.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-8736a59bfcab-c02
+
+Mari says the veil of forgetting supports embodied life; an astral focus makes death less frightening but does not let people escape their problems.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Pensamientos Sobre el Astral](https://swaruu.org/transcripts/pensamientos-sobre-el-astral) (2024-09-15; es); passages p0011, p0015, p0016, p0017, p0018. [Structured record](../../records/src-8736a59bfcab.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
 ## Claims filed under other topics
 
 - [src-aec6c1a86364-c01](consciousness-metaphysics.md#src-aec6c1a86364-c01) — Consciousness and metaphysics
@@ -150,6 +180,8 @@ Related topics: [Nexus souls](nexus-souls.md).
 - [src-97525be5bbfa-c01](starseeds.md#src-97525be5bbfa-c01) — Starseeds
 - [src-18f0726037ac-c02](reincarnation-cycles.md#src-18f0726037ac-c02) — Reincarnation and karmic cycles
 - [src-18f0726037ac-c03](reincarnation-cycles.md#src-18f0726037ac-c03) — Reincarnation and karmic cycles
+- [src-61705721c8a4-c02](walk-in-phenomenon.md#src-61705721c8a4-c02) — Walk-in phenomenon
+- [src-e637f0a885a8-c01](civilizational-resets.md#src-e637f0a885a8-c01) — Civilizational resets
 
 ## Review flags
 
@@ -160,6 +192,7 @@ Related topics: [Nexus souls](nexus-souls.md).
 - The source affirms extraterrestrial identities based on subjective feelings; preserve attribution as the author’s belief.
 - The source also makes an unsupported cancer and dissociative-identity claim in p0052; it is omitted from the lore claims.
 - The source combines separate April 2021 and 2023 excerpts; speakers are attributed by passage.
+- The source includes claims about soul replacement and criminal behavior; these are presented as the speaker's metaphysical account.
 - astral-perception-agenda-claim
 - claims about memory, brain structure, consciousness, and Van Allen belts are attributed lore, not independently verified facts
 - claims about time, memory, history, and social control are attributed to Yazhi, not independently verified

@@ -1,0 +1,88 @@
+{
+  "source_id": "src-1e3db31a154c",
+  "snapshot_sha256": "dafff630f631a9521131dcd51644d49714cfa180b2cf658b8d44817ea61bd303",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1e3db31a154c-c01",
+      "assertion": "Mari defines ascension as a state of consciousness rather than movement to a physical higher-density place.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "individual-ascension",
+      "topics": [
+        "individual-ascension",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1e3db31a154c-c02",
+      "assertion": "Mari says each person experiences a distinct Earth-reality, while shared perceptual agreements produce collective worlds.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1e3db31a154c-c03",
+      "assertion": "Mari urges people to embody the world they want through personal action, saying collective awakening can shift Earth's dominant vibration.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0028",
+        "p0030",
+        "p0034"
+      ],
+      "primary_topic": "individual-ascension",
+      "topics": [
+        "individual-ascension",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1e3db31a154c-c04",
+      "assertion": "Mari warns that promised imminent ascension can encourage passive waiting, though she says the concept has a real basis.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0015",
+        "p0018",
+        "p0024"
+      ],
+      "primary_topic": "individual-ascension",
+      "topics": [
+        "individual-ascension",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguishes her interpretation from claims of a physical Earth split."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "the examples of personal disorder and the law of attraction"
+  ]
+}

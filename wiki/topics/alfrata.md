@@ -156,6 +156,16 @@ Source: [Alpha Centauri, Mentiras Históricas? Perspectiva de Mari y de Urmah](h
 
 Related topics: [Alfrateans](alfrateans.md), [Galactic Federation](galactic-federation.md), [Lyrians](lyrians.md).
 
+### src-4653f0e2c815-c02
+
+Mari says most spacecraft entering Antarctica had Alfrata/Centauri transponders, with growing Orion Council traffic.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Actualización de la Federación Galáctica. 10 de Enero de 2024](https://swaruu.org/transcripts/actualizacion-de-la-federacion-galactica-10-de-enero-de-2024) (2024-01-12; es); passages p0007, p0008, p0009. [Structured record](../../records/src-4653f0e2c815.json).
+
+Related topics: [Orion Council](orion-council.md), [Antarctic Federation bases](antarctica-federation-bases.md).
+
 ## Claims filed under other topics
 
 - [src-19300029508e-c05](urmah.md#src-19300029508e-c05) — Urmah
@@ -171,6 +181,7 @@ Related topics: [Alfrateans](alfrateans.md), [Galactic Federation](galactic-fede
 
 ## Review flags
 
+- Antarctic activity and diplomatic claims are reported by Mari and not independently verified.
 - Athena-interview-original-English
 - Australian-traffic-purpose-unknown
 - Species summaries are broad and based on accounts attributed to orbital sources

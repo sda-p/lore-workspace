@@ -1,0 +1,36 @@
+{
+  "source_id": "src-73164e90f119",
+  "snapshot_sha256": "3c64230e5aa319d1e072c761548385574f39c886063701175e7e26a8e539948c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-73164e90f119-c01",
+      "assertion": "Mari Swa says the Federation's local headquarters would stop approving or cooperating with her Second Contact project, called it subversive, and threatened unspecified sanctions if it continued.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0007", "p0008", "p0009"],
+      "primary_topic": "project-second-contact",
+      "topics": ["project-second-contact", "galactic-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents the message as a response to her public outreach."
+    },
+    {
+      "id": "src-73164e90f119-c02",
+      "assertion": "Mari Swa says Federation protocols route Earth communications through AI-filtered servers; Taygetan muon internet traffic therefore passes those filters, and Federation support was withdrawn after Alenym refused specified contact conditions.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0012", "p0013", "p0014", "p0015", "p0016"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "muonic-gravitational-communications"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the Federation retained the ability to cut the connection."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The account attributes information control and censorship to an alleged extraterrestrial authority."
+  ],
+  "coverage_gaps": [
+    "The video also reports the return of Toleka to Temmer, Alenym's recovery, and Antarian and Urmah support for Taygeta."
+  ]
+}

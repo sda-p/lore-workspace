@@ -26,6 +26,16 @@ Attributed to **Yazhi**; reported; extraction confidence: medium.
 
 Source: [Ascensión Planetaria - Charla con Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/ascension-planetaria-charla-con-yazhi-swaruu-sophia) (2022-08-04; es); passages p0037, p0039. [Structured record](../../records/src-b00727c7921a.json).
 
+### src-87c7b2fdd725-c03
+
+Gosia allows that expanded collective souls may experience multiple moments simultaneously while component identities retain subjective sequences.
+
+Attributed to **Gosia**; speculative; extraction confidence: high.
+
+Source: [Tiempo es Lineal? Mis Contemplaciones Personales y Conclusiones (Gosia)](https://swaruu.org/transcripts/tiempo-es-lineal-mis-contemplaciones-personales-y-conclusiones-gosia) (2024-12-31; es); passages p0020, p0021. [Structured record](../../records/src-87c7b2fdd725.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
 ## Claims filed under other topics
 
 - [src-2c208260f578-c01](consciousness-metaphysics.md#src-2c208260f578-c01) — Consciousness and metaphysics

@@ -48,6 +48,26 @@ Source: [Vacunas y Nanotecnología - Respuestas de Aneeka a las preguntas de dr 
 
 Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
 
+### src-21a91506e065-c02
+
+Yazhi says investigators believe a genetic weapon awaited Alenym on a contaminated Mogh-yay. Nai'shara was affected muscularly but later declared healthy.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Yazhi Swaruu en Directo en Ingles - Traducido al Español](https://swaruu.org/transcripts/yazhi-swaruu-en-directo-en-ingles-traducido-al-espanol) (2024-06-13; es); passages p0061, p0062, p0063, p0065. [Structured record](../../records/src-21a91506e065.json).
+
+Related topics: [Moghyay](moghyay.md).
+
+### src-e58c27053b29-c02
+
+Mari reports Alenym became ill after eating fruit contaminated by Moghyay bird waste. She speculates a covert genetic weapon, but says this remained unconfirmed.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Noticias espaciales, número 26, 6 de Junio del 2024, Alenym, Marco Político, Mari Swa Reina Activa](https://swaruu.org/transcripts/noticias-espaciales-numero-26-6-de-junio-del-2024-alenym-marco-politico-mari-swa-reina-activa) (2024-06-07; es); passages p0003, p0009, p0010. [Structured record](../../records/src-e58c27053b29.json).
+
+Related topics: [Moghyay](moghyay.md).
+
 ## Claims filed under other topics
 
 - [src-b4123d146ba9-c01](dna-metaphysics.md#src-b4123d146ba9-c01) — DNA and metaphysical patterns
@@ -59,6 +79,8 @@ Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-
 
 - Opening Atlantis chronology is Robert’s condensed paraphrase of Swaruu, not a direct quotation. No equivalent English follow-up identified; related longer Enki/Enlil articles are distinct.
 - Senetre-diagnosed-weapon-route-suspected
+- The account of the genetic weapon and its intended exposure route is attributed to Yazhi as investigators' belief, not established independently.
+- The alleged attack remains speculation in Mari's account.
 - claims-attributed-to-source-narrators
 - clone-technology-attributed
 - medical-claims:unverified

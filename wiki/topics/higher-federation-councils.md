@@ -126,6 +126,16 @@ Source: [La Federación Galactica Profunda llegará pronto cerca de la Tierra pa
 
 Related topics: [Galactic Federation](galactic-federation.md), [Viera](viera.md).
 
+### src-d2a6e9392c87-c01
+
+Mari Swa portrays the Galactic Federation as a tiered council system where species can reach only local representatives; she says Earth-level officials claim higher authorities near Saturn issue orders but cannot be contacted. These are her allegations about the Federation's structure and Earth situation.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Federación Galáctica, Situación Actual, Exopolítica Taygeteana e Incidente Diplomático](https://swaruu.org/transcripts/federacion-galactica-situacion-actual-exopolitica-taygeteana-e-incidente-diplomatico) (2024-08-16; es); passages p0021, p0023. [Structured record](../../records/src-d2a6e9392c87.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-22febda7e5c0-c05](galactic-federation.md#src-22febda7e5c0-c05) — Galactic Federation
@@ -138,6 +148,7 @@ Related topics: [Galactic Federation](galactic-federation.md), [Viera](viera.md)
 - Claims about Federation bureaucracy and a galactic AI network are attributed to Alenym; the transcript provides no independent evidence.
 - Claims about hidden Federation coordination and space programs are attributed to Anéeka and are not independently evidenced in the transcript.
 - The source explicitly separates the spiritual higher Federation from the physical Galactic Federation.
+- The source opens by framing its content as entertainment and presents disputed geopolitical allegations as first-person testimony.
 - Yazhi’s account of higher-council governance and intervention is internally framed as perspective-dependent
 - Yazhi’s statements on nuclear weapons and Hiroshima are unverified claims; she explicitly said there was no way to confirm them.
 - exopolitical and refugee claims are attributed to Alenym and not independently verified

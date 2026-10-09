@@ -1,0 +1,36 @@
+{
+  "source_id": "src-0b2675478503",
+  "snapshot_sha256": "9f2dceb8cd6b72283dde9b4cbe2af93bd02365fdc3f2ac0ea886e633b41b2493",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0b2675478503-c01",
+      "assertion": "Athena says the Federation does not practically intervene for humanity and alleges it repeatedly violates its own noninterference rules.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": ["p0012", "p0016", "p0021"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "prime-directive"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as her assessment of Federation conduct."
+    },
+    {
+      "id": "src-0b2675478503-c02",
+      "assertion": "Athena describes past and future timelines as possibilities converging on an observer’s present, with thoughts and frequency influencing which future is experienced.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": ["p0071", "p0072", "p0073", "p0075"],
+      "primary_topic": "timeline-branching",
+      "topics": ["timeline-branching", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says future predictions are not definitive."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source includes unverified conspiratorial and medical claims alongside metaphysical discussion."
+  ],
+  "coverage_gaps": [
+    "Other sections discuss invasion narratives, alleged vaccine harms, and time-navigation technology."
+  ]
+}

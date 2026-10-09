@@ -1830,6 +1830,134 @@ Source: [Sociedad Holística, también llamada Sociedad Holográfica, y Realeza 
 
 Related topics: [Economics and resources](economics.md).
 
+### src-b5287bde7dbd-c01
+
+Mari says shared cultural perceptions and values form a self-contained reality that shapes group behavior.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El Inconsciente Colectivo - (Re-Subido)](https://swaruu.org/transcripts/el-inconsciente-colectivo-re-subido) (2023-10-21; es); passages p0010, p0012, p0014. [Structured record](../../records/src-b5287bde7dbd.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2827f10aa2f1-c02
+
+Gosia says Taygetans treat technical and spiritual learning as connected parts of holistic growth.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: ["Temas Tecnológicos no son Prácticos\!" - Porque No Estoy de Acuerdo y porque Son Importantes](https://swaruu.org/transcripts/temas-tecnologicos-no-son-practicos-porque-no-estoy-de-acuerdo-y-porque-son-importantes) (2024-02-15; es); passages p0009, p0012, p0013. [Structured record](../../records/src-2827f10aa2f1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ec5ca3fe11f7-c02
+
+Mari describes Taygeta as a moneyless society with abundant resources and nested councils open to voluntary citizen participation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad en Taygeta. Estructura](https://swaruu.org/transcripts/sociedad-en-taygeta-estructura) (2023-10-02; es); passages p0013, p0018, p0026. [Structured record](../../records/src-ec5ca3fe11f7.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-ec5ca3fe11f7-c03
+
+Mari says citizens volunteer for difficult communal work, while automation handles routine unpleasant tasks.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad en Taygeta. Estructura](https://swaruu.org/transcripts/sociedad-en-taygeta-estructura) (2023-10-02; es); passages p0021, p0023. [Structured record](../../records/src-ec5ca3fe11f7.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-dd10c9648702-c02
+
+Urmah ethics link selfhood with all beings: they value a strong, healthy ego, respect and helping others while preserving their own resources. Mari says this is an established cultural principle.
+
+Attributed to **Mari Swaruu, relaying Ari’s explanation**; reported; extraction confidence: high.
+
+Source: [El Gato Cósmico y el Sistema de Creencias Espirituales Urmah](https://swaruu.org/transcripts/el-gato-cosmico-y-el-sistema-de-creencias-espirituales-urmah) (2024-01-14; es); passages p0012, p0013, p0014, p0015, p0016, p0017, p0019. [Structured record](../../records/src-dd10c9648702.json).
+
+Related topics: [Urmah](urmah.md).
+
+### src-3a088ee3f235-c01
+
+Mari describes holistic societies as self-governed rather than state-run, with widespread ethical maturity, broad access to leadership, and an abundance mindset that reduces scarcity. She contrasts this model with socialism, which she describes as centrally governed.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cómo Controlar la Sociedad en la Tierra y más sobre la Sociedad Holística](https://swaruu.org/transcripts/como-controlar-la-sociedad-en-la-tierra-y-mas-sobre-la-sociedad-holistica) (2023-11-05; es); passages p0005, p0008, p0009, p0010, p0011, p0012. [Structured record](../../records/src-3a088ee3f235.json).
+
+### src-6686d72d7b77-c04
+
+Mari advises reducing toxic relationships and surrounding oneself with supportive people who encourage personal growth.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [La Ley de la Atracción, Conviértete en la mejor versión de ti mismo](https://swaruu.org/transcripts/la-ley-de-la-atraccion-conviertete-en-la-mejor-version-de-ti-mismo) (2023-12-29; es); passages p0028, p0029, p0033, p0034. [Structured record](../../records/src-6686d72d7b77.json).
+
+Related topics: [Individual ascension](individual-ascension.md).
+
+### src-10384d9b6430-c03
+
+Mari says mutual aid is central to holistic societies, but members also learn self-reliance through practical experience.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [¿Por qué la Federación Galáctica es tan permisiva con lo que causa los problemas de la humanidad?](https://swaruu.org/transcripts/por-que-la-federacion-galactica-es-tan-permisiva-con-lo-que-causa-los-problemas-de-la-humanidad) (2023-09-24; es); passages p0029, p0030, p0031. [Structured record](../../records/src-10384d9b6430.json).
+
+Related topics: [Individual ascension](individual-ascension.md).
+
+### src-bb1546ca3954-c01
+
+Gosia encourages people who feel alienated from society to question its imposed expectations and consider themselves potential creators of change.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [CLASE 001 - Algo No Esta Bien en la Realidad Alrededor](https://swaruu.org/transcripts/clase-001-algo-no-esta-bien-en-la-realidad-alrededor) (2025-01-28; es); passages p0005, p0008, p0009, p0010. [Structured record](../../records/src-bb1546ca3954.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9ddbc83ba873-c03
+
+Yazhi envisions Earth eventually becoming an interstellar civilization with a holistic society, while saying humans determine that outcome. She calls this her interpretation, not necessarily humanity’s expressed preference.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [NO HAY AGENDA POSITIVA - LA GENTE COLAPSARÁ MUCHO ANTES - Yazhi Swaruu](https://swaruu.org/transcripts/no-hay-agenda-positiva-la-gente-colapsara-mucho-antes-yazhi-swaruu) (2024-09-12; es); passages p0054, p0056, p0058. [Structured record](../../records/src-9ddbc83ba873.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d8c144de6128-c02
+
+Mari says Toleka’s forest-integrated design left fallen trees and plants blocking roads and emergency hangar doors during the storm. She says this delayed rescue response.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales, Número 30, 1 de Julio 2024, ?️ Huracán en Taygeta, Secuelas](https://swaruu.org/transcripts/noticias-espaciales-numero-30-1-de-julio-2024-huracan-en-taygeta-secuelas) (2024-07-02; es); passages p0009, p0017, p0022, p0023. [Structured record](../../records/src-d8c144de6128.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-66545aa0b17c-c02
+
+Gosia describes many spacefaring societies as using layered councils, shared resources, and less dependence on money or compulsory work. She says such models would require human ethical and social readiness.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Vida Extraterrestre: ¿Cómo Afectaría a la Humanidad y a Ti? - CLASE 010](https://swaruu.org/transcripts/vida-extraterrestre-como-afectaria-a-la-humanidad-y-a-ti-clase-010) (2026-01-08; es); passages p0021, p0022, p0023, p0024. [Structured record](../../records/src-66545aa0b17c.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-7fb46b450576-c01
+
+Anéeka describes a proposed plan to introduce free energy and a council-based holistic society on Earth, but says the Federation rejected it. She says the proposal was intended as diplomatic pressure and had not been implemented.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Aneeka - El Ascenso a la Cima (Parte 1)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-aneeka-el-ascenso-a-la-cima-parte-1) (2025-10-28; es); passages p0092, p0096, p0097. [Structured record](../../records/src-7fb46b450576.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-89cfcddab709-c04](urmah.md#src-89cfcddab709-c04) — Urmah
@@ -1922,16 +2050,37 @@ Related topics: [Economics and resources](economics.md).
 - [src-2e200138040b-c03](earth-cabal.md#src-2e200138040b-c03) — Earth Cabal and power structures
 - [src-5d73de03dc67-c03](economics.md#src-5d73de03dc67-c03) — Economics and resources
 - [src-d834e6dbdec7-c02](earth-cabal.md#src-d834e6dbdec7-c02) — Earth Cabal and power structures
+- [src-6b844dadcd54-c01](consciousness-metaphysics.md#src-6b844dadcd54-c01) — Consciousness and metaphysics
+- [src-3515c1d5e5af-c02](taygetans.md#src-3515c1d5e5af-c02) — Taygetans
+- [src-2827f10aa2f1-c03](stellar-navigation.md#src-2827f10aa2f1-c03) — Stellar navigation
+- [src-ff513d5eed98-c02](consciousness-metaphysics.md#src-ff513d5eed98-c02) — Consciousness and metaphysics
+- [src-c87798fe694b-c02](galactic-federation.md#src-c87798fe694b-c02) — Galactic Federation
+- [src-7979e44104d7-c02](urmah.md#src-7979e44104d7-c02) — Urmah
+- [src-1e3db31a154c-c04](individual-ascension.md#src-1e3db31a154c-c04) — Individual ascension
+- [src-10384d9b6430-c04](galactic-federation.md#src-10384d9b6430-c04) — Galactic Federation
+- [src-bc06a6f6252f-c01](urmah.md#src-bc06a6f6252f-c01) — Urmah
+- [src-d87fe5c79f3f-c01](consciousness-metaphysics.md#src-d87fe5c79f3f-c01) — Consciousness and metaphysics
+- [src-d87fe5c79f3f-c02](moon-matrix.md#src-d87fe5c79f3f-c02) — Moon and terrestrial Matrix
+- [src-bb1546ca3954-c03](earth-cabal.md#src-bb1546ca3954-c03) — Earth Cabal and power structures
+- [src-9fb3397b48c0-c01](taygetans.md#src-9fb3397b48c0-c01) — Taygetans
+- [src-24efda7f42eb-c01](consciousness-metaphysics.md#src-24efda7f42eb-c01) — Consciousness and metaphysics
+- [src-41a031f2b0d7-c02](extraterrestrial-contact.md#src-41a031f2b0d7-c02) — Extraterrestrial contact and disclosure
 
 ## Review flags
 
 - 3d-vs-higher-density-wishes
+- All claims are attributed to the speaker and reflect her account.
 - Australian-traffic-purpose-unknown
+- Avyon is described as Vega’s second planet in p0003, but p0004 calls it the first.
 - Claims about Federation bureaucracy and a galactic AI network are attributed to Alenym; the transcript provides no independent evidence.
+- Claims about Taygetan society are attributed to Mari Swaruu.
 - Claims about Taygetan technology and Earth EV policy are attributed to Mari Swaruu.
 - Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
 - Claims about contemporary institutions or external events reflect the speaker’s interpretation.
 - Claims about hidden councils and planetary bases are attributed to Mari Swaruu.
+- Claims about species, diplomacy, and telepathic influence are attributed to Arishah and not independently established.
+- Claims about telepathy and collective reality are attributed to Mari Swaruu.
+- Claims in this essay are Gosia’s commentary about technical education and Taygetan material.
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
@@ -1939,11 +2088,23 @@ Related topics: [Economics and resources](economics.md).
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
 - Federation-and-Taygetan-accounts-conflict-over-Earth-policy-and-consent
 - Federation-arguments\_reported
+- Metaphysical and political interpretations are attributed to Yazhi.
 - Past-life memories are claims reported by Mari, not independently verified.
 - Political authority claims are Anéeka’s account of extraterrestrial relations.
+- Psychological and metaphysical interpretations are attributed to Za’el.
 - Senetre-diagnosed-weapon-route-suspected
+- Space-traffic and engineering claims are attributed to Mari Swaruu.
+- The Federation's rationale is reported by Mari; she questions its ethics and does not endorse all its conduct.
 - The article promotes a conspiratorial political framework and extraterrestrial governance; claims are retained as attributed lore.
 - The author’s claims about starseeds and social economic control are unverified and attributed.
+- The introductory lesson advocates suspicion of institutions; its allegations are framed as prompts for questioning rather than substantiated evidence.
+- The lesson advances broad conspiracy claims and a simplified account of an experiment; these are attributed to Gosia.
+- The lesson advances unverified extraterrestrial claims and presents an idealized account of alien societies.
+- The source is an unverified first-person account framed as entertainment.
+- The source makes unverified medical and extraterrestrial claims.
+- The transcript includes unverified claims about extraterrestrial governance, diplomacy, and technology.
+- This dialogue presents spiritual and conspiratorial perspectives as reported claims; it is not independently verified.
+- This transcript compiles personal conversations across 2020–2022; claims reflect individual speakers' views and motives.
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
 - Yazhi proposes nonhuman tutoring, then says people should not wait for outside help.
 - Yazhi said she saw photographs rather than the crystal skulls firsthand; the claims are attributed.
@@ -2019,6 +2180,7 @@ Related topics: [Economics and resources](economics.md).
 - scenario-outcomes-and-intervention-threshold
 - self-reported-traits
 - self\_description
+- source contains extensive conspiracy and discriminatory claims, excluded from this extraction
 - speaker-perspective-model
 - speaker: interviewer questions excluded as claims
 - species\_specific\_reproduction

@@ -70,12 +70,46 @@ Source: [El Imperio Draconiano y La Alianza de Orion Yazhi Swaruu](https://swaru
 
 Related topics: [Orion Wars](orion-wars.md).
 
+### src-410360813ac6-c01
+
+Mari distinguishes smaller, humanoid Dracos from Alpha Draconians, a separate reptilian species divided into genetically similar positive and negative factions that often fight. She says their ethics and cultures differ sharply.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alfa Dracos o Alfa Draconianos. Dragones Espaciales](https://swaruu.org/transcripts/alfa-dracos-o-alfa-draconianos-dragones-espaciales) (2024-03-10; es); passages p0003, p0010, p0011, p0012. [Structured record](../../records/src-410360813ac6.json).
+
+Related topics: [Reptilians](reptilians.md).
+
+### src-410360813ac6-c02
+
+Mari says negative Alpha Draconians ally with Dracos and other invasive groups, while positive factions cooperate especially with the Urmah. She describes the negative alliance as historical.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alfa Dracos o Alfa Draconianos. Dragones Espaciales](https://swaruu.org/transcripts/alfa-dracos-o-alfa-draconianos-dragones-espaciales) (2024-03-10; es); passages p0013, p0014, p0015. [Structured record](../../records/src-410360813ac6.json).
+
+Related topics: [Urmah](urmah.md), [Orion Grays](orion-grays.md).
+
+### src-410360813ac6-c03
+
+Mari describes Alpha Draconians as giant, winged, fire-breathing, strongly telepathic beings; their fire-breathing capacity is limited by supply and hydration.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alfa Dracos o Alfa Draconianos. Dragones Espaciales](https://swaruu.org/transcripts/alfa-dracos-o-alfa-draconianos-dragones-espaciales) (2024-03-10; es); passages p0004, p0007, p0008, p0009, p0019. [Structured record](../../records/src-410360813ac6.json).
+
+Related topics: [Telepathic channeling](telepathic-channeling.md).
+
 ## Claims filed under other topics
 
 - [src-7ee742c5e8d8-c03](reptilians.md#src-7ee742c5e8d8-c03) — Reptilians
 - [src-de22732f48f1-c01](antarctica.md#src-de22732f48f1-c01) — Antarctica
 - [src-c57cf7f12530-c03](maitre.md#src-c57cf7f12530-c03) — Maitre
 - [src-2e44af6cf865-c01](cultivated-meat.md#src-2e44af6cf865-c01) — Cultivated meat
+- [src-0ae97daa9913-c02](reptilians.md#src-0ae97daa9913-c02) — Reptilians
+- [src-54a6b17189d3-c01](orion-wars.md#src-54a6b17189d3-c01) — Orion Wars
+- [src-b76386ff7cd8-c04](reptilians.md#src-b76386ff7cd8-c04) — Reptilians
+- [src-27c6cbbb1fd4-c03](reptilians.md#src-27c6cbbb1fd4-c03) — Reptilians
 
 ## Review flags
 

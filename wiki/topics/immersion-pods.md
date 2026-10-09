@@ -436,6 +436,46 @@ Source: [Semillas Estelares. Parte 8, Proyección y Abducciones Astrales, mision
 
 Related topics: [Astral Travel](astral-travel.md).
 
+### src-febfd3115d54-c01
+
+Yazhi says an empty Matrix avatar dies when disconnected, while an already conscious person continues with the experience. She notes possible exceptions for empty avatars.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Tecnología Extraterrestre de Inmersión - Charlas Personales entre Gosia y Yazhi Swaruu](https://swaruu.org/transcripts/tecnologia-extraterrestre-de-inmersion-charlas-personales-entre-gosia-y-yazhi-swaruu) (2024-02-28; es); passages p0065, p0066, p0067, p0068. [Structured record](../../records/src-febfd3115d54.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-febfd3115d54-c02
+
+Athena says disconnected avatars may become empty NPCs and die if vital force is insufficient; empty avatars usually receive immersion. She says stronger NPCs may survive and outcomes vary.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Tecnología Extraterrestre de Inmersión - Charlas Personales entre Gosia y Yazhi Swaruu](https://swaruu.org/transcripts/tecnologia-extraterrestre-de-inmersion-charlas-personales-entre-gosia-y-yazhi-swaruu) (2024-02-28; es); passages p0119, p0120, p0121, p0122. [Structured record](../../records/src-febfd3115d54.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-61705721c8a4-c03
+
+Mari says immersion pods can use DNA-linked frequencies to force an incompatible soul into a body, overriding its original occupant. She describes this as a hostile, unethical takeover.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Walk-Ins, Intercambio de Almas, Arrebato de Cuerpos, Cápsulas de Inmersión. Primera Parte](https://swaruu.org/transcripts/walk-ins-intercambio-de-almas-arrebato-de-cuerpos-capsulas-de-inmersion-primera-parte) (2023-11-09; es); passages p0012, p0013, p0014, p0015, p0016. [Structured record](../../records/src-61705721c8a4.json).
+
+Related topics: [Walk-in phenomenon](walk-in-phenomenon.md).
+
+### src-6651f8ddc19a-c03
+
+Alenym reported Yazhi appeared under fourteen after claiming the pod made her twenty. Alenym could not explain the difference.
+
+Attributed to **Alenym, reporting Yazhi's account**; reported; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Sophia Swaruu (Yazhi) - Problemas con la Edad (PARTE 1)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-sophia-swaruu-yazhi-problemas-con-la-edad-parte-1) (2026-03-22; es); passages p0233, p0243, p0246, p0248. [Structured record](../../records/src-6651f8ddc19a.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
 ## Claims filed under other topics
 
 - [src-5e6c8ea2cb2c-c02](urmah.md#src-5e6c8ea2cb2c-c02) — Urmah
@@ -447,13 +487,16 @@ Related topics: [Astral Travel](astral-travel.md).
 - [src-dff574e82d59-c02](starseed-guides.md#src-dff574e82d59-c02) — Starseed guides
 - [src-83e6eecc2c25-c01](total-immersion-simulations.md#src-83e6eecc2c25-c01) — Total-immersion simulations
 - [src-19104df37e32-c01](astral-military-units.md#src-19104df37e32-c01) — Astral military units
+- [src-6651f8ddc19a-c02](temporal-skipping.md#src-6651f8ddc19a-c02) — Temporal skipping
 
 ## Review flags
 
 - AI-sentience-claims
 - Anéeka frames extraction as individually negotiated and says a fixed protocol does not apply.
 - Swaruu 9 describes frequency-controlled containers while Athena rejects literal soul traps; their different framings should remain unresolved
+- The source includes claims about soul replacement and criminal behavior; these are presented as the speaker's metaphysical account.
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
+- Yazhi's account of the pod outcome conflicts with Alenym's observation of her apparent age; the transcript does not resolve this.
 - aliens-removed-from-quadrant-claim
 - attribution\_scope
 - claims-attributed-to-Athena

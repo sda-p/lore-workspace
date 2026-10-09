@@ -358,6 +358,62 @@ Source: [Charlas sobre Nutrición y Dieta - Hablando con Swaruu, Aneeka y Yazhi 
 
 Related topics: [Terrestrial science](terrestrial-science.md).
 
+### src-df8e53d808b9-c02
+
+Mari says Taygeta eats only plants, while her group relies on Earth food and supplies; Saska 1 brings no human goods. They buy Earth items legally, she says.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Reflexiones de Mari Swaruu, Importante, por favor ver](https://swaruu.org/transcripts/reflexiones-de-mari-swaruu-importante-por-favor-ver) (2023-10-24; es); passages p0037, p0038, p0039. [Structured record](../../records/src-df8e53d808b9.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-881f2f6deaf1-c02
+
+Mari describes Temmer as a water-covered, 0.8-g world with stable weather, warm climate, fertile islands, and few predators. She says the Taygetan population is concentrated there.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygeta, orígenes e historia. Parte 1](https://swaruu.org/transcripts/taygeta-origenes-e-historia-parte-1) (2023-09-28; es); passages p0012, p0013, p0014, p0021, p0022. [Structured record](../../records/src-881f2f6deaf1.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-fdd736de175d-c05
+
+Mari describes Toleka City's leaf-shaped, wind-twisting skyscrapers and a coastline of quartz and amethyst rocks.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [Mi Viaje Encubierta a Témmer, Taygeta](https://swaruu.org/transcripts/mi-viaje-encubierta-a-temmer-taygeta) (2024-10-25; es); passages p0011, p0014. [Structured record](../../records/src-fdd736de175d.json).
+
+### src-bf96c32410fe-c02
+
+Mari reports a cyclone damaged homes, maglevs, shipyards, and Toleka's spaceport. No deaths were known; evacuees were reported.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales, Número 29, 24 de Junio 2024, Huracán en Taygeta, Algodón en el Cielo](https://swaruu.org/transcripts/noticias-espaciales-numero-29-24-de-junio-2024-huracan-en-taygeta-algodon-en-el-cielo) (2024-06-25; es); passages p0015, p0016, p0017, p0018. [Structured record](../../records/src-bf96c32410fe.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-bf96c32410fe-c03
+
+Mari describes Temmer as a tropical island planet with 0.8 Earth gravity and usually mild, rare cyclones. The Toleka storm was exceptionally severe.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales, Número 29, 24 de Junio 2024, Huracán en Taygeta, Algodón en el Cielo](https://swaruu.org/transcripts/noticias-espaciales-numero-29-24-de-junio-2024-huracan-en-taygeta-algodon-en-el-cielo) (2024-06-25; es); passages p0024, p0025, p0026, p0028. [Structured record](../../records/src-bf96c32410fe.json).
+
+### src-f720e13266de-c01
+
+Mari says Toleka's new spaceport section fits three or four additional large transports.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 49, Nuevo Puerto Espacial, Más Sobre Australia, Mi Salud y Cumpleaños](https://swaruu.org/transcripts/noticias-espaciales-49-nuevo-puerto-espacial-mas-sobre-australia-mi-salud-y-cumpleanos) (2024-10-27; es); passages p0003, p0004. [Structured record](../../records/src-f720e13266de.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-8ca54257f6a4-c03](cyndriel.md#src-8ca54257f6a4-c03) — Cyndriel
@@ -387,15 +443,30 @@ Related topics: [Terrestrial science](terrestrial-science.md).
 - [src-c8d611b2d82a-c02](cyndriel.md#src-c8d611b2d82a-c02) — Cyndriel
 - [src-b39d4a7a2cd4-c02](moon-biosphere-ship.md#src-b39d4a7a2cd4-c02) — The Moon as a biosphere ship
 - [src-2dc5849bd700-c01](swaruunians.md#src-2dc5849bd700-c01) — Swaruunians
+- [src-ec5ca3fe11f7-c01](taygetans.md#src-ec5ca3fe11f7-c01) — Taygetans
+- [src-a0e7e195133c-c02](economics.md#src-a0e7e195133c-c02) — Economics and resources
+- [src-9a0544accb20-c02](procyon.md#src-9a0544accb20-c02) — Planet Procyon
+- [src-66fa7120be60-c02](engan-people.md#src-66fa7120be60-c02) — Engan people
+- [src-7507aaf9433f-c04](moghyay.md#src-7507aaf9433f-c04) — Moghyay
+- [src-bf96c32410fe-c04](weather-control.md#src-bf96c32410fe-c04) — Weather control systems
+- [src-e58c27053b29-c04](economics.md#src-e58c27053b29-c04) — Economics and resources
+- [src-8cfcc037b641-c01](moghyay.md#src-8cfcc037b641-c01) — Moghyay
+- [src-5e04f41106fc-c02](starship-systems.md#src-5e04f41106fc-c02) — Starship systems
+- [src-75592048aefd-c02](taygetans.md#src-75592048aefd-c02) — Taygetans
 
 ## Review flags
 
 - Anéeka explicitly distinguishes “gravity holes” from black holes.
+- Claims about Taygetan society are attributed to Mari Swaruu.
 - Cyndriel’s surface–orbit time discrepancy is unexplained.
 - Dietary and medical statements are attributed to the speakers and are not established facts.
+- Fleet schedules are dated forecasts; the fireball identification is attributed to CIC rather than independent confirmation.
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
+- Historical claims about Engan influence on Earth are Mari's account, not independently established.
 - Senetre-diagnosed-weapon-route-suspected
 - Swaruu X presents multiple hybridization motives and acknowledges incomplete information about some groups.
+- The account of Australian meetings and the alleged attendee is unverified within the transcript.
+- The alleged attack remains speculation in Mari's account.
 - The first-person extraterrestrial identity and contact-policy claims are preserved as speaker claims.
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
 - conflicting\_origin\_accounts

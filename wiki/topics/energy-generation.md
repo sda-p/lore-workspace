@@ -974,6 +974,46 @@ Source: [Reactores Humanos en la Luna - Examinando el Tema con Athena Swaruu](ht
 
 Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Van Allen belts](van-allen-belts.md).
 
+### src-8afe7430b1fb-c02
+
+Its quartz zero-point reactors power counterrotating plasma turbines rated at 7 TEV combined.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 6A - Naves de Caza Avanzadas de Taygeta (Pleyades) - Yazhi y Athena Swaruu](https://swaruu.org/transcripts/vida-interestelar-6a-naves-de-caza-avanzadas-de-taygeta-pleyades-yazhi-y-athena-swaruu) (2024-07-18; es); passages p0031, p0034. [Structured record](../../records/src-8afe7430b1fb.json).
+
+Related topics: [Suzy-class starships](suzy-class-starships.md).
+
+### src-9b6c9c7ff268-c04
+
+Swaruu says Taygetan ships use electricity and magnetic levitation for frictionless moving parts.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 7 - Naves Estelares Taygeteanas (Pléyades) - Materiales y Construcción](https://swaruu.org/transcripts/vida-interestelar-7-naves-estelares-taygeteanas-pleyades-materiales-y-construccion) (2024-11-13; es); passages p0026, p0028. [Structured record](../../records/src-9b6c9c7ff268.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-7507aaf9433f-c03
+
+Mari says ships convert waste heat to electricity because space cannot readily dissipate it.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [Noticias espaciales, 25 de mayo de 2024, Naves, Pájaros Moghyay, Meteorito sobre España, mi YouTube](https://swaruu.org/transcripts/noticias-espaciales-25-de-mayo-de-2024-naves-pajaros-moghyay-meteorito-sobre-espana-mi-youtube) (2024-05-26; es); passages p0013, p0014. [Structured record](../../records/src-7507aaf9433f.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-65adcbdf271b-c03
+
+Athena says zero-point power removes any need to mine neutron stars for energy; minerals and materials are mined elsewhere.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Mini-Mini Temas - Rapidas Preguntas y Respuestas (Yazhi y Athena Swaruu)](https://swaruu.org/transcripts/mini-mini-temas-rapidas-preguntas-y-respuestas-yazhi-y-athena-swaruu) (2024-11-20; es); passages p0009. [Structured record](../../records/src-65adcbdf271b.json).
+
+Related topics: [Secret Space Program](secret-space-program.md).
+
 ## Claims filed under other topics
 
 - [src-cf7bf2726e68-c06](consciousness-metaphysics.md#src-cf7bf2726e68-c06) — Consciousness and metaphysics
@@ -1074,6 +1114,12 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Van Allen belts]
 - [src-af28174da547-c03](terrestrial-science.md#src-af28174da547-c03) — Terrestrial science
 - [src-c5820758bc75-c02](moon-matrix.md#src-c5820758bc75-c02) — Moon and terrestrial Matrix
 - [src-69f666d88c2e-c03](economics.md#src-69f666d88c2e-c03) — Economics and resources
+- [src-970412680838-c03](earth-cabal.md#src-970412680838-c03) — Earth Cabal and power structures
+- [src-f9552f88d23a-c02](artificial-portals.md#src-f9552f88d23a-c02) — Artificial portals
+- [src-881f2f6deaf1-c03](taygetan-wireless-power-grid.md#src-881f2f6deaf1-c03) — Taygetan wireless power grid
+- [src-f929113f2b30-c01](starship-systems.md#src-f929113f2b30-c01) — Starship systems
+- [src-f929113f2b30-c02](starship-systems.md#src-f929113f2b30-c02) — Starship systems
+- [src-0cb068df4dc2-c03](suzy-class-starships.md#src-0cb068df4dc2-c03) — Suzy-class starships
 
 ## Review flags
 
@@ -1084,6 +1130,7 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Van Allen belts]
 - Contains disputed environmental, market, vehicle safety, and government-control claims; attribute to Yazhi, not established findings.
 - Core technology described as extraterrestrial; source offers no engineering measurements.
 - EMP-intervention-field-unknown
+- Fleet schedules are dated forecasts; the fireball identification is attributed to CIC rather than independent confirmation.
 - High-impact claims about nuclear energy, radiation, and historical sabotage are attributed to Anéeka; the transcript provides no independent evidence.
 - ISS-and-station-fabrication-allegation
 - Internal tension: p0032 describes uranium compression and chain reaction after earlier rejection of the Earth explanation; preserve unresolved
@@ -1092,6 +1139,7 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Van Allen belts]
 - Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
 - Tartaria chronology and destruction are presented as disputed source claims
 - Technology and energy claims are attributed to Mari Swaruu and are not independently verified.
+- The disposal account and technical rules are Mari's narrated account; preserve this attribution.
 - The source disputes established nuclear science; content is attributed to Yazhi and not verified.
 - The transcript combines Swaruu 9, Yazhi, and Athena passages; claims retain speaker distinctions
 - The transcript contradicts established nuclear physics and history; claims are recorded as Yazhi’s assertions, not verified facts.

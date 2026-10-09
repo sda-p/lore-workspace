@@ -1,0 +1,64 @@
+{
+  "source_id": "src-7751a4d57af2",
+  "snapshot_sha256": "7cb749755bb1c073bc61e52b58ddaac371e8d4b6afeb45b718d59dd97ad1482a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7751a4d57af2-c01",
+      "assertion": "Yazhi says beings collectively created the corrupt Federation and may enter its experience either to experience it or to repair it.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "galactic-consciousness"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-7751a4d57af2-c02",
+      "assertion": "Yazhi distinguishes a corrupt lower Federation from a noncorrupt higher Federation, which regards the lower one as part of incarnate experience.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7751a4d57af2-c03",
+      "assertion": "Yazhi says her personal motive is to awaken people and repair perceived harms, reflecting her unmet need to be heard.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0014",
+        "p0022"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her self-description."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other reflections on soul-group motives and attention omitted"
+  ]
+}

@@ -98,16 +98,29 @@ Source: [EL CONTROL MENTAL LIMITA TUS CAPACIDADES - Aneeka - Yazhi - Athena - Sw
 
 Related topics: [Stellar navigation](stellar-navigation.md).
 
+### src-61c94d4f2880-c03
+
+Zai'kira says encoded muon-lepton vibrations transmit through the ether without particles traveling distance. Mari says the mechanism supports remote immersion and FTL travel.
+
+Attributed to **Zai'kira, as reported by Mari**; reported; extraction confidence: high.
+
+Source: [Tecnología de Comunicación de Inmersión Total, Segunda Parte](https://swaruu.org/transcripts/tecnologia-de-comunicacion-de-inmersion-total-segunda-parte) (2024-06-28; es); passages p0009, p0010, p0013, p0015. [Structured record](../../records/src-61c94d4f2880.json).
+
+Related topics: [Ether field](ether-field.md).
+
 ## Claims filed under other topics
 
 - [src-a6ebb6326b6a-c02](immersion-pods.md#src-a6ebb6326b6a-c02) — Immersion pods
 - [src-33cfa6ed8fcd-c03](muonic-galactic-ai-network.md#src-33cfa6ed8fcd-c03) — Muonic galactic AI network
 - [src-a49e51e7bd80-c03](muonic-galactic-ai-network.md#src-a49e51e7bd80-c03) — Muonic galactic AI network
+- [src-f21197da8edc-c02](muonic-gravitational-communications.md#src-f21197da8edc-c02) — Muonic gravitational communications
+- [src-b3cba5b1ffc9-c03](muonic-galactic-ai-network.md#src-b3cba5b1ffc9-c03) — Muonic galactic AI network
 
 ## Review flags
 
 - Claims about Federation bureaucracy and a galactic AI network are attributed to Alenym; the transcript provides no independent evidence.
 - Claims about invasive AI and the galactic network are attributed to the speakers; the transcript provides no independent evidence.
+- Technical descriptions and faster-than-light mechanism are attributed to the speakers.
 - communication-tech-claims-attributed
 - particle-vs-carrier-speed-distinction
 - possible-overlap-with-src-cd1fcaa78711

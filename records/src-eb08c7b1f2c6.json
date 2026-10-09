@@ -1,0 +1,55 @@
+{
+  "source_id": "src-eb08c7b1f2c6",
+  "snapshot_sha256": "b92712af243eaf5bd593eba71f74a50b378a48db3a3d5d9192e07f48fad64e8e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-eb08c7b1f2c6-c01",
+      "assertion": "Yazhi describes a planned, unilateral Taygetan effort to place emissaries in media to seed positive ideas; she distinguishes it from the Federation’s official First Contact project and says the First Directive still applies.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0009",
+        "p0011",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "taygetan-first-contact-project",
+      "topics": [
+        "taygetan-first-contact-project",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says it remained a plan and the prospective crew was not yet prepared."
+    },
+    {
+      "id": "src-eb08c7b1f2c6-c02",
+      "assertion": "Yazhi says Alcyone was intended for media outreach while Asterope’s role was ship security; each could carry about 475 people, subject to crew selection and mechanical checks.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0035",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetan-first-contact-project"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says Asterope’s arrival was uncertain and Alcyone needed more preparations."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "planned media strategy and recruitment",
+    "polarization and broader fleet alignment"
+  ]
+}

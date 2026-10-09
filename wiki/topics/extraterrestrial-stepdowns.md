@@ -322,6 +322,8 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-5699fcba6376-c02](starseeds.md#src-5699fcba6376-c02) — Starseeds
 - [src-2b5e44407f31-c02](consciousness-metaphysics.md#src-2b5e44407f31-c02) — Consciousness and metaphysics
 - [src-2b5e44407f31-c04](consciousness-metaphysics.md#src-2b5e44407f31-c04) — Consciousness and metaphysics
+- [src-aa29b86974f4-c03](centaurians.md#src-aa29b86974f4-c03) — Centaurians
+- [src-2f61745f8036-c03](starship-systems.md#src-2f61745f8036-c03) — Starship systems
 
 ## Review flags
 
@@ -330,6 +332,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
 - Resource motives and fear-feeding are speaker-attributed metaphysical claims
 - The article presents an unverifiable extraterrestrial political-control narrative; claims are retained as attributed lore.
+- The transcript advances unverified claims of hidden control and infiltration; these are attributed to Athena.
 - These are Mari Swaruu’s autobiographical and extraterrestrial claims, not independently verified.
 - aliens-removed-from-quadrant-claim
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate

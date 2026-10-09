@@ -1,0 +1,36 @@
+{
+  "source_id": "src-16146808b4e9",
+  "snapshot_sha256": "f25fd0adc0cd3b47efcb09d01b2f73723e13652e99911120169d4ea29bdc869e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-16146808b4e9-c01",
+      "assertion": "Mari Swa says Toleka can jump 440 light-years in roughly seven hours at full power, but its current return to Temmer is slowed by aging engines.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0005", "p0006", "p0007"],
+      "primary_topic": "toleka-class",
+      "topics": ["toleka-class", "starship-systems"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says hyperspace transit is instantaneous; crew experience delay from the engines' frequency change."
+    },
+    {
+      "id": "src-16146808b4e9-c02",
+      "assertion": "Mari Swa says Toleka was Taygeta's flagship for most of 90 years and involved in Taygetan Earth events through the 20th and 21st centuries; its fate could be repair, storage, memorialization, or scrapping.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0013", "p0016", "p0017", "p0018"],
+      "primary_topic": "toleka-class",
+      "topics": ["toleka-class", "taygetans"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says her instruction was to prioritize restoring the ship."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source gives an unverified first-person account of spacecraft performance and history."
+  ],
+  "coverage_gaps": [
+    "The video also describes Toleka's departure, escort, and remaining uncertainty over its restoration."
+  ]
+}

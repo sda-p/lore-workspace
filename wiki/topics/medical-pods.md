@@ -240,6 +240,36 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [CAMAS MEDICAS REGENERATIVAS – PODS MÉDICOS - TECNOLOGIA MEDICA](https://swaruu.org/transcripts/camas-medicas-regenerativas-pods-medicos-tecnologia-medica) (2023-01-08; es); passages p0066, p0067, p0070. [Structured record](../../records/src-b48ede308895.json).
 
+### src-b0e222a75427-c03
+
+Yazhi says medical pods could eliminate most diseases and extend life, but require changes to financial and power structures she says benefit from disease maintenance. Her account of current Earth institutions.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Antigravedad, Mercurio Enriquecido, y mas - Tecnología Extraterrestre - Yazhi Swaruu](https://swaruu.org/transcripts/antigravedad-mercurio-enriquecido-y-mas-tecnologia-extraterrestre-yazhi-swaruu) (2023-11-14; es); passages p0047, p0048, p0049. [Structured record](../../records/src-b0e222a75427.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-a4780c0314e5-c01
+
+Mari says her health problems include type 1 diabetes and damaged metabolism; Senetre treated her with custom stem cells and dry medical-pod sessions. This is Mari’s account.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 46, Mi salud, Carta Abierta a los Taygeteanos, Cómo Escribo. Situación actual](https://swaruu.org/transcripts/noticias-espaciales-46-mi-salud-carta-abierta-a-los-taygeteanos-como-escribo-situacion-actual) (2024-10-15; es); passages p0016, p0019, p0020. [Structured record](../../records/src-a4780c0314e5.json).
+
+Related topics: [Taygetan medicine](taygetan-medicine.md).
+
+### src-5a1acd491e56-c01
+
+Mari says wet medical pods use high-energy holography and stem-cell fluid to repair tissue, restore bodies, and regrow limbs; they also serve cosmetic enhancement. According to Mari.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales, Número 28, 20 de Junio 2024, Alenym, nave nueva S.S. Hyades](https://swaruu.org/transcripts/noticias-espaciales-numero-28-20-de-junio-2024-alenym-nave-nueva-s-s-hyades) (2024-06-21; es); passages p0005, p0006, p0007. [Structured record](../../records/src-5a1acd491e56.json).
+
+Related topics: [Taygetan medicine](taygetan-medicine.md).
+
 ## Claims filed under other topics
 
 - [src-73356320550c-c01](consciousness-metaphysics.md#src-73356320550c-c01) — Consciousness and metaphysics
@@ -249,6 +279,8 @@ Source: [CAMAS MEDICAS REGENERATIVAS – PODS MÉDICOS - TECNOLOGIA MEDICA](http
 - [src-01886647014f-c02](compressed-sound-cutting.md#src-01886647014f-c02) — Compressed-sound cutting
 - [src-b1091aecbbaa-c02](human-clones.md#src-b1091aecbbaa-c02) — Human clones and manufactured persons
 - [src-1499197325d7-c02](taygetan-medicine.md#src-1499197325d7-c02) — Taygetan medicine
+- [src-a4780c0314e5-c02](taygetans.md#src-a4780c0314e5-c02) — Taygetans
+- [src-a4780c0314e5-c03](ship-internal-time.md#src-a4780c0314e5-c03) — Ship internal time
 
 ## Review flags
 

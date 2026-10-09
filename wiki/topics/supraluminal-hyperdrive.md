@@ -46,6 +46,32 @@ Source: [El Astral. Parte 2](https://swaruu.org/transcripts/el-astral-parte-2) (
 
 Related topics: [Astral Travel](astral-travel.md).
 
+### src-76114790928e-c03
+
+Mari says faster-than-light spacecraft move vessels and occupants across dimensions, while some beings can do so mentally.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Extraterrestre o Interdimensional](https://swaruu.org/transcripts/extraterrestre-o-interdimensional) (2024-10-18; es); passages p0021. [Structured record](../../records/src-76114790928e.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-2f61745f8036-c04
+
+Swaruu (9) says warp flight appears black because vessels leave their original spacetime.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 13 (Parte 1) – Varias Preguntas Relacionadas con Naves Espaciales](https://swaruu.org/transcripts/vida-interestelar-13-parte-1-varias-preguntas-relacionadas-con-naves-espaciales) (2026-05-11; es); passages p0028, p0029. [Structured record](../../records/src-2f61745f8036.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+## Claims filed under other topics
+
+- [src-e50e737a17f6-c02](temporal-skipping.md#src-e50e737a17f6-c02) — Temporal skipping
+
 ## Review flags
 
+- Cosmological and consciousness claims are attributed to Mari.
 - Navigation and propulsion descriptions are attributed to Mari Swaruu, not independently verified.
+- Time-navigation and physics claims are attributed to Mari.

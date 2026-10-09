@@ -52,17 +52,37 @@ Source: [Teleportacion - Poderes Mentales - Como lo Hago? Yazhi Swaruu Comparte 
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-4dbc0136de84-c02
+
+Anéeka reports Yazhi teleporting, passing through titanium, moving rapidly, and changing apparent age.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Sophia (Yazhi) Swaruu - Primeros Años de Yazhi en Toleka (PARTE 1)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-primeros-anos-de-yazhi-en-toleka-parte-1) (2024-08-23; es); passages p0009, p0010, p0021. [Structured record](../../records/src-4dbc0136de84.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-88b24c836599-c02
+
+Yazhi claims mental teleportation; she carries only what she can physically transport.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Sophia (Yazhi) Swaruu - Nuevas Conversaciones (PARTE 3)](https://swaruu.org/transcripts/sophia-yazhi-swaruu-nuevas-conversaciones-parte-3) (2024-09-10; es); passages p0025, p0027. [Structured record](../../records/src-88b24c836599.json).
+
 ## Claims filed under other topics
 
 - [src-a67fb92e8975-c04](starship-systems.md#src-a67fb92e8975-c04) — Starship systems
 - [src-940f9935241e-c04](planetary-dna-arks.md#src-940f9935241e-c04) — Planetary DNA Arks
 - [src-9c291a69384d-c02](perceptual-density.md#src-9c291a69384d-c02) — Perceptual density
 - [src-f806bbf625d9-c03](crystalline-dna.md#src-f806bbf625d9-c03) — Crystalline DNA and proto-silicon biology
+- [src-063e423c3c3e-c03](consciousness-metaphysics.md#src-063e423c3c3e-c03) — Consciousness and metaphysics
 
 ## Review flags
 
 - Abilities, body control, and density model are Yazhi’s self-reports
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
+- The crew's initial descriptions of anomalies and Yazhi's own tractor-beam explanation are distinct attributions.
 - cataclysm-history-attributed
 - internal-count-conflict:swaruwnian-chromosomes
 - translation-counterpart: src-bfb4094468eb; close full translation; English p0075-p0079 adds detail about carved stone markers and remote portal control

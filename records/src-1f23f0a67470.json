@@ -1,0 +1,73 @@
+{
+  "source_id": "src-1f23f0a67470",
+  "snapshot_sha256": "bf65a0106902a0215926f6bab57a4751f54ac2ad0f3212d50e2564a3697c6fae",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1f23f0a67470-c01",
+      "assertion": "Gosia says governments are compartmentalized: lower officials may believe humanity is alone, while hidden higher levels know of extraterrestrials and interact with them.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-1f23f0a67470-c02",
+      "assertion": "Gosia argues official disclosure may serve ruling agendas, using controlled narratives, and could prepare the public for a staged alien invasion; she says key details remain uncertain.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0036",
+        "p0039",
+        "p0048",
+        "p0049",
+        "p0050"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She presents this as a suspicion, not certainty."
+    },
+    {
+      "id": "src-1f23f0a67470-c03",
+      "assertion": "Gosia allows that rising collective consciousness could enable more positive disclosure and contact, while urging discernment and caution toward official sources.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0044",
+        "p0045",
+        "p0047",
+        "p0060",
+        "p0062",
+        "p0063"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starseeds"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "Her view."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Historical cases and detailed arguments about staged disclosure omitted"
+  ]
+}

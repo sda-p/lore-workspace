@@ -1,0 +1,66 @@
+{
+  "source_id": "src-54a6b17189d3",
+  "snapshot_sha256": "25ce89e49fde47f454a947be2d5d25ddf2853eba2cead82fd76aa7515542a215",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-54a6b17189d3-c01",
+      "assertion": "Yazhi says an Orion Council alliance led by Alpha Draconis invaded Vega, Avalon, and Lyra about one million years ago, scattering peaceful Lyrians in the Great Expansion.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "orion-wars",
+      "topics": [
+        "orion-wars",
+        "lyran-expansion",
+        "reptilian-invaders",
+        "alpha-draconians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-54a6b17189d3-c02",
+      "assertion": "Yazhi says the United Federation of Planets formed about 900,000 years ago as species allied for mutual protection against the Reptilian invasion.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "orion-wars"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-54a6b17189d3-c03",
+      "assertion": "Yazhi says Lyrians settled Earth around 40,000 years ago; humans and Taygetans are humanlike Lyrian-base species, unlike insectoid, saurian, feline, or amphibian groups.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "lyrians",
+      "topics": [
+        "lyrians",
+        "lyran-expansion",
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "The source's account of a thirteen-planet system, Sol 13 naming, and quadrant population estimate."
+  ]
+}

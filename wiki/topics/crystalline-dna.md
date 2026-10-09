@@ -38,6 +38,16 @@ Source: [\#ADN \#SILICIO - ADN \#CARBONO - \#ASCENSIÓN - \#MINERVA \#SWARUU](ht
 
 Related topics: [Teleportation](teleportation.md).
 
+### src-b310ed9c99a3-c02
+
+Mari describes Taygetan DNA as 12-stranded and Swaruunian as 24-stranded, with extra strands storing higher-density memory.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [Más sobre Genética, Swaruuneanas y Otras Cosas, Video de Reacción (Actualizado)](https://swaruu.org/transcripts/mas-sobre-genetica-swaruuneanas-y-otras-cosas-video-de-reaccion-actualizado) (2024-08-09; es); passages p0015, p0016, p0019. [Structured record](../../records/src-b310ed9c99a3.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-f806bbf625d9-c05](lurkers.md#src-f806bbf625d9-c05) — Lurkers
@@ -45,9 +55,12 @@ Related topics: [Teleportation](teleportation.md).
 - [src-a5922967f589-c01](dna-metaphysics.md#src-a5922967f589-c01) — DNA and metaphysical patterns
 - [src-2be77fc03489-c01](dna-metaphysics.md#src-2be77fc03489-c01) — DNA and metaphysical patterns
 - [src-b48ede308895-c02](medical-pods.md#src-b48ede308895-c02) — Medical regeneration pods
+- [src-b310ed9c99a3-c03](dna-metaphysics.md#src-b310ed9c99a3-c03) — DNA and metaphysical patterns
+- [src-b310ed9c99a3-c05](dna-metaphysics.md#src-b310ed9c99a3-c05) — DNA and metaphysical patterns
 
 ## Review flags
 
 - Claims describe Yazhi's metaphysical account of DNA and are not presented as established biology.
 - Medical technology claims are attributed to Yazhi.
+- The narrator distinguishes her metaphysical account from Earth science and says it lacks the evidence conventionally required; preserve attribution.
 - internal-count-conflict:swaruwnian-chromosomes

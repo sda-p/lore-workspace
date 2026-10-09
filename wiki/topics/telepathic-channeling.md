@@ -104,14 +104,113 @@ Source: [Intuición, Lógica y Corazón - La Búsqueda de la "Verdad"](https://s
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-85ac7d1ce798-c02
+
+Mari says telepathic thought fields can shape decisions; recognizing borrowed thoughts may increase agency.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Libre Albedrío](https://swaruu.org/transcripts/libre-albedrio) (2024-05-03; es); passages p0016, p0018. [Structured record](../../records/src-85ac7d1ce798.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-b5287bde7dbd-c02
+
+Mari describes collective unconscious as a telepathic field that coordinates group ideas, with distance irrelevant to ether-mediated communication.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El Inconsciente Colectivo - (Re-Subido)](https://swaruu.org/transcripts/el-inconsciente-colectivo-re-subido) (2023-10-21; es); passages p0016, p0019, p0023. [Structured record](../../records/src-b5287bde7dbd.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-cc22fe9b0951-c02
+
+Yazhi describes influencing a group timeline as telepathically understanding people’s wants and shifting how they interpret memories and ideas toward a shared scenario. She says this rearranges meanings rather than creating memories from nothing.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Charla Metafísica con Yazhi Swaruu sobre como Influenciar las Líneas Colectivas](https://swaruu.org/transcripts/charla-metafisica-con-yazhi-swaruu-sobre-como-influenciar-las-lineas-colectivas) (2023-10-28; es); passages p0009, p0010, p0011, p0012. [Structured record](../../records/src-cc22fe9b0951.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-cc22fe9b0951-c03
+
+Yazhi says mental barriers can block telepathic intrusion, while ordinary speech and interaction also alter another person’s reality and timeline.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Charla Metafísica con Yazhi Swaruu sobre como Influenciar las Líneas Colectivas](https://swaruu.org/transcripts/charla-metafisica-con-yazhi-swaruu-sobre-como-influenciar-las-lineas-colectivas) (2023-10-28; es); passages p0022, p0026, p0028. [Structured record](../../records/src-cc22fe9b0951.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-03f55453575e-c01
+
+Athena considers “light language” authentic, describing repeated phonemes as vehicles for telepathic messages rather than meaningless babbling. She says its source may be past-life memories, nonhuman lives, or direct channeling, and she cannot identify a specific language.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Lenguaje de Luz - Que Piensa Athena Swaruu? La Opinion de una Persona Extraterrestre](https://swaruu.org/transcripts/lenguaje-de-luz-que-piensa-athena-swaruu-la-opinion-de-una-persona-extraterrestre) (2024-01-22; es); passages p0006, p0007, p0009, p0016. [Structured record](../../records/src-03f55453575e.json).
+
+Related topics: [Taygetan language](taygetan-language.md).
+
+### src-03f55453575e-c02
+
+Athena says light-language sounds may reactivate memories and provoke strong emotions, such as crying, depending on the listener.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Lenguaje de Luz - Que Piensa Athena Swaruu? La Opinion de una Persona Extraterrestre](https://swaruu.org/transcripts/lenguaje-de-luz-que-piensa-athena-swaruu-la-opinion-de-una-persona-extraterrestre) (2024-01-22; es); passages p0020. [Structured record](../../records/src-03f55453575e.json).
+
+### src-03f55453575e-c03
+
+Athena recommends listening only to speakers she considers clearly high-frequency, warning that other speech may contain dangerous spells.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Lenguaje de Luz - Que Piensa Athena Swaruu? La Opinion de una Persona Extraterrestre](https://swaruu.org/transcripts/lenguaje-de-luz-que-piensa-athena-swaruu-la-opinion-de-una-persona-extraterrestre) (2024-01-22; es); passages p0022. [Structured record](../../records/src-03f55453575e.json).
+
+### src-30dde9581dd8-c02
+
+Mari describes a shared telepathic field through which people exchange thoughts and emotions, with receptivity shaped by personal vibration.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Nunca estás realmente solo, Parte 2](https://swaruu.org/transcripts/nunca-estas-realmente-solo-parte-2) (2023-12-25; es); passages p0017, p0018, p0019, p0020, p0021. [Structured record](../../records/src-30dde9581dd8.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-afdc7253ce04-c03
+
+Mari says telepathy and collective consciousness can influence thoughts and emotions, which people may mistake for their own.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Los Guerreros Astrales, Parte 2, Episodio 4](https://swaruu.org/transcripts/los-guerreros-astrales-parte-2-episodio-4) (2024-10-11; es); passages p0016, p0017, p0018. [Structured record](../../records/src-afdc7253ce04.json).
+
+Related topics: [Starseeds](starseeds.md), [Egregors](egregors.md).
+
 ## Claims filed under other topics
 
 - [src-bc6ca9130ba5-c03](galactic-federation.md#src-bc6ca9130ba5-c03) — Galactic Federation
 - [src-2dc5849bd700-c03](prime-directive.md#src-2dc5849bd700-c03) — Prime Directive
+- [src-b5287bde7dbd-c03](consciousness-metaphysics.md#src-b5287bde7dbd-c03) — Consciousness and metaphysics
+- [src-410360813ac6-c03](alpha-draconians.md#src-410360813ac6-c03) — Alpha Draconians
+- [src-8ee420a4a174-c02](akashic-records.md#src-8ee420a4a174-c02) — Akashic records
+- [src-9d22c8ed0ce3-c02](taygetan-language.md#src-9d22c8ed0ce3-c02) — Taygetan language
+- [src-156e62aff826-c03](etorthans.md#src-156e62aff826-c03) — Etorthans
+- [src-321671be4604-c03](solatians.md#src-321671be4604-c03) — Solatians
 
 ## Review flags
 
+- Claims about Solatians, telepathic projection, and starseed intervention are attributed to Mari and not independently established.
+- Claims about astral entities, telepathy, and manifestation are attributed to Mari.
 - Claims about psychics, telepathy, and entities are attributed to the named speakers, not independently verified.
+- Claims about spirit guides, telepathy, and hostile astral entities are attributed to Mari.
+- Claims about telepathy and collective reality are attributed to Mari Swaruu.
+- Mari's earthquake-as-offering theory is explicitly speculative and unverified.
+- Metaphysical assertions are attributed to Mari Swaruu.
+- The Federation audit is a past forecast reported in a November 2023 transcript.
 - The author presents telepathy and thought-form manifestation as factual; these claims remain attributed.
 - The first-person extraterrestrial identity and contact-policy claims are preserved as speaker claims.
 - gender-and-sexuality-conspiracy-claims-omitted

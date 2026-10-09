@@ -114,6 +114,26 @@ Source: [Las Guerras de Orion - Invasion Reptil - Atlantida y Lemuria - Parte 3 
 
 Related topics: [Lyran expansion](lyran-expansion.md), [Reptilians](reptilians.md), [Atlantis and Lemuria](atlantis-lemuria.md).
 
+### src-4974a0149f11-c02
+
+The Urmah say they repelled an Orion invasion at Rigel 7, where Etorthans fought alongside a larger Orion alliance. The Urmah describe this as a late Orion Wars battle.
+
+Attributed to **Mari Swaruu, relaying Urmah account**; reported; extraction confidence: high.
+
+Source: [Destacamento Etorthiano llegando y Urmah vs Etorthans](https://swaruu.org/transcripts/destacamento-etorthiano-llegando-y-urmah-vs-etorthans) (2023-12-01; es); passages p0027, p0028, p0029, p0030, p0031. [Structured record](../../records/src-4974a0149f11.json).
+
+Related topics: [Urmah](urmah.md).
+
+### src-54a6b17189d3-c01
+
+Yazhi says an Orion Council alliance led by Alpha Draconis invaded Vega, Avalon, and Lyra about one million years ago, scattering peaceful Lyrians in the Great Expansion.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Misterios de Orión: Leyendas cósmicas - Parte 1](https://swaruu.org/transcripts/the-orion-wars-part-one) (2025-04-19; es); passages p0003. [Structured record](../../records/src-54a6b17189d3.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md), [Reptilian invaders](reptilian-invaders.md), [Alpha Draconians](alpha-draconians.md).
+
 ## Claims filed under other topics
 
 - [src-03f88504384a-c01](lyran-expansion.md#src-03f88504384a-c01) — Lyran expansion
@@ -135,13 +155,20 @@ Related topics: [Lyran expansion](lyran-expansion.md), [Reptilians](reptilians.m
 - [src-791b660d5229-c01](alpha-draconians.md#src-791b660d5229-c01) — Alpha Draconians
 - [src-f10960087bcd-c01](taygetans.md#src-f10960087bcd-c01) — Taygetans
 - [src-07f9f86e1027-c02](lyrians.md#src-07f9f86e1027-c02) — Lyrians
+- [src-03a767caa709-c02](galactic-federation.md#src-03a767caa709-c02) — Galactic Federation
+- [src-881f2f6deaf1-c01](lyran-expansion.md#src-881f2f6deaf1-c01) — Lyran expansion
+- [src-4d57ad423d19-c02](tiamat.md#src-4d57ad423d19-c02) — Tiamat
+- [src-54a6b17189d3-c02](galactic-federation.md#src-54a6b17189d3-c02) — Galactic Federation
 
 ## Review flags
 
+- Contradictory Federation and Urmah accounts of Etorthan history and alignment.
 - Federation-infiltration\_theory
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
+- Statements about current faction activity are attributed to Mari Swaruu and are time-specific.
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - The author explicitly framed this material as entertainment or science fiction; claims are attributed to Mari.
+- The source presents unverified alternative-history claims about ancient civilizations and warfare.
 - ancient-solar-system-density-and-polity-claims
 - approximate\_dates
 - conflicting\_faction\_accounts

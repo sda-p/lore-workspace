@@ -1,0 +1,71 @@
+{
+  "source_id": "src-27c6cbbb1fd4",
+  "snapshot_sha256": "dfea41d04244f919c69feaaf338e9f1779ecd60d860d05307086812a6d5f8768",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-27c6cbbb1fd4-c01",
+      "assertion": "Gosia says ethical judgments among species depend on cultural perspectives and conflicting interests; what seems harmful to humans may be viewed differently elsewhere.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-27c6cbbb1fd4-c02",
+      "assertion": "Gosia says the Federation permits some conflicts to encourage human spiritual and mental development, though this can appear cruel from Earth’s perspective.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She attributes this rationale to off-world accounts."
+    },
+    {
+      "id": "src-27c6cbbb1fd4-c03",
+      "assertion": "Gosia describes many star cultures as benevolent, but says regressive Reptilian, Draco, and Grey factions covertly exploit humans; she cautions that not all Reptilians or Greys are negative.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0032",
+        "p0033",
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians",
+        "alpha-draconians",
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Passive and semiregressive groups and details about astral entities omitted"
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "batch_id": "continuous-020",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-0c76e94a437f",
+    "src-b9d71dd88442",
+    "src-1be7c951727d",
+    "src-a91c2e17d4b8",
+    "src-309667cbe10f",
+    "src-f929113f2b30",
+    "src-9486adf569be",
+    "src-7e2d3128e0af",
+    "src-fdf489614ae3",
+    "src-2cbb8e402073",
+    "src-4ac5bfb36d51",
+    "src-376885ee0493",
+    "src-88b24c836599",
+    "src-54bbabbb37ca",
+    "src-058d0ecab214",
+    "src-1233f3d1dc31",
+    "src-8afe7430b1fb",
+    "src-beb2c96534c2",
+    "src-8b42b2cf75ae",
+    "src-4b785d394c48",
+    "src-fbcfb08500c9",
+    "src-658fa354e1ba",
+    "src-0cb068df4dc2",
+    "src-d8c144de6128",
+    "src-6496ca50abb5",
+    "src-818ff317b4f9",
+    "src-04cc258b5444",
+    "src-087e0abdd6c2",
+    "src-9b6c9c7ff268",
+    "src-be1186902ee6",
+    "src-21d1a70ddcdd",
+    "src-e1ec78bd0f7c",
+    "src-b310ed9c99a3",
+    "src-1a481912cd2c",
+    "src-8736a59bfcab",
+    "src-1fea626a42d3",
+    "src-7507aaf9433f",
+    "src-437b17835fc7",
+    "src-0430f50a8534",
+    "src-bf96c32410fe",
+    "src-af6d9052a9bc",
+    "src-d87fe5c79f3f",
+    "src-a608ed423baf",
+    "src-1b4c9e87af9a",
+    "src-87c7b2fdd725",
+    "src-42e4070c0221",
+    "src-bbcda30708c9",
+    "src-5ca9faa9c682",
+    "src-9d1d21026c83",
+    "src-f2ce50705052",
+    "src-d14132fc678e",
+    "src-e97ad68aea23",
+    "src-fdacc4ddb847",
+    "src-6cdd5b495d4b",
+    "src-fa079be7128e",
+    "src-036cd2f853c6",
+    "src-73164e90f119",
+    "src-21a91506e065",
+    "src-afdc7253ce04",
+    "src-f0177a1a5739",
+    "src-bf20b9538884",
+    "src-53866cce2150",
+    "src-76114790928e",
+    "src-16146808b4e9",
+    "src-aa6b810026d1",
+    "src-75592048aefd",
+    "src-a431c798e8b4",
+    "src-79e2266995cb",
+    "src-4dcd4b4bbb3e",
+    "src-35d30319a131",
+    "src-4d57ad423d19",
+    "src-424eb87288db",
+    "src-a47faa48bd71",
+    "src-f720e13266de",
+    "src-bb1546ca3954",
+    "src-65adcbdf271b",
+    "src-f6679288cfba",
+    "src-e07ab2a092b3",
+    "src-339d9a027f08",
+    "src-7751a4d57af2"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-0c76e94a437f",
+      "claim_id": "src-0c76e94a437f-c01",
+      "problem": "The qualifier that the account derives from Taygetan sources was not supported by cited paragraph p0006 alone.",
+      "action": "Added p0065, where Gosia explains the compilation’s source and attribution.",
+      "paragraph_ids": [
+        "p0065"
+      ]
+    },
+    {
+      "source_id": "src-b9d71dd88442",
+      "claim_id": "src-b9d71dd88442-c01",
+      "problem": "Initial review questioned “unconditional” without reading the cited passage context in full.",
+      "action": "After reading p0012, restored the explicit “no conditions” qualifier and added p0012 to citations; source further says support did not obligate them to continue sharing.",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012"
+      ]
+    },
+    {
+      "source_id": "src-309667cbe10f",
+      "claim_id": "src-309667cbe10f-c01",
+      "problem": "The qualifier that the five-day meditation was not intentional time travel lacked citations to the dialogue explaining the five-day absence and Yazhi’s denial of time travel.",
+      "action": "Added p0031 and p0035.",
+      "paragraph_ids": [
+        "p0031",
+        "p0035"
+      ]
+    },
+    {
+      "source_id": "src-9486adf569be",
+      "claim_id": "src-9486adf569be-c02",
+      "problem": "Citations did not directly support the points that extraction cannot remove external-life difficulties and can be used as an escapist rationale.",
+      "action": "Added p0024 and p0031 for those details.",
+      "paragraph_ids": [
+        "p0024",
+        "p0031"
+      ]
+    },
+    {
+      "source_id": "src-7e2d3128e0af",
+      "claim_id": "src-7e2d3128e0af-c05",
+      "problem": "The phrasing that AI “protects Taygeta” overstated the source, which describes a system safeguard that a rogue pilot nevertheless violated.",
+      "action": "Rephrased to distinguish programmed policy, the rogue pilot’s action and destruction of the craft, and the AI’s obedience to pilot orders.",
+      "paragraph_ids": [
+        "p0031",
+        "p0033"
+      ]
+    },
+    {
+      "source_id": "src-2cbb8e402073",
+      "claim_id": "src-2cbb8e402073-c02",
+      "problem": "The qualifier citing Yazhi’s later roof/weather description was not supported by c02 paragraph references.",
+      "action": "Added p0075 for the simulated sky lighting, weather tubes, wind generators, and cloud mechanisms.",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0041",
+        "p0075"
+      ]
+    },
+    {
+      "source_id": "src-8b42b2cf75ae",
+      "claim_id": "src-8b42b2cf75ae-c02",
+      "problem": "The “chanted” detail was not supported by the cited paragraphs, which showed drums and the later roar/purr.",
+      "action": "Added p0032 and p0033, which describe the Urmah singing/chanting in their language while striking the scepters and drumming. Direct validator passed (66 paraphrase words).",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ]
+    },
+    {
+      "source_id": "src-fbcfb08500c9",
+      "claim_id": "src-fbcfb08500c9-c01",
+      "problem": "The speculative abduction possibility and its attribution to Zeta permissions were in p0008, omitted from claim citations.",
+      "action": "Added p0008; all three claims checked against full cited context and direct validator passed (69 paraphrase words).",
+      "paragraph_ids": [
+        "p0008"
+      ]
+    },
+    {
+      "source_id": "src-0cb068df4dc2",
+      "claim_id": "src-0cb068df4dc2-c05",
+      "problem": "The claim includes a sleeping pilot, but the cited paragraphs only supported encrypted muon communication and intervention for an unconscious pilot.",
+      "action": "Added p0065, which provides the sleeping-pilot question answered in p0066. Direct validator passed (75 words).",
+      "paragraph_ids": [
+        "p0065"
+      ]
+    },
+    {
+      "source_id": "src-d8c144de6128",
+      "claim_id": "src-d8c144de6128-c01",
+      "problem": "The qualifier that Mari described the storm as natural was not supported by the cited paragraphs.",
+      "action": "Added p0036, which says it appeared to be a completely natural weather event and notes no evidence linking it to a crime. Direct validator passed (82 words).",
+      "paragraph_ids": [
+        "p0036"
+      ]
+    },
+    {
+      "source_id": "src-818ff317b4f9",
+      "claim_id": "src-818ff317b4f9-c01",
+      "problem": "Citations supported frequency mapping and field generation but omitted the explicit muon transmission statement and the daily-use/entertainment examples summarized in the qualifier.",
+      "action": "Added p0025 for remote transmission via muon leptons and p0029–p0030 for crew/family use and recreation. Direct validator passed (78 words).",
+      "paragraph_ids": [
+        "p0025",
+        "p0029",
+        "p0030"
+      ]
+    },
+    {
+      "source_id": "src-be1186902ee6",
+      "claim_id": "src-be1186902ee6-c02",
+      "problem": "“Genetic evidence from a Saturn-based laboratory” ambiguously implied samples originated from a Saturn lab; the source says genetic traces linked the pathogen to a lab at the Solar System Federation headquarters, based on information from Urmah allies.",
+      "action": "Reworded the claim to identify the source’s asserted trace-to-laboratory link accurately. Direct validator passed (81 words).",
+      "paragraph_ids": [
+        "p0016"
+      ]
+    },
+    {
+      "source_id": "src-8736a59bfcab",
+      "claim_id": "src-8736a59bfcab-c01",
+      "problem": "The source scoped the astral-as-unified-consciousness framing to “some of us,” while the claim generalized it.",
+      "action": "Added a qualifier preserving that scope. Direct validator passed (82 words).",
+      "paragraph_ids": [
+        "p0006",
+        "p0008"
+      ]
+    },
+    {
+      "source_id": "src-1fea626a42d3",
+      "claim_id": "src-1fea626a42d3-c04",
+      "problem": "The source did not directly establish that Elohi used the portal; it separately described the portal as heavily used and said the Elohi probably built its doorway. The prior claim overstated the relationship and lacked citations for probability.",
+      "action": "Reworded to match the source and cited the interview passages on portal use, Elohi, likely construction, and dating. Direct validator passed at the full 85-word budget.",
+      "paragraph_ids": [
+        "p0043",
+        "p0044",
+        "p0046",
+        "p0048",
+        "p0050"
+      ]
+    },
+    {
+      "source_id": "src-d14132fc678e",
+      "claim_id": "src-d14132fc678e-c01",
+      "problem": "The qualifier says Mari acknowledged she had no proof, but the cited paragraphs omitted that admission.",
+      "action": "Added p0024, where she explicitly says she has no proof and is offering her point of view. Direct validator passed (64 words).",
+      "paragraph_ids": [
+        "p0024"
+      ]
+    },
+    {
+      "source_id": "src-e97ad68aea23",
+      "claim_id": "src-e97ad68aea23-c03",
+      "problem": "The qualifier says Mari remained unsure who or what the lion was, but the citations ended before her explicit question about its identity.",
+      "action": "Added p0020, where she wonders whether it was an ancient Urmah king and asks what the blue lion was. Direct validator passed at 85 words.",
+      "paragraph_ids": [
+        "p0020"
+      ]
+    },
+    {
+      "source_id": "src-6cdd5b495d4b",
+      "claim_id": "src-6cdd5b495d4b-c01",
+      "problem": "The qualifier that the interviewer described the timeline as approximate lacked the interviewer’s paragraph in the citation list.",
+      "action": "Added p0003. Direct validator passed (55 words).",
+      "paragraph_ids": [
+        "p0003"
+      ]
+    },
+    {
+      "source_id": "src-036cd2f853c6",
+      "claim_id": "src-036cd2f853c6-c01",
+      "problem": "The qualifier that the model human-settlement area serves as a training space was not cited.",
+      "action": "Added p0015, which describes the replicated human street as familiarization training for Taygetan cadets. Direct validator passed (80 words).",
+      "paragraph_ids": [
+        "p0015"
+      ]
+    },
+    {
+      "source_id": "src-f0177a1a5739",
+      "claim_id": "src-f0177a1a5739-c01",
+      "problem": "The qualifier distinguishing mirrors from ordinary lookalikes was unsupported by the claim’s citations.",
+      "action": "Added p0029 and p0055, which distinguish a deeper mirror phenomenon from simple resemblance. Direct validator passed (71 words).",
+      "paragraph_ids": [
+        "p0029",
+        "p0055"
+      ]
+    },
+    {
+      "source_id": "src-f0177a1a5739",
+      "claim_id": "src-f0177a1a5739-c02",
+      "problem": "The qualifier that the phenomenon is poorly understood and that lookalikes alone are not mirrors lacked support.",
+      "action": "Added p0024 for Yazhi’s statement that explanations are incomplete and p0055 distinguishing lookalikes from mirrors. Direct validator passed (71 words).",
+      "paragraph_ids": [
+        "p0024",
+        "p0055"
+      ]
+    },
+    {
+      "source_id": "src-aa6b810026d1",
+      "claim_id": "src-aa6b810026d1-c03",
+      "problem": "The qualifier that the computers are sentient and incompatible with human internet was not cited.",
+      "action": "Added p0042, where Yazhi says they are self-aware and that human internet would overload them. Direct validator passed (75 words).",
+      "paragraph_ids": [
+        "p0042"
+      ]
+    }
+  ],
+  "unresolved": []
+}

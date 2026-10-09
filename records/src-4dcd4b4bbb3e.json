@@ -1,0 +1,43 @@
+{
+  "source_id": "src-4dcd4b4bbb3e",
+  "snapshot_sha256": "dfa82f1c7d467d8adff5bae3666664647d9a3ec61ac63c19cd4d22bc0fe21624",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4dcd4b4bbb3e-c01",
+      "assertion": "Mari Swa says biological bodies limit perception to the material world, while astral realms contain entities that can affect living people.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0004", "p0005", "p0006"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "interdimensional-parasites"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4dcd4b4bbb3e-c02",
+      "assertion": "Mari Swa says low-astral entities attach to places and may react to visitors; she treats subtle emotional responses as possible signs of their influence.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0010", "p0013", "p0014", "p0018", "p0019"],
+      "primary_topic": "interdimensional-parasites",
+      "topics": ["interdimensional-parasites", "egregors", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says entities may not always perceive visitors either."
+    },
+    {
+      "id": "src-4dcd4b4bbb3e-c03",
+      "assertion": "Mari Swa recommends connecting with Source and imagining a bright energetic shield, which she says focused creative attention manifests and helps maintain higher vibration.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0016", "p0017"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "interdimensional-parasites"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her proposed protection practice."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["Aura and orb descriptions; her account of how place memories and collective interpretation shape perceived vibrations."]
+}

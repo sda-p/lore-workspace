@@ -1228,6 +1228,274 @@ Attributed to **Yazhi Swaruu and Swaruu X (Athena)**; asserted; extraction confi
 
 Source: [NAVE EXTRATERRESTRE ESTRELLADA EN EL MAR RAZAS EXTRATERRESTRES GRISES Y NAVE URMAH](https://swaruu.org/transcripts/nave-extraterrestre-estrellada-en-el-mar-razas-extraterrestres-grises-y-nave-urmah) (2023-09-13; es); passages p0031, p0033. [Structured record](../../records/src-e473d0c4d7a7.json).
 
+### src-bc90a28d3260-c01
+
+Athena estimates the Urmah Federation controls hundreds of thousands of systems, possibly matching the Galactic Federation in scale. She does not give an exact count.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Athena Swaruu - Recopilación de Todas las Preguntas Respondidas en el Directo (CON LA SORPRESA)](https://swaruu.org/transcripts/athena-swaruu-recopilacion-de-todas-las-preguntas-respondidas-en-el-directo-con-la-sorpresa) (2023-12-19; es); passages p0018, p0019. [Structured record](../../records/src-bc90a28d3260.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-bc90a28d3260-c02
+
+Athena says Urmah, Taygeta, and Alcyone oppose Federation directives on Earth; Urmah avoid military action to prevent wider war.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu - Recopilación de Todas las Preguntas Respondidas en el Directo (CON LA SORPRESA)](https://swaruu.org/transcripts/athena-swaruu-recopilacion-de-todas-las-preguntas-respondidas-en-el-directo-con-la-sorpresa) (2023-12-19; es); passages p0091, p0092, p0094, p0187, p0188. [Structured record](../../records/src-bc90a28d3260.json).
+
+Related topics: [Taygetans](taygetans.md), [Alcyone Council](alcyone-council.md), [Galactic Federation](galactic-federation.md).
+
+### src-36d1c2cc2b42-c03
+
+Mari says Urmah remain members of the local Federation despite disagreeing with it, and describes them as heavily militarized and direct about their intentions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Situación Alrededor de la Tierra, Diciembre de 2023](https://swaruu.org/transcripts/la-situacion-alrededor-de-la-tierra-diciembre-de-2023) (2023-12-11; es); passages p0029, p0031. [Structured record](../../records/src-36d1c2cc2b42.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-eee7cda4be63-c02
+
+Gosia praises the Urmah for guarding Earth from orbit and urges starseeds to maintain solidarity despite personal disagreements.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Este video es para todas las Fuerzas Regresivas influenciando la Tierra](https://swaruu.org/transcripts/este-video-es-para-todas-las-fuerzas-regresivas-influenciando-la-tierra) (2023-12-06; es); passages p0005, p0012, p0014. [Structured record](../../records/src-eee7cda4be63.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-7979e44104d7-c01
+
+Mari says Avyon near Vega is the Urmah homeworld, about 25 light-years from Earth; Urmah live across the galaxy.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Los Urmah, Pueblo Felino](https://swaruu.org/transcripts/los-urmah-pueblo-felino) (2023-12-07; es); passages p0003, p0004, p0025, p0026. [Structured record](../../records/src-7979e44104d7.json).
+
+Related topics: [Urmah Federation](urmah-federation.md).
+
+### src-7979e44104d7-c02
+
+Urmah society has a holistic monarchy and High Council; lions lead, tigers serve militarily, and other felines fill varied roles.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Los Urmah, Pueblo Felino](https://swaruu.org/transcripts/los-urmah-pueblo-felino) (2023-12-07; es); passages p0014, p0015, p0016, p0017. [Structured record](../../records/src-7979e44104d7.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-701161a49196-c02
+
+Mari says the Urmah grow meat tissue in food laboratories and also sometimes hunt traditionally. She says their cultured tissue has never been part of an animal.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El Problema de la Comida y la Dieta en la Tierra](https://swaruu.org/transcripts/el-problema-de-la-comida-y-la-dieta-en-la-tierra) (2024-04-21; es); passages p0041, p0042. [Structured record](../../records/src-701161a49196.json).
+
+### src-94a76cc92296-c03
+
+Arishah says Urmah monitor their starseeds through orbital technology, drones, and telepathy, but have limited direct contact. He attributes the restriction to Federation rules.
+
+Attributed to **Arishah**; asserted; extraction confidence: high.
+
+Source: [Arishah, el Tigre Urmah, entrevista 23 de febrero de 2024](https://swaruu.org/transcripts/arishah-el-tigre-urmah-entrevista-23-de-febrero-de-2024) (2024-02-25; es); passages p0025, p0026. [Structured record](../../records/src-94a76cc92296.json).
+
+Related topics: [Starseeds](starseeds.md), [Nonhuman surveillance drones](nonhuman-surveillance-drones.md).
+
+### src-94a76cc92296-c04
+
+Arishah calls Earth cats Urmah family and starseeds, urging people to care for them.
+
+Attributed to **Arishah**; asserted; extraction confidence: high.
+
+Source: [Arishah, el Tigre Urmah, entrevista 23 de febrero de 2024](https://swaruu.org/transcripts/arishah-el-tigre-urmah-entrevista-23-de-febrero-de-2024) (2024-02-25; es); passages p0029, p0030, p0031, p0033. [Structured record](../../records/src-94a76cc92296.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-bc06a6f6252f-c01
+
+Arishah rejects compulsory service-to-others, saying it enables abuse and suppresses individuality; Urmah teach personal development first, then helping from strength.
+
+Attributed to **Arishah**; asserted; extraction confidence: high.
+
+Source: [Arishah, el Tigre Urmah, entrevista 23 de febrero de 2024. Parte 2](https://swaruu.org/transcripts/arishah-el-tigre-urmah-entrevista-23-de-febrero-de-2024-parte-2) (2024-02-27; es); passages p0008, p0009, p0011, p0012, p0013, p0014. [Structured record](../../records/src-bc06a6f6252f.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-bc06a6f6252f-c02
+
+Arishah says Alpha Draco societies vary: some exploit others, while positive groups protect species and cooperate with Urmah against regressive Dracos.
+
+Attributed to **Arishah**; asserted; extraction confidence: high.
+
+Source: [Arishah, el Tigre Urmah, entrevista 23 de febrero de 2024. Parte 2](https://swaruu.org/transcripts/arishah-el-tigre-urmah-entrevista-23-de-febrero-de-2024-parte-2) (2024-02-27; es); passages p0018, p0019, p0020, p0021. [Structured record](../../records/src-bc06a6f6252f.json).
+
+Related topics: [Orion Council](orion-council.md), [Alien species and distinctions](alien-species.md).
+
+### src-88b1b2aa8184-c01
+
+Mari says Urmah are large, semi-bipedal felines; their high council includes smaller advanced feline species they protect.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Los Urmah, Parte 1, Preludio y contexto desde el punto de vista de la cultura de la Tierra](https://swaruu.org/transcripts/los-urmah-parte-1-preludio-y-contexto-desde-el-punto-de-vista-de-la-cultura-de-la-tierra) (2023-12-05; es); passages p0024, p0025, p0026. [Structured record](../../records/src-88b1b2aa8184.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-88b1b2aa8184-c02
+
+Mari links Urmah cultural traits to Egyptian cat deities and claims Urmah influenced predynastic Egypt and the Giza area. She attributes the historical account to Taygetean and Federation records.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Los Urmah, Parte 1, Preludio y contexto desde el punto de vista de la cultura de la Tierra](https://swaruu.org/transcripts/los-urmah-parte-1-preludio-y-contexto-desde-el-punto-de-vista-de-la-cultura-de-la-tierra) (2023-12-05; es); passages p0011, p0019, p0021, p0022. [Structured record](../../records/src-88b1b2aa8184.json).
+
+Related topics: [Giza Labyrinth](giza-labyrinth.md).
+
+### src-e97ad68aea23-c01
+
+Mari says Urmah purring produced a calming vibration and emotional release.
+
+Attributed to **Mari Swa (narrator)**; reported; extraction confidence: high.
+
+Source: [Los Urmah me Curaron. Parte 2, Cara a Cara con el Gato Cósmico que dije que no existía](https://swaruu.org/transcripts/los-urmah-me-curaron-parte-2-cara-a-cara-con-el-gato-cosmico-que-dije-que-no-existia) (2024-11-05; es); passages p0006, p0007. [Structured record](../../records/src-e97ad68aea23.json).
+
+Related topics: [Astral Travel](astral-travel.md).
+
+### src-e97ad68aea23-c03
+
+The lion called Mari an Urmah soul and family, predicting her return after her mission. Mari remained unsure who or what the lion was.
+
+Attributed to **Blue lion entity, as reported by Mari**; reported; extraction confidence: high.
+
+Source: [Los Urmah me Curaron. Parte 2, Cara a Cara con el Gato Cósmico que dije que no existía](https://swaruu.org/transcripts/los-urmah-me-curaron-parte-2-cara-a-cara-con-el-gato-cosmico-que-dije-que-no-existia) (2024-11-05; es); passages p0017, p0018, p0020. [Structured record](../../records/src-e97ad68aea23.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-13a3aaa8e506-c01
+
+Mari says Urmah see astral aspects as ordinary reality; they are feline, not Lyrian.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [Los Urmah me Curaron. Parte 3, Consecuencias y Conclusiones](https://swaruu.org/transcripts/los-urmah-me-curaron-parte-3-consecuencias-y-conclusiones) (2024-11-08; es); passages p0006, p0007. [Structured record](../../records/src-13a3aaa8e506.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-13a3aaa8e506-c02
+
+She identifies as an Urmah starseed in a Lyrian body, with souls migrating across species.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [Los Urmah me Curaron. Parte 3, Consecuencias y Conclusiones](https://swaruu.org/transcripts/los-urmah-me-curaron-parte-3-consecuencias-y-conclusiones) (2024-11-08; es); passages p0008, p0009. [Structured record](../../records/src-13a3aaa8e506.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-13a3aaa8e506-c03
+
+Mari says Urmah sounds induced trance; she interpreted a guide as exposing grief and guilt. The guide’s appearance may reflect her own interpretation.
+
+Attributed to **Mari Swa (narrator)**; reported; extraction confidence: high.
+
+Source: [Los Urmah me Curaron. Parte 3, Consecuencias y Conclusiones](https://swaruu.org/transcripts/los-urmah-me-curaron-parte-3-consecuencias-y-conclusiones) (2024-11-08; es); passages p0010, p0011, p0013, p0014. [Structured record](../../records/src-13a3aaa8e506.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
+### src-13a3aaa8e506-c05
+
+Her fungal lung infection remained; she says Urmah help only when they choose.
+
+Attributed to **Mari Swa (narrator)**; asserted; extraction confidence: high.
+
+Source: [Los Urmah me Curaron. Parte 3, Consecuencias y Conclusiones](https://swaruu.org/transcripts/los-urmah-me-curaron-parte-3-consecuencias-y-conclusiones) (2024-11-08; es); passages p0021, p0022. [Structured record](../../records/src-13a3aaa8e506.json).
+
+Related topics: [Taygetan medicine](taygetan-medicine.md).
+
+### src-8b42b2cf75ae-c01
+
+Mari Swa attributes her worsening health partly to a possible astral attack and says King Ruhr invited her to an Urmah healing procedure. She frames the cause as a possibility; this installment does not report a medical diagnosis.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Los Urmah me Curaron](https://swaruu.org/transcripts/los-urmah-me-curaron) (2024-11-03; es); passages p0004, p0005, p0006, p0007. [Structured record](../../records/src-8b42b2cf75ae.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
+### src-8b42b2cf75ae-c02
+
+Mari recounts that Urmah gathered around her, chanted and drummed, then produced a soothing collective purr that prompted intense crying. This is her first-person account of the ceremony.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Los Urmah me Curaron](https://swaruu.org/transcripts/los-urmah-me-curaron) (2024-11-03; es); passages p0029, p0031, p0032, p0033, p0034, p0036. [Structured record](../../records/src-8b42b2cf75ae.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-b0f527e60507-c01
+
+Mari Swa says the Alcyone Council and Urmah signed a treaty extending mutual defense and cooperation across participating M45 and Urmah groups. She says the agreement covers military and other forms of aggression.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 40, Nuevo Tratado Pleyadiano - Urmah, a detalle](https://swaruu.org/transcripts/noticias-espaciales-40-nuevo-tratado-pleyadiano-urmah-a-detalle) (2024-09-06; es); passages p0003, p0024, p0033, p0034, p0036. [Structured record](../../records/src-b0f527e60507.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-b0c08f43e491-c01
+
+Mari Swa says Alcyone Council and Urmah members formed a cooperation treaty for mutual protection, trade, and technology. She says Antaria was also considering joining.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 42. Actualización de la Federación Galáctica y del Consejo de Alcyone](https://swaruu.org/transcripts/noticias-espaciales-42-actualizacion-de-la-federacion-galactica-y-del-consejo-de-alcyone) (2024-09-20; es); passages p0003, p0008, p0012. [Structured record](../../records/src-b0c08f43e491.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-482f728a3fc7-c01
+
+Mari Swa says Antarians planned to join the Alcyone-Urmah treaty, expanding the group’s cooperation. The signing was scheduled for October 20, 2024, in her account.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Noticias Espaciales 47, Mi Salud, Taygetanos Enfermos, Cosas de Reina en Temmer](https://swaruu.org/transcripts/noticias-espaciales-47-mi-salud-taygetanos-enfermos-cosas-de-reina-en-temmer) (2024-10-20; es); passages p0003. [Structured record](../../records/src-482f728a3fc7.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-4fb5deaadb02-c02
+
+Yazhi says she remembers a past life as an Urmah cat and links that memory to her group's affinity for cats and escort by Avyon Uno. She says most who remember this past-life connection do not discuss it much.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Charla espiritual profunda con Yazhi: Metafísica, Vidas Pasadas y Recuerdos de Urmah](https://swaruu.org/transcripts/charla-espiritual-profunda-con-yazhi-metafisica-vidas-pasadas-y-recuerdos-de-urmah) (2025-05-24; es); passages p0063, p0067, p0069. [Structured record](../../records/src-4fb5deaadb02.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-bf20b9538884-c03
+
+Mari says Urmah perceive spiritual realms within their biological senses, giving them a broader reality than Lyrian humans typically perceive. According to her account.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Unidad - No hay Reinos Existenciales, No hay Líneas de Tiempo, No hay Densidades, Ni Dimensiones](https://swaruu.org/transcripts/unidad-no-hay-reinos-existenciales-no-hay-lineas-de-tiempo-no-hay-densidades-ni-dimensiones) (2024-10-29; es); passages p0016, p0017, p0018, p0019. [Structured record](../../records/src-bf20b9538884.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-87c8ba600ace-c03
+
+Mari says Hyadeans on Merope are genetically identical to Urmah, whose homeworld Avyon orbits Vega.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Noticias Espaciales 39, Otro choque de un Caballero Negro, Nuevo Tratado Pleyadiano - Urmah](https://swaruu.org/transcripts/noticias-espaciales-39-otro-choque-de-un-caballero-negro-nuevo-tratado-pleyadiano-urmah) (2024-09-03; es); passages p0019. [Structured record](../../records/src-87c8ba600ace.json).
+
+Related topics: [Alcyone Council](alcyone-council.md).
+
 ## Claims filed under other topics
 
 - [src-1461dd27e63f-c08](alien-species.md#src-1461dd27e63f-c08) — Alien species and distinctions
@@ -1264,25 +1532,75 @@ Source: [NAVE EXTRATERRESTRE ESTRELLADA EN EL MAR RAZAS EXTRATERRESTRES GRISES Y
 - [src-ac04705c7e8d-c02](prime-directive.md#src-ac04705c7e8d-c02) — Prime Directive
 - [src-2e200138040b-c01](earth-cabal.md#src-2e200138040b-c01) — Earth Cabal and power structures
 - [src-2e200138040b-c02](holistic-society.md#src-2e200138040b-c02) — Holistic society
+- [src-c87798fe694b-c01](taygetans.md#src-c87798fe694b-c01) — Taygetans
+- [src-4974a0149f11-c02](orion-wars.md#src-4974a0149f11-c02) — Orion Wars
+- [src-410360813ac6-c02](alpha-draconians.md#src-410360813ac6-c02) — Alpha Draconians
+- [src-dd10c9648702-c01](consciousness-metaphysics.md#src-dd10c9648702-c01) — Consciousness and metaphysics
+- [src-dd10c9648702-c02](holistic-society.md#src-dd10c9648702-c02) — Holistic society
+- [src-dd10c9648702-c03](combat-doctrine.md#src-dd10c9648702-c03) — Combat doctrine
+- [src-98a32eb0aec0-c02](galactic-federation.md#src-98a32eb0aec0-c02) — Galactic Federation
+- [src-ef40f0e82ee3-c01](urmah-federation.md#src-ef40f0e82ee3-c01) — Urmah Federation
+- [src-94a76cc92296-c01](taygetan-language.md#src-94a76cc92296-c01) — Taygetan language
+- [src-94a76cc92296-c02](etorthans.md#src-94a76cc92296-c02) — Etorthans
+- [src-156e62aff826-c02](etorthans.md#src-156e62aff826-c02) — Etorthans
+- [src-bc06a6f6252f-c03](etorthans.md#src-bc06a6f6252f-c03) — Etorthans
+- [src-9ce83f769cba-c01](forshagh.md#src-9ce83f769cba-c01) — Forshagh
+- [src-9ce83f769cba-c02](forshagh.md#src-9ce83f769cba-c02) — Forshagh
+- [src-9ce83f769cba-c03](forshagh.md#src-9ce83f769cba-c03) — Forshagh
+- [src-4653f0e2c815-c03](etorthans.md#src-4653f0e2c815-c03) — Etorthans
+- [src-c5120a65216b-c03](alcyone-council.md#src-c5120a65216b-c03) — Alcyone Council
+- [src-e97ad68aea23-c02](astral-entities.md#src-e97ad68aea23-c02) — Astral entities
+- [src-e58c27053b29-c01](alcyone-council.md#src-e58c27053b29-c01) — Alcyone Council
+- [src-f720e13266de-c03](taygetan-medicine.md#src-f720e13266de-c03) — Taygetan medicine
+- [src-b0c08f43e491-c02](galactic-federation.md#src-b0c08f43e491-c02) — Galactic Federation
+- [src-8cf2c3cf5f7d-c01](starship-systems.md#src-8cf2c3cf5f7d-c01) — Starship systems
+- [src-5c5800b9d436-c02](reincarnation-cycles.md#src-5c5800b9d436-c02) — Reincarnation and karmic cycles
+- [src-4ac5bfb36d51-c02](druidic-traditions.md#src-4ac5bfb36d51-c02) — Druidic traditions
+- [src-63d593149f78-c01](galactic-federation.md#src-63d593149f78-c01) — Galactic Federation
+- [src-28eb435d6e7c-c03](galactic-federation.md#src-28eb435d6e7c-c03) — Galactic Federation
 
 ## Review flags
 
 - 3D containment rationale shifts across speakers and passages
 - Alcohol claims and spiritual effects are Mari’s assertions; avoid generalizing to all Alfratans
 - Alenym-attack-culprit-unknown
+- All claims are attributed to the speaker and reflect her account.
+- Antarctic activity and diplomatic claims are reported by Mari and not independently verified.
 - Ari-interview-translated-from-German-by-Mari
 - Athena-interview-original-English
+- Avyon is described as Vega’s second planet in p0003, but p0004 calls it the first.
 - Avyon-1 orbit and crew-size details omitted.
+- Claims about Urmah, ancient Egypt, extraterrestrial influence, and human origins are attributed to Mari and are unverified.
+- Claims about species, diplomacy, and telepathic influence are attributed to Arishah and not independently established.
+- Claims describe the speaker’s account of interstellar politics and are not independently verified.
+- Contradictory Federation and Urmah accounts of Etorthan history and alignment.
+- Details about Urmah sports are attributed to Arishah and not independently established.
 - Federation opacity and Alfratan conduct are Mari’s account; she says the meeting’s entry procedure was unclear
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - Federation-policy\_claims\_attributed
 - Federation-sanctions\_reported
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
+- Historical and spiritual claims are attributed to interviewee Arishah, not presenter Mari.
+- Mari describes this as a personal experience and remains uncertain about the entity's identity; the lion's messages are reported speech.
+- Mari reports a personal medical experience; do not generalize it beyond her account.
+- Mari's earthquake-as-offering theory is explicitly speculative and unverified.
 - Medical recovery and spiritual causation are Mari’s personal report, not independently established; do not generalize or present as treatment guidance
 - Species summaries are broad and based on accounts attributed to orbital sources
 - The account is Mari’s report; it describes a near-escalation without further reported consequences
+- The account of Australian meetings and the alleged attendee is unverified within the transcript.
+- The alleged attack remains speculation in Mari's account.
 - The article promotes a conspiratorial political framework and extraterrestrial governance; claims are retained as attributed lore.
+- The political account is Mari's narrative and includes claims about infiltration, propaganda, and Federation control; preserve attribution.
+- The source describes unverified extraterrestrial diplomatic and military activity.
+- The source is a multi-topic interview and presents unverifiable political and reincarnation claims.
+- The source is an unverified account of extraterrestrial shipboard life and artifact collections.
+- The source presents an unverified spiritual healing narrative; it is not medical evidence.
+- The source presents metaphysical claims about memory, incarnation, and past-life identity.
 - These are Mari’s metaphysical positions, not externally verified cosmology
+- This is Gosia’s personal exhortation, not a report from an Urmah speaker.
+- This is a time-specific 2023 account of interstellar factions and operations, attributed to Mari Swaruu.
+- This is an unverified account of alleged extraterrestrial diplomacy and Federation interference.
+- This is an unverified extraterrestrial political and military account, explicitly framed as entertainment.
 - Yazhi-interview-report
 - attack-theory\_speculative
 - conflicting-pyramid-dates
@@ -1317,6 +1635,7 @@ Source: [NAVE EXTRATERRESTRE ESTRELLADA EN EL MAR RAZAS EXTRATERRESTRES GRISES Y
 - second-contact-stoppage-attributed-to-yazhi
 - self-reported-traits
 - serious\_allegations\_attributed
+- source contains contested medical and dietary claims; these are not extracted as health advice
 - species-claims-unverified
 - species-cosmology\_attributed
 - spiritual-warfare-claims

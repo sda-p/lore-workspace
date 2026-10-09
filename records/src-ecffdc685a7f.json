@@ -1,0 +1,91 @@
+{
+  "source_id": "src-ecffdc685a7f",
+  "snapshot_sha256": "84645441e823c861ff446828e2cce568bc1126a00c198625ef9ce4d4b0e526a6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ecffdc685a7f-c01",
+      "assertion": "Mari says Earth may be experienced as a prison or learning realm, depending on each soul's perspective and interpretation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ecffdc685a7f-c02",
+      "assertion": "Mari presents mahasamadhi as release from ego-based illusion and reincarnation through expanded consciousness.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "individual-ascension"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ecffdc685a7f-c03",
+      "assertion": "Mari says afterlife and future-incarnation experiences reflect a person's current vibration, ethics, and values.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0030"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She urges ethical growth and responsible choices during life."
+    },
+    {
+      "id": "src-ecffdc685a7f-c04",
+      "assertion": "Mari encourages forgiveness, self-acceptance, and freely expressing love, saying emotional attachments may persist across reincarnations.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "karma-and-dharma"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says people act with the best information available to them at the time."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Reincarnation and afterlife claims are attributed to Mari; she acknowledges differing interpretations."
+  ],
+  "coverage_gaps": [
+    "her view that hardship can foster spiritual development"
+  ]
+}

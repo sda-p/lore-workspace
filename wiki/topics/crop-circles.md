@@ -58,6 +58,16 @@ Source: [PRIMERA CONVERSACIÓN CON YAZHÍ SWARUÚ \*\*SIN VIDEO\*\*](https://swa
 
 Related topics: [Temporal skipping](temporal-skipping.md).
 
+### src-2f61745f8036-c02
+
+Anéeka says crop circles marked temporal positions for navigation or coordination, later becoming messages to humanity. She says tractor beams or drones create them.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 13 (Parte 1) – Varias Preguntas Relacionadas con Naves Espaciales](https://swaruu.org/transcripts/vida-interestelar-13-parte-1-varias-preguntas-relacionadas-con-naves-espaciales) (2026-05-11; es); passages p0015, p0016, p0017, p0018. [Structured record](../../records/src-2f61745f8036.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
 ## Review flags
 
 - personal-ability-claims-attributed

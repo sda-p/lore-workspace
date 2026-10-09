@@ -1,0 +1,55 @@
+{
+  "source_id": "src-bc176370b242",
+  "snapshot_sha256": "675ee741388d2e6a424968d1daf4685bb8360be958a29603c1daf88cc4ad31d4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bc176370b242-c01",
+      "assertion": "Mari Swa says Taygetan ships dock side by side through hangar doors and an extendable sealed platform; shields must share harmonics to merge during contact, and mismatched shields repel.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Docking is effectively unshielded from both ships’ perspective."
+    },
+    {
+      "id": "src-bc176370b242-c02",
+      "assertion": "Mari Swa attributes an Alcyone-Saska collision to failed rear sensors and Alcyone’s premature turn; Saska’s reinforced bow damaged Alcyone’s rear superstructure, later replaced by modular sections.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "toleka-class"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She reports no injuries or Saska damage."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "This is a first-person account of a spacecraft accident and unverified shield and sensor technology."
+  ],
+  "coverage_gaps": [
+    "The report also describes crew decompression procedures and the limits of self-repairing polymorphic titanium."
+  ]
+}

@@ -132,6 +132,16 @@ Source: [NO HAY LIBRE ALBEDRÍO - EN LA TIERRA - ANEEKA DE TEMMER - \#TAYGETA](h
 
 Related topics: [Extraterrestrial step-downs](extraterrestrial-stepdowns.md).
 
+### src-b3cba5b1ffc9-c01
+
+Anéeka says scalar pulses can briefly match shield harmonics; Taygetans switched to scalar shields. Damage was slight.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 13 (Parte 3) – Mas Preguntas Relacionadas con Naves Espaciales](https://swaruu.org/transcripts/vida-interestelar-13-parte-3-mas-preguntas-relacionadas-con-naves-espaciales) (2026-07-15; es); passages p0003, p0004. [Structured record](../../records/src-b3cba5b1ffc9.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-8a20bf02262a-c04](hashmallim.md#src-8a20bf02262a-c04) — Hashmallim
@@ -143,6 +153,9 @@ Related topics: [Extraterrestrial step-downs](extraterrestrial-stepdowns.md).
 - [src-cad14862cc58-c02](moon-matrix.md#src-cad14862cc58-c02) — Moon and terrestrial Matrix
 - [src-53d3d8f6b1c3-c02](starship-systems.md#src-53d3d8f6b1c3-c02) — Starship systems
 - [src-756b0758c451-c01](toleka-class.md#src-756b0758c451-c01) — Toleka-class starships
+- [src-e199916654ef-c03](starship-systems.md#src-e199916654ef-c03) — Starship systems
+- [src-5e04f41106fc-c01](starship-systems.md#src-5e04f41106fc-c01) — Starship systems
+- [src-b3cba5b1ffc9-c02](starship-systems.md#src-b3cba5b1ffc9-c02) — Starship systems
 
 ## Review flags
 

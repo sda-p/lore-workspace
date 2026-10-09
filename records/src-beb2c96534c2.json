@@ -1,0 +1,51 @@
+{
+  "source_id": "src-beb2c96534c2",
+  "snapshot_sha256": "a48f64d8b536105a9d584e0f0facdd9f6bf48ccf127d9ed7b926ecb3c0737d27",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-beb2c96534c2-c01",
+      "assertion": "Mari Swaruu describes Taygetan quantum holographic computers as non-digital systems whose cores use millions of nanoparticle accelerators; their holograms can be tactile and provide sensory stimulation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says she uses these systems daily but frames the video as entertainment."
+    },
+    {
+      "id": "src-beb2c96534c2-c02",
+      "assertion": "Mari Swaruu says Taygetan ship computers can infer pilot intent through a thought interface, check anticipated reactions before acting, and allow manual controls to override the system.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0028",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holographic-computers"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says pilots and new ships perform best after becoming familiar with one another."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source begins by framing its claims as entertainment and describes unverified extraterrestrial computing technology."
+  ],
+  "coverage_gaps": [
+    "The video also attributes time-field computation, cross-distance muon communication, and sentience to these computers."
+  ]
+}

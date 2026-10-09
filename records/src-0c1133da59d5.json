@@ -1,0 +1,83 @@
+{
+  "source_id": "src-0c1133da59d5",
+  "snapshot_sha256": "db4a16bb7498ce2c2e2248cb317bb8e9ebe38f2ee606777784693462dc965849",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0c1133da59d5-c01",
+      "assertion": "Gosia says shared assumptions and inherited memories link humans through a collective unconscious, shaping perceived reality and manifestation.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0c1133da59d5-c02",
+      "assertion": "Gosia says broader consciousness strengthens thoughts’ influence on the collective field, increasing responsibility for what one projects.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0014",
+        "p0020",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "starseeds",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0c1133da59d5-c03",
+      "assertion": "Gosia alleges negative rulers manipulate mass beliefs through limiting ideas, fear, conflict, and directed attention to sustain their preferred timeline.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "earth-cabal",
+        "electromagnetic-mind-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0c1133da59d5-c04",
+      "assertion": "Gosia says occasional distress is acceptable; persistent destructive thought patterns may affect the collective field and harm the person.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0041",
+        "p0043"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She avoids blaming people in hardship."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "The source further discusses how human attention might shape ET disclosure scenarios."
+  ]
+}

@@ -42,11 +42,13 @@
       "assertion": "Anéeka says the Dyatlov Pass deaths were probably a human attack by a hostile local tribe, with radioactive clothing linked to a nearby plant accident.",
       "speaker": "Anéeka",
       "paragraph_ids": [
+        "p0009",
         "p0013",
-        "p0016",
         "p0018",
         "p0021",
-        "p0027"
+        "p0025",
+        "p0027",
+        "p0028"
       ],
       "primary_topic": "dyatlov-pass-incident",
       "topics": [

@@ -1,0 +1,25 @@
+{
+  "source_id": "src-339d9a027f08",
+  "snapshot_sha256": "035c4628889b04fe5ae3749b239b4b236699b1daec345be7566dc4af4448cb45",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-339d9a027f08-c01",
+      "assertion": "Anéeka claims Abu Simbel marked an entrance to an ancient Federation underground base that was flooded during the Aswan Dam project and connected to Giza.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0006", "p0008", "p0012", "p0018"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "atlantis-lemuria"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the base was about 30 meters underground and is now flooded."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source makes an unverified claim about an ancient extraterrestrial base beneath Abu Simbel."
+  ],
+  "coverage_gaps": [
+    "The discussion also mentions alleged connections to Crimea and Bucegi and other underground bases."
+  ]
+}

@@ -310,6 +310,146 @@ Source: [Las extracciones y sus problemas. Parte 4, Kassia habla directamente a 
 
 Related topics: [Memory Veil](memory-veil.md).
 
+### src-d0e9644dbc32-c02
+
+One view treats karma as something to minimize to avoid further reincarnation; another says rich experience can reduce the need to return. Mari contrasts two spiritual approaches.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [¿Evitar acumular Karma, o construir tanto Karma como se pueda en la vida?](https://swaruu.org/transcripts/evitar-acumular-karma-o-construir-tanto-karma-como-se-pueda-en-la-vida) (2023-10-06; es); passages p0005, p0006, p0007, p0020, p0023, p0024, p0025. [Structured record](../../records/src-d0e9644dbc32.json).
+
+Related topics: [Karma and dharma](karma-and-dharma.md).
+
+### src-4603aaa764e8-c01
+
+Mari Swaruu says the woman renamed Ana was Anéeka's immediate previous incarnation and the same soul. The account says both siblings were Taygetan starseeds; names were changed.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Un ejemplo perfecto de cómo un Alma se Apega Fuertemente a su Vida Pasada, una historia real](https://swaruu.org/transcripts/un-ejemplo-perfecto-de-como-un-alma-se-apega-fuertemente-a-su-vida-pasada-una-historia-real) (2023-10-20; es); passages p0012, p0013, p0052, p0053. [Structured record](../../records/src-4603aaa764e8.json).
+
+Related topics: [Nexus souls](nexus-souls.md), [Taygetans](taygetans.md).
+
+### src-4603aaa764e8-c03
+
+Mari Swaruu says reincarnation is non-linear, allowing different lives of a soul to overlap in time. She connects this to time being a perception rather than sequential.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Un ejemplo perfecto de cómo un Alma se Apega Fuertemente a su Vida Pasada, una historia real](https://swaruu.org/transcripts/un-ejemplo-perfecto-de-como-un-alma-se-apega-fuertemente-a-su-vida-pasada-una-historia-real) (2023-10-20; es); passages p0057, p0058. [Structured record](../../records/src-4603aaa764e8.json).
+
+Related topics: [Timeline branching](timeline-branching.md), [Nexus souls](nexus-souls.md).
+
+### src-0b7d915d4224-c02
+
+Mari says some incarnated beings retain memories of the astral and between-life state and guide others; she links release from reincarnation to self-forgiveness rather than external absolution. She presents these as spiritual claims about souls and karma.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Súper Manifestación](https://swaruu.org/transcripts/super-manifestacion) (2024-01-04; es); passages p0018, p0020, p0021, p0022, p0023. [Structured record](../../records/src-0b7d915d4224.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f15dd35a07c7-c01
+
+Mari says reincarnation need not follow Earth’s chronology: souls may enter a body in the apparent past or inhabit overlapping lives. She attributes this to time being perceived differently beyond Earth’s system.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La importancia de comprender el Tiempo para la Conciencia y Crecimiento Espiritual, y la Realidad](https://swaruu.org/transcripts/la-importancia-de-comprender-el-tiempo-para-la-conciencia-y-crecimiento-espiritual-y-la-realidad) (2024-02-18; es); passages p0011, p0013, p0014, p0015. [Structured record](../../records/src-f15dd35a07c7.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-4e1219d918f8-c01
+
+Mari says Earth incarnations generally forget past lives, but prior emotions and learning continue to shape present personality; forgetting enables a new identity. She describes this as the purpose of the memory veil.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Muerte, Introducción](https://swaruu.org/transcripts/muerte-introduccion) (2023-11-21; es); passages p0004, p0005, p0006, p0007. [Structured record](../../records/src-4e1219d918f8.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ecffdc685a7f-c01
+
+Mari says Earth may be experienced as a prison or learning realm, depending on each soul's perspective and interpretation.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Prepárate para tu Propia Muerte y para tu Próxima Encarnación Viviendo al Máximo](https://swaruu.org/transcripts/preparate-para-tu-propia-muerte-y-para-tu-proxima-encarnacion-viviendo-al-maximo) (2023-11-27; es); passages p0003, p0005, p0006, p0007, p0009. [Structured record](../../records/src-ecffdc685a7f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ecffdc685a7f-c02
+
+Mari presents mahasamadhi as release from ego-based illusion and reincarnation through expanded consciousness.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Prepárate para tu Propia Muerte y para tu Próxima Encarnación Viviendo al Máximo](https://swaruu.org/transcripts/preparate-para-tu-propia-muerte-y-para-tu-proxima-encarnacion-viviendo-al-maximo) (2023-11-27; es); passages p0013, p0014, p0015, p0016. [Structured record](../../records/src-ecffdc685a7f.json).
+
+Related topics: [Individual ascension](individual-ascension.md).
+
+### src-ecffdc685a7f-c03
+
+Mari says afterlife and future-incarnation experiences reflect a person's current vibration, ethics, and values. She urges ethical growth and responsible choices during life.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Prepárate para tu Propia Muerte y para tu Próxima Encarnación Viviendo al Máximo](https://swaruu.org/transcripts/preparate-para-tu-propia-muerte-y-para-tu-proxima-encarnacion-viviendo-al-maximo) (2023-11-27; es); passages p0019, p0020, p0021, p0030. [Structured record](../../records/src-ecffdc685a7f.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-ecffdc685a7f-c04
+
+Mari encourages forgiveness, self-acceptance, and freely expressing love, saying emotional attachments may persist across reincarnations. She says people act with the best information available to them at the time.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Prepárate para tu Propia Muerte y para tu Próxima Encarnación Viviendo al Máximo](https://swaruu.org/transcripts/preparate-para-tu-propia-muerte-y-para-tu-proxima-encarnacion-viviendo-al-maximo) (2023-11-27; es); passages p0022, p0023, p0024, p0025. [Structured record](../../records/src-ecffdc685a7f.json).
+
+Related topics: [Karma and dharma](karma-and-dharma.md).
+
+### src-4fb5deaadb02-c01
+
+Yazhi says memory erasure can help someone reset and form a new identity, while remembering a prior life leaves part of that former self present. She describes this as occurring across multiple timelines and incarnations.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Charla espiritual profunda con Yazhi: Metafísica, Vidas Pasadas y Recuerdos de Urmah](https://swaruu.org/transcripts/charla-espiritual-profunda-con-yazhi-metafisica-vidas-pasadas-y-recuerdos-de-urmah) (2025-05-24; es); passages p0005, p0011. [Structured record](../../records/src-4fb5deaadb02.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-5c5800b9d436-c02
+
+Athena says Taygetans and Urmah usually do not revisit past-life friends after reincarnating; some prefer to start over, though cases vary and lives may not be linear. She personally knows of one such visit.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Taygeta y las Pléyades \| Mini Temas - Comunicación Extraterrestre](https://swaruu.org/transcripts/taygeta-y-las-pleyades-mini-temas-comunicacion-extraterrestre) (2025-12-23; es); passages p0067, p0071, p0073, p0075. [Structured record](../../records/src-5c5800b9d436.json).
+
+Related topics: [Taygetans](taygetans.md), [Urmah](urmah.md).
+
+### src-d4fd0344343b-c02
+
+Mari Swa says souls reincarnate on different planets and retain past-life experiences as memories shaping personality despite conscious forgetting; she says starseeds return after death to vibrationally compatible worlds. She frames these as metaphysical beliefs about souls and postmortem destinations.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [La Gran Humanidad Interestelar, Segunda Parte](https://swaruu.org/transcripts/la-gran-humanidad-interestelar-segunda-parte) (2024-06-14; es); passages p0016, p0024, p0025. [Structured record](../../records/src-d4fd0344343b.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-93c7ee25f685-c01
+
+Mari says past-life experiences shape personality, values, preferences, and gender identity; she describes Lyrian space cultures as largely composed of souls who remember those lives.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Roles de Género y Homosexualidad en los Lyrianos del Espacio y en la Tierra, y Vidas Pasadas](https://swaruu.org/transcripts/roles-de-genero-y-homosexualidad-en-los-lyrianos-del-espacio-y-en-la-tierra-y-vidas-pasadas) (2024-08-23; es); passages p0004, p0007, p0011, p0012. [Structured record](../../records/src-93c7ee25f685.json).
+
+Related topics: [Lyrians](lyrians.md).
+
 ## Claims filed under other topics
 
 - [src-de139e50d05b-c02](postmortem-realities.md#src-de139e50d05b-c02) — Postmortem realities
@@ -346,19 +486,51 @@ Related topics: [Memory Veil](memory-veil.md).
 - [src-a602cffec533-c01](taygetans.md#src-a602cffec533-c01) — Taygetans
 - [src-4bf388da9fd3-c02](memory-veil.md#src-4bf388da9fd3-c02) — Memory Veil
 - [src-cdc082ef32a2-c01](nexus-souls.md#src-cdc082ef32a2-c01) — Nexus souls
+- [src-d0e9644dbc32-c01](karma-and-dharma.md#src-d0e9644dbc32-c01) — Karma and dharma
+- [src-4603aaa764e8-c02](soul-loop-reincarnation.md#src-4603aaa764e8-c02) — Soul-loop reincarnation
+- [src-61705721c8a4-c01](walk-in-phenomenon.md#src-61705721c8a4-c01) — Walk-in phenomenon
+- [src-48d158152f65-c03](starseeds.md#src-48d158152f65-c03) — Starseeds
+- [src-a84a779862a2-c01](consciousness-metaphysics.md#src-a84a779862a2-c01) — Consciousness and metaphysics
+- [src-122cf2f1788a-c01](consciousness-metaphysics.md#src-122cf2f1788a-c01) — Consciousness and metaphysics
+- [src-71a373d209fe-c01](consciousness-metaphysics.md#src-71a373d209fe-c01) — Consciousness and metaphysics
+- [src-b310ed9c99a3-c01](soul-loop-reincarnation.md#src-b310ed9c99a3-c01) — Soul-loop reincarnation
+- [src-f2ce50705052-c02](ancient-egypt.md#src-f2ce50705052-c02) — Ancient Egypt
+- [src-e97ad68aea23-c03](urmah.md#src-e97ad68aea23-c03) — Urmah
+- [src-2a68d29853b0-c04](consciousness-metaphysics.md#src-2a68d29853b0-c04) — Consciousness and metaphysics
+- [src-13a3aaa8e506-c02](urmah.md#src-13a3aaa8e506-c02) — Urmah
+- [src-ce9740898436-c04](postmortem-realities.md#src-ce9740898436-c04) — Postmortem realities
+- [src-4fb5deaadb02-c02](urmah.md#src-4fb5deaadb02-c02) — Urmah
+- [src-792197c0df60-c01](postmortem-realities.md#src-792197c0df60-c01) — Postmortem realities
+- [src-93c7ee25f685-c02](lyrians.md#src-93c7ee25f685-c02) — Lyrians
+- [src-fdacc4ddb847-c03](lyrians.md#src-fdacc4ddb847-c03) — Lyrians
 
 ## Review flags
 
+- Afterlife and religious claims are attributed to Mari.
 - Claims about vaccines, DNA, and astral entities are attributed to Yazhi.
 - Claims describe Yazhi's metaphysical account of DNA and are not presented as established biology.
 - Cosmological claims are attributed to Yazhi; one disease example in the source is omitted.
 - DNA-consciousness-causality-claim
 - Kassia’s message is written and prepared for publication by Mari Swaruu.
+- Mari describes this as a personal experience and remains uncertain about the entity's identity; the lion's messages are reported speech.
+- Mari reports a personal medical experience; do not generalize it beyond her account.
+- Metaphysical claims about identity, duality, collective timelines, and astral experience reflect the speakers’ views.
 - Metaphysical genetics and the 22-lineage account are attributed claims; the speaker calls the lab-origin explanation simplistic.
 - Pluto-Shiva-identification-attributed-to-Federation-records
+- Reincarnation and afterlife claims are attributed to Mari; she acknowledges differing interpretations.
 - The article presents metaphysical DNA interpretations attributed to the speakers.
+- The narrator distinguishes her metaphysical account from Earth science and says it lacks the evidence conventionally required; preserve attribution.
 - The source combines separate April 2021 and 2023 excerpts; speakers are attributed by passage.
+- The source includes claims about soul replacement and criminal behavior; these are presented as the speaker's metaphysical account.
+- The source is a multi-topic interview and presents unverifiable political and reincarnation claims.
+- The source presents metaphysical claims about astral realms, reincarnation, and postmortem destinations.
+- The source presents metaphysical claims about interstellar humanity, telepathy, reincarnation, and vibrational return.
+- The source presents metaphysical claims about memory, incarnation, and past-life identity.
+- The source says names were changed; the identity claims are the narrator's account of private crew cases.
+- The speaker's historical and reincarnation accounts are her claims, not independently corroborated.
+- The transcript discusses metaphysical explanations and illustrative invasion anecdotes; preserve attribution and avoid presenting them as established facts.
 - The transcript makes spiritual claims about death and reincarnation; they are attributed to Za’el and not verified.
+- afterlife and bereavement claims are spiritual beliefs; preserve attribution and do not present as verified
 - afterlife-claims-are-source-model
 - anti-vaccine-conspiracy-claims
 - astral-memory-frequency-claim

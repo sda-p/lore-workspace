@@ -1,0 +1,61 @@
+{
+  "source_id": "src-77c972071063",
+  "snapshot_sha256": "a0c70403e365c7735760b77079a8184b06df9eb389a2bb056ef188ff9f949fe3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-77c972071063-c01",
+      "assertion": "Yazhi says astral experience is subjective, while shared astral realms form through overlapping perceptions and agreements; physical and astral worlds generate each other.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0011",
+        "p0015",
+        "p0016",
+        "p0023"
+      ],
+      "primary_topic": "astral-travel",
+      "topics": [
+        "astral-travel",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes the astral as a different frequency rather than a separate place."
+    },
+    {
+      "id": "src-77c972071063-c02",
+      "assertion": "Yazhi describes organized astral factions competing for control of the physical world and human creative attention, with fear and suffering among the resources they exploit.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0089",
+        "p0090",
+        "p0091",
+        "p0093",
+        "p0095",
+        "p0096",
+        "p0132",
+        "p0133",
+        "p0135"
+      ],
+      "primary_topic": "astral-military-units",
+      "topics": [
+        "astral-military-units",
+        "astral-entities"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says the conflict has multiple layers and she does not know the full astral picture."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source presents unverifiable astral warfare and human-exploitation claims; preserve explicit attribution"
+  ],
+  "coverage_gaps": [
+    "animal dream and astral experiences",
+    "meditation practice for astral travel",
+    "claims about astral combat and defense"
+  ]
+}

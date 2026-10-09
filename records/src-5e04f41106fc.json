@@ -1,0 +1,70 @@
+{
+  "source_id": "src-5e04f41106fc",
+  "snapshot_sha256": "ff50170836f65de8054721b63635dc26183d5ae711c40c1904274ab7f65ae64e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5e04f41106fc-c01",
+      "assertion": "Mari calls Sadicleya a Toleka-class Mark II deep-space yacht, larger than Mark I, with eight main and four maneuvering engines producing more power and stronger shields.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "harmonic-shields"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says its precise dimensions remain uncertain."
+    },
+    {
+      "id": "src-5e04f41106fc-c02",
+      "assertion": "Mari says Sadicleya has village-like decks, parks, simulated horizons, weather, seasons, and beach facilities to support crew wellbeing on long missions.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5e04f41106fc-c03",
+      "assertion": "Mari says Sadicleya is her new flagship in low Earth orbit, escorted by four ships and intended for fewer than one hundred crew.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Original Toleka crew remain aboard for now."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Sadicleya namesake star and relocation details omitted"
+  ]
+}

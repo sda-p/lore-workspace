@@ -1,0 +1,66 @@
+{
+  "source_id": "src-fdacc4ddb847",
+  "snapshot_sha256": "0151ca11728108f2ca21449971ee10e3ebbed347e36cf4ac063c0b26f9c8e130",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fdacc4ddb847-c01",
+      "assertion": "Mari reports hurricane damage and delayed repairs in Toleka City, then says 120 moghyay were captured aboard and returned to Temmer after becoming a nuisance.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006",
+        "p0009"
+      ],
+      "primary_topic": "moghyay",
+      "topics": [
+        "moghyay",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fdacc4ddb847-c02",
+      "assertion": "Mari alleges the Galactic Federation restricts Taygetans from providing direct proof of their claims, leaving written communication as their main channel.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0018"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her explanation."
+    },
+    {
+      "id": "src-fdacc4ddb847-c03",
+      "assertion": "Mari says Lyrian-biological nonhumans sometimes visit Earth or incarnate there to escape difficulties and use the planet’s veil of forgetting.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "lyrians",
+      "topics": [
+        "lyrians",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other reporting about crew, online communications, and donor support omitted"
+  ]
+}

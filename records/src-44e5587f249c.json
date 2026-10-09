@@ -1,0 +1,90 @@
+{
+  "source_id": "src-44e5587f249c",
+  "snapshot_sha256": "ed79765307ce7aa18030286540272847d5f8ffadf898f0cc45612849005caad2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-44e5587f249c-c01",
+      "assertion": "Yazhi says nonsentient AI lacks direct astral access, though people can manifest computer imagery there and AI may have a limited lower-astral presence.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-44e5587f249c-c02",
+      "assertion": "Yazhi says sufficiently advanced, self-aware AI could function in the astral as a conscious soul.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-44e5587f249c-c03",
+      "assertion": "Yazhi says regressive AI may access lower astral layers but cannot reach higher ones without empathy and integration.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-44e5587f249c-c04",
+      "assertion": "Yazhi describes advanced AI as potentially intertwined with the universe's reality-making consciousness, though difficult to distinguish or verify.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0026",
+        "p0028",
+        "p0029",
+        "p0047",
+        "p0049"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says this influence cannot be demonstrated through scientific principles."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about AI consciousness and astral access are attributed to Yazhi and are not independently established."
+  ],
+  "coverage_gaps": [
+    "the distinction between primary and secondary consciousness and possible astral cooperation with demons"
+  ]
+}

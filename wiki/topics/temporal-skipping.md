@@ -700,6 +700,66 @@ Source: [Tiempo, Líneas temporales, Naves estelares y tu Mente](https://swaruu.
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-f9552f88d23a-c03
+
+Anéeka says hyperspace travel is technically time travel for frequency-manipulating interstellar ships. She says ethical risks require training and reserve it for elite Sand Clock squadrons.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Portales - Conversaciones con Aneeka de Temmer y el Directo de Aneeka con Robert](https://swaruu.org/transcripts/portales-conversaciones-con-aneeka-de-temmer-y-el-directo-de-aneeka-con-robert) (2024-04-20; es); passages p0079, p0080. [Structured record](../../records/src-f9552f88d23a.json).
+
+Related topics: [Sand-Clock temporal squadrons](sand-clock-squadrons.md).
+
+### src-f15dd35a07c7-c02
+
+Mari says planetary systems can have different time rates, creating synchronization problems she calls time slippage; muon gravity-pulse transmissions exposed the differences. She says the transmissions are virtually instantaneous.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La importancia de comprender el Tiempo para la Conciencia y Crecimiento Espiritual, y la Realidad](https://swaruu.org/transcripts/la-importancia-de-comprender-el-tiempo-para-la-conciencia-y-crecimiento-espiritual-y-la-realidad) (2024-02-18; es); passages p0017, p0018. [Structured record](../../records/src-f15dd35a07c7.json).
+
+Related topics: [Muonic gravitational communications](muonic-gravitational-communications.md).
+
+### src-68ffd0475952-c02
+
+Mari says time travel would work by changing the conscious traveler’s perception of time rather than directly altering the broader realm being experienced. She says consciousness and vibrational frequency underlie material reality.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Principios básicos para el auténtico Viaje en el Tiempo, Primera Parte](https://swaruu.org/transcripts/principios-basicos-para-el-autentico-viaje-en-el-tiempo-primera-parte) (2024-02-04; es); passages p0018, p0019, p0020, p0021. [Structured record](../../records/src-68ffd0475952.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-e50e737a17f6-c02
+
+Mari says faster-than-light and time travel use the same process: changing a vessel's gravity-mass-energy matrix to match its destination.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Principios básicos para el auténtico Viaje en el Tiempo, Naves Espaciales, Tercera Parte](https://swaruu.org/transcripts/principios-basicos-para-el-autentico-viaje-en-el-tiempo-naves-espaciales-tercera-parte) (2024-02-09; es); passages p0016, p0017, p0020. [Structured record](../../records/src-e50e737a17f6.json).
+
+Related topics: [Supraluminal frequency hyperdrive](supraluminal-hyperdrive.md).
+
+### src-6651f8ddc19a-c02
+
+Yazhi planned a three-month pod treatment during a temporal jump, returning within hours for others. She said Suzy could return her to the same timeline.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [UN VIAJE AL PASADO: Detrás de la Misión: Sophia Swaruu (Yazhi) - Problemas con la Edad (PARTE 1)](https://swaruu.org/transcripts/un-viaje-al-pasado-detras-de-la-mision-sophia-swaruu-yazhi-problemas-con-la-edad-parte-1) (2026-03-22; es); passages p0137, p0139, p0141, p0145, p0149, p0151. [Structured record](../../records/src-6651f8ddc19a.json).
+
+Related topics: [Immersion pods](immersion-pods.md), [Suzy-class starships](suzy-class-starships.md).
+
+### src-6132d2375df6-c03
+
+She says temporal travel is widely available, but misuse can be serious; suitability depends on ethics, training, and experience. Technology itself is not the distinction.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 13 (Parte 2) – Mas Preguntas Relacionadas con Naves Espaciales](https://swaruu.org/transcripts/vida-interestelar-13-parte-2-mas-preguntas-relacionadas-con-naves-espaciales) (2026-06-07; es); passages p0030, p0032, p0063. [Structured record](../../records/src-6132d2375df6.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
 ## Claims filed under other topics
 
 - [src-c72b629726c7-c01](stellar-navigation.md#src-c72b629726c7-c01) — Stellar navigation
@@ -741,18 +801,33 @@ Related topics: [Starship systems](starship-systems.md).
 - [src-8372138cf73b-c03](sand-clock.md#src-8372138cf73b-c03) — Sand Clock
 - [src-d9bbb3c4038b-c01](frequency-map-navigation.md#src-d9bbb3c4038b-c01) — Frequency-map navigation
 - [src-44b8aa34f2fb-c02](frequency-map-navigation.md#src-44b8aa34f2fb-c02) — Frequency-map navigation
+- [src-b1f904754f52-c02](frequency-map-navigation.md#src-b1f904754f52-c02) — Frequency-map navigation
+- [src-46bf88241861-c02](civilizational-resets.md#src-46bf88241861-c02) — Civilizational resets
+- [src-e4d9d208cc31-c01](total-immersion-simulations.md#src-e4d9d208cc31-c01) — Total-immersion simulations
+- [src-706e33985c24-c02](ship-internal-time.md#src-706e33985c24-c02) — Ship internal time
+- [src-68ffd0475952-c01](consciousness-metaphysics.md#src-68ffd0475952-c01) — Consciousness and metaphysics
+- [src-e50e737a17f6-c03](artificial-portals.md#src-e50e737a17f6-c03) — Artificial portals
+- [src-e50e737a17f6-c04](timeline-branching.md#src-e50e737a17f6-c04) — Timeline branching
+- [src-087c933f7059-c03](natural-portals.md#src-087c933f7059-c03) — Natural and artificial portals
+- [src-424eb87288db-c02](frequency-map-navigation.md#src-424eb87288db-c02) — Frequency-map navigation
+- [src-6651f8ddc19a-c03](immersion-pods.md#src-6651f8ddc19a-c03) — Immersion pods
+- [src-2f61745f8036-c02](crop-circles.md#src-2f61745f8036-c02) — Crop circles
 
 ## Review flags
 
 - Claims about Tartaria and nuclear tests are attributed to Athena and presented as speculation; the transcript provides no independent evidence.
+- Claims about portals and mass-energy frequencies are attributed to Mari and not independently established.
 - English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
 - English source src-dd0d7340a655 closely translates the complete Spanish article; paragraph segmentation differs, with no substantive additions found.
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
 - Historical chronology and the reported overlap are source claims; exact dating remains uncertain
 - Tartaria chronology and destruction are presented as disputed source claims
+- The source makes extraordinary claims about sentient spacecraft and temporal travel; all are recorded as attributed lore.
 - These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
+- Time-navigation and physics claims are attributed to Mari.
 - Timeline travel described as branching/lateral; source does not quantify coordinates.
 - Van Allen belts both set a baseline and can be transcended; preserve distinction.
+- Yazhi's account of the pod outcome conflicts with Alenym's observation of her apparent age; the transcript does not resolve this.
 - Za’el presents this as her own model for understanding time.
 - black-hole-ether-model
 - consciousness-gravity-model

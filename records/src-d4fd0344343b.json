@@ -1,0 +1,36 @@
+{
+  "source_id": "src-d4fd0344343b",
+  "snapshot_sha256": "37be125c816878f9f803f53e77fb51caa55806ee8a0f95fa89114d6ad53d2888",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d4fd0344343b-c01",
+      "assertion": "Mari Swa describes human-Lyrians across space as linked by a species-wide collective unconscious that shares thoughts and emotions telepathically regardless of distance, and says similar perceptions and ideas make them one people.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0013", "p0014", "p0015", "p0017", "p0018"],
+      "primary_topic": "lyrians",
+      "topics": ["lyrians", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as a metaphysical account of shared human identity."
+    },
+    {
+      "id": "src-d4fd0344343b-c02",
+      "assertion": "Mari Swa says souls reincarnate on different planets and retain past-life experiences as memories shaping personality despite conscious forgetting; she says starseeds return after death to vibrationally compatible worlds.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0016", "p0024", "p0025"],
+      "primary_topic": "reincarnation-cycles",
+      "topics": ["reincarnation-cycles", "starseeds"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She frames these as metaphysical beliefs about souls and postmortem destinations."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source presents metaphysical claims about interstellar humanity, telepathy, reincarnation, and vibrational return."
+  ],
+  "coverage_gaps": [
+    "The video also describes human-Lyrian cultural commonalities, starseed identity, and historical mixing among spacefaring groups."
+  ]
+}

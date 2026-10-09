@@ -1,0 +1,68 @@
+{
+  "source_id": "src-35d30319a131",
+  "snapshot_sha256": "07d4758f80b592293a1a09bef5423f3d8e99a13904412a35e6edc3939b5ff365",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-35d30319a131-c01",
+      "assertion": "Yazhi describes tulpas as ideas or interpretations that become real through shared perception, and says people and emotions are also idea-forms.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0011"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "galactic-consciousness"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-35d30319a131-c02",
+      "assertion": "Yazhi says fear concentrates attention and energy on what is feared, making it rapidly manifest within the fearful person’s perception.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35d30319a131-c03",
+      "assertion": "Yazhi says Earth experiences can carry positive and negative thought-forms back to a person’s homeworld, while rejecting their ideas prevents negative tulpas attaching.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "egregors",
+        "soul-loop-reincarnation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "According to Yazhi."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other claims about Source, densities, entities, and negative tulpas omitted"
+  ]
+}

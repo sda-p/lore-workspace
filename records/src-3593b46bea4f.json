@@ -1,0 +1,69 @@
+{
+  "source_id": "src-3593b46bea4f",
+  "snapshot_sha256": "13ff362b2f012c02f41ef39adfcd196e0db7b92bfa54b59463ef9353aafa8075",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3593b46bea4f-c01",
+      "assertion": "Swaruu 9 says she was her own mother, a natural clone, and that one field of consciousness inhabited and controlled both bodies.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0069",
+        "p0070",
+        "p0071",
+        "p0072",
+        "p0074",
+        "p0076"
+      ],
+      "primary_topic": "galactic-consciousness",
+      "topics": [
+        "galactic-consciousness",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-3593b46bea4f-c02",
+      "assertion": "Swaruu 9 says consciousness can activate or deactivate bodily genes, while telepathy is a mental state rather than a genetically controlled bodily trait; species have undergone genetic alteration.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0101",
+        "p0103",
+        "p0105",
+        "p0107"
+      ],
+      "primary_topic": "neural-frequency-genetic-engineering",
+      "topics": [
+        "neural-frequency-genetic-engineering",
+        "aggressive-telepathy"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "According to her."
+    },
+    {
+      "id": "src-3593b46bea4f-c03",
+      "assertion": "Swaruu 9 says Earth’s problems must be addressed from within by sharing information and awakening a core group until collective consciousness reaches a turning point.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0110",
+        "p0113"
+      ],
+      "primary_topic": "galactic-consciousness",
+      "topics": [
+        "galactic-consciousness",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other discussion of lifespan, identity, connection, and contact omitted"
+  ]
+}

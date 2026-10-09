@@ -1,0 +1,68 @@
+{
+  "source_id": "src-87c8ba600ace",
+  "snapshot_sha256": "6506ca0da8cb20cc86ea33f30226dfc26223995f7b1aa8370189965fcef34de9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-87c8ba600ace-c01",
+      "assertion": "Mari reports an Alfratean fighter crashed in Yukon, killing both pilots; Taygetan Suzy fighters arrived to assist recovery.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "alfrateans",
+      "topics": [
+        "alfrateans",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "According to Federation and ship contacts."
+    },
+    {
+      "id": "src-87c8ba600ace-c02",
+      "assertion": "Mari says Alcyone Council represents Pleiades M45 and distanced itself from Federation intervention while pursuing military cooperation with the Urmah.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0023"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation",
+        "urmah-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Its members remained Federation members."
+    },
+    {
+      "id": "src-87c8ba600ace-c03",
+      "assertion": "Mari says Hyadeans on Merope are genetically identical to Urmah, whose homeworld Avyon orbits Vega.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "alcyone-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other account details about Federation conduct and astral exploitation omitted"
+  ]
+}

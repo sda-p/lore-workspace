@@ -1,0 +1,56 @@
+{
+  "source_id": "src-5ca9faa9c682",
+  "snapshot_sha256": "46339da53028293e6ff8aa2910a516b182c1357ee5a5363cf37bc7ff73e13071",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5ca9faa9c682-c01",
+      "assertion": "Mari Swa says a Taygetan destroyer missed required arrival notification, prompting two Alfratean Federation destroyers to intercept it; a Taygetan Alcyone-class battleship intervened with warning shots, and the Alfrateans withdrew.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "combat-doctrine",
+      "topics": [
+        "combat-doctrine",
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She reports this as an August 2024 incident near Earth."
+    },
+    {
+      "id": "src-5ca9faa9c682-c02",
+      "assertion": "Mari Swa says the Urmah flagship went to battle readiness under a mutual military-assistance treaty; a Federation representative later agreed the Alfrateans were too aggressive but asked Taygetan crews to follow arrival-notification protocol.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "urmah-federation",
+      "topics": [
+        "urmah-federation",
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "No further consequences were reported."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "This is a first-person, unverifiable account of an alleged armed confrontation in Earth orbit."
+  ],
+  "coverage_gaps": [
+    "The video also introduces Mari Swa's new assistant and contains unrelated medical conspiracy claims that are omitted."
+  ]
+}

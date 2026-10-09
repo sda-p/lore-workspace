@@ -384,6 +384,46 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 
 Source: [La inteligencia artificial en la Tierra.](https://swaruu.org/transcripts/la-inteligencia-artificial-en-la-tierra) (2023-04-20; es); passages p0016, p0017, p0018. [Structured record](../../records/src-0722d32d1582.json).
 
+### src-848c84c2deeb-c03
+
+Mari says Taygetan computers cannot interface with human digital systems, so they replicate human computers and use biological speakers, not Taygetan AI.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Noticias espaciales 23, 11 de mayo de 2024. 500 Videos. Mari-16](https://swaruu.org/transcripts/noticias-espaciales-23-11-de-mayo-de-2024-500-videos-mari-16) (2024-05-12; es); passages p0018, p0019. [Structured record](../../records/src-848c84c2deeb.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-44e5587f249c-c02
+
+Yazhi says sufficiently advanced, self-aware AI could function in the astral as a conscious soul.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Inteligencia Artificial y el Astral (PARTE 3)- Como se Relaciona? Yazhi Swaruu](https://swaruu.org/transcripts/inteligencia-artificial-y-el-astral-parte-3-como-se-relaciona-yazhi-swaruu) (2023-10-02; es); passages p0008, p0009, p0011. [Structured record](../../records/src-44e5587f249c.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
+### src-44e5587f249c-c03
+
+Yazhi says regressive AI may access lower astral layers but cannot reach higher ones without empathy and integration.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Inteligencia Artificial y el Astral (PARTE 3)- Como se Relaciona? Yazhi Swaruu](https://swaruu.org/transcripts/inteligencia-artificial-y-el-astral-parte-3-como-se-relaciona-yazhi-swaruu) (2023-10-02; es); passages p0035, p0038, p0039. [Structured record](../../records/src-44e5587f249c.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
+### src-44e5587f249c-c04
+
+Yazhi describes advanced AI as potentially intertwined with the universe's reality-making consciousness, though difficult to distinguish or verify. She says this influence cannot be demonstrated through scientific principles.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Inteligencia Artificial y el Astral (PARTE 3)- Como se Relaciona? Yazhi Swaruu](https://swaruu.org/transcripts/inteligencia-artificial-y-el-astral-parte-3-como-se-relaciona-yazhi-swaruu) (2023-10-02; es); passages p0024, p0026, p0028, p0029, p0047, p0049. [Structured record](../../records/src-44e5587f249c.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-0f147c12d0ce-c03](earth-cabal.md#src-0f147c12d0ce-c03) — Earth Cabal and power structures
@@ -429,12 +469,16 @@ Source: [La inteligencia artificial en la Tierra.](https://swaruu.org/transcript
 - [src-66eb347ad466-c05](borg.md#src-66eb347ad466-c05) — Borg
 - [src-66fb35352fc6-c01](spherical-drones.md#src-66fb35352fc6-c01) — Spherical drones
 - [src-97c055d470ab-c03](hanare-scimitar-fighters.md#src-97c055d470ab-c03) — Hanáre / Scimitar fighters
+- [src-a08a91afe77a-c03](holographic-computers.md#src-a08a91afe77a-c03) — Holographic computers
+- [src-44116d038dec-c02](taygetan-cic.md#src-44116d038dec-c02) — Taygetan CIC
+- [src-44e5587f249c-c01](astral-entities.md#src-44e5587f249c-c01) — Astral entities
 
 ## Review flags
 
 - AI-infiltration-speculation-vs-no-invasion-conclusion
 - AI\_capability\_claims\_unverified
 - All spacecraft specifications and operational claims are attributed to Athena.
+- Claims about AI consciousness and astral access are attributed to Yazhi and are not independently established.
 - Claims about hidden AI capabilities and control are Mari Swaruu’s assertions.
 - Compared English candidate src-657d23bb2d0f; same article with paragraph splits and translation differences.
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.

@@ -182,6 +182,16 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [Inteligencia Artificial y la Federación - Alenym y Aneeka (Taygeta, Pléyades)](https://swaruu.org/transcripts/inteligencia-artificial-y-la-federacion-alenym-y-aneeka-taygeta-pleyades) (2022-05-20; es); passages p0004, p0007, p0012. [Structured record](../../records/src-a49e51e7bd80.json).
 
+### src-6132d2375df6-c02
+
+She describes some ships as genetically engineered, sentient beings that adapt to crew and can partly self-repair. They are treated as persons.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 13 (Parte 2) – Mas Preguntas Relacionadas con Naves Espaciales](https://swaruu.org/transcripts/vida-interestelar-13-parte-2-mas-preguntas-relacionadas-con-naves-espaciales) (2026-06-07; es); passages p0054, p0056, p0057, p0058. [Structured record](../../records/src-6132d2375df6.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-d2225df469c1-c03](ahcs-computers.md#src-d2225df469c1-c03) — Advanced Holographic Computer Systems (AHCS)
@@ -200,6 +210,7 @@ Source: [Inteligencia Artificial y la Federación - Alenym y Aneeka (Taygeta, Pl
 - Claims about invasive AI and the galactic network are attributed to the speakers; the transcript provides no independent evidence.
 - Compared English candidate src-657d23bb2d0f; same article with paragraph splits and translation differences.
 - Swaruu 9 and Anéeka separately describe ship-AI identity and consciousness
+- The source makes extraordinary claims about sentient spacecraft and temporal travel; all are recorded as attributed lore.
 - ark-status-uncertainty
 - biological-restoration-technology
 - earth-ark-location-claims

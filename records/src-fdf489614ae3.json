@@ -1,0 +1,36 @@
+{
+  "source_id": "src-fdf489614ae3",
+  "snapshot_sha256": "0696b2b41c903e31daefc4dd3228a57f413eaf06308f5ca8605a671d4b206e56",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fdf489614ae3-c01",
+      "assertion": "Swaruu says Gosia may identify with Yena or Taygetan groups while remaining a larger consciousness beyond any single species identity.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": ["p0004", "p0005", "p0006", "p0086", "p0149", "p0151"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "lyran-expansion"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The dialogue presents identity labels as partial and chosen."
+    },
+    {
+      "id": "src-fdf489614ae3-c02",
+      "assertion": "Swaruu describes immersion as entering a human experience through technology and says one consciousness may operate in two bodies simultaneously.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": ["p0091", "p0093", "p0103", "p0105", "p0051"],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": ["extraterrestrial-contact", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She describes this as her account of immersion experiences."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The long dialogue makes unverified claims about extraterrestrial identity, immersion, and consciousness."
+  ],
+  "coverage_gaps": [
+    "It also includes detailed personal claims about a participant’s alleged identity, age, relationships, and life plans."
+  ]
+}

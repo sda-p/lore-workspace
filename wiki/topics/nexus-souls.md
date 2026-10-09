@@ -224,6 +224,8 @@ Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
 - [src-0c64b4d8967b-c03](reincarnation-cycles.md#src-0c64b4d8967b-c03) — Reincarnation and karmic cycles
 - [src-cdc082ef32a2-c03](soulmates.md#src-cdc082ef32a2-c03) — Soulmates
 - [src-18f0726037ac-c01](memory-veil.md#src-18f0726037ac-c01) — Memory Veil
+- [src-4603aaa764e8-c01](reincarnation-cycles.md#src-4603aaa764e8-c01) — Reincarnation and karmic cycles
+- [src-4603aaa764e8-c03](reincarnation-cycles.md#src-4603aaa764e8-c03) — Reincarnation and karmic cycles
 
 ## Review flags
 
@@ -231,4 +233,5 @@ Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
 - Claims about concurrent lives and nexus beings are attributed to Yazhi.
 - Kassia’s message is written and prepared for publication by Mari Swaruu.
 - The source combines separate April 2021 and 2023 excerpts; speakers are attributed by passage.
+- The source says names were changed; the identity claims are the narrator's account of private crew cases.
 - entertainment-disclaimer

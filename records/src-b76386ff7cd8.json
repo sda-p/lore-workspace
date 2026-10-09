@@ -1,0 +1,107 @@
+{
+  "source_id": "src-b76386ff7cd8",
+  "snapshot_sha256": "3be130bef7fc1a01538c7021d72aea4a867084727d334ffc79147574cad17a4b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b76386ff7cd8-c01",
+      "assertion": "Mari Swa says the Pleiades have eleven civilizations; Taygetans occupy four planets and are Lyrian-humanlike Federation members.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0017"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "lyrians",
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b76386ff7cd8-c02",
+      "assertion": "She says Andromedans, Arcturians, and Lyrians founded the Federation; Andromedan ship Viera is its local headquarters.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0058",
+        "p0059"
+      ],
+      "primary_topic": "andromedans",
+      "topics": [
+        "andromedans",
+        "galactic-federation",
+        "viera",
+        "moon-biosphere-ship"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b76386ff7cd8-c03",
+      "assertion": "She says Antarians and Centauri belong to the Federation, while Ummites and Karistus do not.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0034",
+        "p0039",
+        "p0044",
+        "p0047"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "antarians",
+        "alien-species",
+        "ummite-civilization",
+        "karistus"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b76386ff7cd8-c04",
+      "assertion": "She says reptilians range from animal-like forms to alpha Draconians, with both hostile and peaceful varieties.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0109",
+        "p0111"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians",
+        "alpha-draconians",
+        "reptilian-invaders"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b76386ff7cd8-c05",
+      "assertion": "She says many extraterrestrial races protect humanity discreetly but generally avoid solving human problems, amid debate over intervention.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0116",
+        "p0117"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "The overview also describes many individual species, physical traits, home systems, and historical claims."
+  ]
+}

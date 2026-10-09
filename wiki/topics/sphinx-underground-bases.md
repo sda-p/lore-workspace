@@ -28,6 +28,10 @@ Source: [BASES EXTRATERRESTRES ABANDONADAS BAJO LA ESFINGE DE EGIPTO.](https://s
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+## Claims filed under other topics
+
+- [src-a431c798e8b4-c03](eden-escape.md#src-a431c798e8b4-c03) — Eden Escape
+
 ## Review flags
 
 - ancient-site-claims-attributed

@@ -48,6 +48,24 @@ Source: [Formación de una matrix](https://swaruu.org/transcripts/formacion-de-u
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-cd32d005f67d-c01
+
+Swaruu (9) alleges Olympic and Titanic were switched and the Titanic was scuttled to remove Federal Reserve opponents and claim insurance. She presents this as her interpretation of events.
+
+Attributed to **Swaruu (9)**; speculative; extraction confidence: high.
+
+Source: [Titanic - Como se Hundió? Swaruu de Erra habla con Dale Harder](https://swaruu.org/transcripts/titanic-como-se-hundio-swaruu-de-erra-habla-con-dale-harder) (2023-11-29; es); passages p0017, p0018, p0022, p0038. [Structured record](../../records/src-cd32d005f67d.json).
+
+Related topics: [Civilizational resets](civilizational-resets.md).
+
+### src-cd32d005f67d-c02
+
+Swaruu (9) claims that after an iceberg scrape, Captain Smith opened keel valves to sink the ship uniformly; opponents of the Federal Reserve were killed.
+
+Attributed to **Swaruu (9)**; speculative; extraction confidence: high.
+
+Source: [Titanic - Como se Hundió? Swaruu de Erra habla con Dale Harder](https://swaruu.org/transcripts/titanic-como-se-hundio-swaruu-de-erra-habla-con-dale-harder) (2023-11-29; es); passages p0028, p0029, p0030. [Structured record](../../records/src-cd32d005f67d.json).
+
 ## Claims filed under other topics
 
 - [src-598faa62de95-c01](galactic-federation.md#src-598faa62de95-c01) — Galactic Federation

@@ -76,6 +76,16 @@ Source: [Conflicto en Ucrania - Porque ? Comentarios de Athena Swaruu (X)](https
 
 Related topics: [Ukraine](ukraine.md), [Energy generation technology](energy-generation.md).
 
+### src-c3be419397ba-c02
+
+Mari says the hidden elite use deep underground bases linked by high-speed trains and portals, including routes to Federation ports in Antarctica. These are her claims about concealed infrastructure.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Las Élites Planean Abandonar la Tierra](https://swaruu.org/transcripts/las-elites-planean-abandonar-la-tierra) (2023-09-30; es); passages p0024, p0025. [Structured record](../../records/src-c3be419397ba.json).
+
+Related topics: [Artificial portals](artificial-portals.md), [Antarctic Federation bases](antarctica-federation-bases.md).
+
 ## Claims filed under other topics
 
 - [src-3556f3ec008f-c01](sphinx-underground-bases.md#src-3556f3ec008f-c01) — Sphinx Underground Bases
@@ -90,6 +100,8 @@ Related topics: [Ukraine](ukraine.md), [Energy generation technology](energy-gen
 - [src-ec6c591d861f-c02](ukraine.md#src-ec6c591d861f-c02) — Ukraine
 - [src-9fb50ae5b7f5-c03](subterranean-ocean-networks.md#src-9fb50ae5b7f5-c03) — Subterranean ocean networks
 - [src-f3083d830387-c02](reptilian-invaders.md#src-f3083d830387-c02) — Reptilian invaders
+- [src-936377231cd6-c01](kingu.md#src-936377231cd6-c01) — Kingu
+- [src-9111b6efe5ee-c02](starship-systems.md#src-9111b6efe5ee-c02) — Starship systems
 
 ## Review flags
 
@@ -104,9 +116,11 @@ Related topics: [Ukraine](ukraine.md), [Energy generation technology](energy-gen
 - frequency-and-harm-claims
 - hidden-inner-earth-entrance-claim
 - limited-evidence-extraction-account
+- p0007 gives contradictory Kingu–Usungal origin accounts.
 - rescue-count-uncertain
 - secret-space-program-claims
 - security-claims-attributed
+- source advances unsupported conspiracy claims about hidden elites, secret space travel, and subterranean portal networks
 - translated-originally-Spanish
 - ukraine-war-conspiracy-claims-attributed
 - wartime-conspiracy-claims

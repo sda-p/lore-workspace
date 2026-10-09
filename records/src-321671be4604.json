@@ -1,0 +1,92 @@
+{
+  "source_id": "src-321671be4604",
+  "snapshot_sha256": "e4fae63101edb5b0f17f8338abcf3a6e42565f9899481657cf2eb9383bab4afa",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-321671be4604-c01",
+      "assertion": "Mari says Solatians inhabit three planets orbiting Pleione and are active Galactic Federation members with an unofficial civilian presence near Earth.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "solatians",
+      "topics": [
+        "solatians",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-321671be4604-c02",
+      "assertion": "Mari describes Solatians as pale, tall, slender humanoids, distinct from the Tall Whites, with advanced spiritual and technological cultures.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0010",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "solatians",
+      "topics": [
+        "solatians",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-321671be4604-c03",
+      "assertion": "Mari says Solatians use telepathic soul projection to enter Earth starseeds temporarily, claiming prior-life consent and corrective aims.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "solatians",
+      "topics": [
+        "solatians",
+        "astral-travel",
+        "telepathic-channeling"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She contrasts this with allegedly unethical reptilian body occupation."
+    },
+    {
+      "id": "src-321671be4604-c04",
+      "assertion": "Mari says Solatian cities favor coastal island towers linked by maglev trains; their spacecraft are often disc-shaped.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013",
+        "p0014",
+        "p0021"
+      ],
+      "primary_topic": "solatians",
+      "topics": [
+        "solatians",
+        "starship-systems",
+        "disc-shaped-shuttles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about Solatians, telepathic projection, and starseed intervention are attributed to Mari and not independently established."
+  ],
+  "coverage_gaps": [
+    "their clothing and social appearance",
+    "diet and protection of cetaceans"
+  ]
+}

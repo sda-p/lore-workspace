@@ -1,0 +1,77 @@
+{
+  "source_id": "src-65adcbdf271b",
+  "snapshot_sha256": "989df510fefc40cb1da37ea4b6cdbf769f7a43a8941be841f52ff4fcd5763a8f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-65adcbdf271b-c01",
+      "assertion": "Yazhi claims three Arks: in Nevada's S-4, an underground Russian Antarctic Vostok base, and aboard Sadicleya.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "antarctica",
+      "topics": [
+        "antarctica",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-65adcbdf271b-c02",
+      "assertion": "Yazhi says their microscopes map molecules by frequency, like scanners that read objects for computer replication.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "frequency-microscopes",
+      "topics": [
+        "frequency-microscopes",
+        "replicators"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-65adcbdf271b-c03",
+      "assertion": "Athena says zero-point power removes any need to mine neutron stars for energy; minerals and materials are mined elsewhere.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "secret-space-program"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-65adcbdf271b-c04",
+      "assertion": "Athena says lunar phases are real sunlight reflections; the transparent lunar hologram overlays surface details on an almost featureless Moon.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "solar-system-objects"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other answers discuss AI use, lunar mass, string theory, solstice meditation, Mexico, space lighting, immersion bodies, and Hyades terminology."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_id": "src-0430f50a8534",
+  "snapshot_sha256": "24ee7d49b1dd3a718fb91ba475c6f13667e8da8bd4a250c1db501091cf08466d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0430f50a8534-c01",
+      "assertion": "Mari Swa says she cannot know what 3I/ATLAS is and argues its public narrative matters more than the object; she speculates it could test reactions or normalize extraterrestrial ideas, possibly serving a staged-invasion agenda.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0004", "p0005", "p0014", "p0015", "p0016", "p0023"],
+      "primary_topic": "false-alien-invasion",
+      "topics": ["false-alien-invasion", "extraterrestrial-contact"],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She presents these as possibilities and says she cannot determine the object's nature."
+    },
+    {
+      "id": "src-0430f50a8534-c02",
+      "assertion": "Swaruu de Erra says some early spacefaring civilizations hollow metallic asteroids and install engines and a cockpit, using the asteroid as a low-cost, impact-resistant, camouflaged craft.",
+      "speaker": "Swaruu de Erra, quoted by Mari Swa",
+      "paragraph_ids": ["p0022"],
+      "primary_topic": "solar-system-objects",
+      "topics": ["solar-system-objects", "starship-systems"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This general claim is not presented as identifying 3I/ATLAS."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source explicitly says the speakers cannot determine the object's nature and includes speculation about staged alien scenarios."
+  ],
+  "coverage_gaps": [
+    "The video also discusses alleged spacecraft traffic near Earth and questions the motives of NASA's public reporting."
+  ]
+}

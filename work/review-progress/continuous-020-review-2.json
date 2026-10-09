@@ -1,0 +1,100 @@
+{
+  "status": "partial-not-approval",
+  "checkpointed_at": "2026-10-09T05:38:33+00:00",
+  "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
+  "review_state": {
+    "batch_id": "continuous-020",
+    "reviewer": 2,
+    "reviewed_source_ids": [
+      "src-0c76e94a437f",
+      "src-b9d71dd88442",
+      "src-1be7c951727d",
+      "src-a91c2e17d4b8",
+      "src-309667cbe10f",
+      "src-f929113f2b30",
+      "src-9486adf569be",
+      "src-7e2d3128e0af",
+      "src-fdf489614ae3",
+      "src-2cbb8e402073",
+      "src-4ac5bfb36d51"
+    ],
+    "corrections": [
+      {
+        "source_id": "src-0c76e94a437f",
+        "claim_id": "src-0c76e94a437f-c01",
+        "problem": "The qualifier that the account derives from Taygetan sources was not supported by cited paragraph p0006 alone.",
+        "action": "Added p0065, where Gosia explains the compilation’s source and attribution.",
+        "paragraph_ids": [
+          "p0065"
+        ]
+      },
+      {
+        "source_id": "src-b9d71dd88442",
+        "claim_id": "src-b9d71dd88442-c01",
+        "problem": "Initial review questioned “unconditional” without reading the cited passage context in full.",
+        "action": "After reading p0012, restored the explicit “no conditions” qualifier and added p0012 to citations; source further says support did not obligate them to continue sharing.",
+        "paragraph_ids": [
+          "p0010",
+          "p0011",
+          "p0012"
+        ]
+      },
+      {
+        "source_id": "src-309667cbe10f",
+        "claim_id": "src-309667cbe10f-c01",
+        "problem": "The qualifier that the five-day meditation was not intentional time travel lacked citations to the dialogue explaining the five-day absence and Yazhi’s denial of time travel.",
+        "action": "Added p0031 and p0035.",
+        "paragraph_ids": [
+          "p0031",
+          "p0035"
+        ]
+      },
+      {
+        "source_id": "src-9486adf569be",
+        "claim_id": "src-9486adf569be-c02",
+        "problem": "Citations did not directly support the points that extraction cannot remove external-life difficulties and can be used as an escapist rationale.",
+        "action": "Added p0024 and p0031 for those details.",
+        "paragraph_ids": [
+          "p0024",
+          "p0031"
+        ]
+      },
+      {
+        "source_id": "src-7e2d3128e0af",
+        "claim_id": "src-7e2d3128e0af-c05",
+        "problem": "The phrasing that AI “protects Taygeta” overstated the source, which describes a system safeguard that a rogue pilot nevertheless violated.",
+        "action": "Rephrased to distinguish programmed policy, the rogue pilot’s action and destruction of the craft, and the AI’s obedience to pilot orders.",
+        "paragraph_ids": [
+          "p0031",
+          "p0033"
+        ]
+      },
+      {
+        "source_id": "src-2cbb8e402073",
+        "claim_id": "src-2cbb8e402073-c02",
+        "problem": "The qualifier citing Yazhi’s later roof/weather description was not supported by c02 paragraph references.",
+        "action": "Added p0075 for the simulated sky lighting, weather tubes, wind generators, and cloud mechanisms.",
+        "paragraph_ids": [
+          "p0038",
+          "p0039",
+          "p0041",
+          "p0075"
+        ]
+      }
+    ],
+    "unresolved": []
+  },
+  "record_sha256": {
+    "src-0c76e94a437f": "37fb9ee64ce6153e55c7e9c52e8edfcd4dbdd4e323879d0a1cb176f3aac6682c",
+    "src-b9d71dd88442": "3af39486ea21e84deb77795f2d4411b73d6f44f4a83305a17f8b62948f76de6b",
+    "src-1be7c951727d": "972d3f9e1dc8fbb594cf73c028f5833fca1facc67b5947b361a071f9979783cf",
+    "src-a91c2e17d4b8": "b30c37fad4ace773f4a90b92fcd25359613c35efca760a2394610d8c4d9f4bc4",
+    "src-309667cbe10f": "be25196c112ff3c01694a9eaa265591c1e19b3f4485b592240a62a9da0ea314b",
+    "src-f929113f2b30": "1f89205c47e47d59aa94356a49b4bf00f2cb8f2ecf00cec88e86f0dd2c7c128b",
+    "src-9486adf569be": "9c5d47664949e05579d250e183f8d888f711f2ce8b37c8ffe8e5b3e4ce8504cb",
+    "src-7e2d3128e0af": "096acb89a73e8af07e42f04c8a5614aec54c01c4e94e35253b864f6fe015908c",
+    "src-fdf489614ae3": "f23275beef02787152f5ac4c74315ac5767335d4b8b294da2989a0301571c5f5",
+    "src-2cbb8e402073": "755a141f6d8d9f0c57114d01b97b01463bdacea2388a4fc938863156549611c2",
+    "src-4ac5bfb36d51": "3ad380058831400a2c9957f0c189ae033a8b87834516b8842f62c2ba55c91fd6"
+  }
+}

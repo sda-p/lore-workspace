@@ -1110,6 +1110,66 @@ Source: [PUMA PUNKU ANTIGUA BASE ESTELAR Y SUS PORTALES ESTELARES - Aneeka de Te
 
 Related topics: [Galactic Federation](galactic-federation.md), [Solar portal transit](solar-portal-transit.md).
 
+### src-e65d20a8cc55-c01
+
+Mari says natural portals form when the mathematical and energy patterns of distant locations coincide.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Portales Artificiales](https://swaruu.org/transcripts/portales-artificiales) (2024-04-14; es); passages p0005, p0008. [Structured record](../../records/src-e65d20a8cc55.json).
+
+Related topics: [Ether field](ether-field.md).
+
+### src-087c933f7059-c01
+
+Mari says a portal opens when a location’s changing mass, energy, frequency, and vibration values align with another place, remaining open until they diverge.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Portales, Principios Básicos](https://swaruu.org/transcripts/portales-principios-basicos) (2024-04-09; es); passages p0009, p0010, p0013. [Structured record](../../records/src-087c933f7059.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-087c933f7059-c02
+
+She says some locations naturally favor portals, which may open during strong astronomical events such as equinoxes or eclipses.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Portales, Principios Básicos](https://swaruu.org/transcripts/portales-principios-basicos) (2024-04-09; es); passages p0014, p0015. [Structured record](../../records/src-087c933f7059.json).
+
+Related topics: [Astrotheology](astrotheology.md).
+
+### src-087c933f7059-c03
+
+Mari says portals can connect times as well as places, and artificial portals can transport objects across either. She says more detail on artificial portals would follow.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Portales, Principios Básicos](https://swaruu.org/transcripts/portales-principios-basicos) (2024-04-09; es); passages p0018. [Structured record](../../records/src-087c933f7059.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-1fea626a42d3-c04
+
+Yazhi describes Hayu Marca as a heavily used ley-line portal, likely built by Elohi in Atlantis’s era. She describes Atlantean-era dating as probable.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Antiguo Egipto (2) - Homo Capensis - Presencia Extraterrestre en la Tierra (Akhenaten/Nefertiti)](https://swaruu.org/transcripts/antiguo-egipto-2-homo-capensis-presencia-extraterrestre-en-la-tierra-akhenaten-nefertiti) (2025-02-02; es); passages p0043, p0044, p0046, p0048, p0050. [Structured record](../../records/src-1fea626a42d3.json).
+
+Related topics: [Elohi](elohi.md), [Atlantis and Lemuria](atlantis-lemuria.md).
+
+### src-599770c5705f-c03
+
+Athena interprets a seven-keyed Karnak feature as a marker for an interdimensional portal, using frequency matching; she suggests its doors may encode destinations or security levels. She offers alternative interpretations.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [Antiguo Egipto (5) - Misterios Egipcios - Preguntas (Athena Swaruu)](https://swaruu.org/transcripts/antiguo-egipto-5-misterios-egipcios-preguntas-athena-swaruu) (2025-03-18; es); passages p0047, p0048, p0050, p0051, p0052, p0054. [Structured record](../../records/src-599770c5705f.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c04](frequency-map-navigation.md#src-426ea469937a-c04) — Frequency-map navigation
@@ -1177,9 +1237,12 @@ Related topics: [Galactic Federation](galactic-federation.md), [Solar portal tra
 - [src-cadb5ca8cdb8-c04](astral-entities.md#src-cadb5ca8cdb8-c04) — Astral entities
 - [src-f81260545800-c01](ley-line-energy-nodes.md#src-f81260545800-c01) — Ley-line energy nodes
 - [src-46f3bf392b0e-c02](solar-portal-transit.md#src-46f3bf392b0e-c02) — Solar portal transit
+- [src-f0177a1a5739-c01](dimensional-mirroring.md#src-f0177a1a5739-c01) — Dimensional mirroring
 
 ## Review flags
 
+- Claims about particle accelerators as portals and entities crossing from the lower astral are attributed to Mari and not independently substantiated.
+- Claims about portals and mass-energy frequencies are attributed to Mari and not independently established.
 - Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems
 - English source src-9dba344806dc is a close translation of this article. It groups some Spanish paragraphs differently and explicitly labels the opening speaker as Swaruu (9); no substantive differences found.
 - Eye of Horus interpretation is attributed to Swaruu 9.
@@ -1189,6 +1252,8 @@ Related topics: [Galactic Federation](galactic-federation.md), [Solar portal tra
 - Snapshot is an unattributed compilation; claims are not assigned to a specific Swaruu speaker
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
 - The source presents spiritual and paranormal claims as fact; preserve attribution.
+- The speakers discuss an unverified paranormal phenomenon and explicitly offer multiple possible explanations.
+- The transcript gives several speculative ancient-history identifications; preserve speaker-specific attribution and uncertainty.
 - These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
 - Travel-time figures are speaker-provided examples and depend on vessel and route
 - ancient-history-reinterpretation

@@ -1,0 +1,74 @@
+{
+  "source_id": "src-bc06a6f6252f",
+  "snapshot_sha256": "e5faadf3a82b78e69f07ab926e2f463bd7e3d476f059da45486c3c7c5d7ab818",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bc06a6f6252f-c01",
+      "assertion": "Arishah rejects compulsory service-to-others, saying it enables abuse and suppresses individuality; Urmah teach personal development first, then helping from strength.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc06a6f6252f-c02",
+      "assertion": "Arishah says Alpha Draco societies vary: some exploit others, while positive groups protect species and cooperate with Urmah against regressive Dracos.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "orion-council",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc06a6f6252f-c03",
+      "assertion": "Arishah says Etorthans implant thoughts by exploiting self-doubt; Urmah’s strong ethical framework makes mind invasion difficult.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans",
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He doubts they could invade a Urmah mind."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about species, diplomacy, and telepathic influence are attributed to Arishah and not independently established."
+  ],
+  "coverage_gaps": [
+    "Urmah child-rearing and social mutual aid",
+    "Alpha Draco diplomatic ties and Federation’s claimed inability to stop regressives"
+  ]
+}

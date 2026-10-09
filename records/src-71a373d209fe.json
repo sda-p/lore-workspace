@@ -1,0 +1,98 @@
+{
+  "source_id": "src-71a373d209fe",
+  "snapshot_sha256": "18ec4cbd54f868139a0e17be6c6acba2d001900050254f8959798af4c15f0287",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-71a373d209fe-c01",
+      "assertion": "Swaruu (9) describes material identity as one fragment of an expanded self; consciousness shapes perceived matter, and death ends that focus.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008",
+        "p0009",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-71a373d209fe-c02",
+      "assertion": "Swaruu (9) says actions in Earth’s duality create opposites, while lasting change requires inner change rather than force.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0028"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "individual-ascension"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-71a373d209fe-c03",
+      "assertion": "Yazhi says humans collectively choose Earth’s dynamic; individual change can shift collective timelines, and helping is a chosen role.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0051",
+        "p0059",
+        "p0061",
+        "p0062",
+        "p0063",
+        "p0067"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-71a373d209fe-c04",
+      "assertion": "Yazhi says astral identities overlap and broader awareness loosens attachment to one body or name.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0071",
+        "p0076",
+        "p0080",
+        "p0082",
+        "p0083"
+      ],
+      "primary_topic": "astral-travel",
+      "topics": [
+        "astral-travel",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Metaphysical claims about identity, duality, collective timelines, and astral experience reflect the speakers’ views."
+  ],
+  "coverage_gaps": [
+    "animal astral experiences",
+    "astral factions and alleged energy exchange"
+  ]
+}

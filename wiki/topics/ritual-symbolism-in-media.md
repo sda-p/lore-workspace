@@ -58,6 +58,26 @@ Source: [Apegos e Infestaciones, Parte 4, Bajo Astral, Ideas y Programación](ht
 
 Related topics: [Archons and demons](archons-and-demons.md).
 
+### src-a133017c5c8d-c01
+
+Mari says Cabal-controlled media and entertainment guide public beliefs and behavior, helping oligarchs shape the human Matrix and maintain control. Her account of media’s purpose.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Películas y Entidades Oscuras. El Contenido que ves define tu Mundo](https://swaruu.org/transcripts/peliculas-y-entidades-oscuras-el-contenido-que-ves-define-tu-mundo) (2024-03-05; es); passages p0003, p0008, p0009, p0010. [Structured record](../../records/src-a133017c5c8d.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-a133017c5c8d-c03
+
+Mari claims ritual-heavy films and games can normalize dark themes and grant entities access; knowingly rejecting their message may create an etheric barrier. She says this barrier has limits.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Películas y Entidades Oscuras. El Contenido que ves define tu Mundo](https://swaruu.org/transcripts/peliculas-y-entidades-oscuras-el-contenido-que-ves-define-tu-mundo) (2024-03-05; es); passages p0014, p0015, p0016, p0018, p0019, p0021, p0022. [Structured record](../../records/src-a133017c5c8d.json).
+
+Related topics: [Interdimensional parasites](interdimensional-parasites.md).
+
 ## Review flags
 
 - claims about Cabal symbols, surveillance, and nonhuman technology are attributed to Athena and unverified

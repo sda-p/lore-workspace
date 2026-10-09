@@ -1,0 +1,64 @@
+{
+  "source_id": "src-a4780c0314e5",
+  "snapshot_sha256": "239a99752ec91d6bdad817535cba31b213f85dafdf0f04d1c632e09430a15e10",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a4780c0314e5-c01",
+      "assertion": "Mari says her health problems include type 1 diabetes and damaged metabolism; Senetre treated her with custom stem cells and dry medical-pod sessions.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "medical-pods",
+      "topics": [
+        "medical-pods",
+        "taygetan-medicine"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is Mari’s account."
+    },
+    {
+      "id": "src-a4780c0314e5-c02",
+      "assertion": "Mari says she chose recurring dry-pod treatment over a two-month wet-pod restoration because she would not leave her Taygetan queen duties.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "medical-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4780c0314e5-c03",
+      "assertion": "Mari says Temmer time runs slower than Earth time at 4.6 to 1, delaying former Queen Alenym’s expected exit from a wet medical pod until around mid-2025 Earth time.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "medical-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her estimate was made in October 2024."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other discussion of her writing schedule, crew relations, and health omitted"
+  ]
+}
